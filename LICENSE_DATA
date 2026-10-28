@@ -1,0 +1,48 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 the authors of "Host relatedness constraints and transmission
+ecology are associated with the global structure of plant virus host ranges"
+
+You are free to:
+
+  Share  — copy and redistribute the material in any medium or format
+  Adapt  — remix, transform, and build upon the material for any purpose,
+           even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the licence terms.
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit to this repository, provide a
+                link to the licence, and indicate if changes were made.
+                See CITATION.cff for the recommended citation.
+  No additional restrictions — You may not apply legal terms or technological
+                measures that legally restrict others from doing anything the
+                licence permits.
+
+Notices:
+  No warranties are given. The licence may not give you all of the permissions
+  necessary for your intended use.
+Scope of this licence:
+  CC BY 4.0 covers what this project produced: the derived tables under
+  data/analysis_data/ and data/external_evidence/, the curated evidence content
+  assembled by the authors, the frozen supplementary tables under supplementary/,
+  and the original compilation and selection layer that defines the released
+  datasets.
+
+  It does NOT cover, and must not be read as covering, the upstream records these
+  tables are derived from. Records originating in NCBI Virus / GenBank,
+  Virus-Host DB, the Land Flora RNA virome compilation, VIP-DB, ICTV, EPPO and
+  FAO/IPPC remain under the terms set by those sources, and their native fields
+  are reproduced here only to the extent needed for the analysis to be
+  checkable. This repository does not redistribute the raw third-party dumps. If
+  you reuse a table, the upstream attribution requirements still apply to the
+  third-party portion — see docs/EXTERNAL_INPUTS.md, which lists each source,
+  its access date, the version used, and whether redistribution is permitted.
+
+  The manually curated evidence tables (data/external_evidence/) are the authors'
+  reading of official and literature sources. They are traceable, not
+  independently re-validated: each row points at its public source, and no claim
+  here should be cited as an experimental confirmation.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode

@@ -1,0 +1,13 @@
+virus_family	final_tree_tip_n	host_annotated_tip_n	host_family_universe_n	distinct_host_spectrum_n	total_possible_pair_n	tested_pair_n	permutations	pair_sampling_replicates	support_stratum_n	min_support_thresholds	status
+Geminiviridae	1604	1589	70	222	1261666	50000	999	100	5	2;3	PASS
+Caulimoviridae	188	186	52	60	17205	17205	999	1	5	2;3	PASS
+Alphaflexiviridae	236	236	61	71	27730	27730	999	1	5	2;3	PASS
+Betaflexiviridae	1066	1065	78	101	566580	50000	999	100	5	2;3	PASS
+Closteroviridae	255	255	45	47	32385	32385	999	1	5	2;3	PASS
+Mitoviridae	204	204	60	62	20706	20706	999	1	5	2;3	PASS
+Partitiviridae	361	361	98	101	64980	50000	999	100	5	2;3	PASS
+Potyviridae	915	912	81	134	415416	50000	999	100	5	2;3	PASS
+Rhabdoviridae	220	220	67	74	24090	24090	999	1	5	2;3	PASS
+Secoviridae	388	385	106	130	73920	50000	999	100	5	2;3	PASS
+Solemoviridae	247	247	55	65	30381	30381	999	1	5	2;3	PASS
+Tombusviridae	326	326	75	93	52975	50000	999	100	5	2;3	PASS

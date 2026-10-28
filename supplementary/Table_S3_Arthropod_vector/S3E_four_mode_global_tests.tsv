@@ -1,0 +1,4 @@
+test	outcome	statistic	p_value
+Kruskal-Wallis	host_family_n	17.3120757877394	0.000609606440276843
+Kruskal-Wallis	host_order_n	18.2069599143971	0.000398665667798014
+Kruskal-Wallis	max_host_taxonomic_distance	23.0846341771653	3.87754380121119e-05

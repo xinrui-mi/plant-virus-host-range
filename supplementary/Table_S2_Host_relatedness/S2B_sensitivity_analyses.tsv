@@ -1,0 +1,5 @@
+scenario	beta_median_or_estimate	q025	q975	replicates
+Randomly retained 70% of host nodes	-1.19618701279424	-1.24785807048047	-1.14511402202433	50
+Randomly retained 70% of virus nodes	-1.18216260908208	-1.36994952784287	-1.12355648810512	50
+Excluded top 1% highest-degree host nodes	-1.27030977643409			1
+Excluded top 1% highest-degree virus nodes	-1.50536888502228			1

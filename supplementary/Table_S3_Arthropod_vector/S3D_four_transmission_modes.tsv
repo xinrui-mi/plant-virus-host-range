@@ -1,0 +1,5 @@
+fine4_mode	virus_taxid_n	host_family_median	host_order_median	max_distance_median	VC80_support_median
+Semi-persistent	32	1	1	2	6.5
+Persistent non-propagative	274	1	1	1	2
+Persistent propagative	57	1	1	2	5
+Non-persistent	29	2	2	4	11

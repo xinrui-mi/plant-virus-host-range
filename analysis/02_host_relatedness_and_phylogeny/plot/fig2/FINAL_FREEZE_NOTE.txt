@@ -1,0 +1,28 @@
+Fig.2 publication visualization V3.
+No scientific analysis is rerun by this package.
+All beta/rho/interval/FDR values are read from frozen final result tables.
+All 12 trees are read from the frozen final 03K 12-family tree output.
+Tree host annotations are resolved only from existing final 03K/03L result TSVs,
+using actual overlap with final tree-tip labels; no legacy best-looking-tree fallback.
+
+V3.1 does not refit models, rerun permutations, rebuild trees, or recompute host-spectrum statistics.
+Host-order set handling is visualization-only: singleton set -> named order; multi-order set -> Other.
+
+V3.2: tree endpoint colours use a visualization-only host_taxid -> host_order lookup
+from the frozen Stage-20 association master because the final 03K tree-tip table does
+not store host_order. Host-family breadth remains the final 03K host_family_n.
+No inferential analysis or tree inference is rerun.
+
+V3.3: deterministic final host-spectrum path resolution; no analytical change.
+
+V4: layout and typography revision only; no analytical rerun.
+
+V5: layout refinement and legend styling only; no analytical rerun.
+
+V6: C/D visual redesign only; no analytical rerun.
+
+V7: redesigned main-figure family-level layout only; no analytical rerun.
+
+V8: redesign of the main family-level panel only; no analytical rerun.
+
+V10: redesigned main family-level panel to paired beta forest + aligned rho dot plot; no analytical rerun.

@@ -1,0 +1,4 @@
+segment	matched_isolate_n	alignment_nt_length	treefile
+L	120	8911	data/analysis_data/phylogeny/TSWV/L.treefile
+M	120	4765	data/analysis_data/phylogeny/TSWV/M.treefile
+S	120	2975	data/analysis_data/phylogeny/TSWV/S.treefile

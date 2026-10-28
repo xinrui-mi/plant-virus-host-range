@@ -1,0 +1,96 @@
+transmission_group	virus_family	virus_taxid_n	group_fraction
+No documented vector relationship	Geminiviridae	1178	0.232347140039448
+No documented vector relationship	Potyviridae	474	0.093491124260355
+No documented vector relationship	Tolecusatellitidae	316	0.06232741617357
+No documented vector relationship	Betaflexiviridae	307	0.0605522682445759
+No documented vector relationship	Secoviridae	257	0.0506903353057199
+No documented vector relationship	Tombusviridae	204	0.0402366863905325
+No documented vector relationship	Rhabdoviridae	200	0.0394477317554241
+No documented vector relationship	Alphasatellitidae	189	0.0372781065088757
+No documented vector relationship	Partitiviridae	183	0.036094674556213
+No documented vector relationship	Solemoviridae	177	0.0349112426035503
+No documented vector relationship	Caulimoviridae	163	0.0321499013806706
+No documented vector relationship	Mitoviridae	113	0.0222879684418146
+No documented vector relationship	Alphaflexiviridae	112	0.0220907297830375
+No documented vector relationship	Closteroviridae	109	0.0214990138067061
+No documented vector relationship	Virgaviridae	102	0.0201183431952663
+No documented vector relationship	Amalgaviridae	93	0.0183431952662722
+No documented vector relationship	Tymoviridae	82	0.0161735700197239
+No documented vector relationship	Bromoviridae	81	0.0159763313609467
+No documented vector relationship	Botourmiaviridae	80	0.0157790927021696
+No documented vector relationship	Fiersviridae	78	0.0153846153846154
+No documented vector relationship	Phycodnaviridae	70	0.0138067061143984
+No documented vector relationship	Genomoviridae	62	0.0122287968441815
+No documented vector relationship	Endornaviridae	51	0.0100591715976331
+No documented vector relationship	Fimoviridae	47	0.00927021696252466
+No documented vector relationship	Kitaviridae	43	0.00848126232741617
+No documented vector relationship	Phenuiviridae	38	0.00749506903353057
+No documented vector relationship	Tospoviridae	29	0.00571992110453649
+No documented vector relationship	Orthototiviridae	26	0.00512820512820513
+No documented vector relationship	Aspiviridae	21	0.00414201183431953
+No documented vector relationship	Steitzviridae	15	0.0029585798816568
+No documented vector relationship	Mymonaviridae	11	0.00216962524654832
+No documented vector relationship	Konkoviridae	11	0.00216962524654832
+No documented vector relationship	Benyviridae	10	0.0019723865877712
+No documented vector relationship	Nanoviridae	9	0.00177514792899408
+No documented vector relationship	Mayoviridae	9	0.00177514792899408
+No documented vector relationship	Flaviviridae	9	0.00177514792899408
+No documented vector relationship	Nodaviridae	9	0.00177514792899408
+No documented vector relationship	Geplanaviridae	7	0.00138067061143984
+No documented vector relationship	Deltaflexiviridae	7	0.00138067061143984
+No documented vector relationship	Ourmiaviridae	7	0.00138067061143984
+No documented vector relationship	Tonesaviridae	6	0.00118343195266272
+No documented vector relationship	Parvoviridae	6	0.00118343195266272
+No documented vector relationship	Solspiviridae	6	0.00118343195266272
+No documented vector relationship	Atkinsviridae	6	0.00118343195266272
+No documented vector relationship	Chrysoviridae	5	0.000986193293885602
+No documented vector relationship	Spinareoviridae	5	0.000986193293885602
+No documented vector relationship	Peribunyaviridae	4	0.000788954635108481
+No documented vector relationship	Allomimiviridae	4	0.000788954635108481
+No documented vector relationship	Microviridae	4	0.000788954635108481
+No documented vector relationship	Oomyviridae	4	0.000788954635108481
+No documented vector relationship	Tomosaviridae	2	0.000394477317554241
+No documented vector relationship	Amesuviridae	2	0.000394477317554241
+No documented vector relationship	Circoviridae	2	0.000394477317554241
+No documented vector relationship	Togaviridae	2	0.000394477317554241
+No documented vector relationship	Fusariviridae	2	0.000394477317554241
+No documented vector relationship	Ouroboviridae	2	0.000394477317554241
+No documented vector relationship	Kanorauviridae	2	0.000394477317554241
+No documented vector relationship	Spiciviridae	1	0.00019723865877712
+No documented vector relationship	Metaxyviridae	1	0.00019723865877712
+No documented vector relationship	Retroviridae	1	0.00019723865877712
+No documented vector relationship	Fusagraviridae	1	0.00019723865877712
+No documented vector relationship	Autoscriptoviridae	1	0.00019723865877712
+No documented vector relationship	Mesoniviridae	1	0.00019723865877712
+No documented vector relationship	Nenyaviridae	1	0.00019723865877712
+No documented vector relationship	Gammaflexiviridae	1	0.00019723865877712
+No documented vector relationship	Artoviridae	1	0.00019723865877712
+No documented vector relationship	Discoviridae	1	0.00019723865877712
+No documented vector relationship	Duinviridae	1	0.00019723865877712
+No documented vector relationship	Sedoreoviridae	1	0.00019723865877712
+No documented vector relationship	Polymycoviridae	1	0.00019723865877712
+No documented vector relationship	Mahapunaviridae	1	0.00019723865877712
+No documented vector relationship	Draupnirviridae	1	0.00019723865877712
+No documented vector relationship	Phypoliviridae	1	0.00019723865877712
+No documented vector relationship	Peduoviridae	1	0.00019723865877712
+Non-persistent	Potyviridae	21	0.724137931034483
+Non-persistent	Bromoviridae	4	0.137931034482759
+Non-persistent	Betaflexiviridae	2	0.0689655172413793
+Non-persistent	Tombusviridae	1	0.0344827586206897
+Non-persistent	Alphaflexiviridae	1	0.0344827586206897
+Semi-persistent	Closteroviridae	18	0.580645161290323
+Semi-persistent	Secoviridae	8	0.258064516129032
+Semi-persistent	Caulimoviridae	4	0.129032258064516
+Semi-persistent	Potyviridae	1	0.032258064516129
+Persistent non-propagative	Geminiviridae	235	0.857664233576642
+Persistent non-propagative	Solemoviridae	21	0.0766423357664234
+Persistent non-propagative	Tombusviridae	9	0.0328467153284672
+Persistent non-propagative	Secoviridae	4	0.0145985401459854
+Persistent non-propagative	Nanoviridae	4	0.0145985401459854
+Persistent non-propagative	Tymoviridae	1	0.00364963503649635
+Persistent propagative	Tospoviridae	29	0.508771929824562
+Persistent propagative	Rhabdoviridae	14	0.245614035087719
+Persistent propagative	Spinareoviridae	5	0.087719298245614
+Persistent propagative	Phenuiviridae	5	0.087719298245614
+Persistent propagative	Sedoreoviridae	2	0.0350877192982456
+Persistent propagative	Tymoviridae	2	0.0350877192982456

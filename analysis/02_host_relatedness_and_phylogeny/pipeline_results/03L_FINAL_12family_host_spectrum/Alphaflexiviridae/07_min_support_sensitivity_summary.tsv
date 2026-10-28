@@ -1,0 +1,3 @@
+virus_family	min_cluster_member_n	tip_n	total_possible_pair_n	tested_pair_n	sampling_mode	status	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Alphaflexiviridae	2	133	8778	8778	all_pairs	PASS	0.348882190460786	-0.00239981247207284	-0.0412966900379438	0.039115077589413	0.001	0.001	999
+Alphaflexiviridae	3	82	3321	3321	all_pairs	PASS	0.445487565813114	0.00122798341106633	-0.045983587177015	0.0520871538311773	0.001	0.001	999

@@ -1,0 +1,47 @@
+virus_genus	virus_n	mode_n	dominant_mode	consistency	mode_counts
+Begomovirus	232	1	persistent non-propagative	1	persistent non-propagative=232
+Orthotospovirus	35	1	persistent propagative	1	persistent propagative=35
+Polerovirus	18	1	persistent non-propagative	1	persistent non-propagative=18
+Potyvirus	17	1	non-persistent	1	non-persistent=17
+Crinivirus	10	1	semi-persistent	1	semi-persistent=10
+Mastrevirus	7	1	persistent non-propagative	1	persistent non-propagative=7
+Luteovirus	7	1	persistent non-propagative	1	persistent non-propagative=7
+Alphanucleorhabdovirus	7	1	persistent propagative	1	persistent propagative=7
+Fijivirus	5	1	persistent propagative	1	persistent propagative=5
+Cytorhabdovirus	5	1	persistent propagative	1	persistent propagative=5
+Unclassified	5	2	persistent non-propagative	0.8	persistent non-propagative=4;semi-persistent=1
+Tenuivirus	5	1	persistent propagative	1	persistent propagative=5
+Phytoreovirus	4	1	persistent propagative	1	persistent propagative=4
+Closterovirus	4	1	semi-persistent	1	semi-persistent=4
+Comovirus	4	1	persistent non-propagative	1	persistent non-propagative=4
+Ipomovirus	4	2	non-persistent	0.75	non-persistent=3;semi-persistent=1
+Ampelovirus	3	1	semi-persistent	1	semi-persistent=3
+Nanovirus	3	1	persistent non-propagative	1	persistent non-propagative=3
+Torradovirus	3	1	semi-persistent	1	semi-persistent=3
+Curtovirus	2	1	persistent non-propagative	1	persistent non-propagative=2
+Betanucleorhabdovirus	2	1	persistent propagative	1	persistent propagative=2
+Cucumovirus	2	1	non-persistent	1	non-persistent=2
+Badnavirus	2	1	semi-persistent	1	semi-persistent=2
+Waikavirus	2	1	semi-persistent	1	semi-persistent=2
+Umbravirus	2	1	persistent non-propagative	1	persistent non-propagative=2
+Marafivirus	2	1	persistent propagative	1	persistent propagative=2
+Carlavirus	2	1	non-persistent	1	non-persistent=2
+Enamovirus	2	1	persistent non-propagative	1	persistent non-propagative=2
+Caulimovirus	1	1	semi-persistent	1	semi-persistent=1
+Tungrovirus	1	1	semi-persistent	1	semi-persistent=1
+Machlomovirus	1	1	non-persistent	1	non-persistent=1
+Sobemovirus	1	1	persistent non-propagative	1	persistent non-propagative=1
+Tymovirus	1	1	persistent non-propagative	1	persistent non-propagative=1
+Potexvirus	1	1	non-persistent	1	non-persistent=1
+Nepovirus	1	1	semi-persistent	1	semi-persistent=1
+Alfamovirus	1	1	non-persistent	1	non-persistent=1
+Sequivirus	1	1	semi-persistent	1	semi-persistent=1
+Tritimovirus	1	1	non-persistent	1	non-persistent=1
+Oryzavirus	1	1	persistent propagative	1	persistent propagative=1
+Ilarvirus	1	1	non-persistent	1	non-persistent=1
+Gammanucleorhabdovirus	1	1	persistent propagative	1	persistent propagative=1
+Velarivirus	1	1	semi-persistent	1	semi-persistent=1
+Babuvirus	1	1	persistent non-propagative	1	persistent non-propagative=1
+Sadwavirus	1	1	semi-persistent	1	semi-persistent=1
+Eragrovirus	1	1	persistent non-propagative	1	persistent non-propagative=1
+Citlodavirus	1	1	persistent non-propagative	1	persistent non-propagative=1

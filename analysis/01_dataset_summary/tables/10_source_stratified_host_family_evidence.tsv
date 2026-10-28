@@ -1,0 +1,645 @@
+source_label_4way	host_family	association_n	unique_sequence_n	virus_family_n
+NCBI Virus + Virus-Host DB shared/coordinated	Solanaceae	861	582	27
+NCBI Virus + Virus-Host DB shared/coordinated	Caprifoliaceae	13	12	3
+NCBI Virus + Virus-Host DB shared/coordinated	Amaranthaceae	187	116	20
+NCBI Virus + Virus-Host DB shared/coordinated	Asteraceae	221	183	21
+NCBI Virus + Virus-Host DB shared/coordinated	Malvaceae	269	227	10
+NCBI Virus + Virus-Host DB shared/coordinated	Poaceae	455	183	22
+NCBI Virus + Virus-Host DB shared/coordinated	Oleaceae	40	33	11
+NCBI Virus + Virus-Host DB shared/coordinated	Verbenaceae	12	12	4
+NCBI Virus + Virus-Host DB shared/coordinated	Rutaceae	39	30	11
+NCBI Virus + Virus-Host DB shared/coordinated	Fabaceae	442	301	25
+NCBI Virus + Virus-Host DB shared/coordinated	Gentianaceae	8	8	4
+NCBI Virus + Virus-Host DB shared/coordinated	Dioscoreaceae	33	23	7
+NCBI Virus + Virus-Host DB shared/coordinated	Araceae	20	13	4
+NCBI Virus + Virus-Host DB shared/coordinated	Convolvulaceae	58	46	5
+NCBI Virus + Virus-Host DB shared/coordinated	Vitaceae	86	78	13
+NCBI Virus + Virus-Host DB shared/coordinated	Euphorbiaceae	72	67	11
+NCBI Virus + Virus-Host DB shared/coordinated	Caricaceae	35	33	7
+NCBI Virus + Virus-Host DB shared/coordinated	Cucurbitaceae	200	116	18
+NCBI Virus + Virus-Host DB shared/coordinated	Piperaceae	11	11	5
+NCBI Virus + Virus-Host DB shared/coordinated	Brassicaceae	57	48	13
+NCBI Virus + Virus-Host DB shared/coordinated	Rosaceae	204	144	18
+NCBI Virus + Virus-Host DB shared/coordinated	Chlorodendraceae	4	4	2
+NCBI Virus + Virus-Host DB shared/coordinated	Amaryllidaceae	48	47	9
+NCBI Virus + Virus-Host DB shared/coordinated	Chlorellaceae	10	7	1
+NCBI Virus + Virus-Host DB shared/coordinated	Acanthaceae	19	16	3
+NCBI Virus + Virus-Host DB shared/coordinated	Hypericaceae	2	2	1
+NCBI Virus + Virus-Host DB shared/coordinated	Crassulaceae	5	5	4
+NCBI Virus + Virus-Host DB shared/coordinated	Passifloraceae	20	17	5
+NCBI Virus + Virus-Host DB shared/coordinated	Apiaceae	37	32	10
+NCBI Virus + Virus-Host DB shared/coordinated	Ranunculaceae	10	10	5
+NCBI Virus + Virus-Host DB shared/coordinated	Caryophyllaceae	9	9	4
+NCBI Virus + Virus-Host DB shared/coordinated	Adoxaceae	18	11	3
+NCBI Virus + Virus-Host DB shared/coordinated	Liliaceae	11	9	3
+NCBI Virus + Virus-Host DB shared/coordinated	Alstroemeriaceae	7	7	2
+NCBI Virus + Virus-Host DB shared/coordinated	Asparagaceae	29	25	10
+NCBI Virus + Virus-Host DB shared/coordinated	Iridaceae	12	8	3
+NCBI Virus + Virus-Host DB shared/coordinated	Plantaginaceae	12	10	6
+NCBI Virus + Virus-Host DB shared/coordinated	Cactaceae	11	10	4
+NCBI Virus + Virus-Host DB shared/coordinated	Grossulariaceae	17	15	7
+NCBI Virus + Virus-Host DB shared/coordinated	Aizoaceae	6	6	2
+NCBI Virus + Virus-Host DB shared/coordinated	Ulmaceae	3	3	1
+NCBI Virus + Virus-Host DB shared/coordinated	Geraniaceae	8	8	3
+NCBI Virus + Virus-Host DB shared/coordinated	Apocynaceae	18	18	7
+NCBI Virus + Virus-Host DB shared/coordinated	Urticaceae	8	8	3
+NCBI Virus + Virus-Host DB shared/coordinated	Hydrangeaceae	2	2	2
+NCBI Virus + Virus-Host DB shared/coordinated	Cannabaceae	8	8	4
+NCBI Virus + Virus-Host DB shared/coordinated	Cornaceae	2	2	1
+NCBI Virus + Virus-Host DB shared/coordinated	Polemoniaceae	5	5	3
+NCBI Virus + Virus-Host DB shared/coordinated	Musaceae	34	18	4
+NCBI Virus + Virus-Host DB shared/coordinated	Onagraceae	5	4	2
+NCBI Virus + Virus-Host DB shared/coordinated	Thymelaeaceae	3	3	2
+NCBI Virus + Virus-Host DB shared/coordinated	Mamiellaceae	14	12	2
+NCBI Virus + Virus-Host DB shared/coordinated	Pedaliaceae	3	3	2
+NCBI Virus + Virus-Host DB shared/coordinated	Linderniaceae	4	4	3
+NCBI Virus + Virus-Host DB shared/coordinated	Orobanchaceae	4	4	4
+NCBI Virus + Virus-Host DB shared/coordinated	Scrophulariaceae	18	16	8
+NCBI Virus + Virus-Host DB shared/coordinated	Basellaceae	2	2	2
+NCBI Virus + Virus-Host DB shared/coordinated	Bathycoccaceae	7	7	1
+NCBI Virus + Virus-Host DB shared/coordinated	Orchidaceae	16	15	6
+NCBI Virus + Virus-Host DB shared/coordinated	Sapindaceae	10	10	4
+NCBI Virus + Virus-Host DB shared/coordinated	Lamiaceae	39	36	11
+NCBI Virus + Virus-Host DB shared/coordinated	Oxalidaceae	9	9	4
+NCBI Virus + Virus-Host DB shared/coordinated	Tropaeolaceae	2	2	2
+NCBI Virus + Virus-Host DB shared/coordinated	Primulaceae	2	2	1
+NCBI Virus + Virus-Host DB shared/coordinated	Cannaceae	3	3	2
+NCBI Virus + Virus-Host DB shared/coordinated	Araliaceae	4	4	3
+NCBI Virus + Virus-Host DB shared/coordinated	Ericaceae	25	15	9
+NCBI Virus + Virus-Host DB shared/coordinated	Cleomaceae	6	5	2
+NCBI Virus + Virus-Host DB shared/coordinated	Bromeliaceae	6	6	3
+NCBI Virus + Virus-Host DB shared/coordinated	Cyperaceae	3	3	2
+NCBI Virus + Virus-Host DB shared/coordinated	Moraceae	23	20	8
+NCBI Virus + Virus-Host DB shared/coordinated	Polygonaceae	10	6	3
+NCBI Virus + Virus-Host DB shared/coordinated	Nyctaginaceae	6	6	4
+NCBI Virus + Virus-Host DB shared/coordinated	Actinidiaceae	43	19	6
+NCBI Virus + Virus-Host DB shared/coordinated	Lauraceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Ebenaceae	6	6	5
+NCBI Virus + Virus-Host DB shared/coordinated	Phytolaccaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Papaveraceae	7	5	4
+NCBI Virus + Virus-Host DB shared/coordinated	Zingiberaceae	25	15	5
+NCBI Virus + Virus-Host DB shared/coordinated	Rubiaceae	6	4	3
+NCBI Virus + Virus-Host DB shared/coordinated	Dunaliellaceae	1	1	0
+NCBI Virus + Virus-Host DB shared/coordinated	Aquifoliaceae	5	5	3
+NCBI Virus + Virus-Host DB shared/coordinated	Phyllanthaceae	2	2	2
+NCBI Virus + Virus-Host DB shared/coordinated	Arecaceae	11	9	3
+NCBI Virus + Virus-Host DB shared/coordinated	Campanulaceae	4	4	3
+NCBI Virus + Virus-Host DB shared/coordinated	Balsaminaceae	4	4	2
+NCBI Virus + Virus-Host DB shared/coordinated	Juglandaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Zosteraceae	4	4	3
+NCBI Virus + Virus-Host DB shared/coordinated	Celastraceae	2	2	1
+NCBI Virus + Virus-Host DB shared/coordinated	Rhamnaceae	7	6	2
+NCBI Virus + Virus-Host DB shared/coordinated	Limeaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Juncaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Polygalaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Theaceae	25	25	7
+NCBI Virus + Virus-Host DB shared/coordinated	Betulaceae	2	2	2
+NCBI Virus + Virus-Host DB shared/coordinated	Hydrocharitaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Pinaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Melanthiaceae	4	4	2
+NCBI Virus + Virus-Host DB shared/coordinated	Anacardiaceae	9	9	2
+NCBI Virus + Virus-Host DB shared/coordinated	Violaceae	2	2	1
+NCBI Virus + Virus-Host DB shared/coordinated	Costaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Begoniaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Restionaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Salviniaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Garryaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Fagaceae	6	6	2
+NCBI Virus + Virus-Host DB shared/coordinated	Pyramimonadaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Meliaceae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Salicaceae	5	5	1
+NCBI Virus + Virus-Host DB shared/coordinated	Corynocarpaceae	5	5	1
+NCBI Virus + Virus-Host DB shared/coordinated	Viscaceae	4	4	0
+NCBI Virus + Virus-Host DB shared/coordinated	Schisandraceae	5	5	1
+NCBI Virus + Virus-Host DB shared/coordinated	Commelinaceae	1	1	1
+NCBI Virus only	Fabaceae	5900	5900	32
+NCBI Virus only	Vitaceae	4393	4393	29
+NCBI Virus only	Brassicaceae	1723	1723	22
+NCBI Virus only	Poaceae	8326	8326	40
+NCBI Virus only	Orobanchaceae	109	109	9
+NCBI Virus only	Amaryllidaceae	1493	1493	16
+NCBI Virus only	Rosaceae	6185	6185	28
+NCBI Virus only	Cucurbitaceae	3724	3724	27
+NCBI Virus only	Asparagaceae	290	290	19
+NCBI Virus only	Apocynaceae	176	176	19
+NCBI Virus only	Lamiaceae	462	462	22
+NCBI Virus only	Araceae	187	187	14
+NCBI Virus only	Apiaceae	521	521	25
+NCBI Virus only	Orchidaceae	209	209	22
+NCBI Virus only	Nymphaeaceae	4	4	2
+NCBI Virus only	Asteraceae	1710	1710	36
+NCBI Virus only	Pinaceae	22	22	8
+NCBI Virus only	Solanaceae	15943	15943	30
+NCBI Virus only	Iridaceae	286	286	14
+NCBI Virus only	Ericaceae	484	484	12
+NCBI Virus only	Capparaceae	6	6	2
+NCBI Virus only	Ranunculaceae	131	131	18
+NCBI Virus only	Scrophulariaceae	175	175	17
+NCBI Virus only	Amaranthaceae	867	867	24
+NCBI Virus only	Dilleniaceae	2	2	1
+NCBI Virus only	Crassulaceae	30	30	10
+NCBI Virus only	Commelinaceae	22	22	6
+NCBI Virus only	Liliaceae	263	263	14
+NCBI Virus only	Oleaceae	440	440	22
+NCBI Virus only	Malvaceae	3751	3751	18
+NCBI Virus only	Adoxaceae	75	75	5
+NCBI Virus only	Caryophyllaceae	187	187	14
+NCBI Virus only	Zosteraceae	8	8	3
+NCBI Virus only	Cannabaceae	185	185	14
+NCBI Virus only	Onagraceae	14	14	2
+NCBI Virus only	Euphorbiaceae	2910	2910	20
+NCBI Virus only	Caricaceae	645	645	17
+NCBI Virus only	Hydrangeaceae	30	30	7
+NCBI Virus only	Bignoniaceae	10	10	4
+NCBI Virus only	Phyllanthaceae	26	26	5
+NCBI Virus only	Piperaceae	389	389	17
+NCBI Virus only	Rutaceae	971	971	17
+NCBI Virus only	Moraceae	625	625	21
+NCBI Virus only	Rhamnaceae	69	69	5
+NCBI Virus only	Convolvulaceae	1421	1421	12
+NCBI Virus only	Arecaceae	104	104	8
+NCBI Virus only	Cyperaceae	37	37	12
+NCBI Virus only	Araliaceae	87	87	11
+NCBI Virus only	Polygonaceae	77	77	11
+NCBI Virus only	Geraniaceae	102	102	6
+NCBI Virus only	Ginkgoaceae	16	16	3
+NCBI Virus only	Verbenaceae	76	76	10
+NCBI Virus only	Melanthiaceae	57	57	12
+NCBI Virus only	Betulaceae	21	21	7
+NCBI Virus only	Musaceae	2507	2507	8
+NCBI Virus only	Nyctaginaceae	51	51	9
+NCBI Virus only	Zingiberaceae	1044	1044	10
+NCBI Virus only	Passifloraceae	468	468	16
+NCBI Virus only	Podostemaceae	1	1	1
+NCBI Virus only	Proteaceae	23	23	5
+NCBI Virus only	Urticaceae	70	70	10
+NCBI Virus only	Paeoniaceae	109	109	4
+NCBI Virus only	Garryaceae	8	8	3
+NCBI Virus only	Chlorellaceae	138	138	2
+NCBI Virus only	Myricaceae	18	18	3
+NCBI Virus only	Colchicaceae	9	9	2
+NCBI Virus only	Plumbaginaceae	13	13	4
+NCBI Virus only	Simaroubaceae	22	22	6
+NCBI Virus only	Campanulaceae	34	34	10
+NCBI Virus only	Lennoaceae	3	3	2
+NCBI Virus only	Phrymaceae	2	2	1
+NCBI Virus only	Cactaceae	219	219	8
+NCBI Virus only	Gesneriaceae	13	13	3
+NCBI Virus only	Paulowniaceae	2	2	1
+NCBI Virus only	Plantaginaceae	80	80	14
+NCBI Virus only	Polemoniaceae	53	53	6
+NCBI Virus only	Gentianaceae	106	106	8
+NCBI Virus only	Rubiaceae	25	25	9
+NCBI Virus only	Chlorodendraceae	23	23	3
+NCBI Virus only	Scenedesmaceae	36	36	0
+NCBI Virus only	Cupressaceae	13	13	5
+NCBI Virus only	Lauraceae	17	17	6
+NCBI Virus only	Fagaceae	34	34	8
+NCBI Virus only	Altingiaceae	4	4	1
+NCBI Virus only	Portulacaceae	12	12	4
+NCBI Virus only	Taxaceae	8	8	3
+NCBI Virus only	Ulmaceae	17	17	3
+NCBI Virus only	Podocarpaceae	12	12	4
+NCBI Virus only	Actinidiaceae	382	382	11
+NCBI Virus only	Ehretiaceae	1	1	1
+NCBI Virus only	Sapindaceae	25	25	7
+NCBI Virus only	Anacardiaceae	43	43	8
+NCBI Virus only	Myrtaceae	6	6	3
+NCBI Virus only	Chlamydomonadaceae	3	3	1
+NCBI Virus only	Alismataceae	13	13	5
+NCBI Virus only	Linderniaceae	10	10	6
+NCBI Virus only	Melastomataceae	5	5	4
+NCBI Virus only	Acanthaceae	82	82	12
+NCBI Virus only	Goodeniaceae	14	14	2
+NCBI Virus only	Elaeagnaceae	3	3	2
+NCBI Virus only	Basellaceae	33	33	8
+NCBI Virus only	Theaceae	679	679	12
+NCBI Virus only	Balanophoraceae	3	3	2
+NCBI Virus only	Nyssaceae	3	3	2
+NCBI Virus only	Hydrocharitaceae	9	9	3
+NCBI Virus only	Dioscoreaceae	232	232	9
+NCBI Virus only	Caprifoliaceae	55	55	11
+NCBI Virus only	Mamiellaceae	20	20	2
+NCBI Virus only	Nitrariaceae	3	3	2
+NCBI Virus only	Buxaceae	2	2	2
+NCBI Virus only	Pittosporaceae	21	21	6
+NCBI Virus only	Meliaceae	13	13	4
+NCBI Virus only	Papaveraceae	41	41	13
+NCBI Virus only	Lythraceae	18	18	5
+NCBI Virus only	Boraginaceae	6	6	3
+NCBI Virus only	Tamaricaceae	3	3	2
+NCBI Virus only	Polytrichaceae	2	2	1
+NCBI Virus only	Saururaceae	3	3	2
+NCBI Virus only	Diapensiaceae	2	2	1
+NCBI Virus only	Begoniaceae	11	11	5
+NCBI Virus only	Berberidopsidaceae	2	2	1
+NCBI Virus only	Dennstaedtiaceae	2	2	1
+NCBI Virus only	Salicaceae	131	131	8
+NCBI Virus only	Primulaceae	11	11	4
+NCBI Virus only	Pedaliaceae	18	18	6
+NCBI Virus only	Metzgeriaceae	1	1	1
+NCBI Virus only	Cornaceae	1	1	1
+NCBI Virus only	Sphagnaceae	2	2	1
+NCBI Virus only	Violaceae	27	27	8
+NCBI Virus only	Bromeliaceae	121	121	6
+NCBI Virus only	Cistaceae	2	2	1
+NCBI Virus only	Marchantiaceae	1	1	0
+NCBI Virus only	Muntingiaceae	6	6	2
+NCBI Virus only	Grossulariaceae	97	97	9
+NCBI Virus only	Phytolaccaceae	8	8	2
+NCBI Virus only	Cymodoceaceae	3	3	2
+NCBI Virus only	Cannaceae	55	55	4
+NCBI Virus only	Balsaminaceae	40	40	8
+NCBI Virus only	Juglandaceae	27	27	3
+NCBI Virus only	Plagiogyriaceae	1	1	1
+NCBI Virus only	Alstroemeriaceae	43	43	7
+NCBI Virus only	Aristolochiaceae	4	4	2
+NCBI Virus only	Hypericaceae	1	1	1
+NCBI Virus only	Ulvaceae	19	19	1
+NCBI Virus only	Malpighiaceae	3	3	1
+NCBI Virus only	Marantaceae	5	5	1
+NCBI Virus only	Welwitschiaceae	5	5	2
+NCBI Virus only	Oxalidaceae	29	29	5
+NCBI Virus only	Asphodelaceae	18	18	2
+NCBI Virus only	Annonaceae	11	11	1
+NCBI Virus only	Thymelaeaceae	16	16	6
+NCBI Virus only	Hydrophyllaceae	1	1	1
+NCBI Virus only	Linaceae	1	1	1
+NCBI Virus only	Bolbocoleonaceae	3	3	3
+NCBI Virus only	Calliergonaceae	4	4	0
+NCBI Virus only	Monocleaceae	2	2	1
+NCBI Virus only	Aphanochaetaceae	1	1	0
+NCBI Virus only	Lycopodiaceae	2	2	1
+NCBI Virus only	Mniaceae	1	1	0
+NCBI Virus only	Pottiaceae	1	1	0
+NCBI Virus only	Aulacomniaceae	5	5	0
+NCBI Virus only	Fontinalaceae	2	2	1
+NCBI Virus only	Aspleniaceae	2	2	1
+NCBI Virus only	Scapaniaceae	1	1	0
+NCBI Virus only	Prasiolaceae	1	1	1
+NCBI Virus only	Grimmiaceae	2	2	1
+NCBI Virus only	Zygnemataceae	1	1	1
+NCBI Virus only	Dicranaceae	1	1	0
+NCBI Virus only	Leucodontaceae	1	1	1
+NCBI Virus only	Calypogeiaceae	1	1	1
+NCBI Virus only	Pelliaceae	1	1	1
+NCBI Virus only	Neckeraceae	1	1	0
+NCBI Virus only	Pteridaceae	5	5	4
+NCBI Virus only	Selaginellaceae	3	3	1
+NCBI Virus only	Ptilidiaceae	2	2	1
+NCBI Virus only	Notothyladaceae	1	1	0
+NCBI Virus only	Pallaviciniaceae	2	2	1
+NCBI Virus only	Woodsiaceae	1	1	0
+NCBI Virus only	Desmidiaceae	1	1	1
+NCBI Virus only	Bataceae	1	1	1
+NCBI Virus only	Volvocaceae	1	1	1
+NCBI Virus only	Lonchitidaceae	2	2	1
+NCBI Virus only	Thyrsopteridaceae	2	2	1
+NCBI Virus only	Climaciaceae	1	1	0
+NCBI Virus only	Berberidaceae	16	16	7
+NCBI Virus only	Isoetaceae	1	1	1
+NCBI Virus only	Pandanaceae	3	3	2
+NCBI Virus only	Achariaceae	3	3	1
+NCBI Virus only	Pontederiaceae	21	21	7
+NCBI Virus only	Thesiaceae	2	2	1
+NCBI Virus only	Viscaceae	18	18	1
+NCBI Virus only	Pycnococcaceae	1	1	1
+NCBI Virus only	Polyblepharidaceae	2	2	1
+NCBI Virus only	Funariaceae	1	1	1
+NCBI Virus only	Smilacaceae	2	2	1
+NCBI Virus only	Icacinaceae	3	3	1
+NCBI Virus only	Schisandraceae	5	5	1
+NCBI Virus only	Lecythidaceae	1	1	0
+NCBI Virus only	Corynocarpaceae	5	5	1
+NCBI Virus only	Tropaeolaceae	11	11	4
+NCBI Virus only	Sarraceniaceae	3	3	1
+NCBI Virus only	Menyanthaceae	1	1	1
+NCBI Virus only	Celastraceae	6	6	2
+NCBI Virus only	Menispermaceae	1	1	1
+NCBI Virus only	Magnoliaceae	2	2	2
+NCBI Virus only	Bathycoccaceae	21	21	1
+NCBI Virus only	Aizoaceae	5	5	2
+NCBI Virus only	Kraftionemaceae	1	1	1
+NCBI Virus only	Ostreobiaceae	11	11	1
+NCBI Virus only	Pyramimonadaceae	14	14	1
+NCBI Virus only	Vochysiaceae	1	1	1
+NCBI Virus only	Ochnaceae	1	1	1
+NCBI Virus only	Eucommiaceae	2	2	1
+NCBI Virus only	Thelypteridaceae	1	1	0
+NCBI Virus only	Cycadaceae	1	1	1
+NCBI Virus only	Lygodiaceae	1	1	1
+NCBI Virus only	Aquifoliaceae	12	12	4
+NCBI Virus only	Petiveriaceae	2	2	1
+NCBI Virus only	Selenastraceae	1	1	0
+NCBI Virus only	Ebenaceae	14	14	6
+NCBI Virus only	Costaceae	1	1	1
+NCBI Virus only	Zygophyllaceae	3	3	2
+NCBI Virus only	Restionaceae	1	1	1
+NCBI Virus only	Salviniaceae	1	1	1
+NCBI Virus only	Juncaceae	1	1	1
+NCBI Virus only	Polygalaceae	1	1	1
+NCBI Virus only	Limeaceae	1	1	1
+NCBI Virus only	Cleomaceae	33	33	2
+NCBI Virus only	Nepenthaceae	3	3	1
+NCBI Virus only	Mazaceae	2	2	1
+NCBI Virus only	Elaeocarpaceae	1	1	1
+NCBI Virus only	Dunaliellaceae	1	1	0
+NCBI Virus only	Lentibulariaceae	1	1	1
+NCBI Virus only	Martyniaceae	1	1	1
+NCBI Virus only	Characeae	1	1	0
+NCBI Virus only	Combretaceae	2	2	1
+NCBI Virus only	Bryopsidaceae	1	1	1
+Virus-Host DB only	Actinidiaceae	1	1	1
+Virus-Host DB only	Euphorbiaceae	21	21	4
+Virus-Host DB only	Solanaceae	484	268	21
+Virus-Host DB only	Asteraceae	56	43	14
+Virus-Host DB only	Fabaceae	340	161	23
+Virus-Host DB only	Poaceae	364	164	21
+Virus-Host DB only	Amaryllidaceae	26	21	7
+Virus-Host DB only	Araceae	7	6	4
+Virus-Host DB only	Rosaceae	116	55	10
+Virus-Host DB only	Oleaceae	12	11	5
+Virus-Host DB only	Amaranthaceae	123	81	13
+Virus-Host DB only	Lamiaceae	11	11	4
+Virus-Host DB only	Asparagaceae	16	14	5
+Virus-Host DB only	Musaceae	23	13	4
+Virus-Host DB only	Basellaceae	2	2	2
+Virus-Host DB only	Bathycoccaceae	4	4	1
+Virus-Host DB only	Malvaceae	121	98	10
+Virus-Host DB only	Aizoaceae	5	5	5
+Virus-Host DB only	Brassicaceae	64	37	11
+Virus-Host DB only	Caryophyllaceae	26	19	7
+Virus-Host DB only	Cucurbitaceae	121	59	11
+Virus-Host DB only	Linaceae	1	1	1
+Virus-Host DB only	Montiaceae	4	4	2
+Virus-Host DB only	Vitaceae	31	28	6
+Virus-Host DB only	Apiaceae	24	12	5
+Virus-Host DB only	Liliaceae	17	17	6
+Virus-Host DB only	Grossulariaceae	2	2	1
+Virus-Host DB only	Orchidaceae	41	9	6
+Virus-Host DB only	Ericaceae	11	10	4
+Virus-Host DB only	Convolvulaceae	23	13	5
+Virus-Host DB only	Nyctaginaceae	2	2	1
+Virus-Host DB only	Acanthaceae	4	4	2
+Virus-Host DB only	Cactaceae	8	8	4
+Virus-Host DB only	Theaceae	1	1	1
+Virus-Host DB only	Begoniaceae	1	1	1
+Virus-Host DB only	Rutaceae	29	16	9
+Virus-Host DB only	Passifloraceae	3	3	3
+Virus-Host DB only	Cleomaceae	1	1	1
+Virus-Host DB only	Plumbaginaceae	1	1	1
+Virus-Host DB only	Arecaceae	3	3	2
+Virus-Host DB only	Campanulaceae	4	4	1
+Virus-Host DB only	Rubiaceae	3	3	2
+Virus-Host DB only	Commelinaceae	1	1	1
+Virus-Host DB only	Cycadaceae	2	2	1
+Virus-Host DB only	Garryaceae	2	2	1
+Virus-Host DB only	Iridaceae	8	6	3
+Virus-Host DB only	Moraceae	1	1	1
+Virus-Host DB only	Scrophulariaceae	2	2	2
+Virus-Host DB only	Gentianaceae	2	2	1
+Virus-Host DB only	Caprifoliaceae	1	1	1
+Virus-Host DB only	Cannabaceae	4	4	2
+Virus-Host DB only	Hydrangeaceae	5	5	3
+Virus-Host DB only	Betulaceae	4	2	1
+Virus-Host DB only	Balsaminaceae	5	5	2
+Virus-Host DB only	Dryopteridaceae	2	2	1
+Virus-Host DB only	Dioscoreaceae	4	2	1
+Virus-Host DB only	Apocynaceae	4	4	2
+Virus-Host DB only	Plantaginaceae	6	5	4
+Virus-Host DB only	Pedaliaceae	2	2	2
+Virus-Host DB only	Linderniaceae	1	1	1
+Virus-Host DB only	Berberidaceae	1	1	1
+Virus-Host DB only	Araliaceae	2	2	1
+Virus-Host DB only	Caricaceae	11	11	6
+Virus-Host DB only	Chlorellaceae	2	2	1
+Virus-Host DB only	Urticaceae	2	2	1
+Virus-Host DB only	Geraniaceae	6	6	2
+Virus-Host DB only	Violaceae	4	4	1
+Virus-Host DB only	Lauraceae	3	3	1
+Virus-Host DB only	Pinaceae	1	1	1
+Virus-Host DB only	Bromeliaceae	3	3	1
+Virus-Host DB only	Anacardiaceae	1	1	1
+Virus-Host DB only	Salicaceae	1	1	1
+Virus-Host DB only	Alstroemeriaceae	1	1	1
+Virus-Host DB only	Crassulaceae	1	1	1
+Virus-Host DB only	Cyperaceae	8	8	1
+Virus-Host DB only	Gesneriaceae	1	1	1
+Virus-Host DB only	Portulacaceae	2	2	1
+Virus-Host DB only	Cornaceae	2	2	1
+Virus-Host DB only	Asphodelaceae	2	2	1
+Virus-Host DB only	Ranunculaceae	2	2	1
+Virus-Host DB only	Thymelaeaceae	2	2	1
+Virus-Host DB only	Polemoniaceae	3	3	2
+Virus-Host DB only	Polygonaceae	1	1	1
+Virus-Host DB only	Cannaceae	3	3	1
+Virus-Host DB only	Saxifragaceae	1	1	1
+Land Flora RNA virome	Magnoliaceae	5	5	3
+Land Flora RNA virome	Podostemaceae	10	10	7
+Land Flora RNA virome	Poaceae	239	239	25
+Land Flora RNA virome	Orchidaceae	73	73	18
+Land Flora RNA virome	Asteraceae	283	283	26
+Land Flora RNA virome	Brassicaceae	54	54	17
+Land Flora RNA virome	Ericaceae	44	44	15
+Land Flora RNA virome	Nepenthaceae	13	13	7
+Land Flora RNA virome	Lamiaceae	76	76	14
+Land Flora RNA virome	Rosaceae	70	70	13
+Land Flora RNA virome	Boraginaceae	40	40	13
+Land Flora RNA virome	Amaranthaceae	53	53	17
+Land Flora RNA virome	Datiscaceae	6	6	4
+Land Flora RNA virome	Cucurbitaceae	11	11	9
+Land Flora RNA virome	Cornaceae	12	12	5
+Land Flora RNA virome	Betulaceae	17	17	6
+Land Flora RNA virome	Ranunculaceae	9	9	8
+Land Flora RNA virome	Arecaceae	32	32	9
+Land Flora RNA virome	Aponogetonaceae	3	3	2
+Land Flora RNA virome	Orobanchaceae	36	36	12
+Land Flora RNA virome	Caryophyllaceae	69	69	16
+Land Flora RNA virome	Plantaginaceae	21	21	6
+Land Flora RNA virome	Balsaminaceae	13	13	7
+Land Flora RNA virome	Theaceae	30	30	13
+Land Flora RNA virome	Asphodelaceae	3	3	2
+Land Flora RNA virome	Juncaginaceae	3	3	2
+Land Flora RNA virome	Aextoxicaceae	1	1	1
+Land Flora RNA virome	Coriariaceae	1	1	1
+Land Flora RNA virome	Gentianaceae	4	4	2
+Land Flora RNA virome	Primulaceae	16	16	9
+Land Flora RNA virome	Phellinaceae	3	3	2
+Land Flora RNA virome	Myristicaceae	1	1	1
+Land Flora RNA virome	Atherospermataceae	2	2	2
+Land Flora RNA virome	Ptilidiaceae	2	2	1
+Land Flora RNA virome	Taxaceae	4	4	3
+Land Flora RNA virome	Musaceae	12	12	6
+Land Flora RNA virome	Iridaceae	13	13	5
+Land Flora RNA virome	Zingiberaceae	5	5	4
+Land Flora RNA virome	Salicaceae	37	37	10
+Land Flora RNA virome	Sapindaceae	10	10	6
+Land Flora RNA virome	Berberidaceae	8	8	3
+Land Flora RNA virome	Apiaceae	22	22	7
+Land Flora RNA virome	Gesneriaceae	1	1	1
+Land Flora RNA virome	Asparagaceae	52	52	12
+Land Flora RNA virome	Smilacaceae	2	2	1
+Land Flora RNA virome	Liliaceae	7	7	4
+Land Flora RNA virome	Dioscoreaceae	8	8	1
+Land Flora RNA virome	Cymodoceaceae	2	2	2
+Land Flora RNA virome	Amaryllidaceae	59	59	11
+Land Flora RNA virome	Menispermaceae	8	8	4
+Land Flora RNA virome	Acanthaceae	4	4	2
+Land Flora RNA virome	Solanaceae	33	33	11
+Land Flora RNA virome	Cactaceae	9	9	2
+Land Flora RNA virome	Phyllanthaceae	1	1	1
+Land Flora RNA virome	Melastomataceae	5	5	3
+Land Flora RNA virome	Juglandaceae	10	10	5
+Land Flora RNA virome	Colchicaceae	3	3	2
+Land Flora RNA virome	Alismataceae	2	2	2
+Land Flora RNA virome	Hamamelidaceae	1	1	1
+Land Flora RNA virome	Crassulaceae	2	2	2
+Land Flora RNA virome	Stachyuraceae	1	1	1
+Land Flora RNA virome	Hydrangeaceae	2	2	2
+Land Flora RNA virome	Ophioglossaceae	3	3	2
+Land Flora RNA virome	Winteraceae	1	1	1
+Land Flora RNA virome	Araceae	4	4	2
+Land Flora RNA virome	Araliaceae	15	15	8
+Land Flora RNA virome	Lauraceae	19	19	7
+Land Flora RNA virome	Commelinaceae	5	5	4
+Land Flora RNA virome	Cyperaceae	2	2	1
+Land Flora RNA virome	Zygophyllaceae	2	2	2
+Land Flora RNA virome	Rutaceae	4	4	2
+Land Flora RNA virome	Vitaceae	31	31	6
+Land Flora RNA virome	Saxifragaceae	5	5	4
+Land Flora RNA virome	Simmondsiaceae	2	2	1
+Land Flora RNA virome	Fagaceae	49	49	7
+Land Flora RNA virome	Fabaceae	89	89	20
+Land Flora RNA virome	Lentibulariaceae	1	1	1
+Land Flora RNA virome	Paeoniaceae	5	5	3
+Land Flora RNA virome	Oleaceae	33	33	8
+Land Flora RNA virome	Moraceae	15	15	7
+Land Flora RNA virome	Caprifoliaceae	4	4	3
+Land Flora RNA virome	Euphorbiaceae	34	34	9
+Land Flora RNA virome	Nyctaginaceae	6	6	3
+Land Flora RNA virome	Melanthiaceae	7	7	6
+Land Flora RNA virome	Convolvulaceae	16	16	8
+Land Flora RNA virome	Cannabaceae	11	11	5
+Land Flora RNA virome	Oxalidaceae	2	2	1
+Land Flora RNA virome	Papaveraceae	13	13	7
+Land Flora RNA virome	Garryaceae	1	1	1
+Land Flora RNA virome	Proteaceae	3	3	1
+Land Flora RNA virome	Cupressaceae	16	16	5
+Land Flora RNA virome	Pinaceae	97	97	13
+Land Flora RNA virome	Ginkgoaceae	22	22	6
+Land Flora RNA virome	Dryopteridaceae	4	4	1
+Land Flora RNA virome	Makinoaceae	8	8	3
+Land Flora RNA virome	Lepidoziaceae	17	17	4
+Land Flora RNA virome	Leptodontaceae	4	4	1
+Land Flora RNA virome	Dicranaceae	30	30	4
+Land Flora RNA virome	Ulmaceae	15	15	3
+Land Flora RNA virome	Pedaliaceae	1	1	0
+Land Flora RNA virome	Anacardiaceae	9	9	4
+Land Flora RNA virome	Rubiaceae	7	7	3
+Land Flora RNA virome	Aquifoliaceae	1	1	0
+Land Flora RNA virome	Selaginellaceae	17	17	6
+Land Flora RNA virome	Combretaceae	1	1	0
+Land Flora RNA virome	Lecythidaceae	3	3	0
+Land Flora RNA virome	Thymelaeaceae	7	7	2
+Land Flora RNA virome	Dilleniaceae	2	2	1
+Land Flora RNA virome	Phytolaccaceae	1	1	0
+Land Flora RNA virome	Griseliniaceae	4	4	2
+Land Flora RNA virome	Pteridaceae	3	3	2
+Land Flora RNA virome	Hymenophyllaceae	1	1	0
+Land Flora RNA virome	Lycopodiaceae	7	7	2
+Land Flora RNA virome	Chloranthaceae	6	6	1
+Land Flora RNA virome	Timmiaceae	1	1	0
+Land Flora RNA virome	Tetraphidaceae	1	1	0
+Land Flora RNA virome	Takakiaceae	1	1	0
+Land Flora RNA virome	Pylaisiaceae	1	1	0
+Land Flora RNA virome	Plagiotheciaceae	2	2	0
+Land Flora RNA virome	Neckeraceae	7	7	3
+Land Flora RNA virome	Grimmiaceae	2	2	0
+Land Flora RNA virome	Diphysciaceae	1	1	0
+Land Flora RNA virome	Leucobryaceae	1	1	0
+Land Flora RNA virome	Ditrichaceae	1	1	0
+Land Flora RNA virome	Mniaceae	4	4	2
+Land Flora RNA virome	Scapaniaceae	2	2	0
+Land Flora RNA virome	Plagiochilaceae	2	2	0
+Land Flora RNA virome	Frullaniaceae	5	5	0
+Land Flora RNA virome	Cephaloziaceae	7	7	0
+Land Flora RNA virome	Polytrichaceae	3	3	1
+Land Flora RNA virome	Flatbergiaceae	3	3	1
+Land Flora RNA virome	Hypnaceae	2	2	0
+Land Flora RNA virome	Hydrophyllaceae	2	2	1
+Land Flora RNA virome	Linaceae	23	23	8
+Land Flora RNA virome	Polypodiaceae	3	3	2
+Land Flora RNA virome	Polygonaceae	6	6	4
+Land Flora RNA virome	Gnetaceae	1	1	0
+Land Flora RNA virome	Bataceae	1	1	0
+Land Flora RNA virome	Lindsaeaceae	3	3	2
+Land Flora RNA virome	Calycanthaceae	2	2	0
+Land Flora RNA virome	Capparaceae	4	4	3
+Land Flora RNA virome	Marattiaceae	2	2	1
+Land Flora RNA virome	Actinidiaceae	4	4	3
+Land Flora RNA virome	Araucariaceae	5	5	2
+Land Flora RNA virome	Violaceae	2	2	2
+Land Flora RNA virome	Myrtaceae	8	8	4
+Land Flora RNA virome	Marsileaceae	2	2	2
+Land Flora RNA virome	Calypogeiaceae	2	2	1
+Land Flora RNA virome	Cleomaceae	3	3	3
+Land Flora RNA virome	Loranthaceae	3	3	2
+Land Flora RNA virome	Podocarpaceae	4	4	2
+Land Flora RNA virome	Phrymaceae	5	5	5
+Land Flora RNA virome	Balanophoraceae	5	5	3
+Land Flora RNA virome	Viscaceae	7	7	6
+Land Flora RNA virome	Paulowniaceae	3	3	3
+Land Flora RNA virome	Velloziaceae	2	2	2
+Land Flora RNA virome	Apocynaceae	12	12	4
+Land Flora RNA virome	Bromeliaceae	3	3	2
+Land Flora RNA virome	Piperaceae	3	3	2
+Land Flora RNA virome	Vahliaceae	3	3	2
+Land Flora RNA virome	Urticaceae	6	6	4
+Land Flora RNA virome	Verbenaceae	2	2	2
+Land Flora RNA virome	Fouquieriaceae	7	7	1
+Land Flora RNA virome	Nyssaceae	9	9	2
+Land Flora RNA virome	Frankeniaceae	1	1	1
+Land Flora RNA virome	Climaciaceae	1	1	1
+Land Flora RNA virome	Aulacomniaceae	2	2	1
+Land Flora RNA virome	Thesiaceae	1	1	1
+Land Flora RNA virome	Passifloraceae	3	3	2
+Land Flora RNA virome	Altingiaceae	1	1	1
+Land Flora RNA virome	Malpighiaceae	1	1	1
+Land Flora RNA virome	Erythroxylaceae	2	2	2
+Land Flora RNA virome	Salviniaceae	1	1	1
+Land Flora RNA virome	Equisetaceae	2	2	1
+Land Flora RNA virome	Saururaceae	1	1	1
+Land Flora RNA virome	Zosteraceae	1	1	1
+Land Flora RNA virome	Juncaceae	1	1	1
+Land Flora RNA virome	Pandanaceae	1	1	1
+Land Flora RNA virome	Plumbaginaceae	3	3	2
+Land Flora RNA virome	Eupomatiaceae	1	1	1
+Land Flora RNA virome	Funariaceae	3	3	0
+Land Flora RNA virome	Bryaceae	1	1	0
+Land Flora RNA virome	Pottiaceae	1	1	0
+Land Flora RNA virome	Calliergonaceae	3	3	0
+Land Flora RNA virome	Brachytheciaceae	6	6	0
+Land Flora RNA virome	Hedwigiaceae	6	6	0
+Land Flora RNA virome	Pelliaceae	2	2	1
+Land Flora RNA virome	Pontederiaceae	1	1	1
+Land Flora RNA virome	Isoetaceae	2	2	2
+Land Flora RNA virome	Polemoniaceae	3	3	3
+Land Flora RNA virome	Scouleriaceae	1	1	1
+Land Flora RNA virome	Malvaceae	2	2	1
+Land Flora RNA virome	Woodsiaceae	1	1	0
+Land Flora RNA virome	Cynomoriaceae	5	5	2
+Land Flora RNA virome	Ebenaceae	2	2	2
+Land Flora RNA virome	Grossulariaceae	1	1	1
+Land Flora RNA virome	Portulacaceae	1	1	1
+Land Flora RNA virome	Oncothecaceae	1	1	1
+Land Flora RNA virome	Adoxaceae	1	1	1
+Land Flora RNA virome	Loasaceae	1	1	1
+Land Flora RNA virome	Campanulaceae	1	1	1
+Land Flora RNA virome	Begoniaceae	2	2	1
+Land Flora RNA virome	Elaeocarpaceae	3	3	1
+Land Flora RNA virome	Diapensiaceae	1	1	1
+Land Flora RNA virome	Escalloniaceae	2	2	1
+Land Flora RNA virome	Lonchitidaceae	1	1	1
+Land Flora RNA virome	Cannaceae	1	1	1
+Land Flora RNA virome	Posidoniaceae	1	1	0
+Land Flora RNA virome	Onagraceae	1	1	0

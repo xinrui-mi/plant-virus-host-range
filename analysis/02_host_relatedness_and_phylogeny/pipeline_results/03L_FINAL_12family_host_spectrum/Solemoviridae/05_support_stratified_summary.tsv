@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Solemoviridae	247	5	1;2;3-4;5-9;10+	30381	0.0650463900087322	0.00256813276872657	-0.03597947586488	0.0464900237377737	0.002	0.002	999

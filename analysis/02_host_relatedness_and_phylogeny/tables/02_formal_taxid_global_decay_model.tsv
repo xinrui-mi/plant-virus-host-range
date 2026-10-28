@@ -1,0 +1,2 @@
+analysis	beta	se	beta_ci_low	beta_ci_high	odds_ratio	or_ci_low	or_ci_high	n_pairs	positive_pairs
+formal_NCBI_Virus_TaxID	-1.20147801387705	0.00569311309711943	-1.21263651554741	-1.1903195122067	0.300749371508433	0.29741211317282	0.304124077186322	2602621	32409

@@ -1,0 +1,3 @@
+retention_group	virus_taxid_n	host_family_median	host_order_median	max_distance_median
+short-retention / non-circulative	61	2	2	2
+long-retention / circulative	340	1	1	2

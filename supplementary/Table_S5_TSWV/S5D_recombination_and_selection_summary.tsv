@@ -1,0 +1,6 @@
+gene	GARD_breakpoints	selection_partitions	BUSTED_p_value	MEME_selected_sites	FUBAR_diversifying_sites	FUBAR_purifying_sites
+RdRp	3	4	0.0	83	2	1858
+Gn/Gc	0	1	0.002094145119889201	26	2	781
+NSm	0	1	0.03270740794455512	3	0	206
+N	0	1	2.525757381022231e-14	9	5	150
+NSs	0	1	0.0	46	4	206

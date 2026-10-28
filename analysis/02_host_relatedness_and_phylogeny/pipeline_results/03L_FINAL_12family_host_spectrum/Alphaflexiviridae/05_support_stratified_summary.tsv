@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Alphaflexiviridae	236	5	1;2;3-4;5-9;10+	27730	0.296615376071133	0.000836924976360281	-0.0349600583436399	0.0339916342724644	0.001	0.001	999

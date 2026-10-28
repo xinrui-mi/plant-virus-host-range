@@ -1,0 +1,5 @@
+virus_family	nr95_clusters	retained_clusters	excluded_clusters	retention_fraction	retained_median_sequence_support	excluded_median_sequence_support	support_wilcoxon_p	retained_median_host_family_breadth	excluded_median_host_family_breadth	host_breadth_wilcoxon_p	retained_Land_Flora_fraction	excluded_Land_Flora_fraction	Land_Flora_Fisher_p
+Geminiviridae	1600	1463	137	0.914375	2	1	0.00110727501713474	1	1	0.00872520316630825	0	0	1
+Caulimoviridae	186	186	0	1	2			1			0		
+Potyviridae	1014	718	296	0.708086785009862	2	2	0.00156007589286036	1	1	0.0910627705023937	0.0459610027855153	0	1.54750823087946e-05
+Tombusviridae	333	330	3	0.990990990990991	1	1	0.22123300016701	1	1	0.549742554376434	0.266666666666667	0	0.56872972415505

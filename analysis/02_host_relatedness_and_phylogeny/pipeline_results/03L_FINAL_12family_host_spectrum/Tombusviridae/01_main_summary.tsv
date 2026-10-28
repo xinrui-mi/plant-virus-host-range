@@ -1,0 +1,2 @@
+virus_family	final_tree_tip_n	host_annotated_tip_n	host_family_universe_n	distinct_host_spectrum_n	total_possible_pair_n	tested_pair_n	pair_sampling_mode	observed_spearman_rho_host_jaccard	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	observed_spearman_rho_breadth_difference	breadth_null_median_rho	breadth_empirical_p_greater	permutations
+Tombusviridae	326	326	75	93	52975	50000	random_pair_sample_50000	0.0418556695781585	-0.000166748840525342	-0.033344562351285	0.037095229589235	0.015	0.023	-0.182326251390162	-0.00223674370733163	1	999

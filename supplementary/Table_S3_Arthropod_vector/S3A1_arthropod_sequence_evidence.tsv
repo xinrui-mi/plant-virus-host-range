@@ -1,0 +1,5 @@
+evidence_class	definition	supported_sequence_n
+S0	Exact accession evidence	8
+S1	High-similarity sequence match	1868
+S2	Cross-source 80% nucleotide clustering evidence	4352
+Any S0/S1/S2	Union of arthropod-associated sequence evidence	4401

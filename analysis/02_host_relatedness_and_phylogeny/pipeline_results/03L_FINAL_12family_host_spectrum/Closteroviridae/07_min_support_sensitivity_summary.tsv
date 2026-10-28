@@ -1,0 +1,3 @@
+virus_family	min_cluster_member_n	tip_n	total_possible_pair_n	tested_pair_n	sampling_mode	status	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Closteroviridae	2	137	9316	9316	all_pairs	PASS	0.149351976471664	0.000682707325787907	-0.036605469762686	0.0402929675231209	0.001	0.001	999
+Closteroviridae	3	89	3916	3916	all_pairs	PASS	0.152976972504885	-0.000803478427871932	-0.0511850548024096	0.0553601013049414	0.001	0.001	999

@@ -1,0 +1,389 @@
+virus_family	cdhit95_cluster_id	representative_sequence_id	cluster_member_n	member_sequence_ids	virus_taxid_representative	virus_genus_representative	virus_species_representative	host_annotated	host_taxid_n	host_taxids	host_family_n	host_families
+Secoviridae	AA95_15	BK010916.1	4	BK010916.1;JN127336.1;MK521837.1;NC_003791.1	173976	Nepovirus	Nepovirus cycas	YES	6	16901;329675;3396;3879;4690;49747	6	Cycadaceae;Fabaceae;Garryaceae;Iridaceae;Liliaceae;Thymelaeaceae
+Secoviridae	AA95_192	BK011046.1	2	BK011046.1;TS_nucl_5306	1676256	Stralarivirus	Stralarivirus lychnis	YES	1	3879	1	Fabaceae
+Secoviridae	AA95_386	BK013325.1	1	BK013325.1	2765861	Cheravirus	Cheravirus trillii	YES	1	82485	1	Melanthiaceae
+Secoviridae	AA95_374	BK059314.1	5	BK059314.1;MH802014.1;MH802016.1;MN599984.1;MW380906.1	12271	Nepovirus	Nepovirus arabis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_375	BK059315.1	2	BK059315.1;JQ975057.1	12271	Nepovirus	Nepovirus arabis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_376	BK059319.1	3	BK059319.1;BK059320.1;JN391442.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_28	BK059321.1	2	BK059321.1;GU972560.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_320	BK061318.1	1	BK061318.1	2936685	Sadwavirus	Sadwavirus gammananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_348	BK061320.1	1	BK061320.1	2936686		Artocarpus altilis secovirus	YES	1	194251	1	Moraceae
+Secoviridae	AA95_268	BK061322.1	1	BK061322.1	2936687	Mersevirus	Mersevirus boehmeriae	YES	1	83906	1	Urticaceae
+Secoviridae	AA95_321	BK061324.1	1	BK061324.1	2936688	Fabavirus	Fabavirus gynostemmae	YES	1	182084	1	Cucurbitaceae
+Secoviridae	AA95_388	BK061326.1	1	BK061326.1	2936689	Cheravirus	Cheravirus orobanchis	YES	1	78542	1	Orobanchaceae
+Secoviridae	AA95_216	BK061328.1	2	BK061328.1;TS_nucl_5297	2936690	Nepovirus	Nepovirus betaparis	YES	2	1044918;221260	2	Melanthiaceae;Primulaceae
+Secoviridae	AA95_232	BK061332.1	1	BK061332.1	2936691	Mersevirus	Mersevirus paris	YES	1	221260	1	Melanthiaceae
+Secoviridae	AA95_95	BK061334.1	1	BK061334.1	2936692	Waikavirus	Waikavirus rhododendri	YES	1	321363	1	Ericaceae
+Secoviridae	AA95_338	BK061335.1	2	BK061335.1;TS_nucl_5272	2936693	Fabavirus	Fabavirus yuccae	YES	1	1087055	1	Asparagaceae
+Secoviridae	AA95_295	BK062888.1	1	BK062888.1	2998508	Sadwavirus	Sadwavirus gymnemae	YES	1	4068	1	Apocynaceae
+Secoviridae	AA95_164	BK062979.1	1	BK062979.1	3027335	Waikavirus	Waikavirus anacycli	YES	1	1954285	1	Asteraceae
+Secoviridae	AA95_166	BK062980.1	1	BK062980.1	3027334	Waikavirus	Waikavirus ajugae	YES	1	40685	1	Salicaceae
+Secoviridae	AA95_167	BK062981.1	2	BK062981.1;TS_nucl_5312	3027334	Waikavirus	Waikavirus ajugae	YES	2	38596;4136	1	Lamiaceae
+Secoviridae	AA95_177	BK062982.1	2	BK062982.1;TS_nucl_5343	3027333	Waikavirus	Actaea racemosa waikavirus	YES	2	3440;64040	1	Ranunculaceae
+Secoviridae	AA95_168	BK062983.1	1	BK062983.1	3027337	Waikavirus	Carex angustisquama waikavirus	YES	1	2137746	1	Cyperaceae
+Secoviridae	AA95_100	BK062984.1	1	BK062984.1	3027336	Waikavirus	Waikavirus betacamelliae	YES	1	4442	1	Theaceae
+Secoviridae	AA95_178	BK062985.1	1	BK062985.1	3027338	Waikavirus	Cerastium arvense waikavirus	YES	1	271558	1	Caryophyllaceae
+Secoviridae	AA95_129	BK062986.1	1	BK062986.1	3027339	Waikavirus	Waikavirus eleocharis	YES	1	110284	1	Cyperaceae
+Secoviridae	AA95_221	BK062987.1	1	BK062987.1	3027340	Waikavirus	Waikavirus hirtae	YES	1	309429	1	Moraceae
+Secoviridae	AA95_130	BK062988.1	2	BK062988.1;TS_nucl_5316	3027341	Waikavirus	Fraxinus pennsylvanica waikavirus	YES	1	56036	1	Oleaceae
+Secoviridae	AA95_67	BK062989.1	1	BK062989.1	3027342	Waikavirus	Waikavirus juglandis	YES	1	16719	1	Juglandaceae
+Secoviridae	AA95_183	BK062990.1	1	BK062990.1	3027343	Waikavirus	Waikavirus ligustici	YES	1	2689076	1	Apiaceae
+Secoviridae	AA95_179	BK062991.1	2	BK062991.1;TS_nucl_5276	3027344	Waikavirus	Waikavirus mertensiae	YES	2	21571;620842	1	Boraginaceae
+Secoviridae	AA95_88	BK062992.1	1	BK062992.1	3027347	Waikavirus	Waikavirus populi	YES	1	43335	1	Salicaceae
+Secoviridae	AA95_141	BK062993.1	1	BK062993.1	3027345	Waikavirus	Waikavirus pedicularis	YES	1	321410	1	Orobanchaceae
+Secoviridae	AA95_83	BK062994.1	1	BK062994.1	3027346	Waikavirus	Plagiogyria stenoptera waikavirus	YES	1	389502	1	Plagiogyriaceae
+Secoviridae	AA95_142	BK062995.1	2	BK062995.1;TS_nucl_5298	3027348	Waikavirus	Waikavirus primulae	YES	1	175104	1	Primulaceae
+Secoviridae	AA95_62	BK062996.1	1	BK062996.1	3027349	Waikavirus	Waikavirus querci	YES	1	38942	1	Fagaceae
+Secoviridae	AA95_156	BK062997.1	1	BK062997.1	3027350	Waikavirus	Waikavirus ranunculi	YES	1	286874	1	Ranunculaceae
+Secoviridae	AA95_143	BK062998.1	1	BK062998.1	3027354		Triticum aestivum secovirus	YES	1	4565	1	Poaceae
+Secoviridae	AA95_169	BK062999.1	2	BK062999.1;TS_nucl_5323	3027352	Waikavirus	Waikavirus thymi	YES	1	49992	1	Lamiaceae
+Secoviridae	AA95_85	BK063000.1	1	BK063000.1	3027353	Waikavirus	Waikavirus trifoccidentale	YES	1	74524	1	Fabaceae
+Secoviridae	AA95_180	BK063001.1	1	BK063001.1	3027351	Waikavirus	Waikavirus thapsiae	YES	1	1306261	1	Apiaceae
+Secoviridae	AA95_157	BK063002.1	1	BK063002.1	3027355	Waikavirus	Waikavirus violae	YES	1	591090	1	Violaceae
+Secoviridae	AA95_45	BK064709.1	1	BK064709.1	3079799	Nepovirus	Nepovirus mirae	YES	1	151332	1	Rosaceae
+Secoviridae	AA95_74	BK065028.1	1	BK065028.1	3115783	Cheravirus	Corymbium villosum cheravirus	YES	1	2039871	1	Asteraceae
+Secoviridae	AA95_182	BK065030.1	4	BK065030.1;BK065032.1;BK065034.1;TS_nucl_5319	3115784	Cheravirus	Lagerstroemia indica cheravirus	YES	3	141186;151071;28511	3	Lamiaceae;Lythraceae;Sapindaceae
+Secoviridae	AA95_266	BK065038.1	1	BK065038.1	3115807	Comovirus	Camellia comovirus	YES	1	4442	1	Theaceae
+Secoviridae	AA95_279	BK065040.1	2	BK065040.1;TS_nucl_5280	3115808	Comovirus	White-flower bittercress comovirus	YES	1	558126	1	Brassicaceae
+Secoviridae	AA95_289	BK065042.1	1	BK065042.1	3115814		Litsea rubescens seco-like virus	YES	1	344078	1	Lauraceae
+Secoviridae	AA95_337	BK065044.1	1	BK065044.1	3115796	Fabavirus	Camphor tree fabavirus	YES	1	13429	1	Lauraceae
+Secoviridae	AA95_312	BK065048.1	1	BK065048.1	3115797	Fabavirus	Many-flowered stoneseed fabavirus	YES	1	219718	1	Boraginaceae
+Secoviridae	AA95_345	BK065050.1	1	BK065050.1	3115798	Fabavirus	Reaumuria songarica fabavirus	YES	1	194564	1	Tamaricaceae
+Secoviridae	AA95_250	BK065052.1	1	BK065052.1	3115800	Fabavirus	Squamellaria imberbis fabavirus	YES	1	60438	1	Rubiaceae
+Secoviridae	AA95_38	BK065054.1	2	BK065054.1;OQ801182.1	3115754	Nepovirus	Actinidia nepovirus	YES	2	165704;49666	2	Actinidiaceae;Melanthiaceae
+Secoviridae	AA95_19	BK065056.1	1	BK065056.1	3115755	Nepovirus	Aloe haircap nepovirus	YES	1	201550	1	Polytrichaceae
+Secoviridae	AA95_346	BK065058.1	1	BK065058.1	3115763	Nepovirus	Asian lizard's tail nepovirus	YES	1	54806	1	Saururaceae
+Secoviridae	AA95_245	BK065060.1	1	BK065060.1	3115758	Nepovirus	Bush clock vine nepovirus	YES	1	76287	1	Acanthaceae
+Secoviridae	AA95_368	BK065062.1	2	BK065062.1;TS_nucl_5295	3115756	Nepovirus	Beetleweed nepovirus	YES	2	16673;55362	1	Diapensiaceae
+Secoviridae	AA95_227	BK065064.1	2	BK065064.1;TS_nucl_5288	3115757	Nepovirus	Begonia plebeja nepovirus	YES	2	1047136;212713	1	Begoniaceae
+Secoviridae	AA95_228	BK065066.1	1	BK065066.1	3115759	Nepovirus	Canberra spider orchid nepovirus	YES	1	2771312	1	Orchidaceae
+Secoviridae	AA95_267	BK065068.1	1	BK065068.1	3115760	Nepovirus	Cederberg Conebush nepovirus	YES	1	299969	1	Proteaceae
+Secoviridae	AA95_229	BK065070.1	2	BK065070.1;TS_nucl_5339	3115761	Nepovirus	Chinese milk vetch nepovirus	YES	2	4546;47065	2	Fabaceae;Poaceae
+Secoviridae	AA95_5	BK065072.1	1	BK065072.1	3115762	Nepovirus	Chrysanthemum nepovirus	YES	1	146995	1	Asteraceae
+Secoviridae	AA95_349	BK065074.1	2	BK065074.1;TS_nucl_5324	3115764	Nepovirus	Common thyme nepovirus	YES	1	49992	1	Lamiaceae
+Secoviridae	AA95_257	BK065076.1	1	BK065076.1	3115765	Nepovirus	Coral plant nepovirus	YES	1	85172	1	Berberidopsidaceae
+Secoviridae	AA95_246	BK065078.1	1	BK065078.1	3115766	Nepovirus	Downy ground fern nepovirus	YES	1	32093	1	Dennstaedtiaceae
+Secoviridae	AA95_350	BK065080.1	1	BK065080.1	3115767	Nepovirus	Gentiana ecaudata nepovirus	YES	1	2599439	1	Gentianaceae
+Secoviridae	AA95_30	BK065082.1	1	BK065082.1	3115768	Nepovirus	Habenaria delavayi nepovirus	YES	1	431303	1	Orchidaceae
+Secoviridae	AA95_40	BK065084.1	3	BK065084.1;BK065086.1;TS_nucl_5267	3115769	Nepovirus	Hansenia oviformis nepovirus	YES	2	165353;1978917	1	Apiaceae
+Secoviridae	AA95_41	BK065088.1	1	BK065088.1	3115769	Nepovirus	Hansenia oviformis nepovirus	YES	1	665470	1	Poaceae
+Secoviridae	AA95_230	BK065090.1	1	BK065090.1	3115781	Nepovirus	Homalium kanaliense nepovirus	YES	1	2219818	1	Salicaceae
+Secoviridae	AA95_136	BK065092.1	1	BK065092.1	3115770	Nepovirus	Lettuce nepovirus	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_2	BK065094.1	4	BK065094.1;BK065096.1;BK065098.1;BK065100.1	3115782	Nepovirus	Logan nepovirus	YES	4	128017;4565;55670;74613	4	Asteraceae;Fabaceae;Poaceae;Sapindaceae
+Secoviridae	AA95_31	BK065102.1	1	BK065102.1	3115780	Nepovirus	Musa nepovirus	YES	1	491892	1	Musaceae
+Secoviridae	AA95_39	BK065104.1	1	BK065104.1	3115772	Nepovirus	Nitraria roborowskii nepovirus	YES	1	357932	1	Nitrariaceae
+Secoviridae	AA95_22	BK065106.1	1	BK065106.1	3115773	Nepovirus	Pearl millet nepovirus	YES	1	4543	1	Poaceae
+Secoviridae	AA95_21	BK065108.1	2	BK065108.1;TS_nucl_5278	3115774	Nepovirus	Purple sand food nepovirus	YES	2	21571;48517	2	Boraginaceae;Lennoaceae
+Secoviridae	AA95_34	BK065110.1	1	BK065110.1	3115775	Nepovirus	Rhododendron lacteum nepovirus	YES	1	1044961	1	Ericaceae
+Secoviridae	AA95_4	BK065114.1	1	BK065114.1	3115777	Nepovirus	Silene diclinis nepovirus	YES	1	42035	1	Caryophyllaceae
+Secoviridae	AA95_251	BK065116.1	1	BK065116.1	3115778	Nepovirus	Snowy daisy-bush nepovirus	YES	1	199281	1	Asteraceae
+Secoviridae	AA95_185	BK065118.1	1	BK065118.1	3115779	Nepovirus	Tibetan peony nepovirus	YES	1	459176	1	Paeoniaceae
+Secoviridae	AA95_347	BK065120.1	2	BK065120.1;TS_nucl_5262	3115771	Nepovirus	Yunnan pine nepovirus	YES	1	88732	1	Pinaceae
+Secoviridae	AA95_269	BK065122.1	1	BK065122.1	3115809	Sadwavirus	Dendrobium palpebrae cholivirus	YES	1	564068	1	Orchidaceae
+Secoviridae	AA95_270	BK065124.1	2	BK065124.1;TS_nucl_5284	3115810	Sadwavirus	Yellow sand-verbena cholivirus	YES	1	2067805	1	Nyctaginaceae
+Secoviridae	AA95_231	BK065126.1	1	BK065126.1	3115812	Sadwavirus	Chrysanthemum stramovirus	YES	1	41568	1	Asteraceae
+Secoviridae	AA95_61	BK065128.1	1	BK065128.1	3115813	Sequivirus	Cowslip sequivirus	YES	1	170927	1	Primulaceae
+Secoviridae	AA95_206	BK065129.1	1	BK065129.1	3115811	Stralarivirus	Beach cabbage stralarivirus	YES	1	16481	1	Goodeniaceae
+Secoviridae	AA95_99	BK065131.1	1	BK065131.1	3115804	Torradovirus	Lake cress torradovirus	YES	1	65950	1	Brassicaceae
+Secoviridae	AA95_118	BK065133.1	1	BK065133.1	3115801	Torradovirus	Lophophytum mirabile torradovirus	YES	1	1718259	1	Balanophoraceae
+Secoviridae	AA95_104	BK065135.1	1	BK065135.1	3115802	Torradovirus	Opisthopappus taihangensis torradovirus	YES	1	463594	1	Asteraceae
+Secoviridae	AA95_137	BK065137.1	6	BK065137.1;OR453958.1;OR453959.1;OR453960.1;OR453961.1;TS_nucl_5321	3115803	Torradovirus	Sesamum torradovirus	YES	2	2750164;99300	2	Orobanchaceae;Pedaliaceae
+Secoviridae	AA95_138	BK065139.1	7	BK065139.1;OR453963.1;OR453964.1;OR453965.1;OR453966.1;OR453967.1;TS_nucl_5322	3115803	Torradovirus	Sesamum torradovirus	YES	1	99300	1	Orobanchaceae
+Secoviridae	AA95_152	BK065141.1	1	BK065141.1	3115790	Waikavirus	Asian lily-of-the-valley waikavirus	YES	1	182176	1	Asparagaceae
+Secoviridae	AA95_153	BK065142.1	1	BK065142.1	3115786	Waikavirus	Euphorbia ebracteolata waikavirus	YES	1	526193	1	Euphorbiaceae
+Secoviridae	AA95_163	BK065143.1	1	BK065143.1	3115787	Waikavirus	Eureka dunegrass waikavirus	YES	1	433910	1	Poaceae
+Secoviridae	AA95_105	BK065144.1	1	BK065144.1	3115788	Waikavirus	Gentiana straminea waikavirus	YES	1	50768	1	Gentianaceae
+Secoviridae	AA95_139	BK065145.1	1	BK065145.1	3115789	Waikavirus	Gypsywort waikavirus	YES	1	260603	1	Lamiaceae
+Secoviridae	AA95_210	BK065146.1	1	BK065146.1	3115791	Waikavirus	Hooked Veilwort waikavirus	YES	1	697293	1	Metzgeriaceae
+Secoviridae	AA95_154	BK065147.1	1	BK065147.1	3115792	Waikavirus	Pagoda dogwood waikavirus	YES	1	16902	1	Cornaceae
+Secoviridae	AA95_155	BK065148.1	1	BK065148.1	3115793	Waikavirus	Plumleaf crab apple waikavirus	YES	1	106564	1	Rosaceae
+Secoviridae	AA95_87	BK065149.1	1	BK065149.1	3115795	Waikavirus	Rubber waikavirus	YES	1	3981	1	Euphorbiaceae
+Secoviridae	AA95_127	BK065150.1	1	BK065150.1	3115794	Waikavirus	Sweet wormwood waikavirus	YES	1	35608	1	Asteraceae
+Secoviridae	AA95_128	BK065151.1	1	BK065151.1	3115815		Magellanic bog-moss seco-like virus	YES	1	128215	1	Sphagnaceae
+Secoviridae	AA95_79	BK065152.1	1	BK065152.1	3115816		Pacific island silvergrassseco-like virus	YES	1	154761	1	Poaceae
+Secoviridae	AA95_218	BK066920.1	10	BK066920.1;ON751943.1;OP589177.1;PQ317364.1;PQ317365.1;PV237158.1;PV237159.1;PV237160.1;PV237161.1;PV237162.1	3126974	Nepovirus	Tobacco ringspot-like virus	YES	5	12953;23216;3635;3659;564016	4	Annonaceae;Cucurbitaceae;Malvaceae;Rosaceae
+Secoviridae	AA95_343	BK066928.1	1	BK066928.1	367301	Sadwavirus	Sadwavirus rubi	YES	1	75079	1	Rosaceae
+Secoviridae	AA95_55	DQ004849.1	1	DQ004849.1	12809	Nepovirus	Nepovirus rubi	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_162	FJ560489.1	1	FJ560489.1	626985	Torradovirus	Tomato chocolate virus	YES	1	4081	1	Solanaceae
+Secoviridae	AA95_384	GQ369527.1	1	GQ369527.1	12271	Nepovirus	Nepovirus arabis	YES	1	4513	1	Poaceae
+Secoviridae	AA95_284	GU968732.1	1	GU968732.1	392504	Comovirus	Comovirus rapae	YES	1	145471	1	Brassicaceae
+Secoviridae	AA95_42	HG939487.1	13	HG939487.1;KX977560.1;MG458220.1;MN699698.1;MN699699.1;MN699700.1;MN699701.1;MN718460.1;MT992604.1;MT992609.1;MZ291911.1;NC_004439.1;ON398510.1	12275	Nepovirus	Nepovirus nigranuli	YES	18	13305;161934;23216;29760;35938;3604;3664;3885;38871;39639;4045;4081;4113;4236;4681;55843;79772;81983	13	Amaranthaceae;Amaryllidaceae;Apiaceae;Asteraceae;Brassicaceae;Cucurbitaceae;Fabaceae;Liliaceae;Oleaceae;Rosaceae;Solanaceae;Verbenaceae;Vitaceae
+Secoviridae	AA95_114	KC794785.1	1	KC794785.1	35287	Waikavirus	Waikavirus oryzae	YES	1	4530	1	Poaceae
+Secoviridae	AA95_248	KC832888.1	2	KC832888.1;KC832889.1	257464	Nepovirus	Nepovirus solani	YES	1	40925	1	Apiaceae
+Secoviridae	AA95_56	KM083892.1	1	KM083892.1	12280	Nepovirus	Nepovirus lycopersici	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_381	KX011074.1	22	KX011074.1;KX034843.1;KX034846.1;KX034850.1;KX034853.1;KX034856.1;KX034861.1;KX034864.1;KX034865.1;KX034870.1;KX034872.1;KX034876.1;KX034879.1;KX034881.1;KX034883.1;KX034886.1;KX034888.1;KX034893.1;KX034894.1;KX034897.1;KX034902.1;KX034903.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_382	KX034847.1	4	KX034847.1;KX034875.1;KX034880.1;KX034895.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_383	KX034851.1	1	KX034851.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_336	KX714933.1	1	KX714933.1	2170181	Sadwavirus	Sadwavirus dioscoreae	YES	1	55581	1	Dioscoreaceae
+Secoviridae	AA95_122	KY113159.1	3	KY113159.1;MG596243.1;MG596244.1	2058090	Torradovirus	Red clover torradovirus 1	YES	1	57577	1	Fabaceae
+Secoviridae	AA95_121	LC436363.1	1	LC436363.1	1425364	Torradovirus	Torradovirus carotae	YES	1	357850	1	Apiaceae
+Secoviridae	AA95_264	LC495157.1	1	LC495157.1	1849838	Fabavirus	Fabavirus vitis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_170	LC602461.1	1	LC602461.1	2804854	Waikavirus	White dead nettle mosaic virus	YES	1	53159	1	Lamiaceae
+Secoviridae	AA95_379	LC617938.1	1	LC617938.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	3604	1	Vitaceae
+Secoviridae	AA95_261	LC746701.1	6	LC495158.1;LC495159.1;LC495160.1;LC495161.1;LC495162.1;LC746701.1	1849838	Fabavirus	Fabavirus vitis	YES	3	103355;105599;3603	1	Vitaceae
+Secoviridae	AA95_369	LC746704.1	1	LC746704.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	3603	1	Vitaceae
+Secoviridae	AA95_370	LC746705.1	2	KU522584.1;LC746705.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	2	29760;3603	1	Vitaceae
+Secoviridae	AA95_23	LC848445.1	2	LC848445.1;LC848447.1	593572	Comovirus	Comovirus viciae	YES	2	3888;3906	1	Fabaceae
+Secoviridae	AA95_201	LC877458.1	3	LC877458.1;LC877460.1;MH392207.1	57325	Sadwavirus	Sadwavirus citri	YES	3	2711;55188;558545	1	Rutaceae
+Secoviridae	AA95_202	LC877462.1	2	LC758581.1;LC877462.1	57325	Sadwavirus	Sadwavirus citri	YES	1	55188	1	Rutaceae
+Secoviridae	AA95_203	LC877468.1	2	LC877468.1;MF668128.1	57325	Sadwavirus	Sadwavirus citri	YES	2	109792;2706	1	Rutaceae
+Secoviridae	AA95_204	LC877470.1	1	LC877470.1	57325	Sadwavirus	Sadwavirus citri	YES	1	237572	1	Rutaceae
+Secoviridae	AA95_188	LC877472.1	1	LC877472.1	85516	Sadwavirus	Sadwavirus citri	YES	1	558545	1	Rutaceae
+Secoviridae	AA95_199	LC877474.1	1	LC877474.1	47416	Sadwavirus	Sadwavirus citri	YES	1	488172	1	Rutaceae
+Secoviridae	AA95_252	LC915878.1	4	LC915878.1;MZ648325.1;ON568199.1;PQ014407.1	2964737	Fabavirus	Black pepper virus F	YES	1	13216	1	Piperaceae
+Secoviridae	AA95_194	MF796979.1	5	MF796979.1;MF796981.1;MF797007.1;MF797009.1;MH237605.1	28351	Stralarivirus	Stralarivirus fragariae	YES	1	4688	1	Liliaceae
+Secoviridae	AA95_29	MF804979.1	5	GU972559.1;GU972565.1;JX513894.1;MF804979.1;PQ736773.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_283	MH645163.1	1	MH645163.1	2491949	Comovirus	Ullucus comovirus 1	YES	1	108055	1	Basellaceae
+Secoviridae	AA95_161	MH713426.1	1	MH713426.1	51354	Waikavirus	Waikavirus zeae	YES	1	59786	1	Poaceae
+Secoviridae	AA95_380	MH802025.1	2	GQ332373.1;MH802025.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_18	MK263335.1	1	MK263335.1	12282	Nepovirus	Nepovirus nicotianae	YES	1	23216	1	Rosaceae
+Secoviridae	AA95_327	MN203151.1	2	MN203151.1;MN203153.1	2692408	Comovirus	Papaya comovirus	YES	2	3649;58024	1	Caricaceae
+Secoviridae	AA95_300	MN203198.1	1	MN203198.1	2692412	Comovirus	Comovirus sp.	NO	1	58024	0	
+Secoviridae	AA95_160	MN203201.1	1	MN203201.1	51354	Waikavirus	Waikavirus zeae	NO	1	58024	0	
+Secoviridae	AA95_328	MN216349.1	3	MN216349.1;MN216351.1;MN216352.1	50817	Fabavirus	Fabavirus alphaviciae	YES	1	4112	1	Solanaceae
+Secoviridae	AA95_329	MN216350.1	2	MN216350.1;MN216353.1	50817	Fabavirus	Fabavirus alphaviciae	YES	1	4112	1	Solanaceae
+Secoviridae	AA95_326	MN253486.1	1	MN253486.1	2767523	Fabavirus	Fabavirus sp.	YES	1	41562	1	Asteraceae
+Secoviridae	AA95_48	MN384981.1	1	MN384981.1	12809	Nepovirus	Nepovirus rubi	YES	1	200313	1	Solanaceae
+Secoviridae	AA95_120	MN399684.1	2	MK063924.1;MN399684.1	1425364	Torradovirus	Torradovirus carotae	YES	2	4100;58024	1	Solanaceae
+Secoviridae	AA95_80	MN648671.1	1	MN648671.1	2760409	Cheravirus	Babaco cheravirus 1	YES	1	262696	1	Caricaceae
+Secoviridae	AA95_16	MN648672.1	1	MN648672.1	2760410	Nepovirus	Babaco nepovirus 1	YES	1	262696	1	Caricaceae
+Secoviridae	AA95_299	MN896996.1	2	MG925371.1;MN896996.1	2171759	Fabavirus	Fabavirus avii	YES	2	3758;42229	1	Rosaceae
+Secoviridae	AA95_211	MT156348.1	2	HE611022.1;MT156348.1	367301	Sadwavirus	Sadwavirus rubi	YES	1	32247	1	Rosaceae
+Secoviridae	AA95_193	MT344107.1	1	MT344107.1	47416	Sadwavirus	Sadwavirus citri	YES	1	2706	1	Rutaceae
+Secoviridae	AA95_71	MT348705.1	1	MT348705.1	2749300	Sequivirus	Sequivirus stellatum	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_132	MT348710.1	1	MT348710.1	2749299	Waikavirus	Waikavirus lactucae	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_291	MT375548.1	1	MT375548.1	3430810	Mersevirus	Mersevirus jujubae	YES	1	326968	1	Rhamnaceae
+Secoviridae	AA95_290	MT709101.1	1	MT709101.1	12263	Comovirus	Comovirus cucurbitae	YES	1	3650	1	Cucurbitaceae
+Secoviridae	AA95_47	MT992603.1	5	MN699702.1;MT992603.1;MT992608.1;MW057704.1;MW961144.1	12275	Nepovirus	Nepovirus nigranuli	YES	3	32247;35938;4113	3	Fabaceae;Rosaceae;Solanaceae
+Secoviridae	AA95_282	MW019502.1	11	GQ996948.1;GQ996951.1;GQ996952.1;GQ996953.1;GU562879.1;MT521477.1;MT526791.1;MT669389.1;MW019502.1;MW019503.1;NC_003496.1	12260	Comovirus	Comovirus siliquae	YES	7	157652;3847;3885;53866;53892;60916;732116	1	Fabaceae
+Secoviridae	AA95_37	MW057700.1	6	KM083894.1;KR911669.1;KT944023.1;MF176958.1;MW057700.1;MW057702.1	12280	Nepovirus	Nepovirus lycopersici	YES	5	23216;29760;3603;3752;4202	3	Adoxaceae;Rosaceae;Vitaceae
+Secoviridae	AA95_26	MW057710.1	1	MW057710.1	12809	Nepovirus	Nepovirus rubi	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_241	MW143070.1	1	MW143070.1	2856830		Heracleum moellendorffii mottle spot virus	YES	1	99507	1	Apiaceae
+Secoviridae	AA95_296	MW239072.1	1	MW239072.1	12261	Comovirus	Comovirus severum	YES	1	260886	1	Fabaceae
+Secoviridae	AA95_6	MW328849.1	23	LC553843.1;LC577868.1;MH898503.1;MK512741.1;MN814315.1;MW328839.1;MW328841.1;MW328843.1;MW328845.1;MW328847.1;MW328849.1;MW328851.1;MW328853.1;MW328855.1;MW328857.1;MW328859.1;MW328861.1;MW328865.1;MW328867.1;MW328869.1;MZ576550.1;TS_nucl_5347;TS_nucl_5348	173976	Nepovirus	Nepovirus cycas	YES	4	35924;4081;45171;69717	2	Paeoniaceae;Solanaceae
+Secoviridae	AA95_8	MW328863.1	3	MW328863.1;MW328871.1;TS_nucl_5325	173976	Nepovirus	Nepovirus cycas	YES	2	35924;89493	2	Liliaceae;Paeoniaceae
+Secoviridae	AA95_377	MW380904.1	1	MW380904.1	12271	Nepovirus	Nepovirus arabis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_378	MW380913.1	1	MW380913.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_158	MW727468.1	1	MW727468.1	51354	Waikavirus	Waikavirus zeae	YES	1	4577	1	Poaceae
+Secoviridae	AA95_325	MZ202323.1	1	MZ202323.1	12259	Comovirus	Comovirus andesense	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_78	MZ220950.1	1	MZ220950.1	202566	Cheravirus	Cheravirus avii	YES	1	3754	1	Rosaceae
+Secoviridae	AA95_25	MZ291909.1	1	MZ291909.1	12809	Nepovirus	Nepovirus rubi	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_297	MZ291939.1	4	MH998213.1;MH998214.1;MZ291939.1;MZ291940.1	1855510	Fabavirus	Fabavirus pruni	YES	2	3754;42229	1	Rosaceae
+Secoviridae	AA95_298	MZ291952.1	12	LT991639.1;MG925372.1;MG925375.1;MH998209.1;MH998210.1;MH998211.1;MH998212.1;MZ291952.1;MZ291953.1;MZ291955.1;MZ291956.1;TS_nucl_5344	2171759	Fabavirus	Fabavirus avii	YES	2	3754;42229	1	Rosaceae
+Secoviridae	AA95_263	MZ327143.1	2	MZ327143.1;TS_nucl_5346	1849838	Fabavirus	Fabavirus vitis	YES	2	29760;47968	2	Sapindaceae;Vitaceae
+Secoviridae	AA95_159	MZ357183.1	1	MZ357183.1	2885927	Torradovirus	Torradovirus physalis	YES	1	126903	1	Solanaceae
+Secoviridae	AA95_102	NC_001632.1	5	AM234048.1;AM234049.1;MK655459.1;NC_001632.1;X98396.1	35287	Waikavirus	Waikavirus oryzae	YES	1	4530	1	Poaceae
+Secoviridae	AA95_301	NC_003003.1	48	JX183221.1;JX183223.1;JX183227.1;JX183229.1;JX183231.1;JX183233.1;KC625492.1;KC625494.1;KC625495.1;KC625496.1;KC625497.1;KC625500.1;KC625501.1;KC625502.1;KC625503.1;KC625504.1;KC625505.1;KT380020.1;KT380022.1;LC743601.1;MH447988.1;MW815620.1;MW815625.1;NC_003003.1;ON759422.1;ON759423.1;ON759424.1;ON759425.1;ON759426.1;ON759427.1;ON759428.1;ON759429.1;ON759430.1;ON759431.1;ON759432.1;ON759433.1;ON759434.1;ON759435.1;ON759436.1;ON759437.1;ON759438.1;ON759439.1;ON759440.1;ON759441.1;ON759442.1;OR353024.1;OR353025.1;TS_nucl_5318	76875	Fabavirus	Fabavirus betaviciae	YES	6	28511;3562;384659;3906;4072;76370	5	Acanthaceae;Amaranthaceae;Fabaceae;Lamiaceae;Solanaceae
+Secoviridae	AA95_224	NC_003445.1	6	KU200460.1;MH746440.1;MZ326671.1;MZ328085.1;MZ328095.1;NC_003445.1	167161	Sadwavirus	Sadwavirus fragariae	YES	5	200313;3746;3747;57918;63459	3	Amaranthaceae;Rosaceae;Solanaceae
+Secoviridae	AA95_217	NC_003509.1	3	NC_003509.1;PP216029.1;PP216030.1	65743	Nepovirus	Nepovirus ribis	YES	2	63459;78511	2	Amaranthaceae;Grossulariaceae
+Secoviridae	AA95_292	NC_003545.1	3	MW052048.1;MW387017.1;NC_003545.1	12261	Comovirus	Comovirus severum	YES	2	138955;3917	1	Fabaceae
+Secoviridae	AA95_286	NC_003549.1	6	MT682297.1;MT723988.1;MT815984.1;NC_003549.1;OR879086.1;PQ341266.1	12264	Comovirus	Comovirus vignae	YES	5	3821;3829;3847;3848;3917	1	Fabaceae
+Secoviridae	AA95_354	NC_003615.1	85	GQ332372.1;JX513889.1;KX011072.1;KX011073.1;KX011075.1;KX034840.1;KX034841.1;KX034842.1;KX034844.1;KX034845.1;KX034848.1;KX034849.1;KX034854.1;KX034857.1;KX034858.1;KX034860.1;KX034862.1;KX034863.1;KX034866.1;KX034867.1;KX034868.1;KX034869.1;KX034873.1;KX034874.1;KX034877.1;KX034878.1;KX034882.1;KX034884.1;KX034885.1;KX034887.1;KX034889.1;KX034891.1;KX034892.1;KX034896.1;KX034898.1;KX034899.1;KX034900.1;KX034901.1;KX034904.1;KX034905.1;MG418839.1;MH383240.1;MH383242.1;MH492666.1;MH492668.1;MH492670.1;MH802027.1;MN496421.1;MN496422.1;MN496423.1;MN496424.1;MN496425.1;MW380908.1;MW380912.1;NC_003615.1;ON991746.1;ON991747.1;ON991748.1;ON991749.1;ON991750.1;ON991751.1;ON991752.1;ON991753.1;ON991754.1;ON991755.1;ON991756.1;ON991757.1;ON991758.1;ON991759.1;ON991760.1;ON991762.1;ON991763.1;ON991764.1;ON991765.1;ON991767.1;ON991770.1;PP976049.1;PQ478039.1;PQ736761.1;PQ736762.1;PQ736774.1;PQ736776.1;PQ736783.1;PQ736788.1;TS_nucl_5331	12274	Nepovirus	Nepovirus foliumflabelli	YES	4	103352;226012;29760;497687	2	Euphorbiaceae;Vitaceae
+Secoviridae	AA95_49	NC_003622.1	1	NC_003622.1	12273	Nepovirus	Nepovirus chromusivum	YES	2	29760;4045	2	Apiaceae;Vitaceae
+Secoviridae	AA95_144	NC_003626.1	1	NC_003626.1	51354	Waikavirus	Waikavirus zeae	YES	2	4560;4577	1	Poaceae
+Secoviridae	AA95_64	NC_003628.1	1	NC_003628.1	12777	Sequivirus	Sequivirus pastinacae	YES	12	105274;305795;4039;4041;4045;4047;40888;40919;40922;40954;48027;49576	1	Apiaceae
+Secoviridae	AA95_43	NC_003693.1	13	MH939189.1;MT992602.1;MT992605.1;MT992606.1;MT992607.1;MW961152.1;MZ202337.1;NC_003693.1;OM640126.1;PV565076.1;PV565078.1;PV565080.1;TS_nucl_5302	191547	Nepovirus	Nepovirus betae	YES	19	103537;1050191;13305;161934;23216;32247;35938;3603;3885;38871;39020;39639;4030;4045;4081;4113;4236;4681;519208	14	Amaranthaceae;Amaryllidaceae;Apiaceae;Asteraceae;Escalloniaceae;Fabaceae;Geraniaceae;Liliaceae;Oleaceae;Oxalidaceae;Polemoniaceae;Rosaceae;Solanaceae;Vitaceae
+Secoviridae	AA95_272	NC_003741.1	2	MG600294.1;NC_003741.1	12262	Comovirus	Comovirus trifolii	YES	2	3888;57577	1	Fabaceae
+Secoviridae	AA95_200	NC_003785.2	3	LC877464.1;LC877466.1;NC_003785.2	47416	Sadwavirus	Sadwavirus citri	YES	2	453244;55188	2	Adoxaceae;Rutaceae
+Secoviridae	AA95_76	NC_003787.1	1	NC_003787.1	101688	Cheravirus	Cheravirus mali	YES	1	3750	1	Rosaceae
+Secoviridae	AA95_287	NC_003799.1	9	KP223323.1;MF166756.1;MF166757.1;MT724705.1;NC_003799.1;OL311704.1;ON398498.1;OP329710.1;PX094869.1	12263	Comovirus	Comovirus cucurbitae	YES	5	3650;3654;3656;3660;3663	1	Cucurbitaceae
+Secoviridae	AA95_35	NC_003840.1	3	KM083890.1;MW057698.1;NC_003840.1	12280	Nepovirus	Nepovirus lycopersici	YES	4	23216;3754;4030;4097	3	Geraniaceae;Rosaceae;Solanaceae
+Secoviridae	AA95_24	NC_005266.1	5	AY303787.1;MZ220963.1;MZ220965.1;NC_005266.1;OL584361.1	12809	Nepovirus	Nepovirus rubi	YES	6	23216;29760;32247;36598;39639;57918	3	Amaryllidaceae;Rosaceae;Vitaceae
+Secoviridae	AA95_302	NC_005289.1	14	MF770979.1;MH645161.1;MN216346.1;MN216347.1;MN216354.1;MT663310.1;MZ202340.1;MZ202345.1;NC_005289.1;OP722621.1;PQ162448.1;PQ789800.1;PX423618.1;TS_nucl_5311	50817	Fabavirus	Fabavirus alphaviciae	YES	10	108055;13728;22002;3562;3906;39338;4112;4136;53751;63459	8	Acanthaceae;Amaranthaceae;Asteraceae;Basellaceae;Fabaceae;Lamiaceae;Solanaceae;Verbenaceae
+Secoviridae	AA95_356	NC_006057.1	4	AY303786.1;KC138732.1;MH802018.1;NC_006057.1	12271	Nepovirus	Nepovirus arabis	YES	26	13596;29760;32247;330163;34270;34272;3486;3555;3567;3603;3659;3747;3885;40749;4081;4093;4097;4146;4283;434243;4513;46112;57918;63459;66262;81734	12	Amaranthaceae;Asparagaceae;Cannabaceae;Cornaceae;Cucurbitaceae;Fabaceae;Oleaceae;Poaceae;Polemoniaceae;Rosaceae;Solanaceae;Vitaceae
+Secoviridae	AA95_77	NC_006271.1	5	KT944021.1;MK952187.1;MW334939.1;NC_006271.1;OK558694.1	202566	Cheravirus	Cheravirus avii	YES	6	3749;3754;4081;4113;4202;63459	4	Adoxaceae;Amaranthaceae;Rosaceae;Solanaceae
+Secoviridae	AA95_186	NC_006964.1	19	MF796973.1;MF796975.1;MF796977.1;MF796983.1;MF796985.1;MF796987.1;MF796989.1;MF796991.1;MF796993.1;MF796995.1;MF796997.1;MF796999.1;MF797001.1;MF797003.1;MF797005.1;MF797013.1;MW854291.1;MZ291959.1;NC_006964.1	28351	Stralarivirus	Stralarivirus fragariae	YES	14	200313;205567;23216;241069;2946198;34192;35938;3746;3747;3764;3885;4688;63459;74645	7	Amaranthaceae;Fabaceae;Lamiaceae;Liliaceae;Ranunculaceae;Rosaceae;Solanaceae
+Secoviridae	AA95_207	NC_008182.1	1	NC_008182.1	367301	Sadwavirus	Sadwavirus rubi	YES	7	161934;200313;3917;4093;4097;4100;75079	4	Amaranthaceae;Fabaceae;Rosaceae;Solanaceae
+Secoviridae	AA95_145	NC_009013.1	8	EU563948.1;KJ940975.1;KM091449.1;MH587229.1;MW717593.1;MW717594.1;NC_009013.1;PP856207.1	370833	Torradovirus	Torradovirus lycopersici	YES	4	35889;4081;4100;4111	1	Solanaceae
+Secoviridae	AA95_273	NC_010709.1	7	HM032712.1;MH053441.1;MW810303.1;MW810305.1;MW810307.1;NC_010709.1;PX514897.1	328061	Comovirus	Comovirus raphani	YES	2	3700;3726	1	Brassicaceae
+Secoviridae	AA95_146	NC_010987.1	5	EF063641.1;KT756874.1;KT756876.1;MK733734.1;NC_010987.1	470166	Torradovirus	Torradovirus marchitezum	YES	4	300354;35889;4081;4100	1	Solanaceae
+Secoviridae	AA95_303	NC_011190.1	2	EU747708.1;NC_011190.1	487492	Fabavirus	Fabavirus gentianae	YES	1	192012	1	Asteraceae
+Secoviridae	AA95_151	NC_013075.1	2	GQ305131.1;NC_013075.1	661101	Torradovirus	Tomato chocolate spot virus	YES	1	4081	1	Solanaceae
+Secoviridae	AA95_274	NC_013218.1	5	FJ516745.1;GQ222381.1;MW274715.1;NC_013218.1;NC_078907.1	392504	Comovirus	Comovirus rapae	YES	3	3715;51350;51351	1	Brassicaceae
+Secoviridae	AA95_32	NC_015414.1	15	FR851461.1;GU167974.1;KC937020.1;KC937021.1;KC937022.1;KC937023.1;KC937024.1;KC937025.1;MN399680.1;MT935684.1;MW848518.1;NC_015414.1;OQ993344.1;PP028120.1;PV769470.1	12615	Nepovirus	Nepovirus avii	YES	16	16718;175228;229202;2768810;3158418;32247;3619;3620;3621;3625;3750;4020;4039;4202;58024;63459	11	Actinidiaceae;Adoxaceae;Amaranthaceae;Apiaceae;Ericaceae;Grossulariaceae;Juglandaceae;Polygonaceae;Rosaceae;Simaroubaceae;Tropaeolaceae
+Secoviridae	AA95_213	NC_015492.1	2	FN691934.1;NC_015492.1	748667	Nepovirus	Nepovirus bulgariense	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_255	NC_016443.1	2	JN052073.1;NC_016443.1	1120751	Sadwavirus	Sadwavirus fritillariae	YES	2	2848455;2985780	1	Asparagaceae
+Secoviridae	AA95_355	NC_017939.1	2	HE613269.1;NC_017939.1	233784	Nepovirus	Nepovirus deformationis	YES	2	29760;66262	2	Amaranthaceae;Vitaceae
+Secoviridae	AA95_340	NC_018383.1	2	HE774604.1;NC_018383.1	223769	Nepovirus	Nepovirus anatoliense	YES	2	200313;29760	2	Solanaceae;Vitaceae
+Secoviridae	AA95_278	NC_022004.1	3	GU810903.1;NC_022004.1;OP357932.1	649890	Comovirus	Comovirus fabae	YES	1	3906	1	Fabaceae
+Secoviridae	AA95_309	NC_023016.1	3	KC595304.1;NC_023016.1;OR991834.1	1432135	Fabavirus	Fabavirus lamii	YES	2	53159;81866	2	Lamiaceae;Solanaceae
+Secoviridae	AA95_117	NC_025479.2	4	KF533719.2;NC_025479.2;OM419190.1;PV870379.1	1425364	Torradovirus	Torradovirus carotae	YES	1	4039	1	Apiaceae
+Secoviridae	AA95_173	NC_027915.1	2	KT238881.1;NC_027915.1	1720595	Waikavirus	Waikavirus campanulae	YES	1	989334	1	Campanulaceae
+Secoviridae	AA95_150	NC_027926.1	2	KC999058.1;NC_027926.1	1481465	Torradovirus	Tomato necrotic dwarf virus	YES	1	4081	1	Solanaceae
+Secoviridae	AA95_288	NC_028139.1	4	KP404602.1;KY622124.1;KY701258.1;NC_028139.1	128790	Comovirus	Comovirus rugomusivum	YES	2	3847;3885	1	Fabaceae
+Secoviridae	AA95_72	NC_029038.1	3	KC935374.1;KT692952.1;NC_029038.1	1476584	Cheravirus	Cheravirus ribis	YES	1	175228	1	Grossulariaceae
+Secoviridae	AA95_334	NC_031766.1	2	KU215538.1;NC_031766.1	2170181	Sadwavirus	Sadwavirus dioscoreae	YES	2	4672;55577	1	Dioscoreaceae
+Secoviridae	AA95_12	NC_032270.1	2	KX424571.1;NC_032270.1	1927714	Nepovirus	Nepovirus glycinis	YES	1	3847	1	Fabaceae
+Secoviridae	AA95_353	NC_033492.1	2	KX812815.1;NC_033492.1	1935922	Nepovirus	Nepovirus petuniae	YES	1	4102	1	Solanaceae
+Secoviridae	AA95_1	NC_034214.1	2	KY646466.1;NC_034214.1	65068	Nepovirus	Nepovirus persicae	YES	2	103355;3603	1	Vitaceae
+Secoviridae	AA95_116	NC_035214.1	4	KC855266.1;MW172270.1;NC_035214.1;PP856209.1	1358807	Torradovirus	Torradovirus lactucae	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_133	NC_035218.1	2	KM229700.1;NC_035218.1	1561160	Torradovirus	Torradovirus cardiacae	YES	1	587664	1	Lamiaceae
+Secoviridae	AA95_134	NC_035221.1	3	KU052530.1;NC_035221.1;OP357956.1	1810396	Torradovirus	Torradovirus cucurbitae	YES	3	3659;3662;3663	1	Cucurbitaceae
+Secoviridae	AA95_65	NC_038320.1	3	EU980442.1;MW080951.2;NC_038320.1	680112	Sequivirus	Sequivirus carotae	YES	2	4039;4100	2	Apiaceae;Solanaceae
+Secoviridae	AA95_308	NC_038760.1	4	EU881936.2;KC959843.1;NC_038760.1;OR069475.1	1131416	Fabavirus	Fabavirus cucurbitaceae	YES	3	3660;3662;3677	1	Cucurbitaceae
+Secoviridae	AA95_238	NC_038762.1	2	JX304792.1;NC_038762.1	1962503	Nepovirus	Nepovirus aeonii	YES	4	22994;4100;46091;63459	3	Amaranthaceae;Crassulaceae;Solanaceae
+Secoviridae	AA95_0	NC_038764.1	1	NC_038764.1	1071488	Nepovirus	Nepovirus vaccinii	YES	9	200313;221775;3670;4097;4100;63459;69266;81866;89664	5	Amaranthaceae;Convolvulaceae;Cucurbitaceae;Ericaceae;Solanaceae
+Secoviridae	AA95_277	NC_038765.1	2	AB518485.1;NC_038765.1	669377	Nepovirus	Nepovirus cucumis	YES	14	102211;221775;3562;35889;3656;3917;4076;4081;4097;4100;4102;63459;66262;81866	4	Amaranthaceae;Cucurbitaceae;Fabaceae;Solanaceae
+Secoviridae	AA95_17	NC_038767.1	7	BK059324.1;BK059325.1;BK059326.1;KC904083.1;MN240484.1;NC_038767.1;OR340558.1	1527441	Nepovirus	Nepovirus mori	YES	2	3497;3498	1	Moraceae
+Secoviridae	AA95_57	NC_038862.1	5	AM087671.2;EF205130.1;NC_038862.1;OR879090.1;PP721209.1	348894	Nepovirus	Nepovirus cynarae	YES	3	4081;4679;59895	3	Amaryllidaceae;Asteraceae;Solanaceae
+Secoviridae	AA95_254	NC_039073.1	3	KX241482.1;LC897300.1;NC_039073.1	1849838	Fabavirus	Fabavirus vitis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_294	NC_039077.1	44	KX192388.1;KX192389.1;KX192390.1;KX216759.1;KX216760.1;KX216763.1;KX216764.1;KX216765.1;KX216766.1;KX216773.1;KX216774.1;KX216775.1;KX216776.1;KX216777.1;KX216778.1;KX216779.1;KX216780.1;KX269865.1;KX269866.1;KX269867.1;KX269868.1;KX269869.1;KX269870.1;LC752758.1;MH177885.1;MH177886.1;MH998208.1;MK834285.1;MK834287.1;MZ291930.1;MZ291932.1;MZ291935.1;MZ291937.1;NC_039077.1;OR545804.1;OR596712.1;OR596715.1;OR596716.1;OR596717.1;OR596718.1;OR596719.1;OR596720.1;OR596721.1;OR596722.1	1855510	Fabavirus	Fabavirus pruni	YES	3	140311;3754;42229	1	Rosaceae
+Secoviridae	AA95_11	NC_040399.1	4	MG253828.1;MG253830.1;MN399682.1;NC_040399.1	2058094	Nepovirus	Nepovirus pratensis	YES	2	3803;57577	1	Fabaceae
+Secoviridae	AA95_13	NC_040417.1	2	MH716806.1;NC_040417.1	2170039	Nepovirus	Nepovirus usolani	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_172	NC_040586.1	4	MH844554.1;NC_040586.1;OP381088.1;PQ529471.1	2419797	Waikavirus	Waikavirus brassicae	YES	3	344680;3708;51351	1	Brassicaceae
+Secoviridae	AA95_339	NC_043447.1	4	KX656670.1;MT521733.1;MZ296930.1;NC_043447.1	2340870	Nepovirus	Nepovirus betasolani	YES	3	172790;4100;4113	1	Solanaceae
+Secoviridae	AA95_44	NC_043684.1	1	NC_043684.1	46075	Nepovirus	Nepovirus italiaense	YES	8	122557;174463;200313;268023;53160;58643;59895;75947	3	Asteraceae;Lamiaceae;Solanaceae
+Secoviridae	AA95_93	NC_076607.1	2	LC488189.1;NC_076607.1	2590572	Waikavirus	Waikavirus diospyri	YES	1	35925	1	Ebenaceae
+Secoviridae	AA95_135	NC_076635.1	2	MH325329.1;NC_076635.1	2315578	Waikavirus	Waikavirus trifolii	YES	1	57577	1	Fabaceae
+Secoviridae	AA95_147	NC_076727.1	2	MN180070.1;NC_076727.1	2715795	Waikavirus	Waikavirus actinidiae	YES	2	3624;3627	1	Actinidiaceae
+Secoviridae	AA95_148	NC_076854.1	2	MN701059.1;NC_076854.1	1569061	Waikavirus	Waikavirus ribesnigri	YES	2	3802;78511	1	Grossulariaceae
+Secoviridae	AA95_69	NC_076896.1	3	MT348706.1;NC_076896.1;OQ446446.1	2749300	Sequivirus	Sequivirus stellatum	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_82	NC_076923.1	3	MW289237.1;MW701433.1;NC_076923.1	2822469	Waikavirus	Waikavirus liegense	YES	1	89684	1	Poaceae
+Secoviridae	AA95_149	NC_077084.1	6	MT757670.1;NC_077084.1;PQ536889.1;PQ536890.1;PQ536891.1;PQ536892.1	2875869	Waikavirus	Waikavirus rosae	YES	4	128735;36598;3764;74636	1	Rosaceae
+Secoviridae	AA95_97	NC_077103.1	2	MW545173.1;NC_077103.1	2899887	Waikavirus	Waikavirus camelliae	YES	1	3341736	1	Theaceae
+Secoviridae	AA95_304	NC_077675.1	1	NC_077675.1	182452	Fabavirus	Fabavirus gentianae	YES	1	21496	1	Gentianaceae
+Secoviridae	AA95_293	NC_077801.1	3	KY867750.1;MK460243.1;NC_077801.1	2038685	Fabavirus	Fabavirus persicae	YES	1	3760	1	Rosaceae
+Secoviridae	AA95_51	NC_078583.1	13	MH323435.1;MW962309.1;MW962310.1;MW962311.1;MW962312.1;MW962313.1;MW962314.1;MW962315.1;MW962316.1;MW962317.1;MW962318.1;MW962319.1;NC_078583.1	2802553	Nepovirus	Nepovirus sichuanense	YES	2	67937;67938	1	Rutaceae
+Secoviridae	AA95_275	NC_078590.1	4	MH899120.1;NC_078590.1;PQ342002.1;TS_nucl_5308	2570606	Comovirus	Comovirus arabidopsis	YES	3	3702;3888;4100	3	Brassicaceae;Fabaceae;Solanaceae
+Secoviridae	AA95_305	NC_078594.1	3	LC831803.1;MK990555.1;NC_078594.1	2555551	Comovirus	Comovirus capsici	YES	2	4072;4073	1	Solanaceae
+Secoviridae	AA95_253	NC_078626.1	3	MN809923.1;NC_078626.1;OP860244.1	2726258	Sadwavirus	Sadwavirus alphananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_276	NC_078628.1	2	MN837498.1;NC_078628.1	2728245	Comovirus	Comovirus phaseoli	YES	1	3885	1	Fabaceae
+Secoviridae	AA95_351	NC_078639.1	2	MT507290.1;NC_078639.1	2789373	Nepovirus	Nepovirus alphavitis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_10	NC_078656.1	2	MW289235.1;NC_078656.1	2822470	Nepovirus	Nepovirus poaceae	YES	1	89684	1	Poaceae
+Secoviridae	AA95_187	NC_078685.1	4	KR011032.1;LC382242.1;NC_078685.1;TS_nucl_5290	1676256	Stralarivirus	Stralarivirus lychnis	YES	3	228716;3662;655896	3	Apocynaceae;Caryophyllaceae;Cucurbitaceae
+Secoviridae	AA95_242	NC_078766.1	2	KX925437.1;NC_078766.1	2035396	Sadwavirus	Sadwavirus lactucae	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_225	NC_078824.1	2	MT591564.1;NC_078824.1	38172	Nepovirus	Nepovirus myrtilli	YES	2	13749;3558	2	Amaranthaceae;Ericaceae
+Secoviridae	AA95_243	NC_078825.1	7	KC832886.1;KC832887.1;KC832890.1;MT922050.1;MW582779.1;NC_022798.1;NC_078825.1	257464	Nepovirus	Nepovirus solani	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_96	NC_078828.1	8	JQ437415.1;MK153129.1;MK153130.1;MK153131.1;MK153135.1;MW582785.1;NC_020898.1;NC_078828.1	257463	Cheravirus	Cheravirus arracaciae	YES	3	264540;4113;50475	3	Apiaceae;Oxalidaceae;Solanaceae
+Secoviridae	AA95_352	NC_078841.1	2	KY569301.1;NC_078841.1	1964552	Nepovirus	Nepovirus arracaciae	YES	1	264540	1	Apiaceae
+Secoviridae	AA95_306	NC_078845.1	4	MN148891.1;MN176101.1;NC_078845.1;ON013876.1	12259	Comovirus	Comovirus andesense	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_244	NC_079039.1	2	MH898479.1;NC_079039.1	2593930	Nepovirus	Nepovirus anemones	YES	1	174164	1	Ranunculaceae
+Secoviridae	AA95_237	NC_079041.1	2	MN412739.1;NC_079041.1	3071303	Sadwavirus	Sadwavirus aciphyllae	NO	1	58024	0	
+Secoviridae	AA95_115	NC_079055.1	1	NC_079055.1	2879515	Torradovirus	Torradovirus codonopsis	YES	1	103999	1	Campanulaceae
+Secoviridae	AA95_333	NC_079060.1	3	MZ325761.1;MZ325763.1;NC_079060.1	2875798	Nepovirus	Nepovirus stenotaphri	YES	1	158163	1	Poaceae
+Secoviridae	AA95_103	NC_079070.1	6	MF449522.1;NC_079070.1;OK040225.1;ON924327.1;PQ493398.1;PQ679271.1	1427159	Torradovirus	Torradovirus manihotis	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_307	NC_079071.1	4	NC_079071.1;OM777135.1;OP860258.1;OP860259.1	2989723	Sadwavirus	Sadwavirus betananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_119	OL979629.1	1	OL979629.1	3432935	Torradovirus	Torradovirus erigeronis	YES	1	91248	1	Asteraceae
+Secoviridae	AA95_191	OM201233.1	2	MG062675.1;OM201233.1	28351	Stralarivirus	Stralarivirus fragariae	YES	1	4688	1	Liliaceae
+Secoviridae	AA95_189	OM365896.1	1	OM365896.1	2957729		Camellia sinensis secoviridae virus 1	YES	1	182317	1	Theaceae
+Secoviridae	AA95_89	OM801008.1	1	OM801008.1	3433716	Waikavirus	Waikavirus carotae	YES	1	4039	1	Apiaceae
+Secoviridae	AA95_233	ON013913.1	1	ON013913.1	167161	Sadwavirus	Sadwavirus fragariae	YES	1	3746	1	Rosaceae
+Secoviridae	AA95_222	ON229946.1	1	ON229946.1	12282	Nepovirus	Nepovirus nicotianae	YES	1	38596	1	Lamiaceae
+Secoviridae	AA95_322	ON241325.1	2	MK116519.1;ON241325.1	76875	Fabavirus	Fabavirus betaviciae	YES	2	4182;418402	2	Caryophyllaceae;Pedaliaceae
+Secoviridae	AA95_323	ON241326.1	1	ON241326.1	76875	Fabavirus	Fabavirus betaviciae	YES	1	418402	1	Caryophyllaceae
+Secoviridae	AA95_324	ON241330.1	1	ON241330.1	76875	Fabavirus	Fabavirus betaviciae	YES	1	418402	1	Caryophyllaceae
+Secoviridae	AA95_314	ON759443.1	4	ON759443.1;ON759444.1;OP722590.1;TS_nucl_5345	76875	Fabavirus	Fabavirus betaviciae	YES	3	21496;227909;4072	3	Gentianaceae;Loranthaceae;Solanaceae
+Secoviridae	AA95_260	ON868717.1	4	KX241484.1;LC424104.3;LC457511.1;ON868717.1	1849838	Fabavirus	Fabavirus vitis	YES	2	105599;29760	1	Vitaceae
+Secoviridae	AA95_52	ON871625.1	44	ON871623.1;ON871625.1;ON871627.1;ON871629.1;ON871631.1;ON871633.1;ON871635.1;ON871637.1;ON871639.1;ON871641.1;ON871643.1;ON871646.1;ON871648.1;ON871654.1;ON871656.1;ON871658.1;ON871660.1;ON871662.1;ON871665.1;ON871670.1;ON871674.1;ON871678.1;ON871683.1;ON871684.1;ON871687.1;ON871691.1;ON871693.1;ON871694.1;ON871696.1;ON871698.1;ON871701.1;ON871702.1;ON871704.1;ON871707.1;ON871709.1;ON871711.1;ON871712.1;ON871714.1;ON871717.1;ON871721.1;ON871723.1;ON871726.1;ON871731.1;ON871735.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	2	3193;4113	1	Solanaceae
+Secoviridae	AA95_106	ON871650.1	2	ON871650.1;ON871718.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_107	ON871652.1	1	ON871652.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_53	ON871666.1	1	ON871666.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_108	ON871681.1	1	ON871681.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_109	ON871688.1	1	ON871688.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_110	ON871724.1	3	ON871724.1;ON871725.1;ON871732.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_111	ON871734.1	1	ON871734.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_112	ON871737.1	1	ON871737.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_54	ON871739.1	1	ON871739.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_113	ON871742.1	1	ON871742.1	3064989	Torradovirus	Torradovirus nanorugosum	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_60	ON924323.1	1	ON924323.1	2994895	Sequivirus	Cassava Congo sequivirus	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_371	ON991744.1	2	MW380915.1;ON991744.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_372	ON991761.1	2	MW380910.1;ON991761.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_373	ON991766.1	1	ON991766.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_181	OP019481.1	1	OP019481.1	3432600	Stralarivirus	Stralarivirus elaterii	YES	1	3679	1	Cucurbitaceae
+Secoviridae	AA95_7	OP292294.1	1	OP292294.1	3431078	Nepovirus	Nepovirus carolinense	YES	1	50511	1	Solanaceae
+Secoviridae	AA95_91	OP328251.1	1	OP328251.1	340196	Cheravirus	Cheravirus pruni	YES	1	3758	1	Rosaceae
+Secoviridae	AA95_9	OP374158.1	1	OP374158.1	3002895	Nepovirus	Nepovirus alphaparis	YES	1	221260	1	Melanthiaceae
+Secoviridae	AA95_58	OP440437.1	4	OP440437.1;OP440438.1;OP440439.1;OP440440.1	3040944	Cheravirus	Cassava-Congo cheravirus	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_59	OP440441.1	1	OP440441.1	3040944	Cheravirus	Cassava-Congo cheravirus	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_319	OP722620.1	3	AY781171.1;KT988973.1;OP722620.1	50817	Fabavirus	Fabavirus alphaviciae	YES	2	3906;4072	2	Fabaceae;Solanaceae
+Secoviridae	AA95_318	OP794357.1	1	OP794357.1	3025943	Fabavirus	Fabavirus cirsii	YES	1	859427	1	Asteraceae
+Secoviridae	AA95_262	OP860242.1	2	OP860242.1;OP860243.1	2726258	Sadwavirus	Sadwavirus alphananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_315	OP860246.1	1	OP860246.1	2989723	Sadwavirus	Sadwavirus betananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_316	OP860247.1	10	OP860247.1;OP860248.1;OP860249.1;OP860250.1;OP860251.1;OP860252.1;OP860253.1;OP860254.1;OP860255.1;OP860256.1	2989723	Sadwavirus	Sadwavirus betananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_317	OP860257.1	1	OP860257.1	2989723	Sadwavirus	Sadwavirus betananas	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_335	OP860260.1	1	OP860260.1	3022851		Pineapple secovirus C	YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_131	OQ087134.1	2	OQ087134.1;TS_nucl_5273	3036445	Torradovirus	Torradovirus arctii	YES	2	4217;4222	1	Asteraceae
+Secoviridae	AA95_70	OQ446447.1	1	OQ446447.1	2749300	Sequivirus	Sequivirus stellatum	YES	1	4236	1	Asteraceae
+Secoviridae	AA95_68	OQ847406.1	2	MW848523.1;OQ847406.1	680112	Sequivirus	Sequivirus carotae	YES	2	4039;4100	2	Apiaceae;Solanaceae
+Secoviridae	AA95_219	OQ925637.1	88	KJ556849.1;MN504759.1;MN504760.1;MN504761.1;MN504762.1;MN504763.1;MN504764.1;MN504765.1;MN504766.1;MN504767.1;MN504768.1;MN504769.1;MN504770.1;MN504771.1;MT042825.1;MT210150.1;MT563078.1;MT563080.1;MT563082.1;MT577351.1;MW057706.1;MW495243.1;MW961154.1;NC_005097.1;OK558787.1;ON229932.1;ON229934.1;ON229936.1;ON229938.1;ON229940.1;ON229942.1;ON229944.1;ON229948.1;ON229950.1;ON229952.1;ON229954.1;ON229956.1;ON229958.1;ON229960.1;ON229962.1;ON229964.1;ON229966.1;ON229968.1;ON229970.1;ON229972.1;ON229974.1;ON229976.1;ON229978.1;ON229980.1;ON229982.1;ON229984.1;ON229986.1;ON229988.1;ON229990.1;ON229992.1;ON229994.1;ON229996.1;ON229998.1;ON230000.1;ON230002.1;ON230004.1;ON230006.1;ON230008.1;ON230010.1;ON230012.1;ON230014.1;ON230016.1;ON751941.1;ON751942.1;ON751944.1;OQ925637.1;OQ925639.1;OQ925641.1;OQ925643.1;OQ925645.1;OQ925647.1;OQ925649.1;OQ925651.1;OQ925653.1;OQ925655.1;OQ925657.1;OQ925659.1;OQ925661.1;OQ925663.1;OQ925665.1;OQ925667.1;OQ925669.1;OQ925671.1	12282	Nepovirus	Nepovirus nicotianae	YES	53	103544;127142;132459;13305;1358727;137206;13749;16107;211815;21819;22868;23109;23216;26378;283210;29760;34205;34213;3582;3635;3649;3654;3656;3659;3750;3760;3847;38596;3869;3885;38871;3917;39177;39639;4030;4032;4072;40749;4081;4097;4101;4111;4113;42229;4281;4382;46111;49747;587658;66679;69266;90645;97321	25	Amaranthaceae;Amaryllidaceae;Asphodelaceae;Balsaminaceae;Campanulaceae;Caricaceae;Cornaceae;Cucurbitaceae;Ericaceae;Fabaceae;Geraniaceae;Hydrangeaceae;Iridaceae;Lamiaceae;Liliaceae;Malvaceae;Oleaceae;Plantaginaceae;Polemoniaceae;Portulacaceae;Ranunculaceae;Rosaceae;Solanaceae;Thymelaeaceae;Vitaceae
+Secoviridae	AA95_50	OQ943946.1	1	OQ943946.1	3143975	Nepovirus	Jasminum polyanthum nepovirus 1	YES	1	85216	1	Oleaceae
+Secoviridae	AA95_27	OR082763.1	22	JF968120.1;KC900162.1;MH802030.1;MH802032.1;MN496426.1;MW380909.1;MW380911.1;MW380914.1;ON991745.1;ON991768.1;ON991769.1;OR082763.1;PQ736756.1;PQ736763.1;PQ736764.1;PQ736765.1;PQ736767.1;PQ736778.1;PQ736780.1;PQ736782.1;PQ736784.1;PQ736786.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_387	OR088567.1	3	OP328247.1;OP328249.1;OR088567.1	2995353	Cheravirus	Cheravirus alpinum	YES	3	129217;151428;36596	1	Rosaceae
+Secoviridae	AA95_75	OR096292.1	1	OR096292.1	1476584	Cheravirus	Cheravirus ribis	YES	1	85363	1	Ranunculaceae
+Secoviridae	AA95_214	OR141115.1	1	OR141115.1	3072196	Nepovirus	Mirobolan latent ringspot virus	YES	1	36595	1	Rosaceae
+Secoviridae	AA95_215	OR141117.1	1	OR141117.1	136418	Nepovirus	Nepovirus armeniacae	YES	1	36596	1	Rosaceae
+Secoviridae	AA95_220	OR413567.1	1	OR413567.1	3098095	Sadwavirus	Sadwavirus chysanthemi	YES	1	133374	1	Scrophulariaceae
+Secoviridae	AA95_140	OR453962.1	1	OR453962.1	3078460	Torradovirus	Rehmannia torradovirus	YES	1	99300	1	Orobanchaceae
+Secoviridae	AA95_247	OR469951.1	1	OR469951.1	2035396	Sadwavirus	Sadwavirus lactucae	YES	1	50225	1	Asteraceae
+Secoviridae	AA95_190	OR513894.1	2	MF797011.1;OR513894.1	28351	Stralarivirus	Stralarivirus fragariae	YES	1	3760	1	Rosaceae
+Secoviridae	AA95_259	OR544055.1	1	OR544055.1	3430811	Mersevirus	Mersevirus merculiaris	YES	1	3985	1	Euphorbiaceae
+Secoviridae	AA95_258	OR573919.1	4	KX962563.1;MZ327141.1;ON868716.1;OR573919.1	1849838	Fabavirus	Fabavirus vitis	YES	3	29760;3554;4682	3	Amaranthaceae;Amaryllidaceae;Vitaceae
+Secoviridae	AA95_66	OR607773.1	1	OR607773.1	680112	Sequivirus	Sequivirus carotae	YES	1	46995	1	Ranunculaceae
+Secoviridae	AA95_98	OR659471.1	1	OR659471.1	3433720	Waikavirus	Waikavirus pittospori	YES	1	43073	1	Pittosporaceae
+Secoviridae	AA95_281	OR840696.1	1	OR840696.1	2570606	Comovirus	Comovirus arabidopsis	YES	1	3728	1	Brassicaceae
+Secoviridae	AA95_342	OR947508.1	1	OR947508.1	3113822	Fabavirus	Fabavirus betavitis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_20	OX380383.1	1	OX380383.1	2933167	Nepovirus	Nepovirus fontinalis	YES	1	67435	1	Fontinalaceae
+Secoviridae	AA95_239	OX380465.1	1	OX380465.1	2933188		Shoestring fern seco-like virus	YES	1	38538	1	Pteridaceae
+Secoviridae	AA95_90	OX380474.1	2	OX380474.1;TS_nucl_5332	2933186		Salix dasyclados secovirus	YES	2	3688;77061	1	Salicaceae
+Secoviridae	AA95_240	OX380481.1	2	OX380481.1;TS_nucl_5341	2933189		Tomato fern seco-like virus	YES	2	1521763;32095	1	Lonchitidaceae
+Secoviridae	AA95_205	PP080166.1	1	PP080166.1	3378396	Stralarivirus	Stralarivirus sp. 'solani'	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_357	PP187691.1	1	PP187691.1	233784	Nepovirus	Nepovirus deformationis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_358	PP187693.1	1	PP187693.1	233784	Nepovirus	Nepovirus deformationis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_359	PP187695.1	1	PP187695.1	233784	Nepovirus	Nepovirus deformationis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_280	PP213456.1	2	MW720558.1;PP213456.1	392504	Comovirus	Comovirus rapae	YES	2	29727;4577	2	Brassicaceae;Poaceae
+Secoviridae	AA95_46	PP376097.1	1	PP376097.1	3237373	Nepovirus	Cucumber nepovirus A	YES	1	3659	1	Cucurbitaceae
+Secoviridae	AA95_313	PP856215.1	4	MN216348.1;MN216355.1;PP730441.1;PP856215.1	50817	Fabavirus	Fabavirus alphaviciae	YES	3	13215;4071;4112	2	Piperaceae;Solanaceae
+Secoviridae	AA95_175	PQ493392.1	4	PQ493392.1;PQ493393.1;PQ493394.1;PQ493396.1	2994894	Torradovirus	Cassava torrado-like virus 2	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_176	PQ493397.1	1	PQ493397.1	2994894	Torradovirus	Cassava torrado-like virus 2	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_311	PQ520505.1	1	PQ520505.1	12259	Comovirus	Comovirus andesense	YES	1	4113	1	Solanaceae
+Secoviridae	AA95_174	PQ564684.1	9	ON887638.1;ON924325.2;PQ493390.1;PQ493391.1;PQ493395.1;PQ493399.1;PQ564684.1;PQ564686.1;PQ564687.1	2994894	Torradovirus	Cassava torrado-like virus 2	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_367	PQ654439.1	14	BK059316.1;BK059317.1;BK059318.1;BK059322.1;BK059323.1;EU617326.1;GQ369526.1;GQ369528.1;MW854260.1;OL311678.1;OP357947.1;OP525300.1;OR477266.1;PQ654439.1	12271	Nepovirus	Nepovirus arabis	YES	10	13596;13597;29760;32247;3746;39639;4202;4513;54854;63459	7	Adoxaceae;Amaranthaceae;Amaryllidaceae;Oleaceae;Poaceae;Rosaceae;Vitaceae
+Secoviridae	AA95_14	PQ654443.1	1	PQ654443.1	3395494	Nepovirus	Cassava nepovirus	YES	1	3983	1	Euphorbiaceae
+Secoviridae	AA95_360	PQ736755.1	13	PQ736755.1;PQ736757.1;PQ736758.1;PQ736759.1;PQ736766.1;PQ736768.1;PQ736771.1;PQ736779.1;PQ736781.1;PQ736787.1;PQ736789.1;PQ736790.1;PQ736792.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_361	PQ736760.1	6	KX034852.1;KX034855.1;KX034859.1;KX034871.1;KX034890.1;PQ736760.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_362	PQ736769.1	9	OP885241.1;OP886351.1;OP886352.1;OP886353.1;OP886354.1;OR892391.1;PQ736769.1;PQ736775.1;PQ736785.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_363	PQ736770.1	3	MW380907.1;MW854262.1;PQ736770.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_364	PQ736772.1	1	PQ736772.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_365	PQ736777.1	1	PQ736777.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_366	PQ736791.1	1	PQ736791.1	12274	Nepovirus	Nepovirus foliumflabelli	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_344	PQ893053.1	1	PQ893053.1	3402117		Grapevine Magarach secovirus	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_341	PQ893055.1	3	BK065046.1;PQ893055.1;PQ893057.1	3113822	Fabavirus	Fabavirus betavitis	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_73	PV067668.1	1	PV067668.1	3435549	Cheravirus	Grapevine cheravirus	YES	1	29760	1	Vitaceae
+Secoviridae	AA95_36	PV288328.1	4	MT569435.1;MT569436.1;PP856205.1;PV288328.1	12280	Nepovirus	Nepovirus lycopersici	YES	2	103543;13749	2	Ericaceae;Polemoniaceae
+Secoviridae	AA95_226	PV638731.1	28	KU177218.1;KU200453.1;KU200456.1;KU200458.1;LC550285.1;LC550287.1;MT070747.1;MT070748.1;MT070749.1;MT070750.1;MT070751.1;MT991093.1;MT991094.1;MT991095.1;MT991096.1;MT991097.1;MT991098.1;MW383501.1;MZ326673.1;MZ328083.1;MZ328084.1;MZ328086.1;MZ328091.1;MZ328093.1;MZ328094.1;ON013914.1;ON013915.1;PV638731.1	167161	Sadwavirus	Sadwavirus fragariae	YES	3	3746;3747;57918	1	Rosaceae
+Secoviridae	AA95_256	PV647046.1	1	PV647046.1	3423486	Fabavirus	Lespedeza bicolor fabavirus	YES	1	556514	1	Fabaceae
+Secoviridae	AA95_310	PV804842.1	49	AB050782.2;AB746938.1;JX183225.1;JX575182.1;KC625493.1;KC625498.1;KC625499.1;KF498696.1;KJ789136.1;KJ789403.1;KM076648.1;KT246495.1;KU641565.1;KX234809.1;KX686589.1;KY606992.1;LC772905.1;MH645159.1;MN786954.1;MN814313.1;MW271031.1;MW556591.1;MW939476.1;MZ571836.1;OK058513.1;OK546136.1;OM108481.1;ON125370.1;ON241327.1;ON241328.1;ON241329.1;ON759421.1;OP603931.1;OP722588.1;OP722589.1;OP722591.1;OP783967.1;OP785725.1;OQ857921.1;OR178746.1;OR353023.1;OR826802.1;PQ010716.1;PQ655491.1;PV102464.1;PV165516.1;PV393075.1;PV755108.1;PV804842.1	76875	Fabavirus	Fabavirus betaviciae	YES	33	108055;133374;16739;22002;265785;28511;292393;3559;3562;3567;3589;3764;3829;3888;3906;39353;4045;4058;4071;4072;4100;4112;41495;418402;4235;4672;4744;48386;55190;55575;569628;63779;648871	18	Amaranthaceae;Apiaceae;Apocynaceae;Asteraceae;Balsaminaceae;Basellaceae;Caryophyllaceae;Commelinaceae;Dioscoreaceae;Fabaceae;Gentianaceae;Lamiaceae;Paulowniaceae;Piperaceae;Rosaceae;Scrophulariaceae;Solanaceae;Verbenaceae
+Secoviridae	AA95_94	PV929877.1	1	PV929877.1	3455451	Waikavirus	Snake gourd waikavirus	YES	1	50543	1	Cucurbitaceae
+Secoviridae	AA95_208	PX400427.1	2	OR888445.1;PX400427.1	3047685	Sadwavirus	Sadwavirus rubi	YES	2	211815;32247	1	Rosaceae
+Secoviridae	AA95_209	PX400429.1	1	PX400429.1	3476603	Sadwavirus	Rubus sadwavirus 1	YES	1	211815	1	Rosaceae
+Secoviridae	AA95_33	PX423615.1	14	JN104386.1;KU215412.1;KU215413.1;LT883165.1;LT883167.1;MK402281.1;MW057708.1;MW057712.1;MW854282.1;MZ202333.1;MZ291950.1;ON924206.1;OQ731914.1;PX423615.1	12615	Nepovirus	Nepovirus avii	YES	8	28930;29760;3504;3505;3754;38873;42229;46246	6	Betulaceae;Fagaceae;Oleaceae;Ranunculaceae;Rosaceae;Vitaceae
+Secoviridae	AA95_84	TS_nucl_4597	1	TS_nucl_4597				YES	1	155891	1	Paulowniaceae
+Secoviridae	AA95_101	TS_nucl_4618	1	TS_nucl_4618				YES	1	4479	1	Poaceae
+Secoviridae	AA95_223	TS_nucl_4642	1	TS_nucl_4642				YES	1	1006121	1	Vitaceae
+Secoviridae	AA95_123	TS_nucl_5263	1	TS_nucl_5263				YES	1	2849586	1	Apiaceae
+Secoviridae	AA95_124	TS_nucl_5265	1	TS_nucl_5265				YES	1	165353	1	Apiaceae
+Secoviridae	AA95_125	TS_nucl_5266	1	TS_nucl_5266				YES	1	165353	1	Apiaceae
+Secoviridae	AA95_165	TS_nucl_5268	1	TS_nucl_5268				YES	1	386106	1	Asparagaceae
+Secoviridae	AA95_195	TS_nucl_5270	1	TS_nucl_5270				YES	1	386106	1	Asparagaceae
+Secoviridae	AA95_330	TS_nucl_5274	1	TS_nucl_5274				YES	1	41522	1	Asteraceae
+Secoviridae	AA95_196	TS_nucl_5279	1	TS_nucl_5279				YES	1	65558	1	Capparaceae
+Secoviridae	AA95_271	TS_nucl_5285	1	TS_nucl_5285				YES	1	2067805	1	Nyctaginaceae
+Secoviridae	AA95_184	TS_nucl_5286	1	TS_nucl_5286				YES	1	552857	1	Caryophyllaceae
+Secoviridae	AA95_331	TS_nucl_5287	1	TS_nucl_5287				YES	1	126914	1	Amaranthaceae
+Secoviridae	AA95_81	TS_nucl_5289	1	TS_nucl_5289				YES	1	212713	1	Begoniaceae
+Secoviridae	AA95_385	TS_nucl_5301	1	TS_nucl_5301				YES	1	39020	1	Escalloniaceae
+Secoviridae	AA95_86	TS_nucl_5305	1	TS_nucl_5305				YES	1	384405	1	Fabaceae
+Secoviridae	AA95_197	TS_nucl_5307	1	TS_nucl_5307				YES	1	3879	1	Fabaceae
+Secoviridae	AA95_63	TS_nucl_5309	1	TS_nucl_5309				YES	1	58331	1	Fagaceae
+Secoviridae	AA95_171	TS_nucl_5310	1	TS_nucl_5310				YES	1	4136	1	Lamiaceae
+Secoviridae	AA95_126	TS_nucl_5317	1	TS_nucl_5317				YES	1	91896	1	Orobanchaceae
+Secoviridae	AA95_92	TS_nucl_5330	2	BK061330.1;TS_nucl_5330				YES	2	221260;49666	1	Melanthiaceae
+Secoviridae	AA95_249	TS_nucl_5333	1	TS_nucl_5333				YES	1	138855	1	Elaeocarpaceae
+Secoviridae	AA95_234	TS_nucl_5334	1	TS_nucl_5334				YES	1	138855	1	Elaeocarpaceae
+Secoviridae	AA95_235	TS_nucl_5335	1	TS_nucl_5335				YES	1	138855	1	Elaeocarpaceae
+Secoviridae	AA95_332	TS_nucl_5336	1	TS_nucl_5336				YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_265	TS_nucl_5337	1	TS_nucl_5337				YES	1	4615	1	Bromeliaceae
+Secoviridae	AA95_285	TS_nucl_5338	1	TS_nucl_5338				YES	1	4530	1	Poaceae
+Secoviridae	AA95_236	TS_nucl_5342	1	TS_nucl_5342				YES	1	13821	1	Pteridaceae
+Secoviridae	AA95_198	TS_nucl_5349	1	TS_nucl_5349				YES	1	45171	1	Paeoniaceae
+Secoviridae	AA95_3	TS_nucl_5351	1	TS_nucl_5351				YES	1	90549	1	Zygophyllaceae

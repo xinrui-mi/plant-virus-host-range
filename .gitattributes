@@ -1,0 +1,10 @@
+# Keep every released byte identical across platforms.
+# Line-ending conversion would break checksums/SHA256SUMS.txt on Windows checkouts.
+* -text
+
+# Explicit binary classes (no diff, no filters)
+*.gz   binary
+*.xlsx binary
+*.zip  binary
+*.pdf  binary
+*.png  binary

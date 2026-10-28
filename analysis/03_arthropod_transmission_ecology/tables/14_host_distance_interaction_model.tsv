@@ -1,0 +1,5 @@
+term	estimate	std_error	statistic	p_value	model
+(Intercept)	0.338952793991793	0.0215734523240786	15.7115694280178	1.26020412427278e-55	descriptive_host_distance_x_sequence_evidence
+taxonomy_distance	-1.33091068014088	0.00627363794567279	-212.14336747929	0	descriptive_host_distance_x_sequence_evidence
+factor(group)sequence-supported	0.0192204600026865	0.0641004543270717	0.299849044822902	0.764292303159407	descriptive_host_distance_x_sequence_evidence
+taxonomy_distance:factor(group)sequence-supported	0.740127007701022	0.0169959219483899	43.5473291739337	0	descriptive_host_distance_x_sequence_evidence

@@ -1,0 +1,362 @@
+virus_family	cdhit95_cluster_id	representative_sequence_id	cluster_member_n	member_sequence_ids	virus_taxid_representative	virus_genus_representative	virus_species_representative	host_annotated	host_taxid_n	host_taxids	host_family_n	host_families
+Partitiviridae	AA95_351	AY973825.1	1	AY973825.1	328694		Pinus sylvestris partitivirus NL-2005	YES	1	3349	1	Pinaceae
+Partitiviridae	AA95_18	BK013311.1	1	BK013311.1	2824806	Betapartitivirus	Quinoa-associated betapartitivirus 1	YES	1	63459	1	Amaranthaceae
+Partitiviridae	AA95_4	BK013313.1	1	BK013313.1	2824807	Betapartitivirus	Quinoa-associated betapartitivirus 2	YES	1	63459	1	Amaranthaceae
+Partitiviridae	AA95_239	BK013315.1	1	BK013315.1	2824808	Deltapartitivirus	Quinoa-associated deltapartitivirus 1	YES	1	63459	1	Amaranthaceae
+Partitiviridae	AA95_132	BK013317.2	1	BK013317.2	2824809	Deltapartitivirus	Quinoa-associated deltapartitivirus 2	YES	1	63459	1	Amaranthaceae
+Partitiviridae	AA95_262	BK013322.1	1	BK013322.1	2765856	Deltapartitivirus	Cinnamomum chago deltapartitivirus 1	YES	1	1757932	1	Lauraceae
+Partitiviridae	AA95_316	BK013324.1	1	BK013324.1	2765857	Deltapartitivirus	Cinnamomum chago deltapartitivirus 2	YES	1	1757932	1	Lauraceae
+Partitiviridae	AA95_347	BK013329.1	1	BK013329.1	2765858	Deltapartitivirus	Dactylorhiza hatagirea deltapartitivirus	YES	1	2942076	1	Orchidaceae
+Partitiviridae	AA95_114	BK059884.1	1	BK059884.1	2912685		Aegean partiti-like virus	YES	1	63592	1	Chlorodendraceae
+Partitiviridae	AA95_196	BK063220.1	1	BK063220.1	3037152	Deltapartitivirus	Coriandrum sativum deltapartitivirus 1	YES	1	4047	1	Apiaceae
+Partitiviridae	AA95_143	BK063223.1	1	BK063223.1	3037153	Deltapartitivirus	Coriandrum sativum deltapartitivirus 2	YES	1	4047	1	Apiaceae
+Partitiviridae	AA95_103	DQ910762.1	1	DQ910762.1	403698		Vicia faba partitivirus 1	YES	1	3906	1	Fabaceae
+Partitiviridae	AA95_344	EU082132.1	1	EU082132.1	463391		Black raspberry cryptic virus	YES	1	75079	1	Rosaceae
+Partitiviridae	AA95_328	FR776004.1	5	FR776004.1;FR776005.1;FR776007.1;FR776008.1;FR776009.1	882768	Deltapartitivirus	Deltapartitivirus fici	YES	1	3494	1	Moraceae
+Partitiviridae	AA95_329	FR776006.1	1	FR776006.1	882768	Deltapartitivirus	Deltapartitivirus fici	YES	1	3494	1	Moraceae
+Partitiviridae	AA95_39	HG005155.1	1	HG005155.1	1342373		uncultured alphacryptovirus	YES	1	81473	1	Poaceae
+Partitiviridae	AA95_40	JX156424.1	1	JX156424.1	1198146		Diuris pendunculata cryptic virus	YES	1	1198148	1	Orchidaceae
+Partitiviridae	AA95_342	JX658568.1	1	JX658568.1	1256788		Grapevine cryptic virus	YES	1	29760	1	Vitaceae
+Partitiviridae	AA95_117	JX658570.1	1	JX658570.1	1256786		Grapevine partitivirus	YES	1	29760	1	Vitaceae
+Partitiviridae	AA95_68	KT285019.1	1	KT285019.1	1768871		Raphanus sativus partitivirus 1	YES	1	3726	1	Brassicaceae
+Partitiviridae	AA95_290	KY695009.1	1	KY695009.1	1985163	Deltapartitivirus	Spinach deltapartitivirus 1	YES	1	3562	1	Amaranthaceae
+Partitiviridae	AA95_88	LC221826.1	1	LC221826.1	1968821	Alphapartitivirus	Pear alphapartitivirus	YES	1	3767	1	Rosaceae
+Partitiviridae	AA95_266	LC652484.1	1	LC652484.1	2880881	Deltapartitivirus	Red clover cryptic virus 3	YES	1	57577	1	Fabaceae
+Partitiviridae	AA95_136	LC746759.1	37	LC602838.1;LC602840.1;LC746758.1;LC746759.1;ON567241.1;OR474475.1;OR892397.1;PQ521024.1;PQ521026.1;PQ521028.1;PQ521030.1;PQ521032.1;PQ521033.1;PQ521035.1;PQ521037.1;PQ521039.1;PQ521041.1;PQ521043.1;PQ521045.1;PQ521047.1;PQ521049.1;PQ521050.1;PQ521052.1;PQ521054.1;PQ521056.1;PQ521058.1;PQ521060.1;PQ521062.1;PQ521064.1;PQ521066.1;PQ521068.1;PQ521070.1;PQ521072.1;PQ521074.1;PQ736749.1;PQ736751.1;PQ736753.1	2806514		Vitis cryptic virus	YES	4	241073;29760;3603;694578	1	Vitaceae
+Partitiviridae	AA95_340	LC863182.1	1	LC863182.1	1256786		Grapevine partitivirus	YES	1	3649	1	Caricaceae
+Partitiviridae	AA95_56	MF686921.1	1	MF686921.1	2028130		Raphanus sativus cryptic virus 4	YES	1	3726	1	Brassicaceae
+Partitiviridae	AA95_19	MG600292.1	2	MG600292.1;TS_nucl_6388	1323528	Betapartitivirus	Betapartitivirus purpurae	YES	1	57577	1	Fabaceae
+Partitiviridae	AA95_91	MH802024.1	2	JX658569.1;MH802024.1	1256786		Grapevine partitivirus	YES	1	29760	1	Vitaceae
+Partitiviridae	AA95_180	MH814756.1	1	MH814756.1	2562459	Deltapartitivirus	Camellia oleifera cryptic virus 1	YES	1	385388	1	Theaceae
+Partitiviridae	AA95_157	MH898471.1	1	MH898471.1	2593933		Amaranthus cryptic virus 1	YES	1	277990	1	Amaranthaceae
+Partitiviridae	AA95_210	MH898473.1	1	MH898473.1	2593934		Amaranthus cryptic virus 2	YES	1	277990	1	Amaranthaceae
+Partitiviridae	AA95_35	MH898476.1	1	MH898476.1	2593936		Ambrosia cryptic virus 1	YES	1	4214	1	Asteraceae
+Partitiviridae	AA95_317	MH898486.1	1	MH898486.1	2593938		Dactylorhiza cryptic virus 1	YES	1	230574	1	Orchidaceae
+Partitiviridae	AA95_226	MH898487.1	1	MH898487.1	2593939		Dactylorhiza cryptic virus 2	YES	1	230574	1	Orchidaceae
+Partitiviridae	AA95_1	MH898492.1	1	MH898492.1	2593947		Helianthus cryptic virus 1	YES	1	73301	1	Asteraceae
+Partitiviridae	AA95_338	MH898498.1	1	MH898498.1	2593942		Lomandra cryptic virus 1	YES	1	34201	1	Asparagaceae
+Partitiviridae	AA95_227	MH898504.1	3	MH898504.1;MH898505.1;TS_nucl_6237	2593940		Panax cryptic virus 1	YES	1	44586	1	Araliaceae
+Partitiviridae	AA95_254	MH898508.1	2	MH898508.1;MH898509.1	2593941		Panax cryptic virus 2	YES	1	44586	1	Araliaceae
+Partitiviridae	AA95_319	MH898519.1	1	MH898519.1	2593944		Rhodiola cryptic virus 1	YES	1	203015	1	Crassulaceae
+Partitiviridae	AA95_280	MH898520.1	1	MH898520.1	2593945		Rhodiola cryptic virus 2	YES	1	203015	1	Crassulaceae
+Partitiviridae	AA95_67	MN386964.1	1	MN386964.1	2709552		Apple partiti-like virus 1	YES	1	3750	1	Rosaceae
+Partitiviridae	AA95_113	MN386965.1	1	MN386965.1	2709553		Apple partiti-like virus 2	YES	1	3750	1	Rosaceae
+Partitiviridae	AA95_106	MN386966.1	1	MN386966.1	2709554		Apple partiti-like virus 3	YES	1	3750	1	Rosaceae
+Partitiviridae	AA95_341	MN862350.1	1	MN862350.1	2740145		Canna indica partitivirus	YES	1	4628	1	Cannaceae
+Partitiviridae	AA95_75	MN862351.1	1	MN862351.1	2740147		Kummerowia striata partitivirus	YES	1	466223	1	Fabaceae
+Partitiviridae	AA95_45	MN862352.1	1	MN862352.1	2740147		Kummerowia striata partitivirus	YES	1	466223	1	Fabaceae
+Partitiviridae	AA95_147	MT159291.1	1	MT159291.1	2593932		Alloteropsis cryptic virus 1	YES	1	435756	1	Poaceae
+Partitiviridae	AA95_252	MT159293.1	1	MT159293.1	2809262		Alloteropsis cryptic virus 2	YES	1	435756	1	Poaceae
+Partitiviridae	AA95_13	MT159296.1	2	MT159296.1;TS_nucl_6329	2593935		Amaranthus cryptic virus 3	YES	1	277990	1	Amaranthaceae
+Partitiviridae	AA95_148	MT159301.1	1	MT159301.1	2593937		Ambrosia cryptic virus 2	YES	1	4214	1	Asteraceae
+Partitiviridae	AA95_253	MT159304.1	2	MT159304.1;TS_nucl_6355	2809264		Camellia cryptic virus 2	YES	1	452972	1	Theaceae
+Partitiviridae	AA95_326	MT159307.1	1	MT159307.1	2809265		Dactylorhiza cryptic virus 3	YES	1	230574	1	Orchidaceae
+Partitiviridae	AA95_109	MT159318.1	3	MT159316.1;MT159318.1;TS_nucl_6235	2809266		Panax cryptic virus 3	YES	1	44586	1	Araliaceae
+Partitiviridae	AA95_186	MT334605.1	1	MT334605.1	2794235		Pistacia cryptic virus	YES	1	289741	1	Anacardiaceae
+Partitiviridae	AA95_187	MT334613.1	1	MT334613.1	2794235		Pistacia cryptic virus	YES	1	55513	1	Anacardiaceae
+Partitiviridae	AA95_279	MW026405.1	1	MW026405.1	2894928	Deltapartitivirus	Brassica campestris chinensis cryptic virus 1	YES	1	93385	1	Brassicaceae
+Partitiviridae	AA95_93	MW063111.1	3	MF372918.1;MW063111.1;MW063112.1	2172040		Maize associated partiti-like virus	YES	1	4577	1	Poaceae
+Partitiviridae	AA95_26	MW086579.1	1	MW086579.1	2784736		Amalga-like chassivirus	YES	1	121087	1	Ostreobiaceae
+Partitiviridae	AA95_0	MW086581.1	1	MW086581.1	2784737		Amalga-like chaucrivirus	YES	1	121087	1	Ostreobiaceae
+Partitiviridae	AA95_111	MW086582.1	1	MW086582.1	2784747		Partiti-like lacotivirus	YES	1	121087	1	Ostreobiaceae
+Partitiviridae	AA95_6	MW086583.1	1	MW086583.1	2784738		Amalga-like dominovirus	YES	1	121087	1	Ostreobiaceae
+Partitiviridae	AA95_32	MW086584.1	1	MW086584.1	2784746		Partiti-like alassinovirus	YES	1	121087	1	Ostreobiaceae
+Partitiviridae	AA95_27	MW086585.1	1	MW086585.1	2784739		Amalga-like lacheneauvirus	YES	1	121087	1	Ostreobiaceae
+Partitiviridae	AA95_225	MW546937.1	1	MW546937.1	2820917		Marigold cryptic virus	YES	1	41495	1	Asteraceae
+Partitiviridae	AA95_49	MW553845.1	1	MW553845.1	2923183		Impatiens cryptic virus 1	YES	1	63779	1	Balsaminaceae
+Partitiviridae	AA95_309	MZ437436.1	1	MZ437436.1	351495		Raphanus sativus cryptic virus 2	YES	1	51351	1	Brassicaceae
+Partitiviridae	AA95_297	MZ751043.1	1	MZ751043.1	2897424	Deltapartitivirus	Silvergrass cryptic virus 1	YES	1	62337	1	Poaceae
+Partitiviridae	AA95_46	NC_006275.1	1	NC_006275.1	292052	Alphapartitivirus	Alphapartitivirus trifolii	YES	1	3899	1	Fabaceae
+Partitiviridae	AA95_38	NC_007241.1	11	AY751737.1;EF173389.1;EF173392.1;EF173394.1;EF173396.1;EU605883.1;MK948539.1;MT159332.1;NC_007241.1;PX204875.1;TS_nucl_6389	54289	Alphapartitivirus	Alphapartitivirus viciae	YES	1	3906	1	Fabaceae
+Partitiviridae	AA95_107	NC_008191.1	3	AY748911.1;AY949985.2;NC_008191.1	348449		Raphanus sativus cryptic virus 1	YES	1	3726	1	Brassicaceae
+Partitiviridae	AA95_215	NC_009519.1	4	MZ320209.1;MZ320210.1;MZ320211.1;NC_009519.1	335204		Fragaria chiloensis cryptic virus	YES	2	101007;3746	1	Rosaceae
+Partitiviridae	AA95_301	NC_010343.1	4	DQ218036.1;NC_010343.1;TS_nucl_6322;TS_nucl_6323	351495		Raphanus sativus cryptic virus 2	YES	2	3700;3726	1	Brassicaceae
+Partitiviridae	AA95_151	NC_010346.1	5	EU024675.1;KM598758.1;MK075826.1;NC_010346.1;PV837620.1	492502		Rose cryptic virus 1	YES	2	3764;74647	1	Rosaceae
+Partitiviridae	AA95_55	NC_011556.1	3	EU489061.1;GQ867221.1;NC_011556.1	509923	Alphapartitivirus	Alphapartitivirus betae	YES	1	161934	1	Amaranthaceae
+Partitiviridae	AA95_163	NC_011705.1	2	FJ461349.1;NC_011705.1	580254		Raphanus sativus cryptic virus 3	YES	1	3726	1	Brassicaceae
+Partitiviridae	AA95_21	NC_013109.1	3	EU195326.1;NC_013109.1;TS_nucl_6370	479713	Betapartitivirus	Betapartitivirus primulae	YES	2	170922;175104	1	Primulaceae
+Partitiviridae	AA95_194	NC_015494.1	6	FR687854.1;MW291643.1;MW291644.1;MW291645.1;MW291646.1;NC_015494.1	882768	Deltapartitivirus	Deltapartitivirus fici	YES	2	309331;3494	1	Moraceae
+Partitiviridae	AA95_306	NC_017989.1	3	HE805113.1;NC_017989.1;TS_nucl_6356	1183241		Persimmon cryptic virus	YES	2	35925;55363	1	Ebenaceae
+Partitiviridae	AA95_16	NC_021094.1	4	JX971976.1;MN497797.1;MN497798.1;NC_021094.1	1323525	Betapartitivirus	Betapartitivirus trifolii	YES	2	3803;3899	1	Fabaceae
+Partitiviridae	AA95_20	NC_021096.1	2	JX971978.1;NC_021096.1	1323524	Betapartitivirus	Betapartitivirus pratense	YES	1	57577	1	Fabaceae
+Partitiviridae	AA95_17	NC_021098.1	2	JX971980.1;NC_021098.1	1323523	Betapartitivirus	Betapartitivirus humuli	YES	1	47085	1	Fabaceae
+Partitiviridae	AA95_14	NC_021147.1	2	JX971984.1;NC_021147.1	1323529	Betapartitivirus	Betapartitivirus anethi	YES	1	40922	1	Apiaceae
+Partitiviridae	AA95_53	NC_022614.1	3	KF484726.1;NC_022614.1;TS_nucl_6234	1408895		Dill cryptic virus 1	YES	2	2849586;40922	1	Apiaceae
+Partitiviridae	AA95_54	NC_022616.1	3	KF484724.1;MG600290.1;NC_022616.1	1408894		Red clover cryptic virus 1	YES	1	57577	1	Fabaceae
+Partitiviridae	AA95_116	NC_027822.1	2	KJ700651.1;NC_027822.1	1310424		Verticillium dahliae partitivirus 1	YES	1	4145	1	Oleaceae
+Partitiviridae	AA95_155	NC_030243.1	3	JX392808.1;KT285020.1;NC_030243.1	1768874		Sinapis alba cryptic virus 1	YES	2	3077;3728	2	Brassicaceae;Chlorellaceae
+Partitiviridae	AA95_65	NC_030889.1	3	LC151461.1;MT155793.1;NC_030889.1	1849335		Arabidopsis halleri partitivirus 1	YES	2	63677;81970	1	Brassicaceae
+Partitiviridae	AA95_10	NC_031134.1	5	KX709964.1;MT893743.1;NC_031134.1;OR553229.1;OR553230.1	1115692	Betapartitivirus	Betapartitivirus cannabis	YES	1	3483	1	Cannabaceae
+Partitiviridae	AA95_37	NC_033770.1	3	KX784754.1;KX784756.1;NC_033770.1	1937817		Spinach cryptic virus 1	YES	2	1072235;3562	1	Amaranthaceae
+Partitiviridae	AA95_284	NC_034159.1	33	JN117278.1;KX525268.1;KX905077.1;KY923703.1;LC195294.1;LC325817.1;LC789561.1;MG542624.1;MG542625.1;MG542626.1;MG542627.1;MG542628.1;MG542629.1;MG542630.1;MG542631.1;MG542632.1;MG542633.1;MN723540.1;MT328055.1;NC_034159.1;ON722354.1;ON759520.1;ON759522.1;ON759524.1;OP131929.1;OP594455.1;OR044905.1;OR353017.1;OR353018.1;OR353019.1;OR589769.1;PV740238.1;PV939908.1	1050903	Deltapartitivirus	Deltapartitivirus duocapsici	YES	5	165789;16739;190260;4072;4073	3	Asteraceae;Piperaceae;Solanaceae
+Partitiviridae	AA95_135	NC_034513.1	4	KX826917.1;LC487708.1;NC_034513.1;OR683254.1	1980625		Carnation cryptic virus 3	YES	2	118431;3570	1	Caryophyllaceae
+Partitiviridae	AA95_52	NC_038824.1	2	FJ550604.1;NC_038824.1	589918	Alphapartitivirus	Alphapartitivirus carotae	YES	1	4039	1	Apiaceae
+Partitiviridae	AA95_15	NC_038837.1	2	JX971982.1;NC_038837.1	1323528	Betapartitivirus	Betapartitivirus purpurae	YES	1	60916	1	Fabaceae
+Partitiviridae	AA95_224	NC_038846.1	10	HM560703.1;KC845558.1;MK731959.1;NC_038846.1;PP987715.1;PP987716.1;PP987717.1;PP987718.1;PP987719.1;PP987720.1	912029	Deltapartitivirus	Deltapartitivirus duobetae	YES	3	137221;161934;3555	2	Amaranthaceae;Polygonaceae
+Partitiviridae	AA95_70	NC_040457.1	19	MF443256.1;MH846124.1;MH846126.1;MK292286.1;MK648428.1;MN862354.1;MN872263.1;MT674996.1;MT674998.1;MT675000.1;NC_040457.1;ON669079.1;ON669080.1;ON669083.1;ON669084.1;ON669086.1;PP333043.1;PP333044.1;TS_nucl_6385	2043550	Alphapartitivirus	Medicago sativa alphapartitivirus 1	YES	2	3879;90397	2	Fabaceae;Poaceae
+Partitiviridae	AA95_190	NC_040483.1	2	MG030687.1;NC_040483.1	2305257		Melon partitivirus	YES	1	3656	1	Cucurbitaceae
+Partitiviridae	AA95_115	NC_043396.1	1	NC_043396.1	358008	Gammapartitivirus	Gammapartitivirus aspergilli	YES	1	3906	1	Fabaceae
+Partitiviridae	AA95_98	OL014468.1	1	OL014468.1	2992847		Polygonatum partitivirus 1	YES	1	261420	1	Asparagaceae
+Partitiviridae	AA95_141	OL330740.1	1	OL330740.1	2972878		Poaceae Liege partitivirus 1	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_71	OL330741.1	1	OL330741.1	2972885		Poaceae Liege partitivirus 2	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_64	OL330742.1	1	OL330742.1	2972886		Poaceae Liege partitivirus 3	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_322	OL330743.1	1	OL330743.1	2972887		Poaceae Liege partitivirus 4	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_296	OL330744.1	1	OL330744.1	2972888		Poaceae Liege partitivirus 5	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_42	OL330745.1	1	OL330745.1	2972889		Poaceae Liege partitivirus 6	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_29	OL330746.1	1	OL330746.1	2972890		Poaceae Liege partitivirus 7	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_235	OL330747.1	1	OL330747.1	2972891		Poaceae Liege partitivirus 8	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_31	OL330748.1	1	OL330748.1	2972892		Poaceae Liege partitivirus 9	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_66	OL330749.1	1	OL330749.1	2972879		Poaceae Liege partitivirus 10	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_74	OL330750.1	1	OL330750.1	2972880		Poaceae Liege partitivirus 11	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_22	OL330752.1	1	OL330752.1	2972882		Poaceae Liege partitivirus 13	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_251	OL330753.1	1	OL330753.1	2972883		Poaceae Liege partitivirus 14	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_323	OL330754.1	1	OL330754.1	2972884		Poaceae Liege partitivirus 15	YES	1	4479	1	Poaceae
+Partitiviridae	AA95_202	OL472291.1	3	OL472291.1;OL472292.1;OL472293.1	2950886		Tomato associated partiti-like virus 1	YES	1	4081	1	Solanaceae
+Partitiviridae	AA95_238	OL521691.1	15	MF443258.1;MN872275.1;MT675008.1;MT675010.1;OL521691.1;OL521692.1;OL521693.1;OL521694.1;OL521695.1;OL521696.1;OL521697.1;OL521698.1;OL521699.1;OL521700.1;ON669076.1	2043551	Deltapartitivirus	Medicago sativa deltapartitivirus 1	YES	1	3879	1	Fabaceae
+Partitiviridae	AA95_90	OL960006.1	1	OL960006.1	2983918	Alphapartitivirus	Paris alphapartitivirus	YES	1	221260	1	Melanthiaceae
+Partitiviridae	AA95_89	OM489396.1	1	OM489396.1	2999081		Dichroa partitivirus 1	YES	1	152286	1	Hydrangeaceae
+Partitiviridae	AA95_315	OM489398.1	1	OM489398.1	2999082		Dichroa partitivirus 2	YES	1	152286	1	Hydrangeaceae
+Partitiviridae	AA95_104	OM514381.1	1	OM514381.1	2970234		Guiyang partiti-like virus 1	YES	1	63789	1	Alismataceae
+Partitiviridae	AA95_353	OM514383.1	1	OM514383.1	2501048		Magnaporthe grisea partitivirus 1	YES	1	121769	1	Poaceae
+Partitiviridae	AA95_44	OM514385.1	1	OM514385.1	2970246		Xiaogan partiti-like virus 1	YES	1	547423	1	Poaceae
+Partitiviridae	AA95_122	OM514386.1	1	OM514386.1	2970295		Hangzhou partiti-like virus 1	YES	1	929486	1	Linderniaceae
+Partitiviridae	AA95_131	ON152704.1	1	ON152704.1	2999083		Polygonatum partitivirus 2	YES	1	261420	1	Asparagaceae
+Partitiviridae	AA95_50	ON637135.1	2	KU896858.1;ON637135.1	1871267		Rose partitivirus	YES	1	3764	1	Rosaceae
+Partitiviridae	AA95_130	ON759526.1	16	DQ361008.2;JN117276.1;KX765307.1;KY923701.1;KY978589.1;LC789283.1;MG542613.1;MG542614.1;MG542615.1;MG542616.1;MH782159.1;MH782161.1;MH782163.1;NC_037095.1;ON759526.1;PV659156.1	369643	Deltapartitivirus	Deltapartitivirus unocapsici	YES	3	165789;16739;4072	2	Piperaceae;Solanaceae
+Partitiviridae	AA95_178	ON807048.1	1	ON807048.1	2593943		Camellia cryptic virus 1	YES	1	4442	1	Theaceae
+Partitiviridae	AA95_127	ON807060.1	176	MH898482.1;ON807049.1;ON807050.1;ON807051.1;ON807052.1;ON807053.1;ON807054.1;ON807055.1;ON807056.1;ON807057.1;ON807058.1;ON807059.1;ON807060.1;ON807061.1;ON807062.1;ON807063.1;ON807065.1;ON886381.1;ON886382.1;ON886383.1;ON886384.1;ON886385.1;ON886386.1;ON886387.1;ON886388.1;ON886389.1;ON886390.1;ON886391.1;ON886392.1;ON886393.1;ON886394.1;ON886395.1;ON886396.1;ON886397.1;ON886398.1;ON886399.1;ON886400.1;ON886401.1;ON886402.1;ON886403.1;ON886404.1;ON886405.1;ON886406.1;ON886407.1;ON886408.1;ON886409.1;ON886410.1;ON886411.1;ON886412.1;ON886413.1;ON886414.1;ON886415.1;ON886416.1;ON886417.1;ON886418.1;ON886419.1;ON886420.1;ON886421.1;ON886422.1;ON886423.1;ON886424.1;ON886425.1;ON886426.1;ON886427.1;ON886428.1;ON886429.1;ON886430.1;ON886431.1;ON886432.1;ON886433.1;ON886434.1;ON886435.1;ON886436.1;ON886437.1;ON886438.1;ON886439.1;ON886440.1;ON886442.1;ON886444.1;ON886445.1;ON886446.1;ON886447.1;ON886448.1;ON886449.1;ON886450.1;ON886451.1;ON886452.1;ON886453.1;ON886454.1;ON886455.1;ON886456.1;ON886457.1;ON886458.1;ON886459.1;ON886460.1;ON886461.1;ON886462.1;ON886463.1;ON886464.1;ON886465.1;ON886466.1;ON886467.1;ON886468.1;ON886469.1;ON886470.1;ON886471.1;ON886472.1;ON886473.1;ON886474.1;ON886475.1;ON886476.1;ON886477.1;ON886478.1;ON886479.1;ON886480.1;ON886481.1;ON886482.1;ON886483.1;ON886484.1;ON886485.1;ON886486.1;ON886487.1;ON886488.1;ON886489.1;ON886490.1;ON886494.1;ON886495.1;ON886496.1;ON886497.1;ON886498.1;ON886499.1;ON886500.1;ON886501.1;ON886502.1;ON886503.1;ON886504.1;ON886505.1;ON886506.1;ON886507.1;ON886508.1;ON886509.1;ON886510.1;ON886511.1;ON886512.1;ON886513.1;ON886514.1;ON886515.1;ON886516.1;ON886517.1;ON886518.1;ON886519.1;ON886520.1;ON886521.1;ON886522.1;ON886523.1;ON886524.1;ON886525.1;ON886526.1;ON886527.1;ON886528.1;ON886529.1;ON886530.1;ON886531.1;ON886532.1;ON886533.1;ON886534.1;ON886535.1;ON886536.1;ON886537.1;ON886538.1;ON886539.1;ON886540.1;ON886541.1;ON886542.1;ON886543.1;ON886544.1	2593943		Camellia cryptic virus 1	YES	1	4442	1	Theaceae
+Partitiviridae	AA95_179	ON807064.1	2	ON807064.1;ON886441.1	2593943		Camellia cryptic virus 1	YES	1	4442	1	Theaceae
+Partitiviridae	AA95_307	ON886443.1	1	ON886443.1	2593943		Camellia cryptic virus 1	YES	1	4442	1	Theaceae
+Partitiviridae	AA95_308	ON886491.1	3	ON886491.1;ON886492.1;ON886493.1	2593943		Camellia cryptic virus 1	YES	1	4442	1	Theaceae
+Partitiviridae	AA95_125	OQ716557.1	2	LN680393.2;OQ716557.1	748427		Pittosporum cryptic virus-1	YES	2	23129;43073	1	Pittosporaceae
+Partitiviridae	AA95_8	OR096294.1	1	OR096294.1	3072197	Betapartitivirus	Betapartitivirus sp. 'aconiti'	YES	1	85363	1	Ranunculaceae
+Partitiviridae	AA95_138	OR120387.1	1	OR120387.1	2981719	Deltapartitivirus	Allium deltapartitivirus	YES	1	4679	1	Amaryllidaceae
+Partitiviridae	AA95_177	OR248785.1	1	OR248785.1	3071805	Deltapartitivirus	Deltapartitivirus sp. 'aucubae'	YES	1	2815601	1	Garryaceae
+Partitiviridae	AA95_249	OR248788.1	1	OR248788.1	3071806	Deltapartitivirus	Deltapartitivirus sp. 'yunanense'	YES	1	2815601	1	Garryaceae
+Partitiviridae	AA95_112	OR553238.1	2	OR553238.1;OR553239.1	3077365		Cannabis partiti-like virus	YES	1	3483	1	Cannabaceae
+Partitiviridae	AA95_164	OR555822.1	1	OR555822.1	3081137		Mercurialis partitivirus 1	YES	1	3985	1	Euphorbiaceae
+Partitiviridae	AA95_34	OR947510.1	1	OR947510.1	3113821	Alphapartitivirus	Grapevine alphapartitivirus	YES	1	29760	1	Vitaceae
+Partitiviridae	AA95_30	OX380375.1	2	OX380375.1;TS_nucl_6490	2933143		Cannabis sativa partitivirus	YES	2	3481;3483	1	Cannabaceae
+Partitiviridae	AA95_200	OX380382.1	1	OX380382.1	2933097	Deltapartitivirus	Conifer deltapartitivirus	YES	1	120591	1	Podocarpaceae
+Partitiviridae	AA95_278	OX380397.1	1	OX380397.1	2933095	Deltapartitivirus	Port Orford cedar deltapartitivirus	YES	1	58030	1	Cupressaceae
+Partitiviridae	AA95_332	OX380404.1	1	OX380404.1	2933094	Deltapartitivirus	Racomitrium varium deltapartitivirus	YES	1	1286318	1	Grimmiaceae
+Partitiviridae	AA95_185	OX380413.1	1	OX380413.1	2933089	Deltapartitivirus	Interrupted club-moss deltapartitivirus	YES	1	13840	1	Lycopodiaceae
+Partitiviridae	AA95_236	OX380445.1	1	OX380445.1	2933097	Deltapartitivirus	Conifer deltapartitivirus	YES	1	58038	1	Podocarpaceae
+Partitiviridae	AA95_2	OX380452.1	1	OX380452.1	2933144		Great lobelia partitivirus	YES	1	330173	1	Campanulaceae
+Partitiviridae	AA95_208	OX380456.1	2	OX380456.1;TS_nucl_6222	2933090	Deltapartitivirus	Japanese plum-yew deltapartitivirus	YES	2	25623;58029	1	Taxaceae
+Partitiviridae	AA95_201	OX380458.1	1	OX380458.1	2933093	Deltapartitivirus	Yunnan larch deltapartitivirus	YES	1	193047	1	Pinaceae
+Partitiviridae	AA95_355	OX380459.1	1	OX380459.1	2933096	Deltapartitivirus	Tree fringewort deltapartitivirus	YES	1	3143427	1	Ptilidiaceae
+Partitiviridae	AA95_237	OX380463.1	1	OX380463.1	2933098	Deltapartitivirus	Ribbonwort deltapartitivirus	YES	1	56939	1	Pallaviciniaceae
+Partitiviridae	AA95_84	OX380476.1	2	OX380476.1;TS_nucl_6300	2933099		String-of-pearls partitivirus	YES	2	189246;4210	1	Asteraceae
+Partitiviridae	AA95_209	OX380477.1	3	OX380477.1;TS_nucl_6226;TS_nucl_6227	2933091	Deltapartitivirus	Subalpine fir deltapartitivirus	YES	3	3318;34340;97177	1	Pinaceae
+Partitiviridae	AA95_142	OX380484.1	1	OX380484.1	2933092	Deltapartitivirus	Taiwan douglas-fir deltapartitivirus	YES	1	71408	1	Pinaceae
+Partitiviridae	AA95_48	OX380486.1	2	OX380486.1;TS_nucl_6340	2933100		White campion partitivirus	YES	2	3568;37657	1	Caryophyllaceae
+Partitiviridae	AA95_80	PP333047.1	18	MK292288.1;MW676141.1;OL521669.1;OL521670.1;OL521671.1;OL521672.1;OL521673.1;OL521674.1;OL521675.1;ON669067.1;PP333047.1;PP333048.1;PP333049.1;PP333050.1;PP333051.1;PP333052.1;PP333053.1;TS_nucl_6384	2518124	Alphapartitivirus	Medicago sativa alphapartitivirus 2	YES	1	3879	1	Fabaceae
+Partitiviridae	AA95_285	PP792975.1	3	MH479772.1;PP792975.1;PV593915.1	2518596		Cucumis melo cryptic virus	YES	2	3654;3656	1	Cucurbitaceae
+Partitiviridae	AA95_63	PP803563.1	1	PP803563.1	3409755		Disporopsis pernyi associated partitivirus	YES	1	34185	1	Asparagaceae
+Partitiviridae	AA95_156	PP982841.1	1	PP982841.1	3231923	Deltapartitivirus	Allium deltapartitivirus 2	YES	1	4679	1	Amaryllidaceae
+Partitiviridae	AA95_195	PQ181504.1	1	PQ181504.1	2305257		Melon partitivirus	YES	1	3656	1	Cucurbitaceae
+Partitiviridae	AA95_359	PQ787174.1	1	PQ787174.1	3398829		Urtica partitivirus 3	YES	1	3501	1	Urticaceae
+Partitiviridae	AA95_320	PQ787175.1	1	PQ787175.1	3398830		Urtica partitivirus 4	YES	1	3501	1	Urticaceae
+Partitiviridae	AA95_169	PQ787180.1	1	PQ787180.1	3398822	Deltapartitivirus	Aegilops associated deltapartitivirus 1	YES	1	4573	1	Poaceae
+Partitiviridae	AA95_250	PQ787181.1	1	PQ787181.1	3398823	Deltapartitivirus	Aegilops associated deltapartitivirus 2	YES	1	58530	1	Poaceae
+Partitiviridae	AA95_261	PQ787182.1	1	PQ787182.1	3398824	Deltapartitivirus	Aegilops associated deltapartitivirus 3	YES	1	58530	1	Poaceae
+Partitiviridae	AA95_273	PV013885.1	1	PV013885.1	3435399	Deltapartitivirus	Paris Deltapartitivirus 1	YES	1	221260	1	Melanthiaceae
+Partitiviridae	AA95_120	PV022024.1	1	PV022024.1	3398668		Grapevine wood holobiome associated partitivirus 2	YES	1	29760	1	Vitaceae
+Partitiviridae	AA95_333	PV521827.1	1	PV521827.1	3415977	Deltapartitivirus	Lavender cryptic virus	YES	1	39331	1	Lamiaceae
+Partitiviridae	AA95_234	PV554172.1	1	PV554172.1	11012			YES	1	1678924	1	Cannabaceae
+Partitiviridae	AA95_199	PV700374.1	1	PV700374.1	2794235		Pistacia cryptic virus	YES	1	63459	1	Amaranthaceae
+Partitiviridae	AA95_302	PV701205.1	5	KC429582.1;KY081285.1;MN365721.1;PV600315.1;PV701205.1	1295012		Citrullus lanatus cryptic virus	YES	1	3654	1	Cucurbitaceae
+Partitiviridae	AA95_352	PV701217.1	1	PV701217.1	2518596		Cucumis melo cryptic virus	YES	1	3654	1	Cucurbitaceae
+Partitiviridae	AA95_47	PX115490.1	3	PQ787172.1;PX115490.1;TS_nucl_6497	3459172		Urtica partitivirus	YES	2	3499;3501	1	Urticaceae
+Partitiviridae	AA95_198	PX115491.1	2	PQ787173.1;PX115491.1	3459172		Urtica partitivirus	YES	1	3501	1	Urticaceae
+Partitiviridae	AA95_331	PX115493.1	1	PX115493.1	3459172		Urtica partitivirus	YES	1	3501	1	Urticaceae
+Partitiviridae	AA95_318	PX115494.1	1	PX115494.1	3459172		Urtica partitivirus	YES	1	3501	1	Urticaceae
+Partitiviridae	AA95_137	PX230211.1	2	PX230211.1;TS_nucl_6293	2883585		Helianthus annuus leaf-associated partitivirus 2	YES	2	4231;4232	1	Asteraceae
+Partitiviridae	AA95_325	PX511618.1	1	PX511618.1	2908105		Morus alba cryptic virus	YES	1	3498	1	Moraceae
+Partitiviridae	AA95_159	PX583377.1	1	PX583377.1	3489670	Deltapartitivirus	Phoenix dactylifera deltapartitivirus	YES	1	42345	1	Arecaceae
+Partitiviridae	AA95_240	TS_nucl_6223	1	TS_nucl_6223				YES	1	191701	1	Taxaceae
+Partitiviridae	AA95_310	TS_nucl_6224	1	TS_nucl_6224				YES	1	487036	1	Cupressaceae
+Partitiviridae	AA95_191	TS_nucl_6225	1	TS_nucl_6225				YES	1	3317	1	Cupressaceae
+Partitiviridae	AA95_303	TS_nucl_6228	1	TS_nucl_6228				YES	1	3353	1	Pinaceae
+Partitiviridae	AA95_304	TS_nucl_6229	1	TS_nucl_6229				YES	1	151559	1	Pinaceae
+Partitiviridae	AA95_203	TS_nucl_6230	1	TS_nucl_6230				YES	1	3357	1	Pinaceae
+Partitiviridae	AA95_57	TS_nucl_6232	1	TS_nucl_6232				YES	1	55434	1	Juncaginaceae
+Partitiviridae	AA95_335	TS_nucl_6233	1	TS_nucl_6233				YES	1	55434	1	Juncaginaceae
+Partitiviridae	AA95_294	TS_nucl_6236	2	MT159320.1;TS_nucl_6236				YES	1	44586	1	Araliaceae
+Partitiviridae	AA95_126	TS_nucl_6245	1	TS_nucl_6245				YES	1	4679	1	Amaryllidaceae
+Partitiviridae	AA95_139	TS_nucl_6246	1	TS_nucl_6246				YES	1	4679	1	Amaryllidaceae
+Partitiviridae	AA95_11	TS_nucl_6248	1	TS_nucl_6248				YES	1	4684	1	Amaryllidaceae
+Partitiviridae	AA95_121	TS_nucl_6249	1	TS_nucl_6249				YES	1	272846	1	Asparagaceae
+Partitiviridae	AA95_267	TS_nucl_6250	1	TS_nucl_6250				YES	1	182176	1	Asparagaceae
+Partitiviridae	AA95_281	TS_nucl_6251	1	TS_nucl_6251				YES	1	230571	1	Orchidaceae
+Partitiviridae	AA95_160	TS_nucl_6252	1	TS_nucl_6252				YES	1	230571	1	Orchidaceae
+Partitiviridae	AA95_358	TS_nucl_6253	1	TS_nucl_6253				YES	1	230574	1	Orchidaceae
+Partitiviridae	AA95_181	TS_nucl_6254	1	TS_nucl_6254				YES	1	94219	1	Orchidaceae
+Partitiviridae	AA95_165	TS_nucl_6255	1	TS_nucl_6255				YES	1	556037	1	Orchidaceae
+Partitiviridae	AA95_228	TS_nucl_6257	1	TS_nucl_6257				YES	1	1126420	1	Orchidaceae
+Partitiviridae	AA95_216	TS_nucl_6258	1	TS_nucl_6258				YES	1	1126420	1	Orchidaceae
+Partitiviridae	AA95_170	TS_nucl_6259	1	TS_nucl_6259				YES	1	1126420	1	Orchidaceae
+Partitiviridae	AA95_268	TS_nucl_6260	1	TS_nucl_6260				YES	1	97906	1	Orchidaceae
+Partitiviridae	AA95_9	TS_nucl_6261	1	TS_nucl_6261				YES	1	585810	1	Iridaceae
+Partitiviridae	AA95_334	TS_nucl_6262	1	TS_nucl_6262				YES	1	58944	1	Iridaceae
+Partitiviridae	AA95_229	TS_nucl_6264	2	TS_nucl_6264;TS_nucl_6268				YES	2	145942;145953	1	Orchidaceae
+Partitiviridae	AA95_171	TS_nucl_6265	1	TS_nucl_6265				YES	1	145942	1	Orchidaceae
+Partitiviridae	AA95_255	TS_nucl_6266	1	TS_nucl_6266				YES	1	145942	1	Orchidaceae
+Partitiviridae	AA95_274	TS_nucl_6267	1	TS_nucl_6267				YES	1	145942	1	Orchidaceae
+Partitiviridae	AA95_241	TS_nucl_6269	1	TS_nucl_6269				YES	1	53078	1	Orchidaceae
+Partitiviridae	AA95_242	TS_nucl_6270	1	TS_nucl_6270				YES	1	1954348	1	Asteraceae
+Partitiviridae	AA95_354	TS_nucl_6271	1	TS_nucl_6271				YES	1	4212	1	Asteraceae
+Partitiviridae	AA95_243	TS_nucl_6272	1	TS_nucl_6272				YES	1	4212	1	Asteraceae
+Partitiviridae	AA95_118	TS_nucl_6280	1	TS_nucl_6280				YES	1	56523	1	Asteraceae
+Partitiviridae	AA95_263	TS_nucl_6281	1	TS_nucl_6281				YES	1	2591363	1	Asteraceae
+Partitiviridae	AA95_124	TS_nucl_6283	1	TS_nucl_6283				YES	1	41522	1	Asteraceae
+Partitiviridae	AA95_128	TS_nucl_6284	1	TS_nucl_6284				YES	1	41522	1	Asteraceae
+Partitiviridae	AA95_162	TS_nucl_6285	1	TS_nucl_6285				YES	1	41522	1	Asteraceae
+Partitiviridae	AA95_152	TS_nucl_6286	1	TS_nucl_6286				YES	1	41522	1	Asteraceae
+Partitiviridae	AA95_172	TS_nucl_6288	1	TS_nucl_6288				YES	1	13427	1	Asteraceae
+Partitiviridae	AA95_204	TS_nucl_6289	1	TS_nucl_6289				YES	1	18101	1	Asteraceae
+Partitiviridae	AA95_5	TS_nucl_6290	1	TS_nucl_6290				YES	1	4210	1	Asteraceae
+Partitiviridae	AA95_94	TS_nucl_6291	1	TS_nucl_6291				YES	1	4232	1	Asteraceae
+Partitiviridae	AA95_230	TS_nucl_6295	1	TS_nucl_6295				YES	1	98504	1	Asteraceae
+Partitiviridae	AA95_357	TS_nucl_6296	1	TS_nucl_6296				YES	1	4381	1	Campanulaceae
+Partitiviridae	AA95_173	TS_nucl_6297	1	TS_nucl_6297				YES	1	125766	1	Asteraceae
+Partitiviridae	AA95_161	TS_nucl_6298	1	TS_nucl_6298				YES	1	125766	1	Asteraceae
+Partitiviridae	AA95_69	TS_nucl_6299	1	TS_nucl_6299				YES	1	125766	1	Asteraceae
+Partitiviridae	AA95_188	TS_nucl_6301	1	TS_nucl_6301				YES	1	904569	1	Asteraceae
+Partitiviridae	AA95_330	TS_nucl_6302	1	TS_nucl_6302				YES	1	904569	1	Asteraceae
+Partitiviridae	AA95_119	TS_nucl_6303	1	TS_nucl_6303				YES	1	904569	1	Asteraceae
+Partitiviridae	AA95_356	TS_nucl_6304	1	TS_nucl_6304				YES	1	4210	1	Asteraceae
+Partitiviridae	AA95_256	TS_nucl_6305	1	TS_nucl_6305				YES	1	4210	1	Asteraceae
+Partitiviridae	AA95_58	TS_nucl_6306	1	TS_nucl_6306				YES	1	4210	1	Asteraceae
+Partitiviridae	AA95_298	TS_nucl_6307	1	TS_nucl_6307				YES	1	55670	1	Asteraceae
+Partitiviridae	AA95_153	TS_nucl_6308	1	TS_nucl_6308				YES	1	333970	1	Asteraceae
+Partitiviridae	AA95_87	TS_nucl_6309	1	TS_nucl_6309				YES	1	333970	1	Asteraceae
+Partitiviridae	AA95_99	TS_nucl_6310	1	TS_nucl_6310				YES	1	113446	1	Boraginaceae
+Partitiviridae	AA95_166	TS_nucl_6311	1	TS_nucl_6311				YES	1	113446	1	Boraginaceae
+Partitiviridae	AA95_337	TS_nucl_6312	1	TS_nucl_6312				YES	1	21571	1	Boraginaceae
+Partitiviridae	AA95_81	TS_nucl_6313	1	TS_nucl_6313				YES	1	21571	1	Boraginaceae
+Partitiviridae	AA95_350	TS_nucl_6314	1	TS_nucl_6314				YES	1	21571	1	Boraginaceae
+Partitiviridae	AA95_144	TS_nucl_6315	1	TS_nucl_6315				YES	1	81970	1	Brassicaceae
+Partitiviridae	AA95_133	TS_nucl_6316	1	TS_nucl_6316				YES	1	81970	1	Brassicaceae
+Partitiviridae	AA95_76	TS_nucl_6318	1	TS_nucl_6318				YES	1	3702	1	Brassicaceae
+Partitiviridae	AA95_299	TS_nucl_6319	1	TS_nucl_6319				YES	1	154096	1	Brassicaceae
+Partitiviridae	AA95_145	TS_nucl_6320	1	TS_nucl_6320				YES	1	190802	1	Cleomaceae
+Partitiviridae	AA95_291	TS_nucl_6321	1	TS_nucl_6321				YES	1	161756	1	Brassicaceae
+Partitiviridae	AA95_62	TS_nucl_6324	1	TS_nucl_6324				YES	1	67442	1	Neckeraceae
+Partitiviridae	AA95_217	TS_nucl_6325	1	TS_nucl_6325				YES	1	3536	1	Nyctaginaceae
+Partitiviridae	AA95_275	TS_nucl_6328	1	TS_nucl_6328				YES	1	29722	1	Amaranthaceae
+Partitiviridae	AA95_321	TS_nucl_6330	1	TS_nucl_6330				YES	1	3563	1	Amaranthaceae
+Partitiviridae	AA95_77	TS_nucl_6332	1	TS_nucl_6332				YES	1	235358	1	Caryophyllaceae
+Partitiviridae	AA95_83	TS_nucl_6333	1	TS_nucl_6333				YES	1	235358	1	Caryophyllaceae
+Partitiviridae	AA95_269	TS_nucl_6335	1	TS_nucl_6335				YES	1	293754	1	Plumbaginaceae
+Partitiviridae	AA95_158	TS_nucl_6336	1	TS_nucl_6336				YES	1	150983	1	Nepenthaceae
+Partitiviridae	AA95_205	TS_nucl_6337	1	TS_nucl_6337				YES	1	3568	1	Caryophyllaceae
+Partitiviridae	AA95_348	TS_nucl_6338	1	TS_nucl_6338				YES	1	206448	1	Amaranthaceae
+Partitiviridae	AA95_72	TS_nucl_6341	1	TS_nucl_6341				YES	1	39875	1	Caryophyllaceae
+Partitiviridae	AA95_257	TS_nucl_6342	1	TS_nucl_6342				YES	1	39879	1	Caryophyllaceae
+Partitiviridae	AA95_258	TS_nucl_6343	1	TS_nucl_6343				YES	1	1897066	1	Caryophyllaceae
+Partitiviridae	AA95_206	TS_nucl_6345	1	TS_nucl_6345				YES	1	16737	1	Chloranthaceae
+Partitiviridae	AA95_295	TS_nucl_6348	1	TS_nucl_6348				YES	1	1503182	1	Commelinaceae
+Partitiviridae	AA95_218	TS_nucl_6349	1	TS_nucl_6349				YES	1	37822	1	Loasaceae
+Partitiviridae	AA95_97	TS_nucl_6350	1	TS_nucl_6350				YES	1	4283	1	Cornaceae
+Partitiviridae	AA95_211	TS_nucl_6351	1	TS_nucl_6351				YES	1	16924	1	Nyssaceae
+Partitiviridae	AA95_336	TS_nucl_6354	1	TS_nucl_6354				YES	1	4206	1	Adoxaceae
+Partitiviridae	AA95_146	TS_nucl_6357	1	TS_nucl_6357				YES	1	63779	1	Balsaminaceae
+Partitiviridae	AA95_192	TS_nucl_6358	1	TS_nucl_6358				YES	1	342017	1	Balsaminaceae
+Partitiviridae	AA95_174	TS_nucl_6359	1	TS_nucl_6359				YES	1	4345	1	Ericaceae
+Partitiviridae	AA95_59	TS_nucl_6360	1	TS_nucl_6360				YES	1	4345	1	Ericaceae
+Partitiviridae	AA95_96	TS_nucl_6361	1	TS_nucl_6361				YES	1	176250	1	Ericaceae
+Partitiviridae	AA95_345	TS_nucl_6362	1	TS_nucl_6362				YES	1	176250	1	Ericaceae
+Partitiviridae	AA95_349	TS_nucl_6364	1	TS_nucl_6364				YES	1	176250	1	Ericaceae
+Partitiviridae	AA95_92	TS_nucl_6365	1	TS_nucl_6365				YES	1	103542	1	Polemoniaceae
+Partitiviridae	AA95_12	TS_nucl_6366	1	TS_nucl_6366				YES	1	1044918	1	Primulaceae
+Partitiviridae	AA95_167	TS_nucl_6367	1	TS_nucl_6367				YES	1	1044918	1	Primulaceae
+Partitiviridae	AA95_305	TS_nucl_6368	1	TS_nucl_6368				YES	1	170927	1	Primulaceae
+Partitiviridae	AA95_154	TS_nucl_6369	1	TS_nucl_6369				YES	1	170927	1	Primulaceae
+Partitiviridae	AA95_244	TS_nucl_6371	1	TS_nucl_6371				YES	1	184575	1	Ericaceae
+Partitiviridae	AA95_270	TS_nucl_6372	1	TS_nucl_6372				YES	1	49168	1	Ericaceae
+Partitiviridae	AA95_245	TS_nucl_6373	1	TS_nucl_6373				YES	1	1493660	1	Ericaceae
+Partitiviridae	AA95_85	TS_nucl_6374	2	TS_nucl_6327;TS_nucl_6374				YES	2	3563;3803	2	Amaranthaceae;Fabaceae
+Partitiviridae	AA95_78	TS_nucl_6375	1	TS_nucl_6375				YES	1	3803	1	Fabaceae
+Partitiviridae	AA95_23	TS_nucl_6377	1	TS_nucl_6377				YES	1	20408	1	Fabaceae
+Partitiviridae	AA95_197	TS_nucl_6381	1	TS_nucl_6381				YES	1	3803	1	Fabaceae
+Partitiviridae	AA95_3	TS_nucl_6382	1	TS_nucl_6382				YES	1	3803	1	Fabaceae
+Partitiviridae	AA95_219	TS_nucl_6383	1	TS_nucl_6383				YES	1	3860	1	Fabaceae
+Partitiviridae	AA95_100	TS_nucl_6386	1	TS_nucl_6386				YES	1	47083	1	Fabaceae
+Partitiviridae	AA95_101	TS_nucl_6387	1	TS_nucl_6387				YES	1	3882	1	Fabaceae
+Partitiviridae	AA95_41	TS_nucl_6391	1	TS_nucl_6391				YES	1	28930	1	Fagaceae
+Partitiviridae	AA95_182	TS_nucl_6393	1	TS_nucl_6393				YES	1	28930	1	Fagaceae
+Partitiviridae	AA95_86	TS_nucl_6394	1	TS_nucl_6394				YES	1	28930	1	Fagaceae
+Partitiviridae	AA95_51	TS_nucl_6395	1	TS_nucl_6395				YES	1	28930	1	Fagaceae
+Partitiviridae	AA95_259	TS_nucl_6396	1	TS_nucl_6396				YES	1	91218	1	Juglandaceae
+Partitiviridae	AA95_220	TS_nucl_6397	1	TS_nucl_6397				YES	1	59731	1	Rubiaceae
+Partitiviridae	AA95_246	TS_nucl_6398	1	TS_nucl_6398				YES	1	3311	1	Ginkgoaceae
+Partitiviridae	AA95_339	TS_nucl_6399	1	TS_nucl_6399				YES	1	85233	1	Oncothecaceae
+Partitiviridae	AA95_175	TS_nucl_6401	1	TS_nucl_6401				YES	1	285817	1	Plantaginaceae
+Partitiviridae	AA95_247	TS_nucl_6402	1	TS_nucl_6402				YES	1	2494553	1	Phrymaceae
+Partitiviridae	AA95_212	TS_nucl_6403	1	TS_nucl_6403				YES	1	4144	1	Oleaceae
+Partitiviridae	AA95_264	TS_nucl_6404	1	TS_nucl_6404				YES	1	4144	1	Oleaceae
+Partitiviridae	AA95_324	TS_nucl_6405	1	TS_nucl_6405				YES	1	4144	1	Oleaceae
+Partitiviridae	AA95_25	TS_nucl_6406	1	TS_nucl_6406				YES	1	660624	1	Oleaceae
+Partitiviridae	AA95_231	TS_nucl_6407	1	TS_nucl_6407				YES	1	4136	1	Lamiaceae
+Partitiviridae	AA95_140	TS_nucl_6408	1	TS_nucl_6408				YES	1	4136	1	Lamiaceae
+Partitiviridae	AA95_271	TS_nucl_6409	1	TS_nucl_6409				YES	1	4136	1	Lamiaceae
+Partitiviridae	AA95_149	TS_nucl_6410	1	TS_nucl_6410				YES	1	4136	1	Lamiaceae
+Partitiviridae	AA95_343	TS_nucl_6411	1	TS_nucl_6411				YES	1	321415	1	Orobanchaceae
+Partitiviridae	AA95_346	TS_nucl_6412	1	TS_nucl_6412				YES	1	321415	1	Orobanchaceae
+Partitiviridae	AA95_73	TS_nucl_6413	1	TS_nucl_6413				YES	1	91896	1	Orobanchaceae
+Partitiviridae	AA95_60	TS_nucl_6414	1	TS_nucl_6414				YES	1	91896	1	Orobanchaceae
+Partitiviridae	AA95_105	TS_nucl_6415	2	TS_nucl_6415;TS_nucl_6416				YES	1	1392158	1	Orobanchaceae
+Partitiviridae	AA95_168	TS_nucl_6417	1	TS_nucl_6417				YES	1	99112	1	Orobanchaceae
+Partitiviridae	AA95_183	TS_nucl_6418	1	TS_nucl_6418				YES	1	99112	1	Orobanchaceae
+Partitiviridae	AA95_311	TS_nucl_6419	1	TS_nucl_6419				YES	1	39414	1	Plantaginaceae
+Partitiviridae	AA95_213	TS_nucl_6423	1	TS_nucl_6423				YES	1	68872	1	Orobanchaceae
+Partitiviridae	AA95_248	TS_nucl_6424	1	TS_nucl_6424				YES	1	68872	1	Orobanchaceae
+Partitiviridae	AA95_272	TS_nucl_6425	1	TS_nucl_6425				YES	1	68872	1	Orobanchaceae
+Partitiviridae	AA95_134	TS_nucl_6426	1	TS_nucl_6426				YES	1	68872	1	Orobanchaceae
+Partitiviridae	AA95_61	TS_nucl_6427	1	TS_nucl_6427				YES	1	68872	1	Orobanchaceae
+Partitiviridae	AA95_184	TS_nucl_6428	1	TS_nucl_6428				YES	1	68872	1	Orobanchaceae
+Partitiviridae	AA95_286	TS_nucl_6432	1	TS_nucl_6432				YES	1	41220	1	Colchicaceae
+Partitiviridae	AA95_260	TS_nucl_6433	1	TS_nucl_6433				YES	1	49666	1	Melanthiaceae
+Partitiviridae	AA95_287	TS_nucl_6436	1	TS_nucl_6436				YES	1	38494	1	Isoetaceae
+Partitiviridae	AA95_288	TS_nucl_6437	1	TS_nucl_6437				YES	1	22118	1	Erythroxylaceae
+Partitiviridae	AA95_300	TS_nucl_6438	1	TS_nucl_6438				YES	1	142860	1	Euphorbiaceae
+Partitiviridae	AA95_360	TS_nucl_6439	1	TS_nucl_6439				YES	1	4004	1	Linaceae
+Partitiviridae	AA95_282	TS_nucl_6441	1	TS_nucl_6441				YES	1	995780	1	Podostemaceae
+Partitiviridae	AA95_327	TS_nucl_6443	1	TS_nucl_6443				YES	1	223753	1	Thymelaeaceae
+Partitiviridae	AA95_276	TS_nucl_6444	1	TS_nucl_6444				YES	1	223753	1	Thymelaeaceae
+Partitiviridae	AA95_82	TS_nucl_6445	1	TS_nucl_6445				YES	1	3635	1	Malvaceae
+Partitiviridae	AA95_79	TS_nucl_6453	1	TS_nucl_6453				YES	1	40338	1	Pelliaceae
+Partitiviridae	AA95_277	TS_nucl_6456	1	TS_nucl_6456				YES	1	128733	1	Melastomataceae
+Partitiviridae	AA95_232	TS_nucl_6457	1	TS_nucl_6457				YES	1	128733	1	Melastomataceae
+Partitiviridae	AA95_313	TS_nucl_6458	1	TS_nucl_6458				YES	1	37231	1	Ophioglossaceae
+Partitiviridae	AA95_207	TS_nucl_6459	1	TS_nucl_6459				YES	1	16376	1	Velloziaceae
+Partitiviridae	AA95_233	TS_nucl_6460	1	TS_nucl_6460				YES	1	435756	1	Poaceae
+Partitiviridae	AA95_123	TS_nucl_6463	1	TS_nucl_6463				YES	1	40247	1	Poaceae
+Partitiviridae	AA95_102	TS_nucl_6464	1	TS_nucl_6464				YES	1	866555	1	Poaceae
+Partitiviridae	AA95_108	TS_nucl_6465	1	TS_nucl_6465				YES	1	866555	1	Poaceae
+Partitiviridae	AA95_129	TS_nucl_6466	1	TS_nucl_6466				YES	1	4521	1	Poaceae
+Partitiviridae	AA95_33	TS_nucl_6467	1	TS_nucl_6467				YES	1	154761	1	Poaceae
+Partitiviridae	AA95_43	TS_nucl_6479	1	TS_nucl_6479				YES	1	4577	1	Poaceae
+Partitiviridae	AA95_312	TS_nucl_6480	1	TS_nucl_6480				YES	1	872581	1	Polypodiaceae
+Partitiviridae	AA95_150	TS_nucl_6482	1	TS_nucl_6482				YES	1	3440	1	Ranunculaceae
+Partitiviridae	AA95_314	TS_nucl_6484	1	TS_nucl_6484				YES	1	3465	1	Papaveraceae
+Partitiviridae	AA95_95	TS_nucl_6485	1	TS_nucl_6485				YES	1	3465	1	Papaveraceae
+Partitiviridae	AA95_36	TS_nucl_6487	1	TS_nucl_6487				YES	1	152363	1	Menispermaceae
+Partitiviridae	AA95_28	TS_nucl_6492	1	TS_nucl_6492				YES	1	3483	1	Cannabaceae
+Partitiviridae	AA95_292	TS_nucl_6496	1	TS_nucl_6496				YES	1	3498	1	Moraceae
+Partitiviridae	AA95_293	TS_nucl_6498	1	TS_nucl_6498				YES	1	447008	1	Balanophoraceae
+Partitiviridae	AA95_193	TS_nucl_6499	1	TS_nucl_6499				YES	1	447008	1	Balanophoraceae
+Partitiviridae	AA95_265	TS_nucl_6500	1	TS_nucl_6500				YES	1	1003255	1	Viscaceae
+Partitiviridae	AA95_214	TS_nucl_6503	1	TS_nucl_6503				YES	1	627609	1	Cynomoriaceae
+Partitiviridae	AA95_176	TS_nucl_6504	1	TS_nucl_6504				YES	1	627609	1	Cynomoriaceae
+Partitiviridae	AA95_283	TS_nucl_6505	1	TS_nucl_6505				YES	1	627609	1	Cynomoriaceae
+Partitiviridae	AA95_189	TS_nucl_6506	1	TS_nucl_6506				YES	1	627609	1	Cynomoriaceae
+Partitiviridae	AA95_24	TS_nucl_6507	1	TS_nucl_6507				YES	1	3792	1	Saxifragaceae
+Partitiviridae	AA95_7	TS_nucl_6508	1	TS_nucl_6508				YES	1	24943	1	Paeoniaceae
+Partitiviridae	AA95_110	TS_nucl_6509	1	TS_nucl_6509				YES	1	23066	1	Grossulariaceae
+Partitiviridae	AA95_221	TS_nucl_6510	1	TS_nucl_6510				YES	1	4070	1	Solanaceae
+Partitiviridae	AA95_289	TS_nucl_6511	1	TS_nucl_6511				YES	1	437279	1	Convolvulaceae
+Partitiviridae	AA95_222	TS_nucl_6512	1	TS_nucl_6512				YES	1	437279	1	Convolvulaceae
+Partitiviridae	AA95_223	TS_nucl_6513	1	TS_nucl_6513				YES	1	23278	1	Vahliaceae

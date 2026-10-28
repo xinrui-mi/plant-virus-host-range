@@ -1,0 +1,7 @@
+documented_vector	fine4_status	fine4_mode	canonical_four_mode	five_group_included	virus_taxid_n
+FALSE	NA	NA	NA	TRUE	5569
+TRUE	single_four_class_mode	Persistent non-propagative	Persistent non-propagative	TRUE	274
+TRUE	single_four_class_mode	Persistent propagative	Persistent propagative	TRUE	57
+TRUE	single_four_class_mode	Semi-persistent	Semi-persistent	TRUE	32
+TRUE	single_four_class_mode	Non-persistent	Non-persistent	TRUE	29
+TRUE	no_four_class_mode	NA	NA	FALSE	18

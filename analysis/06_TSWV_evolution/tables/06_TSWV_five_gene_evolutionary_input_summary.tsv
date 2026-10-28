@@ -1,0 +1,6 @@
+gene	tree_haplotype_n	represented_accession_n	host_family_n	host_order_n	country_n	continent_n	haplotype_n	protein_alignment_length	trimmed_codon_length	treefile
+GnGc	256	267	17	12	26	5	256	1061	3183	analysis/06_TSWV_evolution/pipeline_results/03_alignment_and_phylogeny/GnGc/GnGc.codon_partitioned.treefile
+N	215	282	16	13	25	5	215	258	774	analysis/06_TSWV_evolution/pipeline_results/03_alignment_and_phylogeny/N/N.codon_partitioned.treefile
+NSm	239	271	17	13	26	5	239	302	906	analysis/06_TSWV_evolution/pipeline_results/03_alignment_and_phylogeny/NSm/NSm.codon_partitioned.treefile
+NSs	548	669	17	13	29	5	548	464	1392	analysis/06_TSWV_evolution/pipeline_results/03_alignment_and_phylogeny/NSs/NSs.codon_partitioned.treefile
+RdRp	169	174	16	12	26	5	169	2878	8634	analysis/06_TSWV_evolution/pipeline_results/03_alignment_and_phylogeny/RdRp/RdRp.codon_partitioned.treefile

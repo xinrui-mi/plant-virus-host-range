@@ -1,0 +1,6 @@
+transmission_group	virus_taxid_n	virus_family_n	virus_genus_n	host_family_median	host_family_IQR	host_order_median	host_order_IQR	max_distance_median	max_distance_IQR	country_median	country_IQR	association_n_median	VC80_support_median
+No documented vector relationship	5070	74	267	1	0	1	0	0	0	1	0	2	1
+Persistent non-propagative	274	6	15	1	1	1	1	1	4	1	1.75	6.5	2
+Semi-persistent	31	4	13	1	1.5	1	1.5	2	3	5	7.5	29	6
+Persistent propagative	57	6	11	1	2	1	2	2	4	2	2	23	5
+Non-persistent	29	5	9	2	5	2	4	4	2	14	16	184	11

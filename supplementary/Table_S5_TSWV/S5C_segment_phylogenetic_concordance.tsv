@@ -1,0 +1,4 @@
+segment_pair	patristic_spearman_rho	empirical_p	normalized_RF_distance	high_support_split_jaccard	incompatible_high_support_split_pair_n
+L_vs_M	0.359887995068179	0.001	0.735042735042735	0.180851063829787	202
+L_vs_S	0.276432692214783	0.001	0.752136752136752	0.183908045977012	154
+M_vs_S	0.470590553171984	0.001	0.786324786324786	0.2	75

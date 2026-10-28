@@ -1,0 +1,185 @@
+source_label_4way	virus_family	association_n	unique_sequence_n	host_family_n
+NCBI Virus + Virus-Host DB shared/coordinated	Geminiviridae	947	716	41
+NCBI Virus + Virus-Host DB shared/coordinated	Tolecusatellitidae	238	163	21
+NCBI Virus + Virus-Host DB shared/coordinated	Aspiviridae	22	11	4
+NCBI Virus + Virus-Host DB shared/coordinated	Closteroviridae	110	57	23
+NCBI Virus + Virus-Host DB shared/coordinated	Potyviridae	288	181	48
+NCBI Virus + Virus-Host DB shared/coordinated	Betaflexiviridae	150	119	38
+NCBI Virus + Virus-Host DB shared/coordinated	Virgaviridae	82	43	17
+NCBI Virus + Virus-Host DB shared/coordinated	Tombusviridae	83	53	21
+NCBI Virus + Virus-Host DB shared/coordinated	Caulimoviridae	139	90	39
+NCBI Virus + Virus-Host DB shared/coordinated	Tymoviridae	28	23	10
+NCBI Virus + Virus-Host DB shared/coordinated	Alphasatellitidae	135	97	21
+NCBI Virus + Virus-Host DB shared/coordinated	Phycodnaviridae	23	17	3
+NCBI Virus + Virus-Host DB shared/coordinated	Genomoviridae	40	31	17
+NCBI Virus + Virus-Host DB shared/coordinated	Tospoviridae	272	62	21
+NCBI Virus + Virus-Host DB shared/coordinated	Phenuiviridae	136	48	10
+NCBI Virus + Virus-Host DB shared/coordinated	Solemoviridae	89	55	16
+NCBI Virus + Virus-Host DB shared/coordinated	Rhabdoviridae	81	62	25
+NCBI Virus + Virus-Host DB shared/coordinated	Alphaflexiviridae	53	38	19
+NCBI Virus + Virus-Host DB shared/coordinated	Bromoviridae	123	66	21
+NCBI Virus + Virus-Host DB shared/coordinated	Secoviridae	240	117	33
+NCBI Virus + Virus-Host DB shared/coordinated	Benyviridae	22	13	4
+NCBI Virus + Virus-Host DB shared/coordinated	Nanoviridae	119	40	3
+NCBI Virus + Virus-Host DB shared/coordinated	Spinareoviridae	290	40	2
+NCBI Virus + Virus-Host DB shared/coordinated	Partitiviridae	56	56	12
+NCBI Virus + Virus-Host DB shared/coordinated	Endornaviridae	20	17	7
+NCBI Virus + Virus-Host DB shared/coordinated	Kitaviridae	27	25	6
+NCBI Virus + Virus-Host DB shared/coordinated	Sedoreoviridae	9	9	1
+NCBI Virus + Virus-Host DB shared/coordinated	Ourmiaviridae	18	6	5
+NCBI Virus + Virus-Host DB shared/coordinated	Amalgaviridae	8	7	6
+NCBI Virus + Virus-Host DB shared/coordinated	Fimoviridae	198	152	19
+NCBI Virus + Virus-Host DB shared/coordinated	Phypoliviridae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Tomosaviridae	2	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Spiciviridae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Geplanaviridae	4	3	2
+NCBI Virus + Virus-Host DB shared/coordinated	Peribunyaviridae	3	3	1
+NCBI Virus + Virus-Host DB shared/coordinated	Amesuviridae	3	3	2
+NCBI Virus + Virus-Host DB shared/coordinated	Orthototiviridae	2	2	1
+NCBI Virus + Virus-Host DB shared/coordinated	Mayoviridae	6	6	3
+NCBI Virus + Virus-Host DB shared/coordinated	Mitoviridae	11	11	7
+NCBI Virus + Virus-Host DB shared/coordinated	Tonesaviridae	2	1	2
+NCBI Virus + Virus-Host DB shared/coordinated	Allomimiviridae	2	2	2
+NCBI Virus + Virus-Host DB shared/coordinated	Circoviridae	1	1	1
+NCBI Virus + Virus-Host DB shared/coordinated	Mymonaviridae	1	1	1
+NCBI Virus only	Mahapunaviridae	2	2	1
+NCBI Virus only	Phenuiviridae	953	953	15
+NCBI Virus only	Secoviridae	3255	3255	101
+NCBI Virus only	Rhabdoviridae	779	779	67
+NCBI Virus only	Mymonaviridae	9	9	2
+NCBI Virus only	Botourmiaviridae	91	91	13
+NCBI Virus only	Solemoviridae	2046	2046	54
+NCBI Virus only	Geminiviridae	17819	17819	72
+NCBI Virus only	Aspiviridae	382	382	14
+NCBI Virus only	Autoscriptoviridae	2	2	1
+NCBI Virus only	Alphaflexiviridae	1930	1930	53
+NCBI Virus only	Betaflexiviridae	5559	5559	78
+NCBI Virus only	Closteroviridae	2498	2498	45
+NCBI Virus only	Tombusviridae	1652	1652	57
+NCBI Virus only	Potyviridae	11671	11671	87
+NCBI Virus only	Tospoviridae	2110	2110	43
+NCBI Virus only	Nanoviridae	3351	3351	16
+NCBI Virus only	Bromoviridae	3119	3119	69
+NCBI Virus only	Alphasatellitidae	2332	2332	36
+NCBI Virus only	Amalgaviridae	326	326	32
+NCBI Virus only	Partitiviridae	1308	1308	54
+NCBI Virus only	Peduoviridae	2	2	1
+NCBI Virus only	Tolecusatellitidae	2393	2393	38
+NCBI Virus only	Tymoviridae	354	354	28
+NCBI Virus only	Endornaviridae	214	214	23
+NCBI Virus only	Virgaviridae	1648	1648	47
+NCBI Virus only	Fimoviridae	2063	2063	24
+NCBI Virus only	Mitoviridae	185	185	27
+NCBI Virus only	Caulimoviridae	1167	1167	50
+NCBI Virus only	Kitaviridae	362	362	30
+NCBI Virus only	Genomoviridae	144	144	31
+NCBI Virus only	Spinareoviridae	1713	1713	2
+NCBI Virus only	Phycodnaviridae	164	164	3
+NCBI Virus only	Peribunyaviridae	21	21	5
+NCBI Virus only	Benyviridae	271	271	9
+NCBI Virus only	Konkoviridae	32	32	9
+NCBI Virus only	Mayoviridae	364	364	11
+NCBI Virus only	Polymycoviridae	5	5	1
+NCBI Virus only	Tomosaviridae	16	16	2
+NCBI Virus only	Parvoviridae	7	7	6
+NCBI Virus only	Flaviviridae	32	32	7
+NCBI Virus only	Togaviridae	3	3	2
+NCBI Virus only	Nenyaviridae	1	1	1
+NCBI Virus only	Deltaflexiviridae	6	6	5
+NCBI Virus only	Ourmiaviridae	18	18	6
+NCBI Virus only	Orthototiviridae	34	34	12
+NCBI Virus only	Allomimiviridae	16	16	2
+NCBI Virus only	Circoviridae	2	2	2
+NCBI Virus only	Steitzviridae	17	17	5
+NCBI Virus only	Fiersviridae	100	100	7
+NCBI Virus only	Atkinsviridae	6	6	2
+NCBI Virus only	Fusariviridae	2	2	2
+NCBI Virus only	Nodaviridae	18	18	6
+NCBI Virus only	Duinviridae	1	1	1
+NCBI Virus only	Solspiviridae	8	8	3
+NCBI Virus only	Tonesaviridae	4	4	2
+NCBI Virus only	Discoviridae	3	3	1
+NCBI Virus only	Fusagraviridae	1	1	1
+NCBI Virus only	Draupnirviridae	1	1	0
+NCBI Virus only	Oomyviridae	4	4	2
+NCBI Virus only	Kanorauviridae	2	2	2
+NCBI Virus only	Ouroboviridae	2	2	2
+NCBI Virus only	Geplanaviridae	8	8	4
+NCBI Virus only	Amesuviridae	51	51	3
+NCBI Virus only	Metaxyviridae	5	5	1
+NCBI Virus only	Phypoliviridae	1	1	1
+NCBI Virus only	Spiciviridae	1	1	1
+NCBI Virus only	Sedoreoviridae	21	21	2
+Virus-Host DB only	Betaflexiviridae	55	26	19
+Virus-Host DB only	Geminiviridae	524	259	17
+Virus-Host DB only	Tolecusatellitidae	35	25	6
+Virus-Host DB only	Alphasatellitidae	27	20	6
+Virus-Host DB only	Potyviridae	145	54	20
+Virus-Host DB only	Bromoviridae	214	60	20
+Virus-Host DB only	Amalgaviridae	12	12	8
+Virus-Host DB only	Tymoviridae	55	18	12
+Virus-Host DB only	Chrysoviridae	15	15	4
+Virus-Host DB only	Secoviridae	314	65	35
+Virus-Host DB only	Tombusviridae	126	43	21
+Virus-Host DB only	Alphaflexiviridae	67	26	25
+Virus-Host DB only	Partitiviridae	11	11	2
+Virus-Host DB only	Nanoviridae	16	7	2
+Virus-Host DB only	Caulimoviridae	38	23	17
+Virus-Host DB only	Virgaviridae	150	41	15
+Virus-Host DB only	Endornaviridae	3	3	3
+Virus-Host DB only	Phycodnaviridae	6	6	2
+Virus-Host DB only	Solemoviridae	73	16	11
+Virus-Host DB only	Benyviridae	3	2	2
+Virus-Host DB only	Closteroviridae	34	23	9
+Virus-Host DB only	Rhabdoviridae	42	14	6
+Virus-Host DB only	Orthototiviridae	5	5	4
+Virus-Host DB only	Kitaviridae	4	4	1
+Virus-Host DB only	Genomoviridae	5	5	3
+Virus-Host DB only	Tospoviridae	68	18	15
+Virus-Host DB only	Retroviridae	1	1	1
+Virus-Host DB only	Aspiviridae	6	3	1
+Virus-Host DB only	Fimoviridae	5	5	2
+Virus-Host DB only	Spinareoviridae	91	30	2
+Virus-Host DB only	Nodaviridae	2	2	1
+Virus-Host DB only	Phenuiviridae	11	11	2
+Virus-Host DB only	Mayoviridae	8	4	2
+Virus-Host DB only	Mesoniviridae	1	1	1
+Virus-Host DB only	Gammaflexiviridae	1	1	1
+Virus-Host DB only	Sedoreoviridae	59	23	1
+Virus-Host DB only	Tonesaviridae	2	2	2
+Virus-Host DB only	Tomosaviridae	3	1	1
+Virus-Host DB only	Artoviridae	1	1	1
+Virus-Host DB only	Deltaflexiviridae	1	1	1
+Virus-Host DB only	Mymonaviridae	4	4	1
+Virus-Host DB only	Botourmiaviridae	1	1	1
+Land Flora RNA virome	Orthototiviridae	37	37	26
+Land Flora RNA virome	Chrysoviridae	26	26	15
+Land Flora RNA virome	Fusagraviridae	4	4	2
+Land Flora RNA virome	Alphaflexiviridae	106	106	38
+Land Flora RNA virome	Betaflexiviridae	175	175	47
+Land Flora RNA virome	Bromoviridae	8	8	7
+Land Flora RNA virome	Closteroviridae	25	25	14
+Land Flora RNA virome	Deltaflexiviridae	130	130	40
+Land Flora RNA virome	Endornaviridae	35	35	21
+Land Flora RNA virome	Flaviviridae	6	6	6
+Land Flora RNA virome	Gammaflexiviridae	13	13	10
+Land Flora RNA virome	Benyviridae	28	28	17
+Land Flora RNA virome	Kitaviridae	9	9	9
+Land Flora RNA virome	Mayoviridae	5	5	5
+Land Flora RNA virome	Tombusviridae	88	88	31
+Land Flora RNA virome	Tymoviridae	140	140	55
+Land Flora RNA virome	Virgaviridae	3	3	3
+Land Flora RNA virome	Botourmiaviridae	287	287	33
+Land Flora RNA virome	Mitoviridae	105	105	46
+Land Flora RNA virome	Narnaviridae	153	153	42
+Land Flora RNA virome	Aspiviridae	5	5	4
+Land Flora RNA virome	Konkoviridae	9	9	7
+Land Flora RNA virome	Phenuiviridae	4	4	4
+Land Flora RNA virome	Tospoviridae	7	7	4
+Land Flora RNA virome	Rhabdoviridae	35	35	20
+Land Flora RNA virome	Yueviridae	114	114	50
+Land Flora RNA virome	Partitiviridae	210	210	74
+Land Flora RNA virome	Amalgaviridae	61	61	28
+Land Flora RNA virome	Secoviridae	81	81	41
+Land Flora RNA virome	Potyviridae	33	33	21
+Land Flora RNA virome	Solemoviridae	18	18	13

@@ -1,0 +1,3 @@
+virus_family	action	drop_reason	representative_n	host_annotated_n	host_annotated_fraction	cluster_member_median	host_family_n_median	effective_aa_median	gap_fraction_median
+Geminiviridae	keep	keep	1604	1589	0.990648379052369	2	1	124	0.126760563380282
+Geminiviridae	drop	effective_aa	74	74	1	1	1	97	0.316901408450704

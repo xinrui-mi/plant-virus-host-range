@@ -1,0 +1,5 @@
+source_label_4way	association_n	unique_sequence_n
+NCBI Virus only	74100	74100
+NCBI Virus + Virus-Host DB shared/coordinated	4139	2493
+Land Flora RNA virome	2516	2516
+Virus-Host DB only	2279	919

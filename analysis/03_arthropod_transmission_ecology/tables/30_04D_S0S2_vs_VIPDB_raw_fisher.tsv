@@ -1,0 +1,2 @@
+test	no_sequence_no_documented_vector	no_sequence_documented_vector	sequence_evidence_no_documented_vector	sequence_evidence_documented_vector	odds_ratio	ci_low	ci_high	p_value
+Fisher exact	4811	348	259	61	3.25493627168974	2.37107291123607	4.416961872707	2.00465957898503e-12

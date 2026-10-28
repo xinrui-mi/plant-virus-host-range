@@ -1,0 +1,21 @@
+FINAL FREEZE NOTE — Fig4_publication_FINAL_v1_1
+=============================================
+
+Frozen analytical sources
+--------------------------
+1) Fig5_network_prioritization final tables for Fig.4A-C and Fig.S4.
+2) Fig6_candidate_contextualization final table
+   12_candidate_VIPDB_support_adjusted_models.tsv for Fig.4D.
+3) 20_three_source_association_master_FINAL.tsv only for taxonomy mapping already
+   required by the frozen network plotting package.
+
+Scientific-content changes relative to the supplied current Fig.4 package
+-------------------------------------------------------------------------
+ONLY Panel D is replaced.
+Old D: three raw candidate metrics already encoded in Panel C.
+New D: frozen documented-vector relationship OR/95% CI comparison from the former
+contextualization figure (M0 unadjusted; M1 VC80-adjusted; M3 sequence-adjusted).
+
+No analytical values are recalculated.
+No prioritized genus is added/removed/redefined.
+Fig.S4 analyses are unchanged; formal virus genus labels are kept italic.

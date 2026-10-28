@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Tombusviridae	326	5	1;2;3-4;5-9;10+	50000	0.0418556695781585	0.018280517775131	-0.0130318105406732	0.0538945307924403	0.082	0.082	999

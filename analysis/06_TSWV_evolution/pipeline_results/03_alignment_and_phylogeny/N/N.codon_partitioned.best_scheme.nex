@@ -1,0 +1,8 @@
+#nexus
+begin sets;
+  charset codon1_codon2 = 1-774\3  2-774\3;
+  charset codon3 = 3-774\3;
+  charpartition mymodels =
+    HKY+F+I+R2: codon1_codon2,
+    TPM2u+F+I+R2: codon3;
+end;

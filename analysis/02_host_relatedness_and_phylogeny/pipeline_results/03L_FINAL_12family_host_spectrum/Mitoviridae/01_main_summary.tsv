@@ -1,0 +1,2 @@
+virus_family	final_tree_tip_n	host_annotated_tip_n	host_family_universe_n	distinct_host_spectrum_n	total_possible_pair_n	tested_pair_n	pair_sampling_mode	observed_spearman_rho_host_jaccard	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	observed_spearman_rho_breadth_difference	breadth_null_median_rho	breadth_empirical_p_greater	permutations
+Mitoviridae	204	204	60	62	20706	20706	all_pairs	0.0230723347035855	-0.00104771536351361	-0.0315849699304236	0.0327734802781481	0.095	0.177	0.109217949885937	-0.00265787591704349	0.028	999

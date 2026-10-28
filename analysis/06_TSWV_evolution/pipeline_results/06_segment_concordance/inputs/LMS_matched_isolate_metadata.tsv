@@ -1,0 +1,121 @@
+paired_id	isolate_name	country	collection_date	host	L_accession	M_accession	S_accession	L_length	M_length	S_length	L_orientation	M_orientation	S_orientation
+TSWVISO_0001	1-Ranunculus-2021	South Korea		Ranunculus asiaticus	LC612597.1	LC612598.1	LC612599.1	8913	4772	2974	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0002	100/23	Montenegro: Ulcinj, Darza	2023	Solanum lycopersicum cultivar Pink Gusto	PP968744.1	PP968745.1	PP968746.1	8914	4765	2921	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0003	102SEC22S	Croatia	Jun-2022	cucumber	OQ534348.1	OQ534347.1	OQ534346.1	8913	4762	2938	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0004	105DOT22S	Croatia	Jun-2022	Solanum lycopersicum; cultivar: SignoraF1	OQ507123.1	OQ507122.1	OQ507121.1	8913	4762	2938	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0005	106DOT22S	Croatia	Jun-2022	Solanum lycopersicum	OQ534342.1	OQ534341.1	OQ534340.1	8913	4762	2939	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0006	107DOT22S	Croatia	Jun-2022	Solanum lycopersicum; cultivar: SignoraF1	OQ507126.1	OQ507125.1	OQ507124.1	8913	4762	2940	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0007	108DOT22S	Croatia	Jun-2022	Solanum lycopersicum	OQ507129.1	OQ507128.1	OQ507127.1	8913	4762	2939	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0008	109DOP22S	Croatia	Jun-2022	pepper	OQ507132.1	OQ507131.1	OQ507130.1	8913	4764	2907	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0009	253SEP23S	Croatia	27-Sep-2023	Capsicum annuum cv. Prince F1	PP943378.1	PP943379.1	PP943380.1	8903	4752	2933	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0010	254SEP23S	Croatia	27-Sep-2023	Capsicum annuum cv. Prince F1	PP943381.1	PP943382.1	PP943383.1	8848	4762	2929	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0011	255_256SEP23S	Croatia	27-Sep-2023	Capsicum annuum cv. Dragoney	PP943384.1	PP943385.1	PP943386.1	8913	4762	2933	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0012	52STT21S	Croatia	Sep-2021	Solanum lycopersicum	OP373186.1	OP373185.1	OP373184.1	8907	4770	2927	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0013	71SET22S	Croatia	May-2022	Solanum lycopersicum	OQ534345.1	OQ534344.1	OQ534343.1	8913	4762	2931	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0014	85DOPt22S	Croatia	Jun-2022	potato	OQ507117.1	OQ507116.1	OQ507115.1	8913	4762	2945	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0015	86DOW22S	Croatia	Jun-2022	Amaranthus blitum	OQ507120.1	OQ507119.1	OQ507118.1	8913	4762	2945	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0016	98/23	Montenegro: Ulcinj, Darza	2023	Solanum lycopersicum cultivar Pink Gusto	PP968741.1	PP968742.1	PP968743.1	8914	4766	2925	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0017	BasC	USA: Washington	2014	Ocimum basilicum;Ocimum basilicum (Basil)	MH745370.1	KU179514.1	KU179515.1	8914	4767	2952	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0018	BR	South Korea	05-Jun-2016	pepper	MF159038.1	MF159050.1	MF159062.1	8913	4788	2976	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0019	CG-1	China	2009	Lactuca sativa	JN664254.1	JN664253.1	JN664252.1	8917	4767	2920	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0020	CY	South Korea	11-Jun-2016	pepper	MF159039.1	MF159051.1	MF159063.1	8914	4751	2963	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0021	DG	South Korea	2023-07-18	Arctium lappa	LC790665.1	LC790666.1	LC790667.1	8914	4773	2946	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0022	DSMZ PV-0182	Bulgaria		Nicotiana tabacum	MZ202328.1	MZ202329.1	MZ202330.1	8914	4820	3101	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0023	DSMZ PV-0204	Germany		Impatiens New-Guinea hybrid	MT682292.1	MT682293.1	MT682294.1	8912	4794	2977	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0024	DSMZ PV-0376	Taiwan		Nicotiana rustica	OR233199.1	OR233200.1	OR233201.1	8914	4826	2956	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0025	DSMZ PV-0389	Brazil: Sao Paulo		Nicotiana rustica	MT723985.1	MT723986.1	MT723987.1	8913	4827	2923	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0026	DSMZ PV-0393	Bulgaria		Nicotiana tabacum	MW854271.1	MW854272.1	MW854273.1	8874	4804	2963	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0027	DSMZ PV-1025	Zimbabwe		Nicotiana tabacum	PP503021.1	PP503022.1	PP503023.1	8913	4835	2967	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0028	DSMZ PV-1175	Hungary		Capsicum annuum	ON924222.1	ON924223.1	ON924224.1	8914	4764	2926	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0029	DSMZ PV-1265	Germany: Buckow		Capsicum annuum	ON924228.1	ON924229.1	ON924230.1	8914	4770	2923	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0030	DSMZ PV-1369	Netherlands		Callistephus	OQ102068.1	OQ102069.1	OQ102070.1	8910	4822	2976	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0031	DSMZ PV-1412	Serbia		Capsicum	OR762544.1	OR762545.1	OR762546.1	8914	4821	2916	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0032	DSMZ PV-1413	Turkey: Bursa area		Solanum lycopersicum	OR762547.1	OR762548.1	OR762549.1	8914	4771	3016	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0033	DY	South Korea	13-Jun-2016	pepper	MF159040.1	MF159052.1	MF159064.1	8920	4787	2942	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0034	EBHM-1	China	Jul-2023	Erigeron breviscapus (Vant.) Hand.-Mazz.	PP596542.1	PP596541.1	PP596540.1	8913	4773	2956	forward_anchor	reverse_complemented_anchor	forward_anchor
+TSWVISO_0035	FC-19	Japan: Fukushima	2019	Cucumis sativus	LC652640.1	LC652641.1	LC652642.1	8913	4834	2966	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0036	FERA_18-1.23	United Kingdom	2018	Nicotiana tabacum	OM112200.1	OM112201.1	OM112202.1	8914	4783	2950	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0037	FG-tomSRB	Italy: Foggia	13-Jun-2022	tomato cv. Docet	OR166268.1	OR166267.1	OR166266.1	8914	4806	2918	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0038	G	South Korea	28-Jun-2016	pepper	MF159041.1	MF159053.1	MF159065.1	8920	4777	2957	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0039	GC	South Korea	29-Jun-2016	pepper	MF159042.1	MF159054.1	MF159066.1	8925	4760	2973	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0040	Ger	South Korea		Gerbera hybrida	LC603056.1	LC535227.1	LC535228.1	8914	4772	2928	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0041	GS	South Korea	04-Jul-2016	pepper	MF159043.1	MF159055.1	MF159067.1	8920	4779	2974	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0042	Gumi	South Korea	Aug-2019	Gerbera jamesonii	MW048592.1	MW048591.1	MW048590.1	8920	4775	2970	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0043	Hahoe_Andong	South Korea	2021	Capsicum annuum	OM022887.1	OM022882.1	OM022877.1	8914	4780	2954	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0044	HB	South Korea	2021-12-01	Lobelia erinus cv. Hot Bavaria	LC698324.1	LC698325.1	LC698326.1	8914	4776	2920	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0045	HS	South Korea	14-Jul-2016	pepper	MF159044.1	MF159056.1	MF159068.1	8920	4773	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0047	Huludao 2023	China: Huludao, Liaoning Province	2023	tomato	PX609836.1	PX609835.1	PX609834.1	8919	4775	2930	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0048	I	South Korea	17-Jul-2016	pepper	MF159045.1	MF159057.1	MF159069.1	8921	4775	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0049	IRP4	Iran	2023	Capsicum annuum	PP780924.1	PP780925.1	PP780926.1	8914	4766	2916	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0050	K	South Korea	02-Aug-2016	pepper	MF159047.1	MF159059.1	MF159071.1	8912	4769	2957	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0051	Ka-To	India: Bangalore, Karnataka	2019	tomato	MK977648.1	MK977649.1	MK977650.1	8914	4830	2948	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0052	Kunming	China: Kunming, Yunnan	01-Jun-2014	N. benthamiana	OM902668.1	OM902667.1	OM902666.1	8913	4770	2967	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0053	Kunming 2022	China: Kunming, Yunnan Province	2022	pepper	PX609830.1	PX609829.1	PX609828.1	8913	4772	3016	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0054	Lazio17	Italy	Jul-2014	pepper	MK348943.1	MG983520.1	MG983519.1	8909	4772	2948	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0055	LL-N.05	Spain	2005	tomato	KP008128.1	FM163373.1	KP008129.1	8913	4752	2924	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0056	LS3	South Korea: Daegu	14-Jul-2013	Leonurus sibiricus	KM076651.1	KM076652.1	KM076653.1	8913	4787	2973	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0057	MJ	South Korea	09-Aug-2016	pepper	MF159048.1	MF159060.1	MF159072.1	8922	4772	2957	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0058	MR-01	USA: CA	Feb-2015	Cichorium intybus	MG593197.1	MG593198.1	MG593199.1	8920	4770	2927	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0059	Mum-A5	Zimbabwe	Jan-2014	chrysanthemum	MG602671.1	MG602672.1	MG602673.1	8913	4824	2968	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0060	Non-RB	USA: College Station, Texas	2023	pepper	PP632110.1	PP632111.1	PP632112.1	8914	4764	2901	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0061	Oxy	South Korea		Oxypetalum sp.	LC671525.1	LC671638.1	LC671639.1	8920	4774	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0062	P1	South Korea		Capsicum annuum	LC549179.1	LC549180.1	LC549181.1	8931	4771	2951	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0063	p202/3WT	Italy	1999	pepper	KJ575619.1	HQ830188.1	HQ830187.1	8914	4824	2963	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0064	PA01	USA: Pennsylvania	15-Jul-2014	pepper	KT160280.1	KT160281.1	KT160282.1	8914	4765	2984	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0065	Pep-BL	USA: Bushland, Texas	2022	pepper	PP632107.1	PP632108.1	PP632109.1	8902	4768	2905	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0066	PepCal_12	Italy	Jul-2014	pepper	MK348941.1	MH756625.1	MG989674.1	8909	4763	2960	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0067	PepCal_22	Italy	Jul-2014	pepper	MH763622.1	MH756626.1	MG989675.1	8909	4764	2879	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0068	PepCal_24	Italy	Jul-2014	pepper	MH763623.1	MH756627.1	MG989676.1	8909	4765	2959	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0069	Pepper1 CY-CN	South Korea	2009	pepper	HM581937.1	HM581938.1	HM581939.1	8914	4768	3013	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0070	Pepper2 CY-CN	South Korea	2009	pepper	HM581940.1	HM581941.1	HM581942.1	8914	4768	3013	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0071	PLE20ST2	Slovenia	Sep-2020	Solanum lycopersicum	OL471946.1	OL471947.1	OL471948.1	8913	4766	2929	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0072	PLE20ST3	Slovenia	Sep-2020	Solanum lycopersicum	OL471949.1	OL471950.1	OL471951.1	8913	4766	2927	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0073	PVR	Spain	2007	pepper	KP008132.1	KP008133.1	KP008134.1	8914	4781	2951	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0074	SDLY-1	China	01-Jul-2019	Tobacco	MN833242.1	MN870629.1	MN861978.1	8913	4773	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0075	SK-J	South Korea	16-Jun-2020	tobacco	MZ404050.1	MZ404051.1	MZ404052.1	8920	4773	2962	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0076	SS	South Korea	2021-12-01	Lobelia erinus cv. Sweet Springs	LC685923.1	LC685924.1	LC685925.1	8914	4776	2920	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0077	SW-TO2	South Korea: Suwon	2019	tomato	MT842843.1	MT842842.1	MT842844.1	8914	4772	2974	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0078	T1012	Italy	2005	Solanum lycopersicum	ON840010.2	ON840011.2	ON840012.2	8914	4764	2925	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0079	T1107	Italy	2021	Solanum lycopersicum	ON840007.1	ON840008.1	ON840009.1	8913	4763	2924	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0080	T1115	Italy	25-Nov-2021	Solanum lycopersicum	PP526246.1	PP526247.1	PP526248.1	8913	4763	2924	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0081	Tom-BL2	USA: Bushland, Texas	2022	tomato	PP622754.1	PP622755.1	PP622756.1	8914	4774	2933	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0082	Tom-CA	USA: California	2022	tomato	PP632104.1	PP632105.1	PP632106.1	8915	4783	2920	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0083	Tomato NJ-JN	South Korea	2008	tomato	HM581934.1	HM581935.1	HM581936.1	8913	4783	2968	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0084	TSWV-12	South Korea	May-2010	lettuce	KC261965.1	KC261966.1	KC261967.1	8914	4829	2961	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0085	TSWV-17	South Korea	May-2010	Stellaria media	KC261971.1	KC261972.1	KC261973.1	8914	4828	2961	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0086	TSWV-18	South Korea	Oct-2010	Chrysanthemum	KC261974.1	KC261975.1	KC261976.1	8914	4770	3020	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0087	TSWV-4	South Korea	Sep-2009	pepper	KC261947.1	KC261948.1	KC261949.1	8913	4781	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0088	TSWV-5	South Korea	Dec-2009	Stellaria aquatica	KC261950.1	KC261951.1	KC261952.1	8913	4792	2975	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0089	TSWV-6	South Korea	Dec-2009	Stellaria media	KC261953.1	KC261954.1	KC261955.1	8913	4786	2969	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0090	TSWV-7	South Korea	Dec-2009	pepper	KC261956.1	KC261957.1	KC261958.1	8913	4785	2967	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0091	TSWV-8	South Korea	Sep-2009	Lactuca indica	KC261959.1	KC261960.1	KC261961.1	8913	4787	2977	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0092	TSWV-AS-P1	South Korea	2022-06	Capsicum annuum	LC742962.1	LC742963.1	LC742964.1	8906	4784	2900	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0093	TSWV-BJFC-Ze	China	28-May-2019	Zinnia elegans	MN493846.1	MN493847.1	MN493848.1	8913	4765	2922	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0094	TSWV-CY-LC	South Korea	2018	Lycium chinense	MN064722.1	MN064723.1	MN064724.1	8914	4772	2972	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0095	TSWV-HJ	South Korea		Humulus japonicus	LC273305.1	LC273306.1	LC273307.1	8920	4775	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0096	TSWV-LN	China	2019	tomato	MK986669.1	MK986670.1	MK986671.1	8913	4772	2968	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0097	TSWV-QLD1	Australia	2014	Capsicum sp. cv. yolo wonder	KT717691.1	KT717692.1	KT717693.1	8914	4869	3003	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0098	TSWV-QLD2	Australia	20-Jul-2015	Capsicum annuum cv. warlock	MG025802.1	MG025803.1	MG025804.1	8914	4851	2987	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0099	TSWV-RP-GJ	South Korea: Gim-Je	2021	red pepper	OL742435.1	OL742436.1	OL742437.1	8914	4772	2975	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0100	TSWV-Veria2024	Greece	2024	Capsicum annuum	PV648726.1	PV648727.1	PV648728.1	8785	4746	2938	reverse_complemented_anchor	forward_anchor	forward_anchor
+TSWVISO_0101	TSWV-YN	China	Jul-2010	tomato	JF960237.1	JF960236.1	JF960235.1	8910	4773	2970	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0102	TswvTRPep	Turkey	Jun-2016	Capsicum annuum	MK682812.1	MK715443.1	MK692930.1	8914	4825	2961	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0103	TUR20ST1	Slovenia	Sep-2020	Solanum lycopersicum	OL471952.1	OL471953.1	OL471954.1	8913	4766	2926	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0104	TUR20ST2	Slovenia	Sep-2020	Solanum lycopersicum	OL471955.1	OL471956.1	OL471957.1	8913	4766	2925	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0105	TUR20ST3	Slovenia	Sep-2020	Solanum lycopersicum	OL471958.1	OL471959.1	OL471960.1	8912	4765	2926	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0106	Wa1	USA: Washington	2013	Solanum lycopersicum;Solanum lycopersicum (Tomato)	MH745369.1	KU179512.1	KU179513.1	8913	4769	2925	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0107	WJ	South Korea	26-Jun-2020	pepper	MW293977.1	MW293978.1	MW293979.1	8920	4760	2957	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0108	YI	South Korea	23-Sep-2020	pepper	MW293974.1	MW293975.1	MW293976.1	8920	4774	2939	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0109	YN5577	China: Yunnan	Jun-2016	Tropaeolum majus	MF422032.1	MF422033.1	MF422034.1	8913	4770	2967	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0110	YNgp	China	01-Sep-2013	green pepper	KM657122.1	KM657119.1	KM657116.1	8913	4772	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0111	YNHHML	China	01-Jul-2019	Tobacco	MN833247.1	MN870632.1	MN861981.1	8913	4772	2970	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0112	YNHHMZ	China	01-Jul-2019	Tobacco	MN870626.1	MN870630.1	MN861979.1	8913	4772	2936	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0113	YNHS	China	2018	Arachis hypogaea	MN365036.1	MN365035.1	MN365037.1	8912	4773	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0114	YNKM-1	China	01-Jul-2019	Tobacco	MN865481.1	MN870628.1	MN861976.1	8913	4772	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0115	YNKMSL	China	01-Jul-2019	Tobacco	MN833246.1	MN870631.1	MN861980.1	8913	4778	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0116	YNQJ	China	01-Jul-2019	Tobacco	MN833245.1	MN870639.1	MN861977.1	8914	4773	2971	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0117	YNrp	China	01-Sep-2013	red pepper	KM657120.1	KM657117.1	KM657114.1	8913	4771	2968	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0118	YNta	China	01-Sep-2013	tobacco	KM657121.1	KM657118.1	KM657115.1	8913	4772	2970	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0119	Yongsang_Andong	South Korea	2021	Capsicum annuum	OM022889.1	OM022885.1	OM022878.1	8920	4786	2955	forward_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0120	Yuxi 2023	China: Yuxi, Yunnan Province	2023	tomato	PX609833.1	PX609832.1	PX609831.1	8913	4770	2967	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor
+TSWVISO_0121	ZS	China	11-May-2018	Perilla frutescens	MT950318.1	MT950317.1	MT950316.1	8922	4779	2971	reverse_complemented_anchor	reverse_complemented_anchor	reverse_complemented_anchor

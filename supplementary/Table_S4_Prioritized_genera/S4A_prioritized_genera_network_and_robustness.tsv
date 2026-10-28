@@ -1,0 +1,13 @@
+genus	family	host_family_breadth	host_order_breadth	network_bridge_score	VC80_support	sequence_records	module	resampling_recurrence	threshold_combination_retention	retained_in_genus_consistent_VC80_analysis
+Potyvirus	Potyviridae	77	31	0.974205006306759	903	10132	11	1	1	Yes
+Begomovirus	Geminiviridae	58	25	0.640565792404313	730	15193	5	1	1	Yes
+Nepovirus	Secoviridae	71	37	0.610116299377775	270	1809	8	1	1	Yes
+Carlavirus	Betaflexiviridae	48	26	0.421936539606643	258	1319	11	1	1	Yes
+Potexvirus	Alphaflexiviridae	52	26	0.406794655556511	144	1515	6	0.995	1	Yes
+Polerovirus	Solemoviridae	44	23	0.396609932731597	205	1674	9	0.995	1	Yes
+Orthotospovirus	Tospoviridae	44	20	0.359473977819274	220	2137	5	0.89	0.666666666666667	Yes
+Badnavirus	Caulimoviridae	39	26	0.424647502464746	213	820	12	1	0.666666666666667	Yes
+Ilarvirus	Bromoviridae	36	21	0.42648263341616	179	1217	8	0.995	0.666666666666667	Yes
+Cucumovirus	Bromoviridae	46	26	0.381371502362008	61	1468	5	0.99	0.666666666666667	Yes
+Fabavirus	Secoviridae	35	21	0.37231715205439	79	602	6	0.86	0.444444444444444	Yes
+Waikavirus	Secoviridae	33	20	0.394555237553713	57	82	9	0.43	0.444444444444444	Yes

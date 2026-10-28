@@ -1,0 +1,6 @@
+gene	tree_haplotype_n	represented_accession_n	host_family_n	host_order_n	country_n	continent_n	protein_alignment_length	trimmed_codon_length
+RdRp	169	174	16	12	26	5	2878	8634
+Gn/Gc	256	267	17	12	26	5	1061	3183
+NSm	239	271	17	13	26	5	302	906
+N	215	282	16	13	25	5	258	774
+NSs	548	669	17	13	29	5	464	1392

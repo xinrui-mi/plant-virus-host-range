@@ -1,0 +1,3 @@
+virus_family	min_cluster_member_n	tip_n	total_possible_pair_n	tested_pair_n	sampling_mode	status	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Tombusviridae	2	110	5995	5995	all_pairs	PASS	0.127366340347627	-0.00126891406889967	-0.0444413284545911	0.0476762219631329	0.001	0.001	999
+Tombusviridae	3	76	2850	2850	all_pairs	PASS	0.189028285285542	0.000126442640072385	-0.06282638795785	0.0635863118922746	0.001	0.001	999

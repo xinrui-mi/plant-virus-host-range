@@ -1,0 +1,2 @@
+python 3.12.12 | packaged by conda-forge | (main, Oct 22 2025, 23:25:55) [GCC 14.3.0]
+platform Linux-3.10.0-1160.el7.x86_64-x86_64-with-glibc2.17

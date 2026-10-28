@@ -1,0 +1,5 @@
+virus_family	marker_type	raw_marker_n	nr95_n	filtered_tip_n	alignment_aa_length
+Geminiviridae	Rep conserved region (full-Pfam verified)	14274	1600	1463	135
+Caulimoviridae	RT-to-RNaseH conserved region (full-Pfam verified)	908	186	186	297
+Potyviridae	RdRP HMM hit + upstream 220 aa / downstream 120 aa	7626	1014	718	379
+Tombusviridae	RdRP HMM hit + upstream 80 aa / downstream 180 aa	1286	333	330	251

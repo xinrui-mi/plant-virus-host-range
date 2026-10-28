@@ -1,0 +1,185 @@
+country	continent	association_n	unique_sequence_n	host_family_n
+China	Asia	14752	14526	130
+United States	Americas	7303	7121	94
+India	Asia	6774	6668	59
+Pakistan	Asia	4673	4642	31
+Brazil	Americas	3251	3140	52
+South Korea	Asia	2428	2410	64
+Japan	Asia	2131	2006	61
+Spain	Europe	1940	1913	28
+Australia	Oceania	1911	1811	50
+France	Europe	1726	1535	35
+South Africa	Africa	1665	1640	32
+Iran	Asia	1569	1554	33
+Germany	Europe	1361	1336	56
+Russia	Europe	1106	1106	17
+Italy	Europe	1096	964	53
+Kenya	Africa	1005	1000	19
+Turkey	Asia	997	993	21
+Peru	Americas	930	914	16
+Poland	Europe	778	778	25
+Mexico	Americas	763	740	27
+Netherlands	Europe	722	673	46
+Vietnam	Asia	629	610	30
+Taiwan	Asia	614	567	39
+Canada	Americas	568	565	27
+Uganda	Africa	544	539	12
+Colombia	Americas	538	523	24
+United Kingdom	Europe	536	509	35
+Indonesia	Asia	524	522	13
+Czechia	Europe	489	486	23
+Burkina Faso	Africa	487	484	12
+Madagascar	Africa	486	486	5
+Argentina	Americas	472	436	23
+Thailand	Asia	450	440	18
+Hungary	Europe	448	445	26
+Philippines	Asia	410	409	12
+Tonga	Oceania	373	372	3
+Slovenia	Europe	353	353	18
+Greece	Europe	329	322	29
+Oman	Asia	315	315	11
+Tanzania	Africa	314	312	11
+Bangladesh	Asia	297	290	9
+Côte d’Ivoire	Africa	270	268	8
+Nigeria	Africa	269	264	15
+New Zealand	Oceania	263	259	35
+Congo - Kinshasa	Africa	261	261	4
+Réunion	Africa	253	253	6
+Venezuela	Americas	243	242	8
+Ghana	Africa	243	242	5
+Sudan	Africa	232	227	8
+Kazakhstan	Asia	220	220	3
+Belgium	Europe	214	214	10
+Ecuador	Americas	209	204	17
+Sweden	Europe	198	192	13
+Slovakia	Europe	187	183	14
+Finland	Europe	173	173	7
+Central African Republic	Africa	173	173	2
+Chile	Americas	163	163	12
+Israel	Asia	153	150	18
+Ethiopia	Africa	153	150	7
+Saudi Arabia	Asia	152	151	8
+Comoros	Africa	147	145	3
+Iraq	Asia	147	147	11
+Cuba	Americas	145	140	9
+Malaysia	Asia	145	139	17
+Jordan	Asia	145	145	6
+Cameroon	Africa	140	136	11
+Switzerland	Europe	140	140	15
+Laos	Asia	139	139	9
+Egypt	Africa	127	124	14
+Zambia	Africa	126	126	3
+Cambodia	Asia	123	122	7
+Serbia	Europe	117	117	10
+Tunisia	Africa	116	113	8
+Rwanda	Africa	112	111	5
+Papua New Guinea	Oceania	111	109	5
+Jamaica	Americas	105	99	7
+Estonia	Europe	105	105	2
+Morocco	Africa	104	100	7
+Mozambique	Africa	102	102	5
+Costa Rica	Americas	97	93	13
+Croatia	Europe	97	95	10
+Sri Lanka	Asia	89	87	8
+Syria	Asia	87	87	4
+Portugal	Europe	84	84	9
+Nepal	Asia	80	80	7
+Guatemala	Americas	80	68	8
+Mayotte	Africa	79	79	4
+Malawi	Africa	71	69	6
+Montenegro	Europe	67	67	7
+Ireland	Europe	65	65	5
+Mauritius	Africa	65	65	5
+Bulgaria	Europe	63	48	8
+Dominican Republic	Americas	62	47	6
+Trinidad & Tobago	Americas	58	58	5
+Zimbabwe	Africa	57	56	8
+Azerbaijan	Asia	52	52	4
+Benin	Africa	51	43	9
+Mali	Africa	45	39	4
+Myanmar (Burma)	Asia	45	45	5
+Austria	Europe	44	44	7
+Bolivia	Americas	43	39	4
+Ukraine	Europe	40	40	7
+Burundi	Africa	40	40	3
+Vanuatu	Oceania	37	37	2
+Norway	Europe	37	37	8
+Kuwait	Asia	35	35	1
+Denmark	Europe	35	34	10
+Latvia	Europe	35	35	4
+Guadeloupe	Americas	32	30	3
+Palestinian Territories	Asia	32	32	2
+Seychelles	Africa	28	28	2
+Uruguay	Americas	28	28	4
+Lithuania	Europe	25	25	9
+Algeria	Africa	22	22	4
+Yemen	Asia	22	22	4
+French Guiana	Americas	22	22	3
+Lebanon	Asia	22	22	4
+Togo	Africa	21	20	6
+Niger	Africa	20	20	4
+Honduras	Americas	18	10	4
+Singapore	Asia	17	14	7
+Georgia	Asia	17	17	4
+Samoa	Oceania	17	17	3
+Belarus	Europe	17	17	2
+New Caledonia	Oceania	16	16	4
+Congo - Brazzaville	Africa	15	15	3
+Timor-Leste	Asia	15	15	4
+Antarctica	Antarctica	15	15	1
+French Polynesia	Oceania	14	14	3
+Fiji	Oceania	13	11	4
+Nicaragua	Americas	12	12	2
+Solomon Islands	Oceania	11	11	2
+Kosovo	Europe	11	11	1
+Uzbekistan	Asia	11	11	6
+Bhutan	Asia	10	10	2
+Chad	Africa	10	10	2
+Bosnia & Herzegovina	Europe	9	9	2
+Albania	Europe	9	9	5
+Paraguay	Americas	9	9	5
+Gabon	Africa	9	9	3
+North Macedonia	Europe	9	9	1
+Martinique	Americas	9	9	4
+Eritrea	Africa	9	9	1
+Namibia	Africa	8	8	2
+Armenia	Asia	7	7	1
+Romania	Europe	7	7	2
+Belize	Americas	7	7	4
+Turkmenistan	Asia	6	6	2
+Barbados	Americas	6	6	3
+Cyprus	Asia	6	6	3
+Panama	Americas	6	6	2
+Yugoslavia	Europe	6	6	1
+Bermuda	Americas	6	6	1
+Haiti	Americas	6	6	2
+Grenada	Americas	6	6	1
+Afghanistan	Asia	5	5	2
+Norfolk Island	Oceania	5	5	1
+Angola	Africa	5	5	2
+Moldova	Europe	4	4	3
+Botswana	Africa	4	4	1
+Czechoslovakia	Europe	4	4	1
+Cook Islands	Oceania	4	4	1
+Guinea	Africa	3	3	2
+Sierra Leone	Africa	3	3	1
+South Sudan	Africa	3	3	1
+United Arab Emirates	Asia	3	3	2
+Lesotho	Africa	3	3	1
+Serbia and Montenegro	Europe	3	3	1
+Pacific Ocean		2	2	1
+Kyrgyzstan	Asia	2	2	1
+Libya	Africa	2	2	1
+Indian Ocean		2	2	2
+Senegal	Africa	2	2	1
+Equatorial Guinea	Africa	2	2	1
+Antigua & Barbuda	Americas	2	2	1
+Greenland	Americas	1	1	1
+Gambia	Africa	1	1	1
+Hong Kong SAR China	Asia	1	1	1
+Arctic Ocean		1	1	1
+Luxembourg	Europe	1	1	1
+St. Vincent & Grenadines	Americas	1	1	1
+Suriname	Americas	1	1	1
+St. Kitts & Nevis	Americas	1	1	0
+Guyana	Americas	1	1	1

@@ -1,0 +1,13 @@
+virus_family	candidate_species_level_label_n	marker_type	marker_recovered_sequence_n	marker_recovered_species_level_label_n	marker_species_recovery_pct_of_candidate	AA95_representative_n	alignment_QC_tree_tip_n	host_annotated_tree_tip_n	host_family_coverage_n	distinct_host_spectrum_n	technical_eligibility	exclusion_reason
+Geminiviridae	771	Rep_conserved_AL1_to_AL1M	14694	736	95.46	1678	1604	1589	70	222	PASS	NONE
+Caulimoviridae	161	Pol_RT_to_RNaseH	963	155	96.27	188	188	186	52	60	PASS	NONE
+Alphaflexiviridae	109	entire_replication_protein	1371	105	96.33	236	236	236	61	71	PASS	NONE
+Betaflexiviridae	295	entire_replication_protein	3714	272	92.20	1066	1066	1065	78	101	PASS	NONE
+Closteroviridae	123	HSP70h	1423	113	91.87	256	255	255	45	47	PASS	NONE
+Mitoviridae	113	full_or_near_full_RdRP	298	112	99.12	208	204	204	60	62	PASS	NONE
+Partitiviridae	183	complete_RdRP_ORF	781	163	89.07	361	361	361	98	101	PASS	NONE
+Potyviridae	419	major_polyprotein	6276	336	80.19	915	915	912	81	134	PASS	NONE
+Rhabdoviridae	199	full_or_near_full_L	495	184	92.46	220	220	220	67	74	PASS	NONE
+Secoviridae	259	Pro-Pol CG-to-GDD	1345	249	96.14	395	388	385	106	130	PASS	NONE
+Solemoviridae	190	RdRP_ORF	1548	178	93.68	249	247	247	55	65	PASS	NONE
+Tombusviridae	203	polymerase_readthrough_or_frameshift_conserved_ORF	1286	200	98.52	330	326	326	75	93	PASS	NONE

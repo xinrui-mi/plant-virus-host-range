@@ -1,0 +1,6 @@
+gene	GARD_status	GARD_breakpoint_n	GARD_baseline_cAIC	GARD_bestModelAICc	selection_partition_n	BUSTED_status	BUSTED_pvalue	BUSTED_pvalue_path	BUSTED_significant_p_lt_0.05	MEME_status	MEME_sites_parsed_n	MEME_sites_p_le_0.10	FUBAR_status	FUBAR_sites_parsed_n	FUBAR_positive_sites_posterior_ge_0.90	FUBAR_negative_sites_posterior_ge_0.90
+RdRp	FINAL_GARD	3	119184.0765388601	117336.0460720487	4	present_valid	0.0	/test results/p-value	TRUE	present_valid	2878	83	present_valid	2878	2	1858
+GnGc	FINAL_GARD	0	60953.86753911689	60953.86753911689	1	present_valid	0.002094145119889201	/test results/p-value	TRUE	present_valid	1061	26	present_valid	1061	2	781
+NSm	PASS_NO_BREAKPOINT_MAX_FEASIBLE_BP1	0	16972.32191387388	16972.32191387388	1	present_valid	0.03270740794455512	/test results/p-value	TRUE	present_valid	302	3	present_valid	302	0	206
+N	PASS_NO_BREAKPOINT_MAX_FEASIBLE_BP1	0	13133.17226163651	13133.17226163651	1	present_valid	2.525757381022231e-14	/test results/p-value	TRUE	present_valid	258	9	present_valid	258	5	150
+NSs	FINAL_GARD	0	31865.81798010675	31865.81798010675	1	present_valid	0.0	/test results/p-value	TRUE	present_valid	464	46	present_valid	464	4	206

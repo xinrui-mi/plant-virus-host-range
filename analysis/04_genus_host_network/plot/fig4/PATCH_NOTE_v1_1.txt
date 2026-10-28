@@ -1,0 +1,25 @@
+Fig4 publication FINAL v1_1 patch
+=================================
+
+Reason for patch
+----------------
+FINAL_v1 removed the former main-panel-D candidate-summary block. That block had also
+contained the definition of `cand`, the frozen 12 prioritized genera used later by
+Supplementary Fig. S4A/S4B robustness plotting. Consequently FINAL_v1 stopped with:
+  Object 'cand' not found.
+
+Fix in FINAL_v1_1
+-----------------
+The exact candidate-set definition from the frozen network plotting package was restored
+immediately after Panel C:
+  cand <- metrics[candidate == TRUE][order(-host_family_breadth,
+                                            -bridge_score,
+                                            -vc80_support,
+                                            virus_genus)]
+
+This object is used only to identify the already-frozen prioritized-genus set for
+Supplementary Fig. S4 robustness plots. It does NOT re-run candidate selection and is
+not used to calculate the new Fig.4D.
+
+No scientific analysis, threshold, input table, model, or figure design was changed.
+Fig.4D still reads the frozen M0/M1/M3 vector-adjustment results only.

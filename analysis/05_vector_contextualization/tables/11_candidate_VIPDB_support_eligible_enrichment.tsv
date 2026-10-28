@@ -1,0 +1,3 @@
+analysis_set	support_cutoff	genus_n	candidate_n	noncandidate_n	candidate_vector_n	candidate_no_vector_n	noncandidate_vector_n	noncandidate_no_vector_n	fisher_odds_ratio	fisher_ci_low	fisher_ci_high	fisher_p
+all_network_genera	10	269	12	257	11	1	44	213	52.2151988962357	7.25998123054435	2272.26377733386	1.11463942069587e-07
+support_eligible_genera	10	101	12	89	11	1	37	52	15.1227615073991	2.03926389050879	675.588123784873	0.00128685557523171

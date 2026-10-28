@@ -1,0 +1,11 @@
+date=2026-08-14T00:28:01+0800
+R=Rscript (R) version 4.4.3 (2025-02-28)
+python=Python 3.12.12
+cd-hit=		====== CD-HIT version 4.8.1 (built on Apr 24 2025) ======
+mafft=v7.526 (2024/Apr/26)
+trimal=trimAl v1.5.rev1 build[2025-11-25]
+iqtree3=IQ-TREE version 3.0.1 for Linux x86 64-bit built Jul  9 2025
+hmmer=# HMMER 3.4 (Aug 2023); http://hmmer.org/
+hyphy=HYPHY 2.5.101(MP) for Linux on x86_64 x86 SSE4 SIMD zlib (v1.3.2)
+HYPHYMPI=<CONDA_PREFIX>/bin/HYPHYMPI
+mpirun=<CONDA_PREFIX>/bin/mpirun

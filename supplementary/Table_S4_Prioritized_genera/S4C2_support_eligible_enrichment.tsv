@@ -1,0 +1,2 @@
+VC80_support_cutoff	eligible_genus_n	prioritized_genus_n	other_genus_n	prioritized_genera_with_vector_n	other_genera_with_vector_n	odds_ratio	ci95_low	ci95_high	p_value
+10	101	12	89	11	37	15.1227615073991	2.03926389050879	675.588123784873	0.00128685557523171

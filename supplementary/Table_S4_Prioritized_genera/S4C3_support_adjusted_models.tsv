@@ -1,0 +1,6 @@
+model	analysis_set	genus_n	prioritized_genus_n	vector_positive_genus_n	prioritized_genus_odds_ratio	ci95_low	ci95_high	p_value
+Unadjusted	All network genera	269	12	55	53.2499777636547	6.70677065972266	422.79068059664	0.000169675275248164
+Adjusted for VC80 support	All network genera	269	12	55	2.93890151927594	0.318004586127	27.1604326377641	0.342018293881914
+Adjusted for VC80 support; VC80 support >=10	Genera with VC80 support >=10	101	12	48	3.23002609306953	0.327272313713664	31.8788608896446	0.315490187149168
+Adjusted for sequence-record count	All network genera	269	12	55	4.621334395622	0.480242790346941	44.4706969587826	0.185149926693303
+Adjusted for sequence-record count; VC80 support >=10	Genera with VC80 support >=10	101	12	48	5.20386881324357	0.557372559048318	48.5855469305613	0.14785418244072

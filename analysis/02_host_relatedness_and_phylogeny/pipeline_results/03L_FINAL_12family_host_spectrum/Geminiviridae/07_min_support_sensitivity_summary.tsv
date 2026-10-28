@@ -1,0 +1,3 @@
+virus_family	min_cluster_member_n	tip_n	total_possible_pair_n	tested_pair_n	sampling_mode	status	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Geminiviridae	2	933	434778	50000	random_pair_sample_50000	PASS	0.196479751181018	0.00220231832191218	-0.0326301816395822	0.032560892762975	0.001	0.001	999
+Geminiviridae	3	625	195000	50000	random_pair_sample_50000	PASS	0.217229772754114	0.000276088695326587	-0.0400241147620431	0.0423703459769561	0.001	0.001	999

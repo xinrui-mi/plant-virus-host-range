@@ -1,0 +1,2 @@
+model_id	outcome	scenario	model_type	term	estimate	std_error	statistic	p_value	ci_low	ci_high	exponentiated_effect	exponentiated_ci_low	exponentiated_ci_high	n	residual_df	converged	effect_scale
+S0S2_vs_documented_vector_VC80_family_adjusted	VIPDB_documented_vector	all_data	binomial(logit)	seq_supported_factorArthropod-associated sequence evidence	-0.0658595727902884	0.185287276290989	-0.355445738685572	0.722255688453484	-0.429022634320627	0.297303488740051	0.936262331767406	0.651145190785213	1.34622380122238	5479	5403	TRUE	odds ratio for documented vector relationship

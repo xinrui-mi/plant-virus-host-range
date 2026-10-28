@@ -1,0 +1,13 @@
+virus_family	alignment_tip_n	treefile_present	iqtree_report_present	best_fit_model	log_likelihood	status
+Geminiviridae	1604	YES	YES	Q.INSECT+R7	-61130.9559	PASS
+Caulimoviridae	188	YES	YES	LG+F+R6	-29880.9630	PASS
+Alphaflexiviridae	236	YES	YES	LG+R7	-107059.7693	PASS
+Betaflexiviridae	1066	YES	YES	Q.YEAST+F+R10	-406782.5581	PASS
+Closteroviridae	255	YES	YES	Q.YEAST+R7	-52611.7566	PASS
+Mitoviridae	204	YES	YES	Q.PFAM+F+R7	-75229.6934	PASS
+Partitiviridae	361	YES	YES	Q.PFAM+F+R9	-103017.5493	PASS
+Potyviridae	915	YES	YES	Q.INSECT+I+R10	-840562.7163	PASS
+Rhabdoviridae	220	YES	YES	LG+F+R9	-123296.5557	PASS
+Secoviridae	388	YES	YES	LG+F+R9	-162089.3672	PASS
+Solemoviridae	247	YES	YES	Q.PFAM+R7	-53734.6406	PASS
+Tombusviridae	326	YES	YES	Q.PFAM+F+R9	-86403.4471	PASS

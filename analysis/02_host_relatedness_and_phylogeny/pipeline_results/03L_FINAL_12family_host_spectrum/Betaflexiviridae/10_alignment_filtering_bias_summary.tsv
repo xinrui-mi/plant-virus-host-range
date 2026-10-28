@@ -1,0 +1,2 @@
+virus_family	action	drop_reason	representative_n	host_annotated_n	host_annotated_fraction	cluster_member_median	host_family_n_median	effective_aa_median	gap_fraction_median
+Betaflexiviridae	keep	keep	1066	1065	0.99906191369606	1	1	919	0.091897233201581

@@ -1,0 +1,19 @@
+outcome	group1	group2	W	p_value	p_BH
+host_family_n	Non-persistent	Persistent non-propagative	5575.5	5.72065437432976e-05	0.000343239262459786
+host_family_n	Non-persistent	Persistent propagative	1073.5	0.0172434063574327	0.0344868127148654
+host_family_n	Non-persistent	Semi-persistent	635.5	0.0083601618699653	0.0250804856098959
+host_family_n	Persistent non-propagative	Persistent propagative	6902.5	0.116337941986792	0.174506912980187
+host_family_n	Persistent non-propagative	Semi-persistent	4354.5	0.943685870037226	0.943685870037226
+host_family_n	Persistent propagative	Semi-persistent	995	0.429795750730134	0.515754900876161
+host_order_n	Non-persistent	Persistent non-propagative	5619	3.03707464587486e-05	0.000182224478752492
+host_order_n	Non-persistent	Persistent propagative	1085	0.0123188873965868	0.0246377747931736
+host_order_n	Non-persistent	Semi-persistent	630	0.0106941110850259	0.0246377747931736
+host_order_n	Persistent non-propagative	Persistent propagative	6933.5	0.125138973860796	0.187708460791194
+host_order_n	Persistent non-propagative	Semi-persistent	4286	0.810345853624374	0.810345853624374
+host_order_n	Persistent propagative	Semi-persistent	976	0.540429748058576	0.648515697670292
+max_host_taxonomic_distance	Non-persistent	Persistent non-propagative	5767.5	1.57784124687255e-05	9.46704748123532e-05
+max_host_taxonomic_distance	Non-persistent	Persistent propagative	1073	0.0146474971603008	0.0292949943206016
+max_host_taxonomic_distance	Non-persistent	Semi-persistent	637.5	0.00712049353831689	0.0213614806149507
+max_host_taxonomic_distance	Persistent non-propagative	Persistent propagative	6430	0.0236920769158227	0.0355381153737341
+max_host_taxonomic_distance	Persistent non-propagative	Semi-persistent	3606.5	0.0775840739664432	0.0931008887597318
+max_host_taxonomic_distance	Persistent propagative	Semi-persistent	952.5	0.719522390997796	0.719522390997796

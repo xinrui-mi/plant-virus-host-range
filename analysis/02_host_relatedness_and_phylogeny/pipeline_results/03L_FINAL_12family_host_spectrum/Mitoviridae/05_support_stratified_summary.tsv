@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Mitoviridae	204	5	1;2;3-4;5-9;10+	20706	0.0230723347035855	-0.00134976455130584	-0.031580966209331	0.0332252953088123	0.084	0.163	999

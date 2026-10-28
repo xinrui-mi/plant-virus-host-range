@@ -1,0 +1,7 @@
+evidence_group	outcome	estimate	standard_error	p_value
+Arthropod-associated sequence evidence	Host family breadth	0.181110730244365	0.0345226772994212	1.61248396411285e-07
+Arthropod-associated sequence evidence	Host order breadth	0.150279256988179	0.0322779703604729	3.30478963773059e-06
+VIP-DB documented vector relationship	Host family breadth	0.231175509552269	0.0303226027775109	2.89075999715271e-14
+VIP-DB documented vector relationship	Host order breadth	0.205007997668764	0.0284012950411195	5.99447410920774e-13
+Arthropod-associated sequence evidence	Maximum host taxonomic distance	0.0844730611412516	0.0744431428553125	0.256537739452261
+VIP-DB documented vector relationship	Maximum host taxonomic distance	0.565234109116805	0.0685548454109034	2.05484485092788e-16

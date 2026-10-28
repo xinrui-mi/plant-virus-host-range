@@ -1,0 +1,2 @@
+virus_family	total_possible_pair_n	tested_pair_n	sampling_mode	replicate_n	rho_median	rho_mean	rho_sd	rho_q025	rho_q25	rho_q75	rho_q975	rho_min	rho_max
+Caulimoviridae	17205	17205	all_pairs	1	0.155480019092938	0.155480019092938		0.155480019092938	0.155480019092938	0.155480019092938	0.155480019092938	0.155480019092938	0.155480019092938

@@ -1,0 +1,3 @@
+sensitivity	requested_iterations	successful_iterations	failed_iterations	full_data_table13_row_match	full_data_probability_max_abs_diff	full_data_interaction_beta	frozen_interaction_beta	full_data_interaction_beta_abs_diff
+host_node_subsampling	100	100	0	TRUE	4.44089209850063e-16	0.740127007701022	0.740127007701022	2.22044604925031e-16
+virus_taxid_subsampling	100	100	0	TRUE	4.44089209850063e-16	0.740127007701022	0.740127007701022	2.22044604925031e-16

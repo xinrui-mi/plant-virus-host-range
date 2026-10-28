@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Betaflexiviridae	1065	5	1;2;3-4;5-9;10+	50000	0.166964461806441	-0.0013696597802458	-0.0232892580288881	0.0225330823043476	0.001	0.001	999

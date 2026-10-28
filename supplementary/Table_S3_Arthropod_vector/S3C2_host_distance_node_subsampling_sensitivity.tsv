@@ -1,0 +1,3 @@
+sensitivity_analysis	retained_nodes_percent	replicates	observed_delta_beta	median_delta_beta	delta_beta_q025	delta_beta_q975	positive_delta_beta_replicates
+Randomly retained 70% of active host nodes	70.0	100	0.740127007701022	0.73980209531932	0.669321791629369	0.846236739101	100/100
+Randomly retained 70% of active virus TaxIDs	70.0	100	0.740127007701022	0.775255344650665	0.397102085106065	0.959261071293086	100/100

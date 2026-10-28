@@ -1,0 +1,3 @@
+virus_family	min_cluster_member_n	tip_n	total_possible_pair_n	tested_pair_n	sampling_mode	status	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Secoviridae	2	177	15576	15576	all_pairs	PASS	0.179703899529482	-0.00173474335465752	-0.0519532929912213	0.0553321212970609	0.001	0.001	999
+Secoviridae	3	102	5151	5151	all_pairs	PASS	0.184642809065491	0.0014079201851951	-0.0722017764144489	0.077527315101728	0.001	0.001	999

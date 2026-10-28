@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Potyviridae	912	5	1;2;3-4;5-9;10+	50000	0.116415617023411	0.000761088986442017	-0.0172058061447718	0.0167421962162225	0.001	0.001	999

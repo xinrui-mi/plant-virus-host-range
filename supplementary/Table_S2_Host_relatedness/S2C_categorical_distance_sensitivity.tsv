@@ -1,0 +1,7 @@
+comparison	estimate	p_value
+Same genus, different species vs same species	-1.11827328589605	2.00898930551923e-18
+Same family, different genera vs same species	-2.62607476955552	1.01396249407109e-96
+Same order, different families vs same species	-4.72000504802729	1.34292286226479e-282
+Same class, different orders vs same species	-4.90186079617302	0
+Same phylum, different classes vs same species	-9.02823406474166	0
+Same kingdom, different phyla vs same species	-11.0093612917298	4.74375218458563e-53

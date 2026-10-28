@@ -1,0 +1,4 @@
+segment	matched_isolate_n	alignment_nt_length	treefile
+L	120	8911	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/06_segment_concordance/L/L.treefile
+M	120	4765	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/06_segment_concordance/M/M.treefile
+S	120	2975	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/06_segment_concordance/S/S.treefile

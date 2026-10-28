@@ -1,0 +1,205 @@
+virus_family	cdhit95_cluster_id	representative_sequence_id	cluster_member_n	member_sequence_ids	virus_taxid_representative	virus_genus_representative	virus_species_representative	host_annotated	host_taxid_n	host_taxids	host_family_n	host_families
+Mitoviridae	AA95_38	BK010422.1	1	BK010422.1	2080456	Mitovirus	Ambrosia artemisiifolia mitovirus 1	YES	1	4212	1	Asteraceae
+Mitoviridae	AA95_43	BK010430.1	3	BK010430.1;BK010433.1;BK010434.1	2080460	Mitovirus	Erigeron breviscapus mitovirus 1	YES	1	244311	1	Asteraceae
+Mitoviridae	AA95_142	BK059856.1	1	BK059856.1	2912713		Proteus mito-like virus	YES	1	1486889	1	Polyblepharidaceae
+Mitoviridae	AA95_120	BK062828.1	1	BK062828.1	2993412	Mitovirus	Ulva lactuca associated mitovirus 1	YES	1	63410	1	Ulvaceae
+Mitoviridae	AA95_67	BK063870.1	1	BK063870.1	2080458	Duamitovirus	Duamitovirus casa1	YES	1	3483	1	Cannabaceae
+Mitoviridae	AA95_54	BK063871.1	22	BK010428.1;BK010436.1;BK010437.1;BK010438.1;BK063867.1;BK063868.1;BK063869.1;BK063871.1;BK063872.1;BK063873.1;BK066066.1;BK066067.1;BK066070.1;BK066071.1;BK066072.1;MT878084.1;NC_076527.1;OQ420425.1;OR553236.1;OR553237.1;TS_nucl_2758;TS_nucl_2759	2080458	Duamitovirus	Duamitovirus casa1	YES	2	3481;3483	1	Cannabaceae
+Mitoviridae	AA95_81	BK066069.1	2	BK066068.1;BK066069.1	2080458	Duamitovirus	Duamitovirus casa1	YES	1	3483	1	Cannabaceae
+Mitoviridae	AA95_113	MN399686.1	1	MN399686.1	2737695	Mitovirus	Pea associated mitovirus 1	YES	1	3888	1	Fabaceae
+Mitoviridae	AA95_111	MN399687.1	1	MN399687.1	2737696	Mitovirus	Pea associated mitovirus 2	YES	1	3888	1	Fabaceae
+Mitoviridae	AA95_130	MN399688.1	1	MN399688.1	2737697	Mitovirus	Pea associated mitovirus 3	YES	1	3888	1	Fabaceae
+Mitoviridae	AA95_91	MT269666.1	1	MT269666.1	2836141	Mitovirus	Paris mitovirus 1	YES	1	49666	1	Melanthiaceae
+Mitoviridae	AA95_125	MT822730.1	1	MT822730.1	2719487	Mitovirus	Plasmopara viticola lesion associated mitovirus 7	YES	1	4565	1	Poaceae
+Mitoviridae	AA95_64	MW648457.1	1	MW648457.1	2814302	Mitovirus	Grapevine-associated mitovirus 10	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_155	MW648458.1	1	MW648458.1	2814303	Mitovirus	Grapevine-associated mitovirus 11	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_166	MW648459.1	1	MW648459.1	2814304	Mitovirus	Grapevine-associated mitovirus 12	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_112	MW648460.1	1	MW648460.1	2814305	Mitovirus	Grapevine-associated mitovirus 13	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_131	MW648461.1	1	MW648461.1	2814306	Mitovirus	Grapevine-associated mitovirus 14	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_151	MW648463.1	1	MW648463.1	2814308	Mitovirus	Grapevine-associated mitovirus 16	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_164	MW648464.1	1	MW648464.1	2814309	Mitovirus	Grapevine-associated mitovirus 17	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_87	MW648465.1	1	MW648465.1	2814310	Mitovirus	Grapevine-associated mitovirus 18	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_158	MW648466.1	1	MW648466.1	2814311	Mitovirus	Grapevine-associated mitovirus 19	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_169	MW648467.1	1	MW648467.1	2814301	Mitovirus	Grapevine-associated mitovirus 1	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_60	MW648468.1	1	MW648468.1	2814313	Mitovirus	Grapevine-associated mitovirus 20	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_192	MW648470.1	1	MW648470.1	2814315	Mitovirus	Grapevine-associated mitovirus 22	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_27	MW648471.1	1	MW648471.1	2814312	Mitovirus	Grapevine-associated mitovirus 2	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_148	MW648472.1	1	MW648472.1	2814316	Mitovirus	Grapevine-associated mitovirus 3	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_160	MW648473.1	1	MW648473.1	2814317	Mitovirus	Grapevine-associated mitovirus 4	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_180	MW648474.1	1	MW648474.1	2814318	Mitovirus	Grapevine-associated mitovirus 5	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_206	MW648475.1	1	MW648475.1	2814319	Mitovirus	Grapevine-associated mitovirus 6	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_168	MW648476.1	1	MW648476.1	2814320	Mitovirus	Grapevine-associated mitovirus 7	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_188	MW648477.1	1	MW648477.1	2814321	Mitovirus	Grapevine-associated mitovirus 8	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_109	MW648478.1	1	MW648478.1	2814322	Mitovirus	Grapevine-associated mitovirus 9	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_25	MZ032029.1	1	MZ032029.1	2867096	Mitovirus	Lagenaria siceraria associated mitovirus	YES	1	3668	1	Cucurbitaceae
+Mitoviridae	AA95_69	MZ501229.1	1	MZ501229.1	2587224	Mitovirus	Mitovirus sp.	YES	1	4565	1	Poaceae
+Mitoviridae	AA95_59	NC_035463.1	2	MF196914.1;NC_035463.1	2020287	Mitovirus	Ocimum basilicum RNA virus 2	YES	1	39350	1	Lamiaceae
+Mitoviridae	AA95_77	NC_040543.1	3	MF375475.1;MT089917.1;NC_040543.1	2185087	Duamitovirus	Duamitovirus chqu1	YES	1	63459	1	Amaranthaceae
+Mitoviridae	AA95_49	NC_076523.1	2	BK010423.1;NC_076523.1	2080457	Duamitovirus	Duamitovirus azfi1	YES	1	84609	1	Salviniaceae
+Mitoviridae	AA95_61	NC_076524.1	5	BK010425.1;NC_076524.1;TS_nucl_2772;TS_nucl_2773;TS_nucl_2774	2080464	Duamitovirus	Duamitovirus soch1	YES	1	4108	1	Solanaceae
+Mitoviridae	AA95_71	NC_076525.1	4	BK010426.1;BK010432.1;NC_076525.1;TS_nucl_2771	2080463	Duamitovirus	Duamitovirus peex1	YES	1	323115	1	Solanaceae
+Mitoviridae	AA95_80	NC_076526.1	2	BK010427.1;NC_076526.1	2080462	Duamitovirus	Duamitovirus oxru1	YES	1	3560	1	Amaranthaceae
+Mitoviridae	AA95_68	NC_076528.1	3	BK010429.1;BK010435.1;NC_076528.1	2080459	Duamitovirus	Duamitovirus dapi1	YES	1	101596	1	Asteraceae
+Mitoviridae	AA95_86	NC_076529.1	2	BK010431.1;NC_076529.1	2080461	Duamitovirus	Duamitovirus hulu1	YES	1	278022	1	Cannabaceae
+Mitoviridae	AA95_32	NC_076589.1	2	KU291923.1;NC_076589.1	1964428	Triamitovirus	Triamitovirus cespA	YES	1	207325	1	Orchidaceae
+Mitoviridae	AA95_37	NC_076628.1	31	BK010424.2;BK010439.1;BK010440.1;BK010441.1;BK010442.1;BK010708.1;BK010709.1;BK010710.1;BK010711.1;BK010712.1;BK010713.1;BK010714.1;BK010715.1;BK010716.1;BK010717.1;MG721540.2;MK423942.1;MK423943.1;MK423944.1;MK423945.1;MK423946.1;MK423947.1;MK423948.1;MK423949.1;MK423950.1;MK423951.1;MK423952.1;MK423953.1;MK423954.1;MK423955.1;NC_076628.1	2080450	Duamitovirus	Duamitovirus bevu1	YES	1	161934	1	Amaranthaceae
+Mitoviridae	AA95_94	OM514557.1	6	OM514557.1;OM514558.1;OM514559.1;OM514560.1;OM514561.1;OM514562.1	2970149		Guiyang mito-like virus 1	YES	6	1043336;258217;286919;411227;415155;547423	5	Alismataceae;Asteraceae;Plantaginaceae;Poaceae;Ranunculaceae
+Mitoviridae	AA95_132	OM514563.1	2	OM514563.1;OM514564.1	2970201		Sanya mito-like virus 1	YES	2	285846;421870	2	Cyperaceae;Poaceae
+Mitoviridae	AA95_17	OM514565.1	1	OM514565.1	2970160		Guiyang mito-like virus 2	YES	1	411227	1	Plantaginaceae
+Mitoviridae	AA95_90	OM514566.1	1	OM514566.1	2970161		Guiyang mito-like virus 3	YES	1	411227	1	Plantaginaceae
+Mitoviridae	AA95_63	OM514567.1	1	OM514567.1	2970162		Guiyang mito-like virus 4	YES	1	411227	1	Plantaginaceae
+Mitoviridae	AA95_170	OM514568.1	1	OM514568.1	2970163		Guiyang mito-like virus 5	YES	1	411227	1	Plantaginaceae
+Mitoviridae	AA95_100	OM514569.1	1	OM514569.1	2970164		Guiyang mito-like virus 6	YES	1	411227	1	Plantaginaceae
+Mitoviridae	AA95_128	OM514570.1	1	OM514570.1	2970165		Guiyang mito-like virus 7	YES	1	411227	1	Plantaginaceae
+Mitoviridae	AA95_20	OM514571.1	1	OM514571.1	2970166		Guiyang mito-like virus 8	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_2	OM514572.1	1	OM514572.1	2970167		Guiyang mito-like virus 9	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_19	OM514573.1	1	OM514573.1	2970150		Guiyang mito-like virus 10	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_18	OM514574.1	1	OM514574.1	2970151		Guiyang mito-like virus 11	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_23	OM514575.1	1	OM514575.1	2970152		Guiyang mito-like virus 12	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_73	OM514576.1	1	OM514576.1	2970153		Guiyang mito-like virus 13	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_42	OM514577.1	1	OM514577.1	2970154		Guiyang mito-like virus 14	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_165	OM514578.1	1	OM514578.1	2970155		Guiyang mito-like virus 15	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_173	OM514579.1	1	OM514579.1	2970156		Guiyang mito-like virus 16	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_182	OM514580.1	1	OM514580.1	2970157		Guiyang mito-like virus 17	YES	1	286919	1	Ranunculaceae
+Mitoviridae	AA95_48	OM514581.1	1	OM514581.1	2970158		Guiyang mito-like virus 18	YES	1	1043336	1	Poaceae
+Mitoviridae	AA95_78	OM514582.1	1	OM514582.1	2970159		Guiyang mito-like virus 19	YES	1	1043336	1	Poaceae
+Mitoviridae	AA95_137	OM514583.1	1	OM514583.1	2970144		Guiyang Paspalum thunbergii mito-like virus 1	YES	1	1043336	1	Poaceae
+Mitoviridae	AA95_115	OM514584.1	1	OM514584.1	2970217		Xiaogan mito-like virus 1	YES	1	547423	1	Poaceae
+Mitoviridae	AA95_201	OM514585.1	1	OM514585.1	2970202		Sanya mito-like virus 2	YES	1	285846	1	Poaceae
+Mitoviridae	AA95_51	OM514586.1	1	OM514586.1	2970203		Sanya mito-like virus 3	YES	1	285846	1	Poaceae
+Mitoviridae	AA95_50	OM514587.1	1	OM514587.1	2970178		Hangzhou mito-like virus 1	YES	1	258217	1	Alismataceae
+Mitoviridae	AA95_101	OM514588.1	1	OM514588.1	2970179		Hangzhou mito-like virus 2	YES	1	258217	1	Alismataceae
+Mitoviridae	AA95_97	ON408307.1	1	ON408307.1	3121381	Duamitovirus	Duamitovirus wiri1	YES	1	15949	1	Poaceae
+Mitoviridae	AA95_121	ON714134.1	1	ON714134.1	1826822	Unuamitovirus	Unuamitovirus alar1	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_62	ON738336.1	1	ON738336.1	1629666	Duamitovirus	Duamitovirus boci3	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_122	ON738338.1	1	ON738338.1	1629665	Unuamitovirus	Unuamitovirus boci2	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_118	ON738340.1	1	ON738340.1	1279099	Duamitovirus	Duamitovirus scsc3	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_138	OP924596.1	1	OP924596.1	3051528	Mitovirus	Ulva mitovirus 1	YES	1	83795	1	Ulvaceae
+Mitoviridae	AA95_82	OP924597.1	1	OP924597.1	3051526		Ulva mito-like virus 2	YES	1	83795	1	Ulvaceae
+Mitoviridae	AA95_134	OP924598.1	1	OP924598.1	3051527		Ulva mito-like virus 3	YES	1	83795	1	Ulvaceae
+Mitoviridae	AA95_4	OQ363009.1	1	OQ363009.1	3028980		Hangzhou mito-like virus 3	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_139	OQ363038.1	1	OQ363038.1	3028981		Hangzhou mito-like virus 4	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_146	OQ363039.1	1	OQ363039.1	3028982		Hangzhou mito-like virus 5	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_28	OQ363042.1	1	OQ363042.1	3028983		Hangzhou mito-like virus 6	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_154	OQ363043.1	1	OQ363043.1	3028984		Hangzhou mito-like virus 7	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_143	OQ363044.1	1	OQ363044.1	3028985		Hangzhou mito-like virus 8	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_144	OQ363045.1	1	OQ363045.1	3028986		Hangzhou mito-like virus 9	YES	1	4530	1	Poaceae
+Mitoviridae	AA95_45	OQ420448.1	1	OQ420448.1	3028222	Mitovirus	Walking iris mitovirus 1	YES	1	152736	1	Iridaceae
+Mitoviridae	AA95_92	OR134096.1	1	OR134096.1	2960182	Duamitovirus	Duamitovirus sp.	YES	1	4460	1	Araceae
+Mitoviridae	AA95_52	OR159227.1	9	MT878080.1;MT878081.1;MT878082.1;MT878083.1;OR159227.1;OR159228.1;OR159229.1;OR159230.1;OR641491.1	2080458	Duamitovirus	Duamitovirus casa1	YES	1	3483	1	Cannabaceae
+Mitoviridae	AA95_76	OR887670.1	1	OR887670.1	3342389	Mitovirus	Passion fruit mitovirus 1	YES	1	78168	1	Passifloraceae
+Mitoviridae	AA95_183	OX380372.1	1	OX380372.1	2933110		Bolbocoleon piliferum mito-like virus	YES	1	220631	1	Bolbocoleonaceae
+Mitoviridae	AA95_83	OX380438.1	1	OX380438.1	2933111	Mitovirus	Chinese swamp cypress mitovirus	YES	1	28978	1	Cupressaceae
+Mitoviridae	AA95_181	OX380449.1	1	OX380449.1	2933113	Mitovirus	False cloak fern mitovirus	YES	1	414592	1	Pteridaceae
+Mitoviridae	AA95_141	OX380454.1	1	OX380454.1	2933108	Mitovirus	Asian bayberry mitovirus	YES	1	36012	1	Podocarpaceae
+Mitoviridae	AA95_99	PP319631.1	1	PP319631.1	3120178	Mitovirus	Blueberry mitovirus 1	YES	1	13749	1	Ericaceae
+Mitoviridae	AA95_147	PP792770.1	1	PP792770.1	3152091	Mitovirus	Grapevine mitovirus 1	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_117	PP803060.1	2	PP187355.2;PP803060.1	3152091	Mitovirus	Grapevine mitovirus 1	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_24	PQ317379.1	1	PQ317379.1	3366628	Mitovirus	Rubus leaf-associated mitovirus 1	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_104	PQ317380.1	1	PQ317380.1	3366631	Mitovirus	Rubus leaf-associated mitovirus 2	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_110	PQ317381.1	1	PQ317381.1	3366632	Mitovirus	Rubus leaf-associated mitovirus 3	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_126	PQ317382.1	1	PQ317382.1	3366633	Mitovirus	Rubus leaf-associated mitovirus 4	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_119	PQ317383.1	1	PQ317383.1	3366634	Mitovirus	Rubus leaf-associated mitovirus 5	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_105	PQ317384.1	1	PQ317384.1	3366635	Mitovirus	Rubus leaf-associated mitovirus 6	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_107	PQ317385.1	2	ON738337.1;PQ317385.1	3366636	Mitovirus	Rubus leaf-associated mitovirus 7	YES	2	23216;29760	2	Rosaceae;Vitaceae
+Mitoviridae	AA95_123	PQ317386.1	1	PQ317386.1	3366637	Mitovirus	Rubus leaf-associated mitovirus 8	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_75	PQ317387.1	1	PQ317387.1	3366638	Mitovirus	Rubus leaf-associated mitovirus 9	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_116	PQ317388.1	1	PQ317388.1	3366629	Mitovirus	Rubus leaf-associated mitovirus 10	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_124	PQ317389.1	1	PQ317389.1	3366630	Mitovirus	Rubus leaf-associated mitovirus 11	YES	1	23216	1	Rosaceae
+Mitoviridae	AA95_133	PQ729984.1	1	PQ729984.1	3397661	Mitovirus	Grapevine wood holobiome associated mitovirus 4	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_157	PQ729985.1	1	PQ729985.1	3397662	Mitovirus	Grapevine wood holobiome associated mitovirus 5	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_149	PQ729986.1	1	PQ729986.1	3397663	Mitovirus	Grapevine wood holobiome associated mitovirus 6	YES	1	29760	1	Vitaceae
+Mitoviridae	AA95_190	PQ792407.1	1	PQ792407.1	2809572		Mitoviridae sp.	YES	1	63459	1	Amaranthaceae
+Mitoviridae	AA95_175	PV943332.1	1	PV943332.1	3450706	Mitovirus	Colocasia esculenta associated mitovirus 2	YES	1	4460	1	Araceae
+Mitoviridae	AA95_57	TS_nucl_2623	1	TS_nucl_2623				YES	1	308677	1	Pinaceae
+Mitoviridae	AA95_39	TS_nucl_2624	1	TS_nucl_2624				YES	1	1678845	1	Araceae
+Mitoviridae	AA95_95	TS_nucl_2625	1	TS_nucl_2625				YES	1	226677	1	Araceae
+Mitoviridae	AA95_135	TS_nucl_2626	1	TS_nucl_2626				YES	1	145691	1	Arecaceae
+Mitoviridae	AA95_203	TS_nucl_2627	1	TS_nucl_2627				YES	1	145691	1	Arecaceae
+Mitoviridae	AA95_1	TS_nucl_2629	1	TS_nucl_2629				YES	1	272846	1	Asparagaceae
+Mitoviridae	AA95_5	TS_nucl_2630	1	TS_nucl_2630				YES	1	272846	1	Asparagaceae
+Mitoviridae	AA95_35	TS_nucl_2631	1	TS_nucl_2631				YES	1	272846	1	Asparagaceae
+Mitoviridae	AA95_29	TS_nucl_2632	1	TS_nucl_2632				YES	1	4747	1	Orchidaceae
+Mitoviridae	AA95_8	TS_nucl_2633	1	TS_nucl_2633				YES	1	65771	1	Asparagaceae
+Mitoviridae	AA95_30	TS_nucl_2634	1	TS_nucl_2634				YES	1	65771	1	Asparagaceae
+Mitoviridae	AA95_14	TS_nucl_2635	1	TS_nucl_2635				YES	1	65771	1	Asparagaceae
+Mitoviridae	AA95_11	TS_nucl_2636	1	TS_nucl_2636				YES	1	1954348	1	Asteraceae
+Mitoviridae	AA95_72	TS_nucl_2637	1	TS_nucl_2637				YES	1	436195	1	Asteraceae
+Mitoviridae	AA95_103	TS_nucl_2638	1	TS_nucl_2638				YES	1	4232	1	Asteraceae
+Mitoviridae	AA95_140	TS_nucl_2639	1	TS_nucl_2639				YES	1	4232	1	Asteraceae
+Mitoviridae	AA95_74	TS_nucl_2640	1	TS_nucl_2640				YES	1	1954291	1	Asteraceae
+Mitoviridae	AA95_22	TS_nucl_2641	1	TS_nucl_2641				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_16	TS_nucl_2642	1	TS_nucl_2642				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_152	TS_nucl_2643	1	TS_nucl_2643				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_26	TS_nucl_2644	1	TS_nucl_2644				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_66	TS_nucl_2645	1	TS_nucl_2645				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_7	TS_nucl_2646	1	TS_nucl_2646				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_162	TS_nucl_2647	1	TS_nucl_2647				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_21	TS_nucl_2648	1	TS_nucl_2648				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_65	TS_nucl_2649	1	TS_nucl_2649				YES	1	34254	1	Boraginaceae
+Mitoviridae	AA95_40	TS_nucl_2650	1	TS_nucl_2650				YES	1	1920187	1	Brassicaceae
+Mitoviridae	AA95_15	TS_nucl_2651	1	TS_nucl_2651				YES	1	171969	1	Cactaceae
+Mitoviridae	AA95_93	TS_nucl_2652	1	TS_nucl_2652				YES	1	3563	1	Amaranthaceae
+Mitoviridae	AA95_185	TS_nucl_2653	1	TS_nucl_2653				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_9	TS_nucl_2654	1	TS_nucl_2654				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_176	TS_nucl_2657	1	TS_nucl_2657				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_199	TS_nucl_2658	1	TS_nucl_2658				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_159	TS_nucl_2659	1	TS_nucl_2659				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_178	TS_nucl_2660	1	TS_nucl_2660				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_172	TS_nucl_2661	1	TS_nucl_2661				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_33	TS_nucl_2662	1	TS_nucl_2662				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_167	TS_nucl_2663	1	TS_nucl_2663				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_70	TS_nucl_2665	1	TS_nucl_2665				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_156	TS_nucl_2666	1	TS_nucl_2666				YES	1	235358	1	Caryophyllaceae
+Mitoviridae	AA95_55	TS_nucl_2667	1	TS_nucl_2667				YES	1	83819	1	Polygonaceae
+Mitoviridae	AA95_189	TS_nucl_2668	1	TS_nucl_2668				YES	1	206448	1	Amaranthaceae
+Mitoviridae	AA95_108	TS_nucl_2669	1	TS_nucl_2669				YES	1	224175	1	Amaranthaceae
+Mitoviridae	AA95_177	TS_nucl_2684	1	TS_nucl_2684				YES	1	3256	1	Equisetaceae
+Mitoviridae	AA95_161	TS_nucl_2685	1	TS_nucl_2685				YES	1	3256	1	Equisetaceae
+Mitoviridae	AA95_36	TS_nucl_2686	1	TS_nucl_2686				YES	1	127126	1	Balsaminaceae
+Mitoviridae	AA95_41	TS_nucl_2687	1	TS_nucl_2687				YES	1	127126	1	Balsaminaceae
+Mitoviridae	AA95_79	TS_nucl_2688	1	TS_nucl_2688				YES	1	176250	1	Ericaceae
+Mitoviridae	AA95_187	TS_nucl_2689	1	TS_nucl_2689				YES	1	3813	1	Fabaceae
+Mitoviridae	AA95_12	TS_nucl_2690	1	TS_nucl_2690				YES	1	47085	1	Fabaceae
+Mitoviridae	AA95_198	TS_nucl_2691	1	TS_nucl_2691				YES	1	3880	1	Fabaceae
+Mitoviridae	AA95_153	TS_nucl_2692	1	TS_nucl_2692				YES	1	3880	1	Fabaceae
+Mitoviridae	AA95_145	TS_nucl_2694	1	TS_nucl_2694				YES	1	3880	1	Fabaceae
+Mitoviridae	AA95_0	TS_nucl_2695	1	TS_nucl_2695				YES	1	3888	1	Fabaceae
+Mitoviridae	AA95_6	TS_nucl_2696	1	TS_nucl_2696				YES	1	3888	1	Fabaceae
+Mitoviridae	AA95_31	TS_nucl_2697	1	TS_nucl_2697				YES	1	3906	1	Fabaceae
+Mitoviridae	AA95_44	TS_nucl_2698	1	TS_nucl_2698				YES	1	4056	1	Apocynaceae
+Mitoviridae	AA95_46	TS_nucl_2699	1	TS_nucl_2699				YES	1	99112	1	Orobanchaceae
+Mitoviridae	AA95_127	TS_nucl_2701	1	TS_nucl_2701				YES	1	3250	1	Lycopodiaceae
+Mitoviridae	AA95_58	TS_nucl_2703	1	TS_nucl_2703				YES	1	1229519	1	Selaginellaceae
+Mitoviridae	AA95_197	TS_nucl_2704	2	TS_nucl_2704;TS_nucl_2705				YES	2	3414;3415	1	Magnoliaceae
+Mitoviridae	AA95_207	TS_nucl_2706	1	TS_nucl_2706				YES	1	497687	1	Euphorbiaceae
+Mitoviridae	AA95_194	TS_nucl_2707	1	TS_nucl_2707				YES	1	22118	1	Erythroxylaceae
+Mitoviridae	AA95_85	TS_nucl_2708	1	TS_nucl_2708				YES	1	4268	1	Malpighiaceae
+Mitoviridae	AA95_163	TS_nucl_2709	1	TS_nucl_2709				YES	1	196582	1	Passifloraceae
+Mitoviridae	AA95_179	TS_nucl_2710	1	TS_nucl_2710				YES	1	3694	1	Salicaceae
+Mitoviridae	AA95_114	TS_nucl_2712	2	TS_nucl_2711;TS_nucl_2712				YES	1	116752	1	Podostemaceae
+Mitoviridae	AA95_98	TS_nucl_2738	1	TS_nucl_2738				YES	1	56933	1	Makinoaceae
+Mitoviridae	AA95_47	TS_nucl_2739	1	TS_nucl_2739				YES	1	128733	1	Melastomataceae
+Mitoviridae	AA95_150	TS_nucl_2740	1	TS_nucl_2740				YES	1	120290	1	Myrtaceae
+Mitoviridae	AA95_13	TS_nucl_2741	1	TS_nucl_2741				YES	1	120290	1	Myrtaceae
+Mitoviridae	AA95_10	TS_nucl_2742	1	TS_nucl_2742				YES	1	120290	1	Myrtaceae
+Mitoviridae	AA95_184	TS_nucl_2743	1	TS_nucl_2743				YES	1	16748	1	Saururaceae
+Mitoviridae	AA95_106	TS_nucl_2744	1	TS_nucl_2744				YES	1	130404	1	Piperaceae
+Mitoviridae	AA95_171	TS_nucl_2745	1	TS_nucl_2745				YES	1	13216	1	Piperaceae
+Mitoviridae	AA95_136	TS_nucl_2748	1	TS_nucl_2748				YES	1	4530	1	Poaceae
+Mitoviridae	AA95_53	TS_nucl_2752	1	TS_nucl_2752				YES	1	4550	1	Poaceae
+Mitoviridae	AA95_56	TS_nucl_2754	1	TS_nucl_2754				YES	1	32186	1	Salviniaceae
+Mitoviridae	AA95_84	TS_nucl_2756	1	TS_nucl_2756				YES	1	3465	1	Papaveraceae
+Mitoviridae	AA95_200	TS_nucl_2760	1	TS_nucl_2760				YES	1	3745	1	Rosaceae
+Mitoviridae	AA95_34	TS_nucl_2761	1	TS_nucl_2761				YES	1	1501231	1	Rosaceae
+Mitoviridae	AA95_102	TS_nucl_2763	1	TS_nucl_2763				YES	1	1435583	1	Urticaceae
+Mitoviridae	AA95_202	TS_nucl_2764	1	TS_nucl_2764				YES	1	3972	1	Viscaceae
+Mitoviridae	AA95_193	TS_nucl_2765	1	TS_nucl_2765				YES	1	29780	1	Anacardiaceae
+Mitoviridae	AA95_174	TS_nucl_2766	1	TS_nucl_2766				YES	1	29780	1	Anacardiaceae
+Mitoviridae	AA95_88	TS_nucl_2767	1	TS_nucl_2767				YES	1	354528	1	Rutaceae
+Mitoviridae	AA95_191	TS_nucl_2768	1	TS_nucl_2768				YES	1	63359	1	Altingiaceae
+Mitoviridae	AA95_96	TS_nucl_2769	1	TS_nucl_2769				YES	1	437279	1	Convolvulaceae
+Mitoviridae	AA95_89	TS_nucl_2770	1	TS_nucl_2770				YES	1	437279	1	Convolvulaceae
+Mitoviridae	AA95_195	TS_nucl_2775	3	TS_nucl_2775;TS_nucl_2777;TS_nucl_2778				YES	1	4113	1	Solanaceae
+Mitoviridae	AA95_129	TS_nucl_2779	1	TS_nucl_2779				YES	1	4113	1	Solanaceae
+Mitoviridae	AA95_3	TS_nucl_2780	1	TS_nucl_2780				YES	1	4641	1	Musaceae

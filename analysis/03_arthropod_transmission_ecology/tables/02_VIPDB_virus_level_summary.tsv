@@ -1,0 +1,448 @@
+virus_taxid	relation_row_n	vector_taxid_n	vector_order_n	fine_mode_set	fine4_mode_n	fine4_mode	retention_group_n	retention_group	fine4_status	retention_status
+10641	12	4	2	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+10654	6	6	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+10815	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10817	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10820	7	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10821	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10826	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10827	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10829	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10830	4	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10831	8	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10832	12	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10834	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10835	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10836	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10838	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10839	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10840	8	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10986	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10987	2	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10989	20	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10990	15	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+10991	16	4	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+11307	4	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+11612	4	4	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12037	5	5	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12041	8	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12042	4	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12045	2	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12049	2	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12138	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12139	3	3	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12154	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12161	2	2	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12162	24	4	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12182	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12196	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12197	3	3	2	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12202	18	2	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12205	4	4	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12211	14	2	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12216	16	4	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12222	3	3	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12227	12	2	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12230	28	4	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12232	4	2	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12235	3	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+12242	3	3	3	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+12260	18	3	2	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12263	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12264	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12282	41	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12287	1	1	1		0		0		no_four_class_mode	missing
+12295	26	2	2		0		0		no_four_class_mode	missing
+12305	9	3	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12313	3	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12321	69	3	2	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12585	2	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+12675	4	4	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12777	12	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12844	8	4	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+12851	15	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+12892	2	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+12895	1	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+28350	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+31559	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+31600	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+31602	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+31713	9	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+31741	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+32612	12	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+33724	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+33761	1	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+35287	5	5	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+35288	2	1	1		0		0		no_four_class_mode	missing
+35289	2	1	1		0		0		no_four_class_mode	missing
+35290	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+35291	2	1	1		0		0		no_four_class_mode	missing
+41459	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+42475	9	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+43240	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+44560	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+46619	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+47740	7	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+47838	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+47985	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+51034	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+51330	2	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+51336	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+51354	2	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+51673	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+51676	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+52135	4	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+53010	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+53481	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+55074	1	1	1		0		0		no_four_class_mode	missing
+55951	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+56879	2	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+58177	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+59380	2	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+59749	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+59817	12	3	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+60456	4	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+62079	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+63723	4	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+64958	6	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+66200	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+66834	1	1	1		0		0		no_four_class_mode	missing
+67754	3	3	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+67761	2	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+68033	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+69263	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+72750	5	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+75574	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+76052	3	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+77811	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+77813	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+81931	2	2	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+83871	8	4	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+85752	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+89471	31	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+91753	2	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+94290	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+94700	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+100755	12	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+103881	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+114921	2	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+117198	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+123735	9	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+131082	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+131083	46	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+134681	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+135656	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+137475	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+137758	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+146500	14	2	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+154339	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+156690	8	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+158463	3	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+161378	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+163325	4	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+167129	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+169865	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+180526	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+185793	3	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+185954	4	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+186637	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+188333	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+191460	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+191463	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+192203	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+193121	48	6	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+195060	9	3	2	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+196093	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+198310	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+198612	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+202568	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+207240	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+209529	1	1	1		0		0		no_four_class_mode	missing
+209854	2	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+210016	1	1	1		0		0		no_four_class_mode	missing
+217686	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+222079	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+222459	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+222475	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223252	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223259	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223262	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223264	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223275	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223282	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223284	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223313	6	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223314	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223317	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223321	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223323	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+223347	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+224578	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+225752	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+227507	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+228579	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+228582	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+228897	3	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+229634	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+255255	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+260377	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+262588	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+266799	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+270117	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+279896	4	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+283824	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+288456	1	1	1		0		0		no_four_class_mode	missing
+290030	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+292477	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+300411	4	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+304859	9	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+307456	1	1	1		0		0		no_four_class_mode	missing
+309542	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+310103	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+312295	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+325111	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+326811	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+326941	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+329290	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+333293	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+333361	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+333968	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+337823	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+337826	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+345030	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+348823	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+361697	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+361731	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+367061	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+367301	7	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+367850	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+369643	1	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+369762	1	1	1	Non-persistent	1	Non-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+370833	21	3	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+371401	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+376612	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+377462	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+379728	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390436	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390438	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390439	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390440	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390441	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390443	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+390444	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+392504	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+393599	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+397544	2	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+403897	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+408719	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+410603	1	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+411854	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+412688	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+417287	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+437063	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+452758	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+460926	2	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+463360	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+470166	8	2	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+498803	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+508748	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+519497	5	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+529680	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+536081	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+536082	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+536083	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+543876	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+551224	1	1	1		0		0		no_four_class_mode	missing
+558690	10	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+559878	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+572239	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+584711	1	1	1		0		0		no_four_class_mode	missing
+598494	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+626985	2	2	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+638358	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+642478	1	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+643133	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+649509	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+666144	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+676044	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+693450	6	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+714308	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+714309	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+742163	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+753670	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+759390	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+858513	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+858517	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+875324	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+881944	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+907191	2	1	1	Semi-persistent	1	Semi-persistent	1	short-retention / non-circulative	single_four_class_mode	single_group
+909827	2	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+932069	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+932070	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+932071	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+932073	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+935473	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+980895	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1001341	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1002681	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1032478	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1034067	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1038082	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1046571	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1046572	5	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1046573	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1046574	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1054216	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1076345	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1088661	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1093958	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1129032	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1129034	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1129035	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1130981	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1170656	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1195641	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1198134	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1198450	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1213406	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1225069	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1227356	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1227357	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1246650	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1255765	1	1	1		0		0		no_four_class_mode	missing
+1264880	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1266977	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1266993	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1266994	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1266995	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1297645	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1312724	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1317107	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1333313	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1367126	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1383052	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1428190	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1431395	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1485012	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1490227	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1497848	2	2	1		0		0		no_four_class_mode	missing
+1513516	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1513519	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1513520	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1513521	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1513525	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1532882	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1578825	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1602199	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1611435	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1629551	2	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1633139	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1678786	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1738045	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1740165	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1742594	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1742595	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1742596	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1747500	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1770265	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1772258	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1779714	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1812308	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1825950	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1856642	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1857160	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1884873	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1884874	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1884875	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1884991	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1897732	1	1	1		0		0		no_four_class_mode	missing
+1904880	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1904881	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1904882	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1904883	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1904884	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1906668	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1914900	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1925153	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1926117	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1939619	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1949196	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1949197	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1949198	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1960710	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1982675	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1985699	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1985702	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1985704	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+1993638	1	1	1		0		0		no_four_class_mode	missing
+2020881	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2030909	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2043550	1	1	1	Persistent circulative (propagation unspecified)	0		1	long-retention / circulative	no_four_class_mode	single_group
+2049955	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2050584	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2065033	1	1	1		0		0		no_four_class_mode	missing
+2079148	1	1	1		0		0		no_four_class_mode	missing
+2080107	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2080282	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2093274	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2122733	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2152660	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2164174	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169733	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169734	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169735	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169737	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169980	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169984	9	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169985	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2169986	18	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2170100	4	2	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2174902	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2182585	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2212644	14	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2358214	2	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2364281	1	1	1		0		0		no_four_class_mode	missing
+2496575	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2558458	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2560285	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2560350	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2569569	2	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2570215	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2575429	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2593923	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2661631	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2664940	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2664941	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2664942	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2683337	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2704172	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2714894	1	1	1		0		0		no_four_class_mode	missing
+2726019	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2734488	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2738469	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2738470	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2740451	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2748973	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+2788946	1	1	1		0		0		no_four_class_mode	missing
+2844014	1	1	1	Persistent non-propagative	1	Persistent non-propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3020400	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052563	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052564	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052566	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052567	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052568	2	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052570	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052571	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052572	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052574	2	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052576	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052577	2	2	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052578	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052582	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052584	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052585	11	11	3	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052586	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052762	3	3	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052763	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052764	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group
+3052767	1	1	1	Persistent propagative	1	Persistent propagative	1	long-retention / circulative	single_four_class_mode	single_group

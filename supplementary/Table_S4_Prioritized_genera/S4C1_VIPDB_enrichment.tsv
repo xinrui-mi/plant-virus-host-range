@@ -1,0 +1,2 @@
+odds_ratio	ci95_low	ci95_high	p_value	prioritized_genera_with_vector_n	prioritized_genera_without_vector_n	other_genera_with_vector_n	other_genera_without_vector_n
+52.2151988962384	7.25998123054429	2272.26377733376	1.11463942069587e-07	11	1	44	213

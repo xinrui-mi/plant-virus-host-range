@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Plant virus host-range: data, analysis code and twelve-family phylogenies"
+message: >-
+  If you use this software or data, please cite both this repository and the
+  associated manuscript.
+type: dataset
+authors:
+  - family-names: "Mi"
+    given-names: "Xinrui"
+abstract: >-
+  Released analysis-ready datasets, final manuscript analysis code, derived analysis data, the twelve
+  family phylogenies and supplementary tables (Data S1, Tables S1-S5) for an analysis of the global
+  structure of plant virus host ranges. The resource covers 80,028 virus sequences and 83,034 curated
+  virus-host associations spanning 76 virus families, 296 host families and 184 countries. Analyses
+  cover host phylogenetic constraint across twelve virus families (6,010 tree tips, 999 permutations
+  per family), arthropod-associated sequence evidence and documented vector transmission ecology,
+  genus-host network structure, twelve prioritised genera, and a tomato spotted wilt virus (TSWV)
+  case study. Plotting code for Figures 1-5 and Supplementary Figures S1-S5 is included.
+keywords:
+  - plant virus
+  - host range
+  - virus-host association
+  - host relatedness
+  - phylogenetic constraint
+  - arthropod transmission
+  - network analysis
+  - Orthotospovirus
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/xinrui-mi/plant-virus-host-range"
+url: "https://github.com/xinrui-mi/plant-virus-host-range"
+version: 1.1.0
+date-released: "2026-10-27"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Mi"
+      given-names: "Xinrui"
+  title: "Host relatedness constraints and transmission ecology are associated with the global structure of plant virus host ranges"
+  year: 2026

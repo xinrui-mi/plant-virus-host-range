@@ -1,0 +1,6 @@
+source	sequence_records	virus_host_association_records	sequence_proportion_percent	association_proportion_percent
+NCBI Virus only	74100	74100	92.593	89.241
+Virus–Host DB only	919	2279	1.148	2.745
+NCBI Virus + Virus–Host DB	2493	4139	3.115	4.985
+Land Flora RNA virome	2516	2516	3.144	3.03
+Total	80028	83034	100.0	100.0

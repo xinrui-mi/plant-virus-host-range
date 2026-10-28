@@ -1,0 +1,14 @@
+group	taxonomy_distance	total_pairs	positive_pairs	sharing_probability
+no sequence support	1	6861	2156	0.314239906719137
+no sequence support	6	84513	2	2.36649982842876e-05
+no sequence support	5	149379	26	0.000174053916547841
+no sequence support	4	2073193	15060	0.00726415726852252
+no sequence support	3	48471	463	0.00955210331951064
+no sequence support	2	69437	5968	0.0859484136699454
+no sequence support	0	261	152	0.582375478927203
+sequence-supported	4	76070	9143	0.12019192848692
+sequence-supported	3	1470	196	0.133333333333333
+sequence-supported	2	3826	1118	0.292211186617878
+sequence-supported	5	405	0	0
+sequence-supported	1	425	242	0.569411764705882
+sequence-supported	0	19	11	0.578947368421053

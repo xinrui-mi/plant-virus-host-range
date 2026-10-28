@@ -1,0 +1,3 @@
+seq_support_group	virus_taxid_n	host_family_median	host_family_q25	host_family_q75	host_order_median	max_distance_median	VC80_support_median
+no sequence support	5639	1	1	1	1	0	1
+sequence-supported	340	1	1	2	1	0	1

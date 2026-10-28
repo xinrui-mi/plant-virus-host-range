@@ -1,0 +1,2 @@
+virus_family	action	drop_reason	representative_n	host_annotated_n	host_annotated_fraction	cluster_member_median	host_family_n_median	effective_aa_median	gap_fraction_median
+Potyviridae	keep	keep	915	912	0.99672131147541	2	1	2129	0.0357789855072464

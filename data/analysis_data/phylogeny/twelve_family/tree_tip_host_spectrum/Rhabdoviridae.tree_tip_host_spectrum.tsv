@@ -1,0 +1,221 @@
+virus_family	cdhit95_cluster_id	representative_sequence_id	cluster_member_n	member_sequence_ids	virus_taxid_representative	virus_genus_representative	virus_species_representative	host_annotated	host_taxid_n	host_taxids	host_family_n	host_families
+Rhabdoviridae	AA95_178	BK014306.1	1	BK014306.1	2793731		Lotus corniculatus virus 1	YES	1	47247	1	Fabaceae
+Rhabdoviridae	AA95_157	BK014317.1	1	BK014317.1	2793740		Spinach virus 1	YES	1	3562	1	Amaranthaceae
+Rhabdoviridae	AA95_215	BK014333.1	1	BK014333.1	2793744		Viola verecunda virus 1	YES	1	316478	1	Violaceae
+Rhabdoviridae	AA95_130	LC897112.1	2	LC897112.1;MW848533.1	32612	Alphacytorhabdovirus	Alphacytorhabdovirus lactucanecante	YES	2	4236;4682	2	Amaryllidaceae;Asteraceae
+Rhabdoviridae	AA95_135	MH717815.1	1	MH717815.1	2545470	Betacytorhabdovirus	Betacytorhabdovirus hordei	YES	1	381124	1	Poaceae
+Rhabdoviridae	AA95_102	MH898500.1	1	MH898500.1	2593966		Medicago cytorhabdovirus A	YES	1	3879	1	Fabaceae
+Rhabdoviridae	AA95_200	MK112501.2	6	MK063878.2;MK063879.2;MK112501.2;MN732972.1;MW063124.1;NC_055512.1	2497337	Alphanucleorhabdovirus	Alphanucleorhabdovirus morogoromaydis	YES	1	4577	1	Poaceae
+Rhabdoviridae	AA95_26	MK211272.1	4	MK159261.1;MK211270.1;MK211272.1;PP701470.1	2676436	Alphacytorhabdovirus	Alphacytorhabdovirus alphafragariae	YES	2	3746;3747	1	Rosaceae
+Rhabdoviridae	AA95_90	MK257717.1	1	MK257717.1	758677	Alphacytorhabdovirus	Alphacytorhabdovirus alpharubi	YES	1	32247	1	Rosaceae
+Rhabdoviridae	AA95_213	MK398680.1	1	MK398680.1	2714181		Cytorhabdovirus sp.	YES	1	38727	1	Poaceae
+Rhabdoviridae	AA95_210	MN203193.1	2	MN203193.1;MN203194.1	2692411	Nucleorhabdovirus	Papaya nucleorhabdovirus 1	YES	1	3649	1	Caricaceae
+Rhabdoviridae	AA95_53	MN689396.1	4	MN689395.1;MN689396.1;MN689397.1;NC_077047.1	2801326	Alphacytorhabdovirus	Alphacytorhabdovirus kenyatuberosum	YES	1	4113	1	Solanaceae
+Rhabdoviridae	AA95_216	MN831437.1	1	MN831437.1	2740121		Clerodendrum trichotomum rhabdo-like virus	YES	1	54229	1	Lamiaceae
+Rhabdoviridae	AA95_14	MT302545.1	10	MT302541.1;MT302542.1;MT302543.1;MT302545.1;MT302546.1;MT302547.1;MZ272468.2;OP689651.1;PP998055.1;PQ721446.1	2754374	Betacytorhabdovirus	Betacytorhabdovirus caricae	YES	4	2706;3847;78168;85437	3	Fabaceae;Passifloraceae;Rutaceae
+Rhabdoviridae	AA95_129	MW480851.1	1	MW480851.1	2911487	Alphacytorhabdovirus	Alphacytorhabdovirus betafragariae	YES	1	3746	1	Rosaceae
+Rhabdoviridae	AA95_87	MW527091.1	1	MW527091.1	1967841	Alphacytorhabdovirus	Alphacytorhabdovirus lycopersici	YES	1	4112	1	Solanaceae
+Rhabdoviridae	AA95_112	MW700334.1	1	MW700334.1	998864	Alphacytorhabdovirus	Alphacytorhabdovirus alphamedicagonis	YES	1	3879	1	Fabaceae
+Rhabdoviridae	AA95_192	MW731536.1	1	MW731536.1	2964312	Gammanucleorhabdovirus	Gammanucleorhabdovirus cerealis	YES	1	4498	1	Poaceae
+Rhabdoviridae	AA95_165	MZ574101.1	46	KX636164.1;KY706238.1;KY859866.1;MK948541.1;MT269810.1;MT269811.1;MT269812.1;MW081210.1;MW366749.1;MW821908.1;MW834321.1;MW848528.1;MW934551.1;MZ322957.1;MZ389081.1;MZ420700.1;MZ501244.1;MZ501245.1;MZ574099.1;MZ574100.1;MZ574101.1;MZ574102.1;MZ574103.1;MZ574104.1;NC_055466.1;OK646026.1;OK646027.1;OK646028.1;OK646029.1;OK646030.1;OK646031.1;OL311703.1;OL472110.1;OL472115.1;OL472124.1;ON013917.1;OQ318170.1;OQ318171.1;OQ689794.1;OQ689795.1;OQ716531.1;OQ716532.1;OQ716533.1;OR082784.1;PQ206276.1;PQ303396.1	2734368	Alphanucleorhabdovirus	Alphanucleorhabdovirus physostegiae	YES	15	108422;168825;176602;21855;3659;4072;4081;4100;4111;4112;4120;46995;48027;65561;97415	10	Apiaceae;Asteraceae;Buxaceae;Convolvulaceae;Cucurbitaceae;Hypericaceae;Lamiaceae;Ranunculaceae;Solanaceae;Violaceae
+Rhabdoviridae	AA95_207	MZ773936.1	3	MZ773936.1;MZ773937.1;MZ773938.1	2986392	Dichorhavirus	Dichorhavirus australis	YES	1	2711	1	Rutaceae
+Rhabdoviridae	AA95_23	NC_001615.3	3	L32603.1;MT613317.1;NC_001615.3	11307	Betanucleorhabdovirus	Betanucleorhabdovirus retesonchi	YES	4	1926302;42337;4236;50207	2	Asteraceae;Solanaceae
+Rhabdoviridae	AA95_134	NC_002251.1	2	LC632071.1;NC_002251.1	1985704	Betacytorhabdovirus	Betacytorhabdovirus graminae	YES	2	4513;4565	1	Poaceae
+Rhabdoviridae	AA95_189	NC_003746.1	1	NC_003746.1	59380	Alphanucleorhabdovirus	Alphanucleorhabdovirus oryzae	YES	1	4530	1	Poaceae
+Rhabdoviridae	AA95_175	NC_005974.1	1	NC_005974.1	209854	Gammanucleorhabdovirus	Gammanucleorhabdovirus maydis	YES	2	381124;4577	1	Poaceae
+Rhabdoviridae	AA95_201	NC_005975.1	2	MK828539.1;NC_005975.1	279896	Alphanucleorhabdovirus	Alphanucleorhabdovirus maydis	YES	4	300124;4554;4558;4577	1	Poaceae
+Rhabdoviridae	AA95_197	NC_006942.1	2	AY674964.1;NC_006942.1	2908018	Alphanucleorhabdovirus	Alphanucleorhabdovirus colocasiae	YES	1	4460	1	Araceae
+Rhabdoviridae	AA95_95	NC_007642.1	4	AJ746199.1;AJ867584.2;MZ202327.1;NC_007642.1	32612	Alphacytorhabdovirus	Alphacytorhabdovirus lactucanecante	YES	7	255580;35889;4236;43208;4682;50190;50207	3	Amaryllidaceae;Asteraceae;Solanaceae
+Rhabdoviridae	AA95_208	NC_009609.1	15	KF198065.1;KF209276.1;LC222630.1;LC771579.1;LC846650.1;MK522805.1;MK522807.1;MK578001.1;MW021483.1;MW073773.1;MW465658.1;NC_009609.1;OK624602.1;OL606757.1;PP429913.1	152177	Dichorhavirus	Dichorhavirus orchidaceae	YES	20	125146;1353863;14366;161934;165318;228483;260201;2706;2711;36459;37818;38198;38220;43166;45173;4747;53064;64884;65557;85571	7	Amaranthaceae;Malvaceae;Orchidaceae;Pandanaceae;Plantaginaceae;Rutaceae;Smilacaceae
+Rhabdoviridae	AA95_109	NC_011532.1	2	EF687738.1;NC_011532.1	471285	Alphacytorhabdovirus	Alphacytorhabdovirus lactumaculante	YES	6	35889;4076;4100;4102;4236;81866	2	Asteraceae;Solanaceae
+Rhabdoviridae	AA95_153	NC_011558.1	5	JN710440.1;LC771580.1;MH349091.1;MW595188.1;NC_011558.1	1985698	Varicosavirus	Varicosavirus lactucae	YES	3	13427;4081;4236	2	Asteraceae;Solanaceae
+Rhabdoviridae	AA95_193	NC_016136.1	2	MW274718.1;NC_016136.1	195060	Alphanucleorhabdovirus	Alphanucleorhabdovirus tuberosum	YES	3	4093;4100;4113	1	Solanaceae
+Rhabdoviridae	AA95_65	NC_018381.2	2	AB735628.2;NC_018381.2	1211480	Alphacytorhabdovirus	Alphacytorhabdovirus persimmon	YES	1	35925	1	Ebenaceae
+Rhabdoviridae	AA95_161	NC_026801.1	1	NC_026801.1	1587515	Varicosavirus	Varicosavirus alopecuri	YES	1	81473	1	Poaceae
+Rhabdoviridae	AA95_22	NC_028231.1	3	KM823531.1;NC_028231.1;PQ816761.1	195059	Betanucleorhabdovirus	Betanucleorhabdovirus daturae	YES	2	283133;32198	2	Acanthaceae;Phyllanthaceae
+Rhabdoviridae	AA95_91	NC_028237.2	2	KP205452.2;NC_028237.2	998864	Alphacytorhabdovirus	Alphacytorhabdovirus alphamedicagonis	YES	1	3879	1	Fabaceae
+Rhabdoviridae	AA95_137	NC_028244.1	2	FJ665628.1;NC_028244.1	1985699	Betacytorhabdovirus	Betacytorhabdovirus hordei	YES	1	4565	1	Poaceae
+Rhabdoviridae	AA95_72	NC_034240.1	8	KY075646.1;NC_034240.1;OM827245.1;OM827246.1;OM827247.1;ON314142.1;OP296980.1;OQ615773.1	1967841	Alphacytorhabdovirus	Alphacytorhabdovirus lycopersici	YES	4	16739;221260;4081;4097	3	Melanthiaceae;Piperaceae;Solanaceae
+Rhabdoviridae	AA95_93	NC_034551.1	5	KT381973.1;NC_034551.1;ON086740.1;ON086741.1;OR233192.1	1775456	Betacytorhabdovirus	Betacytorhabdovirus colocasiae	YES	2	4459;4460	1	Araceae
+Rhabdoviridae	AA95_199	NC_036390.1	2	MF102281.1;NC_036390.1	348823	Alphanucleorhabdovirus	Alphanucleorhabdovirus zeairanense	YES	1	4577	1	Poaceae
+Rhabdoviridae	AA95_116	NC_040786.1	14	KX525586.2;MH720464.1;MH720465.1;MH720466.1;MH720467.1;MH720468.1;MH720469.1;MH720470.1;MH720471.1;MH720472.1;MH720473.1;MH720474.1;MH720475.1;NC_040786.1	1931356	Betacytorhabdovirus	Betacytorhabdovirus oryzae	YES	1	4530	1	Poaceae
+Rhabdoviridae	AA95_209	NC_043649.1	4	MG938507.1;MG983789.1;MG983791.1;NC_043649.1	1064520	Dichorhavirus	Dichorhavirus clerodendri	YES	2	183298;2926960	2	Lamiaceae;Malvaceae
+Rhabdoviridae	AA95_205	NC_052231.1	5	KX982179.1;KX982180.1;KX982181.1;KY751405.1;NC_052231.1	1956177	Dichorhavirus	Dichorhavirus leprosis	YES	2	2711;3702	2	Brassicaceae;Rutaceae
+Rhabdoviridae	AA95_206	NC_055209.1	5	KY700686.1;MG717932.1;MG970599.1;MH595622.1;NC_055209.1	1980624	Dichorhavirus	Dichorhavirus citri	YES	3	183267;2711;3450503	3	Asparagaceae;Malvaceae;Rutaceae
+Rhabdoviridae	AA95_138	NC_055454.1	3	KY884303.1;KY884672.1;NC_055454.1	1168550	Betacytorhabdovirus	Betacytorhabdovirus maysflavostriatis	YES	2	4565;4577	1	Poaceae
+Rhabdoviridae	AA95_126	NC_055479.1	5	KY810772.1;NC_055479.1;PP744497.1;PP744498.1;PP744507.1	2051550	Alphacytorhabdovirus	Alphacytorhabdovirus brassicicolae	YES	2	3712;3888	2	Brassicaceae;Fabaceae
+Rhabdoviridae	AA95_182	NC_055484.1	2	MG604920.1;NC_055484.1	2152660	Alphanucleorhabdovirus	Alphanucleorhabdovirus tritici	YES	1	4565	1	Poaceae
+Rhabdoviridae	AA95_21	NC_055505.1	2	KY366322.2;NC_055505.1	2487100	Betacytorhabdovirus	Betacytorhabdovirus flaviyerbamate	YES	1	185542	1	Aquifoliaceae
+Rhabdoviridae	AA95_37	NC_055529.1	2	MK240091.1;NC_055529.1	758677	Alphacytorhabdovirus	Alphacytorhabdovirus alpharubi	YES	1	32247	1	Rosaceae
+Rhabdoviridae	AA95_114	NC_075997.1	2	KY965147.1;NC_075997.1	2003308		Maize associated rhabdovirus	YES	1	4577	1	Poaceae
+Rhabdoviridae	AA95_43	NC_076000.1	5	MF543022.1;MW387013.1;NC_076000.1;OP352886.1;OU015520.1	2079521	Betanucleorhabdovirus	Betanucleorhabdovirus ribes	YES	1	78511	1	Grossulariaceae
+Rhabdoviridae	AA95_150	NC_076024.1	3	MG948563.1;MW848524.1;NC_076024.1	2518374	Betanucleorhabdovirus	Betanucleorhabdovirus medicagonis	YES	1	4100	1	Solanaceae
+Rhabdoviridae	AA95_75	NC_076113.1	2	BK011194.1;NC_076113.1	2654367	Alphacytorhabdovirus	Alphacytorhabdovirus trichonsathei	YES	1	3677	1	Cucurbitaceae
+Rhabdoviridae	AA95_194	NC_076163.1	2	KY549567.1;NC_076163.1	195060	Alphanucleorhabdovirus	Alphanucleorhabdovirus tuberosum	YES	2	4100;4113	1	Solanaceae
+Rhabdoviridae	AA95_47	NC_076239.1	6	MH129615.1;MH129616.1;MZ326668.1;MZ326669.1;MZ962213.1;NC_076239.1	1985706	Alphacytorhabdovirus	Alphacytorhabdovirus fragariarugosus	YES	2	3746;3747	1	Rosaceae
+Rhabdoviridae	AA95_32	NC_076244.1	2	MH323437.1;NC_076244.1	2802554	Nucleorhabdovirus	Green Sichuan pepper nucleorhabdovirus	YES	1	67937	1	Rutaceae
+Rhabdoviridae	AA95_139	NC_076267.1	2	MH778545.1;NC_076267.1	2563012	Betanucleorhabdovirus	Betanucleorhabdovirus mali	YES	1	3750	1	Rosaceae
+Rhabdoviridae	AA95_99	NC_076289.1	2	MH982249.1;NC_076289.1	2448907	Alphacytorhabdovirus	Alphacytorhabdovirus betatrifolii	YES	1	57577	1	Fabaceae
+Rhabdoviridae	AA95_118	NC_076290.1	2	MH982250.1;NC_076290.1	2448906	Alphacytorhabdovirus	Alphacytorhabdovirus alphatrifolii	YES	2	300354;57577	2	Fabaceae;Solanaceae
+Rhabdoviridae	AA95_88	NC_076430.1	2	MN273311.1;NC_076430.1	2738555	Nucleorhabdovirus	Cardamom vein clearing nucleorhabdovirus 1	YES	1	105181	1	Zingiberaceae
+Rhabdoviridae	AA95_181	NC_076448.1	2	MN520414.1;NC_076448.1	2721273	Alphanucleorhabdovirus	Alphanucleorhabdovirus pruni	YES	1	3760	1	Rosaceae
+Rhabdoviridae	AA95_3	NC_076472.1	2	MN781667.1;NC_076472.1	2713499	Betacytorhabdovirus	Betacytorhabdovirus yerbamate	YES	1	185542	1	Aquifoliaceae
+Rhabdoviridae	AA95_67	NC_076510.1	2	MT185675.1;NC_076510.1	2358214	Betanucleorhabdovirus	Betanucleorhabdovirus venasonchi	YES	1	50207	1	Asteraceae
+Rhabdoviridae	AA95_33	NC_076531.1	2	BK014479.1;NC_076531.1	2813287	Alphacytorhabdovirus	Alphacytorhabdovirus bacopae	YES	1	263974	1	Plantaginaceae
+Rhabdoviridae	AA95_29	NC_076532.1	2	BK014480.1;NC_076532.1	2813288	Betanucleorhabdovirus	Betanucleorhabdovirus bacopae	YES	1	263974	1	Plantaginaceae
+Rhabdoviridae	AA95_100	NC_076864.1	2	MN872813.1;NC_076864.1	3071215	Betacytorhabdovirus	Betacytorhabdovirus broussonetiae	YES	1	172644	1	Moraceae
+Rhabdoviridae	AA95_82	NC_076898.1	3	MT381995.1;NC_076898.1;TS_nucl_3664	2730538	Betacytorhabdovirus	Betacytorhabdovirus alphacucurbitae	YES	2	3656;3664	1	Cucurbitaceae
+Rhabdoviridae	AA95_123	NC_076909.1	2	MT952336.1;NC_076909.1	2805917	Betacytorhabdovirus	Betacytorhabdovirus alpharosae	YES	1	128735	1	Rosaceae
+Rhabdoviridae	AA95_195	NC_076913.1	2	MW014292.1;NC_076913.1	2829853	Alphanucleorhabdovirus	Joa yellow blotch virus	YES	1	267265	1	Solanaceae
+Rhabdoviridae	AA95_50	NC_076914.1	2	MW039593.1;NC_076914.1	2813545		Chrysanthemum yellow dwarf virus	YES	1	41568	1	Asteraceae
+Rhabdoviridae	AA95_196	NC_076970.1	2	BK014297.1;NC_076970.1	2793719	Alphanucleorhabdovirus	Alphanucleorhabdovirus agavis	YES	1	386106	1	Asparagaceae
+Rhabdoviridae	AA95_79	NC_076971.1	2	BK014298.1;NC_076971.1	2793722	Alphacytorhabdovirus	Alphacytorhabdovirus asclepiadis	YES	1	48545	1	Apocynaceae
+Rhabdoviridae	AA95_141	NC_076972.1	2	BK014299.1;NC_076972.1	2793723	Betanucleorhabdovirus	Betanucleorhabdovirus asclepiadis	YES	1	48545	1	Apocynaceae
+Rhabdoviridae	AA95_107	NC_076973.1	2	BK014300.1;NC_076973.1	2793738	Betanucleorhabdovirus	Betanucleorhabdovirus plectranthi	YES	1	2341035	1	Lamiaceae
+Rhabdoviridae	AA95_166	NC_076974.1	2	BK014301.1;NC_076974.1	2793739	Betanucleorhabdovirus	Betanucleorhabdovirus rhododendri	YES	1	321363	1	Ericaceae
+Rhabdoviridae	AA95_147	NC_076975.1	2	BK014302.1;NC_076975.1	2793721	Betacytorhabdovirus	Betacytorhabdovirus anthurii	YES	1	1678845	1	Araceae
+Rhabdoviridae	AA95_108	NC_076977.1	2	BK014304.1;NC_076977.1	2793728	Alphacytorhabdovirus	Alphacytorhabdovirus glehniae	YES	1	48119	1	Apiaceae
+Rhabdoviridae	AA95_115	NC_076978.1	2	BK014305.1;NC_076978.1	3070916	Gammacytorhabdovirus	Gammacytorhabdovirus gymnadeniae	YES	1	97906	1	Orchidaceae
+Rhabdoviridae	AA95_85	NC_076979.1	2	BK014307.1;NC_076979.1	2793733	Alphacytorhabdovirus	Alphacytorhabdovirus nymphaeae	YES	1	34301	1	Nymphaeaceae
+Rhabdoviridae	AA95_105	NC_076980.1	2	BK014308.1;NC_076980.1	2793742	Betacytorhabdovirus	Betacytorhabdovirus tagetis	YES	1	13708	1	Asteraceae
+Rhabdoviridae	AA95_106	NC_076981.1	2	BK014309.1;NC_076981.1	2793743	Gammacytorhabdovirus	Gammacytorhabdovirus trachyspermi	YES	1	52570	1	Apiaceae
+Rhabdoviridae	AA95_86	NC_076982.1	2	BK014316.1;NC_076982.1	2793737	Alphagymnorhavirus	Alphagymnorhavirus piniflexilis	YES	1	151559	1	Pinaceae
+Rhabdoviridae	AA95_57	NC_077105.1	2	MW550041.1;NC_077105.1	2839003		Actinidia cytorhabdovirus JS27	YES	1	3627	1	Actinidiaceae
+Rhabdoviridae	AA95_173	NC_077193.1	2	NC_077193.1;OM372677.1	2912606	Alphanucleorhabdovirus	Alphanucleorhabdovirus artemisiae	YES	1	265783	1	Asteraceae
+Rhabdoviridae	AA95_169	NC_078467.1	2	MF918568.1;NC_078467.1	2058093		Red clover varicosavirus	YES	1	57577	1	Fabaceae
+Rhabdoviridae	AA95_187	NC_079053.1	2	MW922438.1;NC_079053.1	2946038	Varicosavirus	Varicosavirus ipomoeae	YES	1	4121	1	Convolvulaceae
+Rhabdoviridae	AA95_168	NC_079120.1	2	BK014310.1;NC_079120.1	2793725	Varicosavirus	Varicosavirus alphabrassicae	YES	1	3711	1	Brassicaceae
+Rhabdoviridae	AA95_163	NC_079122.1	2	BK014312.1;NC_079122.1	2793730	Varicosavirus	Varicosavirus lolii	YES	1	4522	1	Poaceae
+Rhabdoviridae	AA95_155	NC_079123.1	2	BK014314.1;NC_079123.1	2793732	Varicosavirus	Varicosavirus melampyri	YES	1	321415	1	Orobanchaceae
+Rhabdoviridae	AA95_159	NC_079126.1	2	BK014484.1;NC_079126.1	3071325	Varicosavirus	Varicosavirus zosterae	YES	1	29655	1	Zosteraceae
+Rhabdoviridae	AA95_149	NC_079127.1	2	BK059208.1;NC_079127.1	2851934	Varicosavirus	Varicosavirus allii	YES	1	105301	1	Amaryllidaceae
+Rhabdoviridae	AA95_171	NC_079129.1	2	LC604719.1;NC_079129.1	2812030	Varicosavirus	Varicosavirus vitis	YES	1	694578	1	Vitaceae
+Rhabdoviridae	AA95_78	NC_083851.1	2	BK010826.1;NC_083851.1	2283315	Nucleorhabdovirus	Bird's-foot trefoil nucleorhabdovirus	YES	1	47247	1	Fabaceae
+Rhabdoviridae	AA95_42	OL439478.1	1	OL439478.1	3427243	Betanucleorhabdovirus	Betanucleorhabdovirus paridis	YES	1	221260	1	Melanthiaceae
+Rhabdoviridae	AA95_71	OL472116.1	7	OL472113.1;OL472114.1;OL472116.1;OL472120.1;OL472129.1;OP441765.1;OP441766.1	2950851	Betanucleorhabdovirus	Betanucleorhabdovirus betalycopersici	YES	3	115671;4081;4100	1	Solanaceae
+Rhabdoviridae	AA95_56	OL472119.1	1	OL472119.1	2950850	Betanucleorhabdovirus	Betanucleorhabdovirus alphalycopersici	YES	1	4081	1	Solanaceae
+Rhabdoviridae	AA95_24	OL472123.1	1	OL472123.1	2754862		Leveillula taurica associated rhabdo-like virus 1	YES	1	4081	1	Solanaceae
+Rhabdoviridae	AA95_186	OL472126.1	1	OL472126.1	2950883	Alphanucleorhabdovirus	Alphanucleorhabdovirus lycopersici	YES	1	4081	1	Solanaceae
+Rhabdoviridae	AA95_18	OM681516.1	3	OM681516.1;OM681517.1;OM681518.1	576352	Betacytorhabdovirus	Betacytorhabdovirus glycinis	YES	1	3847	1	Fabaceae
+Rhabdoviridae	AA95_31	ON073823.1	1	ON073823.1	2963947	Alphacytorhabdovirus	Alphacytorhabdovirus hyptisis	YES	1	986232	1	Lamiaceae
+Rhabdoviridae	AA95_81	ON185810.1	1	ON185810.1	2971904	Betacytorhabdovirus	Betacytorhabdovirus rudbeckiae	YES	1	48209	1	Asteraceae
+Rhabdoviridae	AA95_96	ON409991.1	1	ON409991.1	3426105	Alphacytorhabdovirus	Alphacytorhabdovirus alphapogostemi	YES	1	28511	1	Lamiaceae
+Rhabdoviridae	AA95_8	ON762421.1	1	ON762421.1	3427173	Betacytorhabdovirus	Betacytorhabdovirus betarosae	YES	1	3764	1	Rosaceae
+Rhabdoviridae	AA95_20	ON924784.1	1	ON924784.1	3033758		Dioscorea rotundata virus 1	YES	1	55577	1	Dioscoreaceae
+Rhabdoviridae	AA95_77	OP180101.1	1	OP180101.1	3002498	Alphacytorhabdovirus	Alphacytorhabdovirus daphnis	YES	1	329675	1	Thymelaeaceae
+Rhabdoviridae	AA95_104	OP352885.1	1	OP352885.1	3426159	Alphacytorhabdovirus	Alphacytorhabdovirus ribes	YES	1	78511	1	Grossulariaceae
+Rhabdoviridae	AA95_218	OP594469.1	1	OP594469.1	2950850	Betanucleorhabdovirus	Betanucleorhabdovirus alphalycopersici	YES	1	4081	1	Solanaceae
+Rhabdoviridae	AA95_188	OQ256237.1	1	OQ256237.1	3053260	Alphanucleorhabdovirus	Alphanucleorhabdovirus babaci	YES	1	262696	1	Caricaceae
+Rhabdoviridae	AA95_25	OQ418488.1	8	MH282832.1;MK202584.1;MT792847.1;MT811775.1;MW239071.1;NC_055504.1;OQ418488.1;PV460964.1	2848019	Betacytorhabdovirus	Betacytorhabdovirus caricae	YES	5	260886;3649;3684;3885;4081	4	Caricaceae;Fabaceae;Passifloraceae;Solanaceae
+Rhabdoviridae	AA95_70	OQ513467.1	1	OQ513467.1	2950851	Betanucleorhabdovirus	Betanucleorhabdovirus betalycopersici	YES	1	3538	1	Nyctaginaceae
+Rhabdoviridae	AA95_190	OQ716555.1	12	FR751552.4;KC905081.1;KF410949.2;KJ082087.1;LN680656.1;MW854257.1;NC_025389.1;OL472111.1;OL584369.1;OQ716555.1;OQ847408.1;OR613409.1	488317	Alphanucleorhabdovirus	Alphanucleorhabdovirus melongenae	YES	7	23110;23129;3659;4081;4111;43073;51426	5	Amaryllidaceae;Cucurbitaceae;Hydrangeaceae;Pittosporaceae;Solanaceae
+Rhabdoviridae	AA95_54	OQ784673.1	1	OQ784673.1	3118959	Betanucleorhabdovirus	Beet leaf curl betanucleorhabdovirus	YES	1	3555	1	Amaranthaceae
+Rhabdoviridae	AA95_66	OQ927981.1	1	OQ927981.1	3427195	Betacytorhabdovirus	Betacytorhabdovirus ixeris	YES	1	77561	1	Asteraceae
+Rhabdoviridae	AA95_52	OR090884.1	1	OR090884.1	3427167	Betacytorhabdovirus	Betacytorhabdovirus aristolochiae	YES	1	158546	1	Aristolochiaceae
+Rhabdoviridae	AA95_60	OR227650.1	1	OR227650.1	3064197	Betanucleorhabdovirus	Beet betanucleorhabdovirus 1	YES	1	161934	1	Amaranthaceae
+Rhabdoviridae	AA95_110	OR290114.1	2	OR290114.1;TS_nucl_3682	3090861	Alphacytorhabdovirus	Alphacytorhabdovirus chelidonii	YES	1	71251	1	Papaveraceae
+Rhabdoviridae	AA95_98	OR335651.1	1	OR335651.1	3075549	Alphacytorhabdovirus	Alphacytorhabdovirus plumagonis	YES	1	122308	1	Plumbaginaceae
+Rhabdoviridae	AA95_172	OR365282.1	2	MW503935.1;OR365282.1	2911488	Deltanucleorhabdovirus	Deltanucleorhabdovirus fragariae	YES	2	3193;3747	1	Rosaceae
+Rhabdoviridae	AA95_203	OR372159.1	1	OR372159.1	3076770		Vinca chlorotic spot virus	YES	1	185238	1	Apocynaceae
+Rhabdoviridae	AA95_80	OR475303.1	10	OQ442952.1;OR475303.1;OR475304.1;OR475305.1;OR475306.1;OR475307.1;OR475308.1;OR475309.1;OR475310.1;OR475311.1	3057102	Alphacytorhabdovirus	Alphacytorhabdovirus cnidii	YES	1	54711	1	Apiaceae
+Rhabdoviridae	AA95_7	OR489165.1	2	OR489165.1;OR860428.1	3112997		Cytorhabdovirus sp. 'lycii'	YES	1	112863	1	Solanaceae
+Rhabdoviridae	AA95_41	OR496534.1	11	LC754523.1;MZ983390.1;NC_077151.1;OR496528.1;OR496529.1;OR496530.1;OR496531.1;OR496532.1;OR496533.1;OR496534.1;OR496535.1	2903266	Betanucleorhabdovirus	Betanucleorhabdovirus cnidii	YES	1	54711	1	Apiaceae
+Rhabdoviridae	AA95_94	OR536958.1	1	OR536958.1	3074901	Alphacytorhabdovirus	Alphacytorhabdovirus coriandri	YES	1	4047	1	Apiaceae
+Rhabdoviridae	AA95_1	OR934933.1	1	OR934933.1	3106170		Styphnolobium-associated cytorhabdovirus	YES	1	3897	1	Fabaceae
+Rhabdoviridae	AA95_6	OR934934.1	1	OR934934.1	3106170		Styphnolobium-associated cytorhabdovirus	YES	1	3897	1	Fabaceae
+Rhabdoviridae	AA95_140	OX380363.1	1	OX380363.1	2933180	Varicosavirus	Varicosavirus monocleae	YES	1	56937	1	Monocleaceae
+Rhabdoviridae	AA95_214	OX380373.1	1	OX380373.1	2933136		Indian pipe rhabdovirus	YES	1	50148	1	Ericaceae
+Rhabdoviridae	AA95_217	OX380376.1	1	OX380376.1	2933134		Canadian violet rhabdovirus	YES	1	97421	1	Violaceae
+Rhabdoviridae	AA95_122	OX380482.1	1	OX380482.1	2933191	Varicosavirus	Varicosavirus thrysopteris	YES	1	361528	1	Thyrsopteridaceae
+Rhabdoviridae	AA95_16	OX411436.1	1	OX411436.1	3004219		Cytorhabdovirus sp. 'tiliae'	YES	1	172266	1	Malvaceae
+Rhabdoviridae	AA95_101	PP444718.1	2	OR453866.1;PP444718.1	1967841	Alphacytorhabdovirus	Alphacytorhabdovirus lycopersici	YES	1	4097	1	Solanaceae
+Rhabdoviridae	AA95_111	PP444913.1	1	PP444913.1	3128976		Medicago sativa trirhavirus 1	YES	1	3879	1	Fabaceae
+Rhabdoviridae	AA95_4	PP512586.1	1	PP512586.1	3238968		Pear rhabdovirus 1	YES	1	23211	1	Rosaceae
+Rhabdoviridae	AA95_44	PP701472.1	6	MK211271.1;MN317172.1;MW795715.1;NC_055567.1;PP701471.1;PP701472.1	2664234	Alphacytorhabdovirus	Alphacytorhabdovirus alphafragariae	YES	3	3746;3747;57918	1	Rosaceae
+Rhabdoviridae	AA95_36	PP711309.1	1	PP711309.1	3141829	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 1	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_30	PP711310.1	2	PP711310.1;PP711319.1	3141830	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 2	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_73	PP711311.1	2	PP711311.1;PP711312.1	3141833	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 5	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_61	PP711313.1	1	PP711313.1	3141833	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 5	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_49	PP711315.1	2	PP711314.1;PP711315.1	3141832	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 4	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_74	PP711316.1	3	PP711316.1;PP711317.1;PP711318.1	3141831	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 3	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_51	PP711320.1	1	PP711320.1	3141830	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 2	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_15	PP711321.1	1	PP711321.1	3141830	Betanucleorhabdovirus	Sambucus betanucleorhabdovirus 2	YES	1	4202	1	Adoxaceae
+Rhabdoviridae	AA95_0	PP744495.1	1	PP744495.1	2448906	Alphacytorhabdovirus	Alphacytorhabdovirus alphatrifolii	YES	1	3888	1	Fabaceae
+Rhabdoviridae	AA95_84	PP744496.1	1	PP744496.1	2051550	Alphacytorhabdovirus	Alphacytorhabdovirus brassicicolae	YES	1	3888	1	Fabaceae
+Rhabdoviridae	AA95_12	PP744502.1	1	PP744502.1	2051550	Alphacytorhabdovirus	Alphacytorhabdovirus brassicicolae	YES	1	3888	1	Fabaceae
+Rhabdoviridae	AA95_127	PP744504.1	1	PP744504.1	2051550	Alphacytorhabdovirus	Alphacytorhabdovirus brassicicolae	YES	1	3888	1	Fabaceae
+Rhabdoviridae	AA95_128	PP744506.1	1	PP744506.1	2051550	Alphacytorhabdovirus	Alphacytorhabdovirus brassicicolae	YES	1	3888	1	Fabaceae
+Rhabdoviridae	AA95_156	PP770489.1	1	PP770489.1	3149017	Varicosavirus	Orychophragmus violaceus varicosavirus	YES	1	71234	1	Brassicaceae
+Rhabdoviridae	AA95_177	PP777436.1	3	ON246246.1;ON246247.1;PP777436.1	2507494	Nucleorhabdovirus	Medicago sativa nucleorhabdovirus	YES	1	3879	1	Fabaceae
+Rhabdoviridae	AA95_2	PP824664.1	1	PP824664.1	3078358	Betacytorhabdovirus	Betacytorhabdovirus phellodendri	YES	1	68554	1	Rutaceae
+Rhabdoviridae	AA95_142	PP824665.2	1	PP824665.2	3386299		Humulus trirhavirus 1	YES	1	228586	1	Cannabaceae
+Rhabdoviridae	AA95_162	PP987314.1	1	PP987314.1	3367528	Varicosavirus	Agastache rugosa associated varicosavirus	YES	1	39271	1	Lamiaceae
+Rhabdoviridae	AA95_191	PQ206275.1	1	PQ206275.1	1905830	Alphanucleorhabdovirus	Alphanucleorhabdovirus physostegiae	YES	1	4111	1	Solanaceae
+Rhabdoviridae	AA95_136	PQ317243.1	1	PQ317243.1	3366668	Varicosavirus	Rubus varicosavirus 1	YES	1	23216	1	Rosaceae
+Rhabdoviridae	AA95_152	PQ317245.1	3	PQ317245.1;PQ317248.1;PQ317251.1	3366667	Varicosavirus	Rubus trirhavirus 1	YES	1	23216	1	Rosaceae
+Rhabdoviridae	AA95_55	PQ587054.1	2	PQ587054.1;PQ587057.1	3386332		Honeysuckle-associated cytorhabdovirus	YES	1	4200	1	Caprifoliaceae
+Rhabdoviridae	AA95_19	PQ587055.1	2	PQ587055.1;PQ587058.1	3386332		Honeysuckle-associated cytorhabdovirus	YES	1	4200	1	Caprifoliaceae
+Rhabdoviridae	AA95_69	PQ587056.1	1	PQ587056.1	3386333		Honeysuckle-associated cytorhabdovirus 1	YES	1	4200	1	Caprifoliaceae
+Rhabdoviridae	AA95_146	PQ653982.1	1	PQ653982.1	3394269		Chenopodium trirhavirus 1	YES	1	3559	1	Amaranthaceae
+Rhabdoviridae	AA95_143	PQ787168.1	1	PQ787168.1	3398833		Urtica trirhavirus 1	YES	1	3501	1	Urticaceae
+Rhabdoviridae	AA95_11	PV231214.1	2	PV231214.1;PV231215.1	3569268	Alphacytorhabdovirus	Spiraea alphacytorhabdovirus 1	YES	1	65567	1	Rosaceae
+Rhabdoviridae	AA95_148	PV460960.1	1	PV460960.1	3424792	Nucleorhabdovirus	Passiflora nucleorhabdovirus 2	YES	1	159426	1	Passifloraceae
+Rhabdoviridae	AA95_83	PV460966.1	3	PV460965.1;PV460966.1;PV460968.1	3424794		Passiflora cytorhabdovirus	YES	2	159426;78168	1	Passifloraceae
+Rhabdoviridae	AA95_35	PV649689.1	1	PV649689.1	3423643	Betanucleorhabdovirus	Paederia scandens betanucleorhabdovirus	YES	1	284589	1	Rubiaceae
+Rhabdoviridae	AA95_13	PV933990.1	1	PV933990.1	3449943	Betanucleorhabdovirus	Betanucleorhabdovirus sp. 'kurdistanfragariae'	YES	1	3747	1	Rosaceae
+Rhabdoviridae	AA95_89	PV979719.1	1	PV979719.1	3452619	Gammacytorhabdovirus	Apple gammacytorhabdovirus 1	YES	1	3750	1	Rosaceae
+Rhabdoviridae	AA95_97	PX051447.1	1	PX051447.1	3455377	Alphacytorhabdovirus	Parsley alphacytorhabdovirus 1	YES	1	4043	1	Apiaceae
+Rhabdoviridae	AA95_185	PX051448.1	1	PX051448.1	3455378	Alphanucleorhabdovirus	Vigna alphanucleorhabdovirus 1	YES	1	3917	1	Fabaceae
+Rhabdoviridae	AA95_38	PX121434.1	1	PX121434.1	3478593	Alphacytorhabdovirus	Achillea alphacytorhabdovirus 1	YES	1	13329	1	Asteraceae
+Rhabdoviridae	AA95_179	PX121435.1	1	PX121435.1	3478604	Betacytorhabdovirus	Achillea betacytorhabdovirus 1	YES	1	13329	1	Asteraceae
+Rhabdoviridae	AA95_176	PX121436.1	1	PX121436.1	3478612	Deltanucleorhabdovirus	Achillea deltanucleorhabdovirus 1	YES	1	13329	1	Asteraceae
+Rhabdoviridae	AA95_119	PX121437.1	1	PX121437.1	3478594	Alphacytorhabdovirus	Artemisia alphacytorhabdovirus 4	YES	1	4220	1	Asteraceae
+Rhabdoviridae	AA95_17	PX121438.1	1	PX121438.1	3478605	Betacytorhabdovirus	Artemisia betanucleorhabdovirus 2	YES	1	4220	1	Asteraceae
+Rhabdoviridae	AA95_151	PX121439.1	1	PX121439.1	3478609	Varicosavirus	Artemisia varicosavirus 2	YES	1	4220	1	Asteraceae
+Rhabdoviridae	AA95_183	PX121442.1	2	PX121441.1;PX121442.1	3479778	Alphanucleorhabdovirus	Asparagales alphanucleorhabdovirus 1	YES	2	1280228;46415	2	Araliaceae;Asparagaceae
+Rhabdoviridae	AA95_131	PX121443.1	3	PX121443.1;PX121444.1;PX121445.1	3479779	Gammacytorhabdovirus	Bergerden gammacytorhabdovirus 1	YES	3	4041;40919;47085	2	Apiaceae;Fabaceae
+Rhabdoviridae	AA95_39	PX121447.1	1	PX121447.1	3478595	Alphacytorhabdovirus	Buckwheat alphacytorhabdovirus	YES	1	3617	1	Polygonaceae
+Rhabdoviridae	AA95_40	PX121448.1	1	PX121448.1	3478595	Alphacytorhabdovirus	Buckwheat alphacytorhabdovirus	YES	1	3617	1	Polygonaceae
+Rhabdoviridae	AA95_124	PX121449.1	1	PX121449.1	3478596	Alphacytorhabdovirus	Capsicum alphacytorhabdovirus 1	YES	1	4071	1	Solanaceae
+Rhabdoviridae	AA95_144	PX121450.1	1	PX121450.1	3478610	Trirhavirus	Capsicum trirhavirus 1	YES	1	4071	1	Solanaceae
+Rhabdoviridae	AA95_121	PX121453.1	1	PX121453.1	3478606	Betacytorhabdovirus	Cranesbill betacytorhabdovirus 1	YES	1	45161	1	Geraniaceae
+Rhabdoviridae	AA95_113	PX121454.1	1	PX121454.1	3479780	Alphacytorhabdovirus	Creeping Charlie alphacytorhabdovirus 1	YES	1	28509	1	Lamiaceae
+Rhabdoviridae	AA95_58	PX121455.1	2	PX121455.1;PX121456.1	3478602	Alphacytorhabdovirus	Ficus alphacytorhabdovirus 2	YES	1	66385	1	Moraceae
+Rhabdoviridae	AA95_45	PX121457.1	1	PX121457.1	3478598	Alphacytorhabdovirus	Hogweed alphacytorhabdovirus 1	YES	1	40919	1	Apiaceae
+Rhabdoviridae	AA95_202	PX121459.1	2	PX121458.1;PX121459.1	3479781	Deltanucleorhabdovirus	Laburnum deltanucleorhabdovirus 1	YES	1	157133	1	Fabaceae
+Rhabdoviridae	AA95_170	PX121460.1	1	PX121460.1	3478614	Deltanucleorhabdovirus	Lamium deltanucleorhabdovirus 1	YES	1	53159	1	Lamiaceae
+Rhabdoviridae	AA95_198	PX121461.1	1	PX121461.1	3478599	Alphacytorhabdovirus	Mentha alphacytorhabdovirus 2	YES	1	3133031	1	Lamiaceae
+Rhabdoviridae	AA95_48	PX121463.1	1	PX121463.1	3478599	Alphacytorhabdovirus	Mentha alphacytorhabdovirus 2	YES	1	3133031	1	Lamiaceae
+Rhabdoviridae	AA95_59	PX121464.1	1	PX121464.1	3478600	Alphacytorhabdovirus	Pelargonium alphacytorhabdovirus 2	YES	1	4029	1	Geraniaceae
+Rhabdoviridae	AA95_9	PX121465.1	1	PX121465.1	3478607	Betacytorhabdovirus	Rubus betacytorhabdovirus 1	YES	1	23216	1	Rosaceae
+Rhabdoviridae	AA95_204	PX226847.1	2	NC_038755.1;PX226847.1	2955760	Dichorhavirus	Dichorhavirus coffeae	YES	4	133374;13443;4100;63459	4	Amaranthaceae;Rubiaceae;Scrophulariaceae;Solanaceae
+Rhabdoviridae	AA95_180	PX257435.1	1	PX257435.1	3459876	Alphanucleorhabdovirus	Cassava alphanucleorhabdovirus 2	YES	1	3983	1	Euphorbiaceae
+Rhabdoviridae	AA95_76	PX447474.1	2	PX121466.1;PX447474.1	3468702		Sedum rhabdovirus E	YES	2	3385529;596350	1	Crassulaceae
+Rhabdoviridae	AA95_120	PX550110.1	1	PX550110.1	3478587	Betacytorhabdovirus	Stachys betacytorhabdovirus 1	YES	1	1060938	1	Lamiaceae
+Rhabdoviridae	AA95_117	PX550111.1	1	PX550111.1	3478588	Betacytorhabdovirus	Stachys betacytorhabdovirus 2	YES	1	1060938	1	Lamiaceae
+Rhabdoviridae	AA95_145	TS_nucl_3649	1	TS_nucl_3649				YES	1	97177	1	Pinaceae
+Rhabdoviridae	AA95_154	TS_nucl_3651	1	TS_nucl_3651				YES	1	251677	1	Aponogetonaceae
+Rhabdoviridae	AA95_211	TS_nucl_3655	1	TS_nucl_3655				YES	1	59324	1	Orchidaceae
+Rhabdoviridae	AA95_167	TS_nucl_3657	1	TS_nucl_3657				YES	1	41522	1	Asteraceae
+Rhabdoviridae	AA95_174	TS_nucl_3658	1	TS_nucl_3658				YES	1	413244	1	Asteraceae
+Rhabdoviridae	AA95_27	TS_nucl_3659	1	TS_nucl_3659				YES	1	50461	1	Brassicaceae
+Rhabdoviridae	AA95_10	TS_nucl_3660	1	TS_nucl_3660				YES	1	558126	1	Brassicaceae
+Rhabdoviridae	AA95_68	TS_nucl_3663	1	TS_nucl_3663				YES	1	44951	1	Pontederiaceae
+Rhabdoviridae	AA95_5	TS_nucl_3665	1	TS_nucl_3665				YES	1	74614	1	Fabaceae
+Rhabdoviridae	AA95_164	TS_nucl_3666	1	TS_nucl_3666				YES	1	47083	1	Fabaceae
+Rhabdoviridae	AA95_160	TS_nucl_3667	1	TS_nucl_3667				YES	1	48545	1	Apocynaceae
+Rhabdoviridae	AA95_212	TS_nucl_3668	1	TS_nucl_3668				YES	1	2341035	1	Lamiaceae
+Rhabdoviridae	AA95_34	TS_nucl_3669	1	TS_nucl_3669				YES	1	28511	1	Lamiaceae
+Rhabdoviridae	AA95_125	TS_nucl_3670	1	TS_nucl_3670				YES	1	28511	1	Lamiaceae
+Rhabdoviridae	AA95_62	TS_nucl_3672	1	TS_nucl_3672				YES	1	28511	1	Lamiaceae
+Rhabdoviridae	AA95_28	TS_nucl_3673	1	TS_nucl_3673				YES	1	28511	1	Lamiaceae
+Rhabdoviridae	AA95_219	TS_nucl_3675	1	TS_nucl_3675				YES	1	3683	1	Passifloraceae
+Rhabdoviridae	AA95_132	TS_nucl_3678	1	TS_nucl_3678				YES	1	206008	1	Poaceae
+Rhabdoviridae	AA95_92	TS_nucl_3679	1	TS_nucl_3679				YES	1	38705	1	Poaceae
+Rhabdoviridae	AA95_103	TS_nucl_3680	1	TS_nucl_3680				YES	1	4577	1	Poaceae
+Rhabdoviridae	AA95_63	TS_nucl_3681	1	TS_nucl_3681				YES	1	32131	1	Lindsaeaceae
+Rhabdoviridae	AA95_46	TS_nucl_3683	1	TS_nucl_3683				YES	1	261448	1	Ranunculaceae
+Rhabdoviridae	AA95_184	TS_nucl_3684	1	TS_nucl_3684				YES	1	661339	1	Rosaceae
+Rhabdoviridae	AA95_64	TS_nucl_3685	1	TS_nucl_3685				YES	1	83906	1	Urticaceae
+Rhabdoviridae	AA95_158	TS_nucl_3686	1	TS_nucl_3686				YES	1	101007	1	Rosaceae
+Rhabdoviridae	AA95_133	TS_nucl_3687	1	TS_nucl_3687				YES	1	74645	1	Rosaceae

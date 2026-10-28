@@ -1,0 +1,8 @@
+term	estimate	std_error	statistic	p_value	model
+(Intercept)	0.323400155053867	0.125179297247309	2.58349553133331	0.00978047341102147	categorical_taxonomy_distance_sensitivity
+distance_factor1	-1.11827328589605	0.12770364101745	-8.75678466946171	2.00898930552008e-18	categorical_taxonomy_distance_sensitivity
+distance_factor2	-2.62607476955551	0.125833164285341	-20.8694964039893	1.01396249407237e-96	categorical_taxonomy_distance_sensitivity
+distance_factor3	-4.72000504802729	0.131392769041441	-35.9228676163952	1.34292286226857e-282	categorical_taxonomy_distance_sensitivity
+distance_factor4	-4.90186079617302	0.12535758105206	-39.1030263589509	0	categorical_taxonomy_distance_sensitivity
+distance_factor5	-9.02823406474166	0.232675248298167	-38.8018671121057	0	categorical_taxonomy_distance_sensitivity
+distance_factor6	-11.0093612917298	0.7181095116008	-15.3310339354619	4.74375218458563e-53	categorical_taxonomy_distance_sensitivity

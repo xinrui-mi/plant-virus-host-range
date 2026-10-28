@@ -1,0 +1,5 @@
+baseline	conditioned	baseline_coverage	conditioned_coverage	common_predicted_n	baseline_accuracy_on_common	conditioned_accuracy_on_common
+virus_genus_only	vector_species_x_virus_genus	0.873626373626374	0.673992673992674	365	1	1
+virus_genus_only	vector_genus_x_virus_genus	0.873626373626374	0.686813186813187	375	0.997333333333333	0.997333333333333
+virus_family_only	vector_species_x_virus_family	0.842490842490843	0.71978021978022	347	1	1
+virus_family_only	vector_genus_x_virus_family	0.842490842490843	0.732600732600733	356	0.997191011235955	0.997191011235955

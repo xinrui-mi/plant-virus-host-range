@@ -1,0 +1,2 @@
+virus_family	final_tree_tip_n	host_annotated_tip_n	host_family_universe_n	distinct_host_spectrum_n	total_possible_pair_n	tested_pair_n	permutations	pair_sampling_replicates	support_stratum_n	min_support_thresholds	status
+Alphaflexiviridae	236	236	61	71	27730	27730	999	1	5	2;3	PASS

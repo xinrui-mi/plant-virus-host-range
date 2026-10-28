@@ -1,0 +1,2 @@
+virus_family	final_tree_tip_n	host_annotated_tip_n	host_family_universe_n	distinct_host_spectrum_n	total_possible_pair_n	tested_pair_n	pair_sampling_mode	observed_spearman_rho_host_jaccard	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	observed_spearman_rho_breadth_difference	breadth_null_median_rho	breadth_empirical_p_greater	permutations
+Rhabdoviridae	220	220	67	74	24090	24090	all_pairs	0.0549085604072731	-0.000868740201600052	-0.0257932432137682	0.0265573011197441	0.001	0.001	-0.064837368733125	-0.00397322185044583	0.955	999

@@ -1,0 +1,2 @@
+virus_family	host_annotated_tip_n	support_stratum_n	support_strata_present	tested_pair_n	observed_rho	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	permutations
+Secoviridae	385	5	1;2;3-4;5-9;10+	50000	0.143473266547737	0.025408241453516	0.00217449441866476	0.0489206715392335	0.001	0.001	999

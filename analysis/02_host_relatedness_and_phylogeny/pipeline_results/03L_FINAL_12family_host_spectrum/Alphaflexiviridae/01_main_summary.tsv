@@ -1,0 +1,2 @@
+virus_family	final_tree_tip_n	host_annotated_tip_n	host_family_universe_n	distinct_host_spectrum_n	total_possible_pair_n	tested_pair_n	pair_sampling_mode	observed_spearman_rho_host_jaccard	null_median_rho	null_q025	null_q975	empirical_p_greater	empirical_p_two_sided_abs	observed_spearman_rho_breadth_difference	breadth_null_median_rho	breadth_empirical_p_greater	permutations
+Alphaflexiviridae	236	236	61	71	27730	27730	all_pairs	0.296615376071133	0.000465147245732069	-0.032961067989046	0.0311657850160436	0.001	0.001	-0.0399130458791218	-0.00285787381869007	0.926	999

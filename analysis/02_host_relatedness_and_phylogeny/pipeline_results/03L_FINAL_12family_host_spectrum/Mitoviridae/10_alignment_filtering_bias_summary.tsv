@@ -1,0 +1,4 @@
+virus_family	action	drop_reason	representative_n	host_annotated_n	host_annotated_fraction	cluster_member_median	host_family_n_median	effective_aa_median	gap_fraction_median
+Mitoviridae	keep	keep	204	204	1	1	1	262	0.140983606557377
+Mitoviridae	drop	gap	3	3	1	1	1	138	0.547540983606557
+Mitoviridae	drop	gap_and_effective	1	1	1	1	1	54	0.822950819672131

@@ -1,0 +1,97 @@
+scheme	min_train	min_purity	true_mode	n	correct_n	recall
+virus_genus_only	2	0	persistent non-propagative	292	292	1
+virus_genus_only	2	0	persistent propagative	118	118	1
+virus_genus_only	2	0	semi-persistent	33	31	0.939393939393939
+virus_genus_only	2	0	non-persistent	41	41	1
+virus_genus_only	2	0.8	persistent non-propagative	288	288	1
+virus_genus_only	2	0.8	persistent propagative	118	118	1
+virus_genus_only	2	0.8	semi-persistent	33	31	0.939393939393939
+virus_genus_only	2	0.8	non-persistent	38	38	1
+virus_genus_only	2	1	persistent non-propagative	288	288	1
+virus_genus_only	2	1	persistent propagative	118	118	1
+virus_genus_only	2	1	semi-persistent	33	31	0.939393939393939
+virus_genus_only	2	1	non-persistent	38	38	1
+virus_family_only	2	0	semi-persistent	54	53	0.981481481481481
+virus_family_only	2	0	persistent non-propagative	310	303	0.97741935483871
+virus_family_only	2	0	persistent propagative	125	125	1
+virus_family_only	2	0	non-persistent	51	50	0.980392156862745
+virus_family_only	2	0.8	semi-persistent	38	37	0.973684210526316
+virus_family_only	2	0.8	persistent non-propagative	304	303	0.99671052631579
+virus_family_only	2	0.8	persistent propagative	125	125	1
+virus_family_only	2	0.8	non-persistent	51	50	0.980392156862745
+virus_family_only	2	1	semi-persistent	38	37	0.973684210526316
+virus_family_only	2	1	persistent non-propagative	288	287	0.996527777777778
+virus_family_only	2	1	persistent propagative	125	125	1
+virus_family_only	2	1	non-persistent	9	8	0.888888888888889
+vector_species_only	2	0	semi-persistent	38	19	0.5
+vector_species_only	2	0	persistent non-propagative	284	260	0.915492957746479
+vector_species_only	2	0	persistent propagative	93	90	0.967741935483871
+vector_species_only	2	0	non-persistent	43	25	0.581395348837209
+vector_species_only	2	0.8	semi-persistent	34	19	0.558823529411765
+vector_species_only	2	0.8	persistent non-propagative	256	255	0.99609375
+vector_species_only	2	0.8	persistent propagative	81	79	0.975308641975309
+vector_species_only	2	0.8	non-persistent	15	0	0
+vector_species_only	2	1	semi-persistent	14	11	0.785714285714286
+vector_species_only	2	1	persistent non-propagative	14	13	0.928571428571429
+vector_species_only	2	1	persistent propagative	56	55	0.982142857142857
+vector_species_only	2	1	non-persistent	3	0	0
+vector_genus_only	2	0	semi-persistent	50	19	0.38
+vector_genus_only	2	0	persistent non-propagative	287	262	0.912891986062718
+vector_genus_only	2	0	persistent propagative	100	97	0.97
+vector_genus_only	2	0	non-persistent	46	31	0.673913043478261
+vector_genus_only	2	0.8	semi-persistent	42	19	0.452380952380952
+vector_genus_only	2	0.8	persistent non-propagative	258	257	0.996124031007752
+vector_genus_only	2	0.8	persistent propagative	93	92	0.989247311827957
+vector_genus_only	2	0.8	non-persistent	15	0	0
+vector_genus_only	2	1	semi-persistent	10	7	0.7
+vector_genus_only	2	1	persistent non-propagative	14	13	0.928571428571429
+vector_genus_only	2	1	persistent propagative	38	38	1
+vector_genus_only	2	1	non-persistent	1	0	0
+vector_species_x_virus_genus	2	0	persistent non-propagative	260	260	1
+vector_species_x_virus_genus	2	0	persistent propagative	63	63	1
+vector_species_x_virus_genus	2	0	non-persistent	28	28	1
+vector_species_x_virus_genus	2	0	semi-persistent	17	17	1
+vector_species_x_virus_genus	2	0.8	persistent non-propagative	260	260	1
+vector_species_x_virus_genus	2	0.8	persistent propagative	63	63	1
+vector_species_x_virus_genus	2	0.8	non-persistent	28	28	1
+vector_species_x_virus_genus	2	0.8	semi-persistent	17	17	1
+vector_species_x_virus_genus	2	1	persistent non-propagative	260	260	1
+vector_species_x_virus_genus	2	1	persistent propagative	63	63	1
+vector_species_x_virus_genus	2	1	non-persistent	28	28	1
+vector_species_x_virus_genus	2	1	semi-persistent	17	17	1
+vector_genus_x_virus_genus	2	0	persistent non-propagative	262	262	1
+vector_genus_x_virus_genus	2	0	persistent propagative	66	66	1
+vector_genus_x_virus_genus	2	0	non-persistent	30	30	1
+vector_genus_x_virus_genus	2	0	semi-persistent	20	19	0.95
+vector_genus_x_virus_genus	2	0.8	persistent non-propagative	262	262	1
+vector_genus_x_virus_genus	2	0.8	persistent propagative	66	66	1
+vector_genus_x_virus_genus	2	0.8	non-persistent	27	27	1
+vector_genus_x_virus_genus	2	0.8	semi-persistent	20	19	0.95
+vector_genus_x_virus_genus	2	1	persistent non-propagative	262	262	1
+vector_genus_x_virus_genus	2	1	persistent propagative	66	66	1
+vector_genus_x_virus_genus	2	1	non-persistent	27	27	1
+vector_genus_x_virus_genus	2	1	semi-persistent	20	19	0.95
+vector_species_x_virus_family	2	0	persistent non-propagative	270	270	1
+vector_species_x_virus_family	2	0	persistent propagative	73	73	1
+vector_species_x_virus_family	2	0	non-persistent	30	30	1
+vector_species_x_virus_family	2	0	semi-persistent	20	20	1
+vector_species_x_virus_family	2	0.8	persistent non-propagative	270	270	1
+vector_species_x_virus_family	2	0.8	persistent propagative	73	73	1
+vector_species_x_virus_family	2	0.8	non-persistent	30	30	1
+vector_species_x_virus_family	2	0.8	semi-persistent	20	20	1
+vector_species_x_virus_family	2	1	persistent non-propagative	270	270	1
+vector_species_x_virus_family	2	1	persistent propagative	73	73	1
+vector_species_x_virus_family	2	1	non-persistent	30	30	1
+vector_species_x_virus_family	2	1	semi-persistent	20	20	1
+vector_genus_x_virus_family	2	0	persistent non-propagative	274	274	1
+vector_genus_x_virus_family	2	0	persistent propagative	76	76	1
+vector_genus_x_virus_family	2	0	non-persistent	32	32	1
+vector_genus_x_virus_family	2	0	semi-persistent	23	22	0.956521739130435
+vector_genus_x_virus_family	2	0.8	persistent non-propagative	274	274	1
+vector_genus_x_virus_family	2	0.8	persistent propagative	76	76	1
+vector_genus_x_virus_family	2	0.8	non-persistent	32	32	1
+vector_genus_x_virus_family	2	0.8	semi-persistent	23	22	0.956521739130435
+vector_genus_x_virus_family	2	1	persistent non-propagative	274	274	1
+vector_genus_x_virus_family	2	1	persistent propagative	76	76	1
+vector_genus_x_virus_family	2	1	non-persistent	27	27	1
+vector_genus_x_virus_family	2	1	semi-persistent	23	22	0.956521739130435

@@ -1,0 +1,5 @@
+dataset	any_seq_support	lineage_n	host_family_median	host_order_median
+main_LF_AplusB	FALSE	1648	1	1
+main_LF_AplusB	TRUE	52	2	2
+strict_LF_A_only	FALSE	1181	1	1
+strict_LF_A_only	TRUE	42	1	1

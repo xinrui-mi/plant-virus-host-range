@@ -1,0 +1,85 @@
+FINAL v22 plotting package notes
+===============================
+
+This package changes figure design only. It does not recompute or replace the
+frozen 04D statistical analyses.
+
+Scientific inputs remain the final result tables under:
+three_source_manuscript_analysis_v1_1/Fig4_arthropod_transmission_ecology/tables
+and final Stage-20 sequence evidence tables under the frozen pipeline results.
+
+Main Fig.3 panel assignment is fixed as:
+A = evidence overview
+B = evidence correspondence (Unadjusted / Adjusted OR)
+C = host taxonomic distance 0-6 decay plot
+D = documented vector relationship + four transmission-mode associations
+
+Fig.S3:
+A = virus-family composition by documented transmission mode
+B = within-mode leave-one-genus-out influence sensitivity
+
+All displayed counts are derived from frozen files at run time. No result
+numbers are hard-coded into the plotting script.
+
+
+V14 layout-only changes:
+- Panel A left box labels repositioned; row labels moved to pre-zero region.
+- Panel A supporting-sequence annotation removed.
+- Panel B embedded OR numbers removed.
+- Panel C legend keys stacked vertically under a one-line title.
+- Fig.S3B facet-strip labels forced to one line.
+
+
+V15 layout-only changes:
+- Panel A left grouping boxes shifted left to separate group titles from row labels.
+- Panel A x = 0 vertical axis drawn at the 0 tick; left axis line removed.
+- Panel A numeric labels moved further right of the points.
+- Panel C legend embedded inside the plot to restore old vertical spacing.
+- Fig.S3B strip labels forced to one line without parentheses.
+
+
+V16 layout-only changes:
+- Removed Panel A grouping boxes.
+- Split Panel A into group-title / row-label / data columns to eliminate overlap.
+- Panel A data axis begins at x = 0; numeric labels have larger point-to-label spacing.
+- Changed B:C widths to 72:108 mm.
+- Panel C legend moved back above the plot on one line.
+- Fig.S3A x-axis labels increased to TEXT_NORMAL (8.2 pt) bold.
+
+
+V17 layout-only changes:
+- Panel A group-title column centered and moved closer to the row-label column.
+- Panel A S0/S1/S2 rows use the old lighter sequence-support blue; S0-S2 union remains darker blue.
+- BC widths rebalanced to 80:100.
+- Fig.S3A x-axis labels restored to TEXT_SMALL bold.
+
+
+V18 layout-only changes:
+- Panel A group-title blocks use grey97 fill + grey85 thin border.
+- S0/S1/S2 text labels black; line/point blue unchanged.
+- Fig.3C Present changed to COL_BLUE_DARK to match S0-S2 union.
+- No new font-size constants; frozen Fig4 v25 typography retained.
+
+
+V19 layout-only changes:
+- Panel A evidence-group titles and row labels share one light-grey bordered block per evidence source.
+- Panel A evidence-group titles are right-aligned.
+- Panel D x-axis label explicitly states “vs no documented vector relationship”.
+- No statistical values or analysis inputs changed.
+
+
+V20 display-only fix:
+- Widened Fig.3A shared information block from 65 to 75 relative units and shifted group-title anchor from x=0.34 to x=0.43 to prevent left clipping.
+- No statistical values or other panels changed.
+
+
+V21 layout-only changes:
+- Panel A uses bracket-style grouping instead of shaded boxes.
+- Group titles are rendered fully inside the left information panel to avoid clipping.
+- S0-S2 union and Overall are excluded from the brackets.
+
+
+V22 layout-only changes:
+- Panel A bracket annotations shifted left to avoid overlap with the second group row labels.
+- Panel A row-label column shifted slightly right.
+- Short leader lines added between group titles and bracket centers.

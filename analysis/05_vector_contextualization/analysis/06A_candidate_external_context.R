@@ -1,0 +1,29 @@
+suppressPackageStartupMessages({library(data.table)})
+source(file.path(Sys.getenv("ANALYSIS_ROOT"),"00_config","00_config.R"));source(file.path(ANALYSIS_ROOT,"00_config","00_helpers.R"));base<-file.path(ANALYSIS_ROOT,"05_vector_contextualization");make_dirs(base)
+cand<-fread(file.path(ANALYSIS_ROOT,"04_genus_host_network","tables","06_network_candidates.tsv"),sep="\t");allnet<-fread(file.path(ANALYSIS_ROOT,"04_genus_host_network","tables","04_current_ICTV_genus_network_metrics.tsv"),sep="\t");legacy<-fread_any(CANDIDATE_EVIDENCE,sep="\t",quote="",fill=TRUE,showProgress=FALSE);viprel<-fread(file.path(ANALYSIS_ROOT,"03_arthropod_transmission_ecology","tables","01_VIPDB_relation_normalized.tsv"),sep="\t");assoc<-fread_any(ASSOC_FINAL,sep="\t",showProgress=FALSE)
+legacy[,virus_genus:=std_text(virus_genus)];missing<-setdiff(cand$virus_node,legacy$virus_genus)
+if(length(missing)){
+ fam<-cand[virus_node%in%missing,.(virus_genus=virus_node,virus_family)]
+ tmpl<-fam[,.(virus_genus,virus_family,representative_species_or_member="",EPPO="",FAO_IPPC="",Literature="",EPPO_note="",FAO_IPPC_note="",Literature_note="",manual_checked="FALSE")]
+ write_tsv(tmpl,file.path(base,"qc","06_GATE_missing_candidate_external_evidence_template.tsv"));write_tsv(data.table(status="GATE_REQUIRED",missing_candidate_n=length(missing),missing_candidate_genera=paste(sort(missing),collapse=";")),file.path(base,"qc","06_GATE_STATUS.tsv"));cat("Fig6 GATE REQUIRED: new candidate genera lack manually curated EPPO/IPPC/literature evidence:\n",paste(missing,collapse=", "),"\n");quit(status=20)
+}
+# Systematic VIPDB coverage can be recomputed for all network genera via exact Virus TaxID -> current ICTV genus mapping in the released association input.
+tax_genus<-unique(assoc[current_ictv_genus_eligible(virus_ictv_match_rank,virus_genus)&present(virus_taxid),.(virus_taxid=std_text(virus_taxid),virus_node=std_text(virus_genus))])
+vip_tax<-unique(viprel[present(virus_taxid),.(virus_taxid=as.character(virus_taxid))])
+vg<-merge(tax_genus,vip_tax,by="virus_taxid");vipgen<-vg[,.(VIPDB_documented_vector=TRUE,VIPDB_matched_taxid_n=uniqueN(virus_taxid)),by=virus_node]
+allctx<-merge(allnet,vipgen,by="virus_node",all.x=TRUE);allctx[is.na(VIPDB_documented_vector),VIPDB_documented_vector:=FALSE];allctx[is.na(VIPDB_matched_taxid_n),VIPDB_matched_taxid_n:=0L]
+write_tsv(allctx,file.path(base,"tables","01_network_genus_VIPDB_systematic_context.tsv"))
+# Candidate-only manually curated external context. Old network-derived typing columns are deliberately ignored.
+cols<-c("virus_genus","virus_family","representative_species_or_member","EPPO","FAO_IPPC","Literature","EPPO_note","FAO_IPPC_note","Literature_note","typing_confidence","score_traceability_status")
+for(z in setdiff(cols,names(legacy))) legacy[,(z):=""]
+man<-legacy[,..cols];man[,`:=`(EPPO_present=suppressWarnings(as.numeric(EPPO))>0,FAO_IPPC_present=suppressWarnings(as.numeric(FAO_IPPC))>0,Literature_present=suppressWarnings(as.numeric(Literature))>0)]
+out<-merge(cand,man,by.x="virus_node",by.y="virus_genus",all.x=TRUE);out<-merge(out,vipgen,by="virus_node",all.x=TRUE);out[is.na(VIPDB_documented_vector),VIPDB_documented_vector:=FALSE];out[,external_sources_present_n:=rowSums(cbind(EPPO_present,FAO_IPPC_present,Literature_present,VIPDB_documented_vector),na.rm=TRUE)]
+write_tsv(out,file.path(base,"tables","02_candidate_external_evidence_matrix.tsv"))
+coverage<-data.table(evidence=c("EPPO","FAO_IPPC","Literature","VIPDB_documented_vector"),candidate_n=c(sum(out$EPPO_present,na.rm=TRUE),sum(out$FAO_IPPC_present,na.rm=TRUE),sum(out$Literature_present,na.rm=TRUE),sum(out$VIPDB_documented_vector,na.rm=TRUE)),candidate_total=nrow(out));coverage[,fraction:=candidate_n/candidate_total];write_tsv(coverage,file.path(base,"tables","03_candidate_external_evidence_coverage.tsv"))
+# Only VIPDB is systematically available for non-candidates, so only this source supports candidate-vs-background enrichment.
+tab<-table(candidate=factor(allctx$candidate,levels=c(FALSE,TRUE)),VIPDB=factor(allctx$VIPDB_documented_vector,levels=c(FALSE,TRUE)));ft<-tryCatch(fisher.test(tab),error=function(e)NULL);fisher<-data.table(test="Fisher exact",odds_ratio=if(!is.null(ft))unname(ft$estimate) else NA_real_,p_value=if(!is.null(ft))ft$p.value else NA_real_,candidate_vector=sum(allctx$candidate&allctx$VIPDB_documented_vector),candidate_no_vector=sum(allctx$candidate&!allctx$VIPDB_documented_vector),noncandidate_vector=sum(!allctx$candidate&allctx$VIPDB_documented_vector),noncandidate_no_vector=sum(!allctx$candidate&!allctx$VIPDB_documented_vector));write_tsv(fisher,file.path(base,"tables","04_candidate_VIPDB_enrichment.tsv"))
+# TSWV case-study suitability audit; this is not a risk score.
+tswv_species<-assoc[virus_species=="Orthotospovirus tomatomaculae"|virus_taxid=="3052585"]
+orth<-out[virus_node=="Orthotospovirus"]
+tswv<-data.table(criterion=c("parent_genus_is_Fig5_candidate","parent_genus_host_family_breadth","parent_genus_bridge_score","documented_vector_in_VIPDB","formal_TSWV_sequence_present","formal_TSWV_host_family_n","formal_TSWV_country_n"),value=c(ifelse(nrow(orth)>0,"TRUE","FALSE"),ifelse(nrow(orth)>0,as.character(orth$host_family_n[1]),""),ifelse(nrow(orth)>0,as.character(orth$bridge_score[1]),""),ifelse(nrow(orth)>0,as.character(orth$VIPDB_documented_vector[1]),"FALSE"),as.character(uniqueN(tswv_species$sequence_id)>0),as.character(uniqueN(tswv_species$host_family[present(tswv_species$host_family)])),as.character(uniqueN(tswv_species$country[present(tswv_species$country)]))))
+write_tsv(tswv,file.path(base,"tables","05_TSWV_case_study_suitability_audit.tsv"));write_tsv(data.table(status="PASS",candidate_n=nrow(cand),legacy_evidence_matched_n=nrow(out)),file.path(base,"qc","01_Fig6_QC.tsv"));cat("Fig6 contextualization PASS\n")

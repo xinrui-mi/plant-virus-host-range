@@ -1,0 +1,7 @@
+raw_transmission_mode	fine_mode	fine4_mode	retention_group	relation_n	virus_taxid_n
+Circulative, Persistent Non-Propagative Transmission	Persistent non-propagative	Persistent non-propagative	long-retention / circulative	600	286
+Circulative, Persistent-Propagative Transmission	Persistent propagative	Persistent propagative	long-retention / circulative	284	67
+Non-Persistent Transmission	Non-persistent	Non-persistent	short-retention / non-circulative	227	29
+Non-Circulative, Semi-Persistent Transmission	Semi-persistent	Semi-persistent	short-retention / non-circulative	192	32
+				51	22
+Persistent, circulative	Persistent circulative (propagation unspecified)		long-retention / circulative	21	11

@@ -1,0 +1,8 @@
+#nexus
+begin sets;
+  charset codon1_codon2 = 1-906\3  2-906\3;
+  charset codon3 = 3-906\3;
+  charpartition mymodels =
+    K3Pu+F+R2: codon1_codon2,
+    TPM2u+F+G4: codon3;
+end;

@@ -1,0 +1,1067 @@
+virus_family	cdhit95_cluster_id	representative_sequence_id	cluster_member_n	member_sequence_ids	virus_taxid_representative	virus_genus_representative	virus_species_representative	host_annotated	host_taxid_n	host_taxids	host_family_n	host_families
+Betaflexiviridae	AA95_277	AB245142.1	1	AB245142.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	13422	1	Asteraceae
+Betaflexiviridae	AA95_416	AB889483.1	1	AB889483.1	216614	Carlavirus	Carlavirus sigmadaphnis	YES	1	329675	1	Thymelaeaceae
+Betaflexiviridae	AA95_518	AJ437481.1	11	AJ437481.1;JN835299.1;JX678982.1;MH558036.1;MH558037.1;MW582794.1;OK558745.1;OL472244.1;ON398514.1;PP400336.1;PP400339.1	12167	Carlavirus	Carlavirus misolani	YES	3	205567;4081;4113	1	Solanaceae
+Betaflexiviridae	AA95_299	AM282555.1	1	AM282555.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	13422	1	Asteraceae
+Betaflexiviridae	AA95_300	AM282557.1	1	AM282557.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	13422	1	Asteraceae
+Betaflexiviridae	AA95_475	AY941198.1	3	AY941198.1;OK558636.1;OK558639.1	31722	Carlavirus	Carlavirus vaccinii	YES	2	13749;69266	1	Ericaceae
+Betaflexiviridae	AA95_468	AY941199.1	3	AY941199.1;OK558635.1;OK558641.1	31722	Carlavirus	Carlavirus vaccinii	YES	2	13749;69266	1	Ericaceae
+Betaflexiviridae	AA95_823	BK068543.1	2	BK068543.1;TS_nucl_0633	3351433	Tepovirus	Acanthus hungaricus virus 1	YES	1	1851328	1	Acanthaceae
+Betaflexiviridae	AA95_775	BK068544.1	1	BK068544.1	3351434	Tepovirus	Allium listera virus 1	YES	1	743504	1	Amaryllidaceae
+Betaflexiviridae	AA95_808	BK068545.1	1	BK068545.1	3351435	Tepovirus	Balanophora indica virus 1	YES	1	1128101	1	Balanophoraceae
+Betaflexiviridae	AA95_1062	BK068546.1	1	BK068546.1	3351436	Tepovirus	Capparis spinosa virus 1	YES	1	65558	1	Capparaceae
+Betaflexiviridae	AA95_787	BK068547.1	1	BK068547.1	3351437	Tepovirus	Cistanche deserticola virus 1	YES	1	161395	1	Orobanchaceae
+Betaflexiviridae	AA95_865	BK068548.1	1	BK068548.1	3351438	Tepovirus	Crocus sativus virus 1	YES	1	82528	1	Iridaceae
+Betaflexiviridae	AA95_780	BK068549.1	1	BK068549.1	3351439	Tepovirus	Davidia involucrata virus 3	YES	1	16924	1	Nyssaceae
+Betaflexiviridae	AA95_877	BK068550.1	1	BK068550.1	3351440	Tepovirus	Ferula gummosa virus 1	YES	1	371349	1	Apiaceae
+Betaflexiviridae	AA95_810	BK068551.1	1	BK068551.1	3351441	Tepovirus	Hylocereus undatus virus 1	YES	1	176265	1	Cactaceae
+Betaflexiviridae	AA95_893	BK068552.1	1	BK068552.1	3351442	Tepovirus	Lilium lancifolium virus 1	YES	1	79002	1	Liliaceae
+Betaflexiviridae	AA95_899	BK068553.1	1	BK068553.1	3351443	Tepovirus	Lilium pumilum virus 1	YES	1	82327	1	Liliaceae
+Betaflexiviridae	AA95_883	BK068554.1	1	BK068554.1	3351444	Tepovirus	Maihueniopsis conoidea virus 1	YES	1	1112772	1	Cactaceae
+Betaflexiviridae	AA95_1004	BK068555.1	1	BK068555.1	3351445	Tepovirus	Panicum virgatum virus 1	YES	1	38727	1	Poaceae
+Betaflexiviridae	AA95_870	BK068556.1	2	BK068556.1;TS_nucl_0648	3351446	Tepovirus	Pogostemon cablin virus 1	YES	1	28511	1	Lamiaceae
+Betaflexiviridae	AA95_850	BK068557.1	2	BK068557.1;TS_nucl_0649	3351447	Tepovirus	Pogostemon cablin virus 2	YES	1	28511	1	Lamiaceae
+Betaflexiviridae	AA95_1035	BK068558.1	2	BK068558.1;TS_nucl_0701	3351448	Tepovirus	Solanum melongena virus 1	YES	1	4111	1	Solanaceae
+Betaflexiviridae	AA95_793	BK068559.1	1	BK068559.1	3351449	Tepovirus	Vallisneria spiralis virus 1	YES	1	55324	1	Hydrocharitaceae
+Betaflexiviridae	AA95_902	BK068560.1	1	BK068560.1	3351450	Tepovirus	Vallisneria spiralis virus 2	YES	1	55324	1	Hydrocharitaceae
+Betaflexiviridae	AA95_784	BK068561.1	1	BK068561.1	3351451	Tepovirus	Vallisneria spiralis virus 3	YES	1	55324	1	Hydrocharitaceae
+Betaflexiviridae	AA95_813	BK068562.1	1	BK068562.1	3351452	Tepovirus	Vanilla shenzhenica virus 1	YES	1	1088844	1	Orchidaceae
+Betaflexiviridae	AA95_1003	DQ855084.2	1	DQ855084.2	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_945	DQ855086.2	1	DQ855086.2	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_123	EU095327.1	1	EU095327.1	35350	Foveavirus	Foveavirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_575	EU338239.1	3	EU020009.1;EU338239.1;NC_009759.1	329164	Carlavirus	Carlavirus pisolani	YES	2	200313;4113	1	Solanaceae
+Betaflexiviridae	AA95_515	FJ196836.1	1	FJ196836.1	592206	Carlavirus	Carlavirus necroretis	YES	1	1406308	1	Ranunculaceae
+Betaflexiviridae	AA95_421	FJ531635.1	1	FJ531635.1	132477	Carlavirus	Carlavirus latenskalanchoe	YES	1	45339	1	Crassulaceae
+Betaflexiviridae	AA95_89	FR694186.1	1	FR694186.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_706	HE980332.1	1	HE980332.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_461	HF571059.1	1	HF571059.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_529	HM854296.1	1	HM854296.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_555	HQ258896.2	27	HQ258896.2;MN059181.1;MN059183.1;MN059198.1;MN059200.1;MN059201.1;MN059203.1;MN059206.1;MN059207.1;MN059208.1;MN059210.1;MN059212.1;MN059213.1;MN059214.1;MN059216.1;MN059219.1;MN059222.1;MN059223.1;MN059226.1;MN059227.1;MN059229.1;MN059234.1;MN059236.1;MN059237.1;MN059241.1;MN059245.1;MT731497.1	12172	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_88	HQ339957.1	1	HQ339957.1	75387	Foveavirus	Foveavirus latensarmeniacae	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_122	HQ339958.1	1	HQ339958.1	75387	Foveavirus	Foveavirus latensarmeniacae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_83	HQ339959.1	1	HQ339959.1	75387	Foveavirus	Foveavirus latensarmeniacae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_584	JF320811.1	1	JF320811.1	12172	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_87	JF946772.1	2	JF946772.1;JF946775.1	35350	Foveavirus	Foveavirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_261	JN701424.1	1	JN701424.1	28347	Capillovirus	Capillovirus mali	YES	1	3767	1	Rosaceae
+Betaflexiviridae	AA95_445	JN900477.1	4	JN900477.1;JN983454.1;JN983455.1;JN983456.1	129141	Citrivirus	Citrivirus citri	YES	1	200313	1	Solanaceae
+Betaflexiviridae	AA95_554	JQ899443.1	2	JQ899443.1;TS_nucl_0555	12172	Carlavirus	Carlavirus latensascalonici	YES	2	4681;4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_260	KC588948.1	1	KC588948.1	33759	Capillovirus	Capillovirus mali	YES	1	55188	1	Rutaceae
+Betaflexiviridae	AA95_711	KC847061.1	1	KC847061.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_735	KC884247.1	1	KC884247.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_646	KC935954.1	2	KC935954.1;KC935955.1	12175	Trichovirus	Trichovirus mali	YES	2	23211;3767	1	Rosaceae
+Betaflexiviridae	AA95_720	KC935956.1	1	KC935956.1	12175	Trichovirus	Trichovirus mali	YES	1	225117	1	Rosaceae
+Betaflexiviridae	AA95_1002	KC962564.1	1	KC962564.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_327	KF030846.2	1	KF030846.2	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_347	KF030849.2	2	KF030849.2;KF030850.2	1312929	Robigovirus	Robigovirus robigomaculae	YES	2	129217;42229	1	Rosaceae
+Betaflexiviridae	AA95_348	KF030869.2	1	KF030869.2	1312929	Robigovirus	Robigovirus robigomaculae	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_349	KF030870.2	1	KF030870.2	1312929	Robigovirus	Robigovirus robigomaculae	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_328	KF030873.2	1	KF030873.2	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_321	KF030878.2	1	KF030878.2	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_350	KF030880.2	1	KF030880.2	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_59	KF319056.1	1	KF319056.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_842	KF700262.1	1	KF700262.1	1472425	Tepovirus	Tepovirus tafpruni	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_121	KF915809.1	1	KF915809.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_499	KJ020285.1	1	KJ020285.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_517	KJ194171.1	1	KJ194171.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_120	KJ522472.1	1	KJ522472.1	35350	Foveavirus	Foveavirus mali	YES	1	3749	1	Rosaceae
+Betaflexiviridae	AA95_970	KJ524452.1	1	KJ524452.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_259	KJ579253.1	1	KJ579253.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_620	KM207212.1	3	KM207212.1;TS_nucl_0675;TS_nucl_0676	12175	Trichovirus	Trichovirus mali	YES	1	510735	1	Rosaceae
+Betaflexiviridae	AA95_871	KP114220.1	15	KP114220.1;MW309667.1;MW309671.1;OL690322.1;OL690323.1;OL690324.1;OL690326.1;OQ079122.1;OQ718391.1;OR061048.1;OR061049.1;PQ736736.1;PQ736739.1;PQ736741.1;PQ736742.1	1221437	Vitivirus	Vitivirus phivitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_272	KP115605.1	1	KP115605.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_273	KP115606.1	2	KP115606.1;KP115607.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_345	KP258176.1	1	KP258176.1	1312929	Robigovirus	Robigovirus robigomaculae	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_346	KP258177.1	1	KP258177.1	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_763	KP693444.1	2	KP693444.1;KP693445.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_764	KP693446.1	1	KP693446.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_788	KP693447.1	1	KP693447.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_765	KP693448.1	1	KP693448.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_271	KP715159.1	1	KP715159.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_492	KR023647.1	1	KR023647.1	129141	Citrivirus	Citrivirus citri	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_270	KR072674.1	2	KR072674.1;OK181776.1	1718190	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_282	KR106996.1	1	KR106996.1	28347	Capillovirus	Capillovirus mali	YES	1	3766	1	Rosaceae
+Betaflexiviridae	AA95_367	KR998046.1	4	KR998046.1;KR998047.1;KT893293.1;KY310580.1	351427	Foveavirus	Foveavirus unasiaticum	YES	2	102107;3760	1	Rosaceae
+Betaflexiviridae	AA95_373	KR998048.1	1	KR998048.1	351426	Foveavirus	Foveavirus duoasiaticum	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_368	KR998051.1	4	KR998051.1;KT893298.1;KT893299.1;KT893300.1	351428	Foveavirus	Asian prunus virus 3	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_151	KT000366.1	1	KT000366.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_152	KT000367.1	1	KT000367.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_153	KT000369.1	1	KT000369.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_173	KT000370.1	1	KT000370.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_119	KT835289.1	1	KT835289.1	1211388	Foveavirus	Apple green crinkle associated virus	YES	1	36610	1	Rosaceae
+Betaflexiviridae	AA95_258	KU605672.1	1	KU605672.1	28347	Capillovirus	Capillovirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_268	KU707475.2	1	KU707475.2	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	89662	1	Convolvulaceae
+Betaflexiviridae	AA95_269	KU720565.1	1	KU720565.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	89662	1	Convolvulaceae
+Betaflexiviridae	AA95_723	KU870524.1	1	KU870524.1	12175	Trichovirus	Trichovirus mali	YES	1	510735	1	Rosaceae
+Betaflexiviridae	AA95_645	KU870525.1	1	KU870525.1	12175	Trichovirus	Trichovirus mali	YES	1	510735	1	Rosaceae
+Betaflexiviridae	AA95_718	KU960942.1	1	KU960942.1	12175	Trichovirus	Trichovirus mali	YES	1	3749	1	Rosaceae
+Betaflexiviridae	AA95_566	KX255694.1	1	KX255694.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_12	KX370827.1	2	KX370827.1;KY510909.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_356	KX389311.1	2	KF356396.2;KX389311.1	1312929	Robigovirus	Robigovirus robigomaculae	YES	2	194545;42229	1	Rosaceae
+Betaflexiviridae	AA95_651	KX443697.1	1	KX443697.1	131226	Trichovirus	Trichovirus maculavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_644	KX443698.1	1	KX443698.1	131226	Trichovirus	Trichovirus maculavii	YES	1	32241	1	Rosaceae
+Betaflexiviridae	AA95_969	KX522545.2	1	KX522545.2	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_661	KX579123.1	1	KX579123.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_921	KX790785.1	2	KX790785.1;MW357718.1	35289	Vitivirus	Vitivirus betavitis	YES	2	103355;3603	1	Vitaceae
+Betaflexiviridae	AA95_1001	KX828703.1	1	KX828703.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_150	KX958435.1	1	KX958435.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_362	KY178275.1	2	KY178275.1;KY178276.1	65467	Robigovirus	Robigovirus viridiavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_118	KY242757.1	5	KY242757.1;MZ147979.1;MZ148045.1;MZ148050.1;OR889822.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_528	KY364848.1	1	KY364848.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_1034	KY451036.1	1	KY451036.1	2057934	Vitivirus	Arracacha latent virus V	YES	1	264540	1	Apiaceae
+Betaflexiviridae	AA95_382	KY471462.1	1	KY471462.1	2058091	Carlavirus	Red clover carlavirus A	YES	1	57577	1	Fabaceae
+Betaflexiviridae	AA95_379	KY474546.1	1	KY474546.1	2058091	Carlavirus	Red clover carlavirus A	YES	1	57577	1	Fabaceae
+Betaflexiviridae	AA95_117	KY490039.1	2	KY490039.1;MK239268.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_1005	KY508073.1	1	KY508073.1	67761	Carlavirus	Carlavirus vignae	YES	1	157652	1	Fabaceae
+Betaflexiviridae	AA95_22	KY510845.1	5	KY510845.1;KY510847.1;KY510879.1;KY510882.1;KY510889.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_9	KY510851.1	1	KY510851.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_6	KY510852.1	16	FN691959.1;KU215410.1;KU215411.1;KY510852.1;KY510855.1;KY510857.1;KY510870.1;KY510880.1;KY510884.1;KY510892.1;KY510896.1;KY510908.1;KY510915.1;KY510918.1;LC422952.1;PQ036874.1	42882	Capillovirus	Capillovirus alphavii	YES	4	140311;36596;3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_4	KY510856.1	26	KY510846.1;KY510856.1;KY510860.1;KY510861.1;KY510868.1;KY510871.1;KY510873.1;KY510874.1;KY510876.1;KY510877.1;KY510883.1;KY510887.1;KY510890.1;KY510904.1;KY510914.1;KY510916.1;KY510919.1;LC125634.1;LC523004.1;LN879388.1;MF048810.1;MH806869.1;ON088603.1;OQ865368.1;PP620725.1;PP736769.1	42882	Capillovirus	Capillovirus alphavii	YES	4	36595;36596;3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_10	KY510858.1	1	KY510858.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_11	KY510863.1	1	KY510863.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_8	KY510864.1	1	KY510864.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_5	KY510865.1	2	KY510865.1;LC523010.1	42882	Capillovirus	Capillovirus alphavii	YES	2	3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_7	KY510867.1	1	KY510867.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_116	KY702581.1	1	KY702581.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_218	KY774446.1	1	KY774446.1	471498	Foveavirus	Foveavirus persicae	YES	1	3758	1	Rosaceae
+Betaflexiviridae	AA95_115	KY798310.1	1	KY798310.1	35350	Foveavirus	Foveavirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_574	LC004126.1	1	LC004126.1	12173	Carlavirus	Carlavirus lilii	YES	1	4690	1	Liliaceae
+Betaflexiviridae	AA95_257	LC184612.1	1	LC184612.1	28347	Capillovirus	Capillovirus mali	YES	1	76966	1	Rutaceae
+Betaflexiviridae	AA95_610	LC279526.1	1	LC279526.1	12172	Carlavirus	Carlavirus latensascalonici	YES	1	91198	1	Amaryllidaceae
+Betaflexiviridae	AA95_797	LC467961.1	1	LC467961.1	2559943		Dioscorea virus A	YES	1	4672	1	Dioscoreaceae
+Betaflexiviridae	AA95_252	LC475148.1	1	LC475148.1	28347	Capillovirus	Capillovirus mali	YES	1	3767	1	Rosaceae
+Betaflexiviridae	AA95_253	LC475149.1	2	LC143387.1;LC475149.1	28347	Capillovirus	Capillovirus mali	YES	2	135197;3767	2	Rosaceae;Rutaceae
+Betaflexiviridae	AA95_114	LC475151.1	1	LC475151.1	35350	Foveavirus	Foveavirus mali	YES	1	3767	1	Rosaceae
+Betaflexiviridae	AA95_640	LC475152.1	2	LC475152.1;MZ126518.1	12175	Trichovirus	Trichovirus mali	YES	2	3750;3767	1	Rosaceae
+Betaflexiviridae	AA95_600	LC480818.1	1	LC480818.1	329164	Carlavirus	Carlavirus pisolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_437	LC485538.1	1	LC485538.1	1468172	Carlavirus	Carlavirus latensgaillardiae	YES	1	105907	1	Caprifoliaceae
+Betaflexiviridae	AA95_559	LC485539.1	1	LC485539.1	478550	Carlavirus	Carlavirus necroligustri	YES	1	105907	1	Caprifoliaceae
+Betaflexiviridae	AA95_896	LC491285.1	3	JN427014.1;LC491285.1;NC_043087.1	3240217	Vitivirus	Vitivirus alphactinidiae	YES	4	1590841;200313;3624;3625	2	Actinidiaceae;Solanaceae
+Betaflexiviridae	AA95_701	LC522981.1	2	KY310578.1;LC522981.1	12175	Trichovirus	Trichovirus mali	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_372	LC522985.1	10	KR998049.1;KT893294.1;KT893295.1;KT893297.1;KY310581.1;KY310582.1;KY445748.1;LC522985.1;MT218431.1;NC_028868.1	351426	Foveavirus	Foveavirus duoasiaticum	YES	4	102107;323853;36596;3760	1	Rosaceae
+Betaflexiviridae	AA95_1024	LC522987.1	3	HG008921.2;LC522987.1;NC_023295.1	3241188	Prunevirus	Prunevirus armeniacae	YES	2	36596;3758	1	Rosaceae
+Betaflexiviridae	AA95_359	LC522988.1	1	LC522988.1	65467	Robigovirus	Robigovirus viridiavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_371	LC522990.1	1	LC522990.1	65467	Robigovirus	Robigovirus viridiavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_20	LC523003.1	4	KY510859.1;KY510862.1;LC523003.1;MK847263.1	42882	Capillovirus	Capillovirus alphavii	YES	2	3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_13	LC523006.1	1	LC523006.1	42882	Capillovirus	Capillovirus alphavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_15	LC523008.1	2	LC523008.1;LC523012.1	42882	Capillovirus	Capillovirus alphavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_16	LC523011.1	1	LC523011.1	42882	Capillovirus	Capillovirus alphavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_17	LC523015.1	1	LC523015.1	42882	Capillovirus	Capillovirus alphavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_18	LC523016.1	1	LC523016.1	42882	Capillovirus	Capillovirus alphavii	YES	1	3758	1	Rosaceae
+Betaflexiviridae	AA95_19	LC523017.1	1	LC523017.1	42882	Capillovirus	Capillovirus alphavii	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_21	LC523018.1	3	KY286055.1;KY445749.1;LC523018.1	42882	Capillovirus	Capillovirus alphavii	YES	2	102107;36596	1	Rosaceae
+Betaflexiviridae	AA95_705	LC533837.1	3	KX579122.1;LC533837.1;MK929793.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_900	LC541734.1	1	LC541734.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_880	LC541735.1	1	LC541735.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_742	LC601812.1	1	LC601812.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	694578	1	Vitaceae
+Betaflexiviridae	AA95_721	LC605829.1	1	LC605829.1	81877	Trichovirus	Trichovirus necroacini	YES	1	694578	1	Vitaceae
+Betaflexiviridae	AA95_722	LC605830.1	1	LC605830.1	81877	Trichovirus	Trichovirus necroacini	YES	1	694578	1	Vitaceae
+Betaflexiviridae	AA95_975	LC617941.1	1	LC617941.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3604	1	Vitaceae
+Betaflexiviridae	AA95_999	LC617944.1	1	LC617944.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3604	1	Vitaceae
+Betaflexiviridae	AA95_874	LC617946.1	1	LC617946.1	1221437	Vitivirus	Vitivirus phivitis	YES	1	3604	1	Vitaceae
+Betaflexiviridae	AA95_296	LC632066.1	1	LC632066.1	2859709		Wheat virus Q	YES	1	4565	1	Poaceae
+Betaflexiviridae	AA95_95	LC743847.1	1	LC743847.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_307	LC746725.1	1	LC746725.1	196400	Foveavirus	Foveavirus rupestris	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_308	LC746727.1	1	LC746727.1	196400	Foveavirus	Foveavirus rupestris	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1011	LC746729.1	6	DQ855081.2;DQ855087.2;LC746729.1;LC746732.1;LC746745.1;MW309551.1	35288	Vitivirus	Vitivirus alphavitis	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_910	LC746733.1	2	JX559641.1;LC746733.1	35288	Vitivirus	Vitivirus alphavitis	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_1065	LC746735.1	1	LC746735.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1015	LC746736.1	1	LC746736.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_911	LC746737.1	1	LC746737.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1022	LC746739.1	1	LC746739.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1023	LC746740.1	1	LC746740.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1026	LC746741.1	1	LC746741.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1030	LC746742.1	1	LC746742.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_988	LC746743.1	1	LC746743.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1051	LC746744.1	1	LC746744.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1064	LC746747.1	1	LC746747.1	35289	Vitivirus	Vitivirus betavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_887	LC746752.1	4	LC617947.1;LC746752.1;MZ291908.1;OL690321.1	1221437	Vitivirus	Vitivirus phivitis	YES	3	29760;3603;3604	1	Vitaceae
+Betaflexiviridae	AA95_889	LC746753.1	1	LC746753.1	3027323	Vitivirus	Grapevine virus P	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_14	LC752551.1	1	LC752551.1	42882	Capillovirus	Capillovirus alphavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_903	LC815117.1	18	LC617942.1;LC815117.1;OP752608.1;OP752609.1;OP752612.1;OP752619.1;OP752622.1;OP752624.1;OP752630.1;OP752634.1;OP752635.1;OP752638.1;OP752641.1;OR614446.1;OR614447.1;PP476179.1;PP476181.1;PP476183.1	35288	Vitivirus	Vitivirus alphavitis	YES	3	29760;3603;3604	1	Vitaceae
+Betaflexiviridae	AA95_947	LC815118.1	3	LC746730.1;LC815118.1;MW309533.1	35288	Vitivirus	Vitivirus alphavitis	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_904	LC815119.1	3	LC746731.1;LC815119.1;LC815121.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_1025	LC815120.1	1	LC815120.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_504	LC846648.1	3	LC846648.1;OL441191.1;TS_nucl_0642	1899566	Carlavirus	Carlavirus alphaligustri	YES	3	178762;34270;528268	1	Oleaceae
+Betaflexiviridae	AA95_569	LC863174.1	5	LC863174.1;LC863181.1;MK340756.1;MT723990.1;ON416864.1	379892	Carlavirus	Carlavirus latenspassiflorae	YES	3	3649;63459;78168	3	Amaranthaceae;Caricaceae;Passifloraceae
+Betaflexiviridae	AA95_731	LC877456.1	91	KC774019.1;KC774020.1;KC884244.1;KC884245.1;KC884246.1;KC884248.1;KC884249.1;LC877456.1;MK069989.1;MK202583.1;MT473963.1;MW657008.1;MW657009.1;MW657010.1;MW657012.1;MW657013.1;MW657014.1;MW657015.1;MW657016.1;MW657018.1;MW657020.1;MW657021.1;MW657022.1;MW657023.1;MW657025.1;MW657026.1;MW657027.1;MW657028.1;MW657029.1;MW657030.1;MW657031.1;MW657032.1;MW657033.1;MW657034.1;MW657035.1;MW657036.1;MW657037.1;MW657039.1;MW657040.1;MW657041.1;MW657043.1;MW657044.1;MW657045.1;MW657046.1;MW657047.1;MW657078.1;MW657079.1;MW657080.1;MW657081.1;MW657082.1;MW657083.1;MW657084.1;MW657085.1;MW657086.1;MW657087.1;MW657088.1;MW657089.1;MW657090.1;MW657091.1;MW657092.1;MW657093.1;MW657094.1;MW657095.1;MW657096.1;MW657097.1;MW657098.1;MW657099.1;MW657100.1;MW657101.1;MW657102.1;MW657103.1;MW657104.1;MW657105.1;MW657106.1;MW657107.1;MW657108.1;MW657109.1;MW657110.1;MW657111.1;MW657112.1;MW657113.1;MW657114.1;MW657115.1;MW657116.1;MW657117.1;OP611423.1;OP611424.1;OP611425.1;OP611426.1;OP611427.1;OQ739147.1	67761	Carlavirus	Carlavirus vignae	YES	6	3656;3681;3847;3885;49212;670327	4	Begoniaceae;Cucurbitaceae;Fabaceae;Lamiaceae
+Betaflexiviridae	AA95_2	LC877787.1	43	KT285841.1;KT310083.1;KU131205.1;KY510848.1;KY510849.1;KY510853.1;KY510866.1;KY510869.1;KY510872.1;KY510875.1;KY510878.1;KY510881.1;KY510885.1;KY510888.1;KY510893.1;KY510894.1;KY510898.1;KY510900.1;KY510901.1;KY510903.1;KY510906.1;KY510907.1;KY510910.1;KY510911.1;KY510912.1;KY510917.1;LC437353.1;LC522999.1;LC523000.1;LC523001.1;LC523005.1;LC523009.1;LC523013.1;LC523014.1;LC877787.1;MF048809.1;MF062118.1;MF062119.1;MK847265.1;MW334942.1;NC_003689.1;OR515750.1;TS_nucl_0683	42882	Capillovirus	Capillovirus alphavii	YES	3	136465;3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_552	LS999823.1	1	LS999823.1	1852702	Carlavirus	Opuntia virus H	YES	1	233204	1	Ulmaceae
+Betaflexiviridae	AA95_625	LT898349.1	2	LT898349.1;LT898350.1	2015551	Carlavirus	Elm carlavirus	YES	1	233204	1	Ulmaceae
+Betaflexiviridae	AA95_527	MF133528.1	2	MF133528.1;MF133529.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_459	MF418029.1	1	MF418029.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_460	MF503890.1	1	MF503890.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_540	MF503894.1	1	MF503894.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_655	MF678819.1	1	MF678819.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_944	MF774336.1	1	MF774336.1	51617	Vitivirus	Vitivirus deltavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_1019	MF993576.1	1	MF993576.1	2016034	Vitivirus	Grapevine virus K	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_738	MG012804.1	1	MG012804.1	797075	Carlavirus	Carlavirus latensnerinis	YES	1	16055	1	Amaryllidaceae
+Betaflexiviridae	AA95_216	MG195287.1	1	MG195287.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_526	MG356508.1	4	MF133527.1;MF133530.1;MG356508.1;MG356509.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_605	MG596238.1	1	MG596238.1	2301726	Carlavirus	Red clover carlavirus 1	YES	1	57577	1	Fabaceae
+Betaflexiviridae	AA95_601	MG596239.1	1	MG596239.1	2301726	Carlavirus	Red clover carlavirus 1	YES	1	57577	1	Fabaceae
+Betaflexiviridae	AA95_606	MG657357.1	1	MG657357.1	12172	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_508	MG865890.1	1	MG865890.1	1899566	Carlavirus	Carlavirus alphaligustri	YES	1	24208	1	Oleaceae
+Betaflexiviridae	AA95_630	MG879477.1	4	KY310579.1;LC522983.1;MG879477.1;PQ801774.1	307677	Trichovirus	Trichovirus armeniacae	YES	2	3758;3760	1	Rosaceae
+Betaflexiviridae	AA95_1000	MG925333.1	1	MG925333.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_171	MG938294.1	1	MG938294.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_142	MG938302.1	57	HE591388.1;JQ922417.1;JX513892.1;KT000368.1;KX925555.1;LC897303.1;MG925334.1;MG938299.1;MG938301.1;MG938302.1;MG938304.1;MG938308.1;MG938310.1;MK077682.1;MK804766.1;MW357717.1;MZ484751.1;MZ484758.1;MZ484769.1;MZ484775.1;MZ484783.1;MZ484789.1;MZ484794.1;MZ484797.1;MZ484801.1;MZ484807.1;MZ484809.1;MZ484813.1;MZ484819.1;MZ484821.1;MZ484822.1;MZ484841.1;MZ484863.1;MZ484866.1;MZ484879.1;MZ484883.1;MZ484890.1;MZ484893.1;MZ484896.1;MZ484897.1;MZ484902.1;MZ484904.1;MZ484912.1;MZ484922.1;MZ484932.1;MZ484934.1;MZ484939.1;MZ484942.1;MZ484946.1;NC_001948.1;ON669153.1;ON669167.1;OR834512.1;OR892400.1;PP812281.1;PP812282.1;PQ671845.1	196400	Foveavirus	Foveavirus rupestris	YES	4	103355;29760;3603;96939	1	Vitaceae
+Betaflexiviridae	AA95_161	MG938306.1	1	MG938306.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_652	MH084696.1	1	MH084696.1	2358294	Trichovirus	Trichovirus chloropersicae	YES	1	323853	1	Rosaceae
+Betaflexiviridae	AA95_255	MH108975.1	7	EU553489.1;MH108975.1;MH108976.1;MH108977.1;MH108978.1;MH108980.1;MH108981.1	33759	Capillovirus	Capillovirus mali	YES	2	2706;290854	1	Rutaceae
+Betaflexiviridae	AA95_256	MH108979.1	3	LC184611.1;MH108979.1;MH108985.1	33759	Capillovirus	Capillovirus mali	YES	2	2706;55188	1	Rutaceae
+Betaflexiviridae	AA95_332	MH120170.1	1	MH120170.1	2497940		Garlic yellow mosaic-associated virus	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_254	MH144343.1	1	MH144343.1	33759	Capillovirus	Capillovirus mali	YES	1	37334	1	Rutaceae
+Betaflexiviridae	AA95_532	MH144344.1	1	MH144344.1	2802540	Citrivirus	Citrus leaf blotch virus 2	YES	1	2706	1	Rutaceae
+Betaflexiviridae	AA95_209	MH182704.1	1	MH182704.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_489	MH231174.1	1	MH231174.1	1853762	Carlavirus	Carlavirus jasmini	YES	1	660624	1	Oleaceae
+Betaflexiviridae	AA95_438	MH282867.1	33	JQ647830.1;JX683388.2;KU058657.1;KU896946.1;MF033144.1;MF418027.1;MF418028.1;MH282867.1;MK024940.1;MK563994.1;MN095414.1;MN689441.1;MN689446.1;MN689448.1;MN689469.1;MN689471.1;MN689480.1;MN689482.1;MN689488.1;MN689492.1;MN689493.1;MT550621.1;MW051778.1;MW051779.1;MW051781.1;PP400337.1;PV780749.1;PV780750.1;PX104982.1;PX104983.1;PX104984.1;PX104987.1;PX104988.1	12169	Carlavirus	Carlavirus sigmasolani	YES	3	172790;4081;4113	1	Solanaceae
+Betaflexiviridae	AA95_728	MH345698.1	1	MH345698.1	67761	Carlavirus	Carlavirus vignae	YES	1	3915	1	Fabaceae
+Betaflexiviridae	AA95_509	MH379107.1	1	MH379107.1	1046402	Carlavirus	Carlavirus chisolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_570	MH379331.1	1	MH379331.1	379892	Carlavirus	Carlavirus latenspassiflorae	YES	1	78168	1	Passifloraceae
+Betaflexiviridae	AA95_266	MH388501.1	1	MH388501.1	2711145	Carlavirus	Sweet potato virus F	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_590	MH389247.1	5	MH389247.1;MH389248.1;MH389249.1;MN059186.1;MN059187.1	12172	Carlavirus	Carlavirus latensascalonici	YES	2	28911;4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_525	MH558035.1	1	MH558035.1	12167	Carlavirus	Carlavirus misolani	YES	1	4081	1	Solanaceae
+Betaflexiviridae	AA95_562	MH558590.1	1	MH558590.1	2802540	Citrivirus	Citrus leaf blotch virus 2	YES	1	2706	1	Rutaceae
+Betaflexiviridae	AA95_189	MH674167.1	6	MH061382.1;MH388492.1;MH638265.1;MH674167.1;MH674177.1;PQ521079.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_192	MH674168.1	1	MH674168.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	103351	1	Vitaceae
+Betaflexiviridae	AA95_210	MH674169.1	1	MH674169.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_211	MH674170.1	3	MH674170.1;MH674175.1;MH674176.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_212	MH674174.1	1	MH674174.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_213	MH674181.1	3	MH674181.1;MH674185.1;MH674186.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_214	MH674182.1	1	MH674182.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_215	MH674183.1	1	MH674183.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_1048	MH680825.1	1	MH680825.1	36403	Tepovirus	Tepovirus tafsolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_1038	MH686191.1	1	MH686191.1	2283237	Vitivirus	Vitivirus lambdavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_208	MH802013.1	1	MH802013.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_613	MH898470.1	1	MH898470.1	2593962	Carlavirus	Allium carlavirus A	YES	1	130426	1	Amaryllidaceae
+Betaflexiviridae	AA95_852	MH898491.1	1	MH898491.1	2593970	Tepovirus	Ficus tepovirus A	YES	1	3494	1	Moraceae
+Betaflexiviridae	AA95_396	MH898497.1	1	MH898497.1	2593965	Prunevirus	Karelinia prunevirus A	YES	1	313960	1	Asteraceae
+Betaflexiviridae	AA95_806	MH898525.1	1	MH898525.1	2593969	Tepovirus	Trichosanthes tepovirus A	YES	1	3677	1	Cucurbitaceae
+Betaflexiviridae	AA95_370	MK035727.1	1	MK035727.1	2606590	Robigovirus	Cherry robigovirus 5	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_397	MK050793.1	1	MK050793.1	2606570		Camellia ringspot associated virus 2	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_431	MK050794.1	1	MK050794.1	2606570		Camellia ringspot associated virus 2	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_26	MK050795.1	1	MK050795.1	2606571		Camellia ringspot associated virus 3	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_512	MK135436.1	1	MK135436.1	2507947		Citrus leaf blotch virus Ac	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_942	MK204652.2	2	MK204652.2;MK204654.2	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_915	MK204655.1	1	MK204655.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_713	MK368728.1	12	KJ522693.1;MK368727.1;MK368728.1;MK368729.1;MK368730.1;MK368731.1;MK368732.1;MK368733.1;MK368734.1;MK368735.1;MK368736.1;MK368737.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_943	MK404720.1	1	MK404720.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_284	MK427058.1	1	MK427058.1	28347	Capillovirus	Capillovirus mali	YES	1	261420	1	Asparagaceae
+Betaflexiviridae	AA95_263	MK481961.1	1	MK481961.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_236	MK481964.1	1	MK481964.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_237	MK481965.1	1	MK481965.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_238	MK481967.1	4	MK481967.1;MK481968.1;MK481970.1;MK481971.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_239	MK481969.1	1	MK481969.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_221	MK481972.1	1	MK481972.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_228	MK481973.1	1	MK481973.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_240	MK481978.1	1	MK481978.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_241	MK481979.1	8	KX686100.1;MK481979.1;MK481980.1;MK481984.1;MZ126528.1;MZ126533.1;MZ126534.1;MZ126539.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_242	MK481982.1	1	MK481982.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_243	MK481985.1	1	MK481985.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_244	MK481987.1	2	MK481987.1;MK481988.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_245	MK481989.1	2	KX668488.1;MK481989.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_229	MK481990.1	1	MK481990.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_888	MK490831.1	1	MK490831.1	1221437	Vitivirus	Vitivirus phivitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_886	MK492703.1	1	MK492703.1	2571274	Vitivirus	Grapevine virus M	YES	1	3603	1	Vitaceae
+Betaflexiviridae	AA95_804	MK514428.1	1	MK514428.1	2562808	Tepovirus	Tepovirus tafzosterae	YES	1	187284	1	Zosteraceae
+Betaflexiviridae	AA95_649	MK599420.1	1	MK599420.1	12175	Trichovirus	Trichovirus mali	YES	1	32224	1	Rosaceae
+Betaflexiviridae	AA95_251	MK599422.1	1	MK599422.1	28347	Capillovirus	Capillovirus mali	YES	1	32224	1	Rosaceae
+Betaflexiviridae	AA95_312	MK600387.1	2	MH177869.1;MK600387.1	2506409	Robigovirus	Cherry virus Turkey	YES	2	3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_424	MK770418.1	1	MK770418.1	241525	Carlavirus	Carlavirus latensbrassicae	YES	1	3712	1	Brassicaceae
+Betaflexiviridae	AA95_267	MK778783.1	1	MK778783.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_230	MK778784.1	1	MK778784.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_796	MK782910.1	1	MK782910.1	2577080		Yam virus Y	YES	1	55577	1	Dioscoreaceae
+Betaflexiviridae	AA95_800	MK782911.1	1	MK782911.1	2577080		Yam virus Y	YES	1	55577	1	Dioscoreaceae
+Betaflexiviridae	AA95_125	MK923753.1	1	MK923753.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_702	MK929796.1	1	MK929796.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_155	MK984597.1	1	MK984597.1	2716617	Carlavirus	Carlavirus mitipapayae	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_179	MK984599.1	4	MK984599.1;MK984601.1;MK984603.1;MK984604.1	3071214	Carlavirus	Carlavirus maculapapayae	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_170	MK984602.1	1	MK984602.1	2716617	Carlavirus	Carlavirus mitipapayae	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_719	MK984605.1	1	MK984605.1	67761	Carlavirus	Carlavirus vignae	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_402	MN022371.1	1	MN022371.1	2715797		Actinidia seed-borne latent like virus	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_550	MN059113.1	1	MN059113.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_551	MN059126.1	1	MN059126.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_542	MN059127.1	2	MN059127.1;MN059129.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_537	MN059128.1	1	MN059128.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_538	MN059130.1	1	MN059130.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_539	MN059131.1	3	MN059131.1;MN059185.1;MN059188.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_594	MN059184.1	1	MN059184.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_592	MN059189.1	7	MN059189.1;MN059190.1;MN059191.1;MN059192.1;MN059193.1;MN059194.1;TS_nucl_0688	12458	Carlavirus	Carlavirus latensascalonici	YES	2	354528;4682	2	Amaryllidaceae;Rutaceae
+Betaflexiviridae	AA95_598	MN059197.1	1	MN059197.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_595	MN059202.1	8	MN059180.1;MN059195.1;MN059196.1;MN059202.1;MN059240.1;MN059242.1;MN059243.1;MN059246.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_593	MN059204.1	1	MN059204.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_578	MN059217.1	2	MN059217.1;MN059218.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_579	MN059220.1	3	MN059215.1;MN059220.1;MN059231.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_589	MN059221.1	1	MN059221.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_580	MN059228.1	3	MN059228.1;MN059239.1;TS_nucl_0689	12458	Carlavirus	Carlavirus latensascalonici	YES	2	354528;4682	2	Amaryllidaceae;Rutaceae
+Betaflexiviridae	AA95_573	MN059232.1	1	MN059232.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_596	MN059233.1	1	MN059233.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_581	MN059235.1	1	MN059235.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_582	MN059248.1	3	AJ292226.1;MN059248.1;NC_003557.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_583	MN059249.1	12	MN059182.1;MN059199.1;MN059205.1;MN059209.1;MN059211.1;MN059225.1;MN059230.1;MN059238.1;MN059244.1;MN059247.1;MN059249.1;MN059251.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_599	MN059250.1	1	MN059250.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_857	MN131071.1	1	MN131071.1	28347	Capillovirus	Capillovirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_185	MN131072.1	1	MN131072.1	35350	Foveavirus	Foveavirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_881	MN172166.1	2	MK204653.1;MN172166.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_892	MN314973.1	1	MN314973.1	48876	Vitivirus	Vitivirus latensheraclei	NO	1	58024	0	
+Betaflexiviridae	AA95_511	MN385581.1	1	MN385581.1	2686011		Camellia japonica associated betaflexivirus 1	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_816	MN385582.1	1	MN385582.1	2686012		Camellia japonica associated betaflexivirus 2	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_3	MN412555.1	1	MN412555.1	2137858	Capillovirus	Capillovirus alphamume	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_866	MN412733.1	1	MN412733.1	2301726	Carlavirus	Red clover carlavirus 1	YES	1	3803	1	Fabaceae
+Betaflexiviridae	AA95_546	MN450069.1	1	MN450069.1	12164	Carlavirus	Carlavirus latensdianthi	YES	1	3569	1	Caryophyllaceae
+Betaflexiviridae	AA95_281	MN495979.1	1	MN495979.1	28347	Capillovirus	Capillovirus mali	YES	1	2706	1	Rutaceae
+Betaflexiviridae	AA95_422	MN532566.1	1	MN532566.1	2686306		Camellia japonica associated betaflexivirus 3	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_207	MN613584.1	1	MN613584.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_196	MN613586.1	3	MN613586.1;PQ521084.1;PV931574.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_960	MN716773.1	1	MN716773.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_250	MN786531.1	1	MN786531.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_285	MN814317.1	1	MN814317.1	2738902	Carlavirus	Chrysanthemum indicum carlavirus	YES	1	146995	1	Asteraceae
+Betaflexiviridae	AA95_603	MN814318.1	1	MN814318.1	2738900	Carlavirus	Allium fistulosum carlavirus	YES	1	35875	1	Amaryllidaceae
+Betaflexiviridae	AA95_604	MN814319.1	1	MN814319.1	2738901	Carlavirus	Ilex cornuta carlavirus	YES	1	146505	1	Aquifoliaceae
+Betaflexiviridae	AA95_617	MN814320.1	1	MN814320.1	2738901	Carlavirus	Ilex cornuta carlavirus	YES	1	146505	1	Aquifoliaceae
+Betaflexiviridae	AA95_614	MN814321.1	1	MN814321.1	2738901	Carlavirus	Ilex cornuta carlavirus	YES	1	146505	1	Aquifoliaceae
+Betaflexiviridae	AA95_390	MN879752.1	1	MN879752.1	2828521		Citrus yellow spot virus	YES	1	2706	1	Rutaceae
+Betaflexiviridae	AA95_82	MN887352.1	1	MN887352.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_639	MN908944.1	19	KY420906.1;MN908944.1;MT366555.1;MW354936.1;MW354937.1;MW354938.1;MW354939.1;MW354940.1;MW354941.1;MW354942.1;MW354943.1;MW354944.1;MW354945.1;OK625819.1;OL631603.1;OQ791180.1;OR667247.1;PP150075.1;PP534554.1	67761	Carlavirus	Carlavirus vignae	YES	5	185713;3847;3885;3914;3917	1	Fabaceae
+Betaflexiviridae	AA95_339	MT043307.1	1	MT043307.1	2506409	Robigovirus	Cherry virus Turkey	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_444	MT078932.1	2	MN055483.1;MT078932.1	129141	Citrivirus	Citrivirus citri	YES	1	41776	1	Berberidaceae
+Betaflexiviridae	AA95_523	MT114148.1	1	MT114148.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_516	MT114149.1	1	MT114149.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_427	MT311966.1	1	MT311966.1	1031708	Carlavirus	Carlavirus latenscapparis	YES	1	65558	1	Capparaceae
+Betaflexiviridae	AA95_822	MT533608.1	2	MT533608.1;MT533609.1	2838150		Agapanthus virus A	YES	1	51426	1	Amaryllidaceae
+Betaflexiviridae	AA95_456	MT550620.1	1	MT550620.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_442	MT550622.1	14	KC430335.1;MF418033.1;MN689447.1;MN689456.1;MN689457.1;MN689460.1;MN689476.1;MN689481.1;MN689495.1;MT550622.1;PX104980.1;PX104981.1;PX104986.1;PX104989.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_467	MT550623.1	1	MT550623.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_443	MT550624.1	46	LN851189.1;LN851192.1;LN851193.1;LN851194.1;MF418021.1;MF418030.1;MF418031.1;MF503891.1;MG356510.1;MN689442.1;MN689444.1;MN689449.1;MN689450.1;MN689451.1;MN689452.1;MN689453.1;MN689454.1;MN689455.1;MN689458.1;MN689463.1;MN689464.1;MN689465.1;MN689466.1;MN689467.1;MN689468.1;MN689470.1;MN689472.1;MN689473.1;MN689474.1;MN689475.1;MN689477.1;MN689478.1;MN689479.1;MN689483.1;MN689486.1;MN689487.1;MN689489.1;MN689490.1;MN689491.1;MN689494.1;MT264740.1;MT550624.1;MZ202332.1;ON468562.1;OP947579.1;PX317651.1	12169	Carlavirus	Carlavirus sigmasolani	YES	2	4081;4113	1	Solanaceae
+Betaflexiviridae	AA95_549	MT731496.1	20	MN059105.1;MN059106.1;MN059107.1;MN059108.1;MN059109.1;MN059110.1;MN059111.1;MN059112.1;MN059114.1;MN059115.1;MN059116.1;MN059117.1;MN059118.1;MN059119.1;MN059120.1;MN059121.1;MN059123.1;MN059124.1;MN059140.1;MT731496.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_474	MT767171.1	1	MT767171.1	129141	Citrivirus	Citrivirus citri	YES	1	3497	1	Moraceae
+Betaflexiviridae	AA95_766	MT843110.1	2	MN186562.1;MT843110.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_31	MT843111.1	1	MT843111.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_841	MT872724.1	1	MT872724.1	148879	Banmivirus	Banmivirus musae	YES	1	46838	1	Musaceae
+Betaflexiviridae	AA95_863	MT872725.1	1	MT872725.1	148879	Banmivirus	Banmivirus musae	YES	1	46838	1	Musaceae
+Betaflexiviridae	AA95_53	MT981417.1	1	MT981417.1	2806893	Foveavirus	Garlic yellow stripe associated virus	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_113	MW045213.1	1	MW045213.1	35350	Foveavirus	Foveavirus mali	YES	1	32224	1	Rosaceae
+Betaflexiviridae	AA95_457	MW051780.1	3	MF418032.1;MF418034.1;MW051780.1	12169	Carlavirus	Carlavirus sigmasolani	YES	2	205567;875673	1	Solanaceae
+Betaflexiviridae	AA95_458	MW051782.1	4	MF418023.1;MF418024.1;MF418025.1;MW051782.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_781	MW201798.1	1	MW201798.1	67761	Carlavirus	Carlavirus vignae	YES	1	3915	1	Fabaceae
+Betaflexiviridae	AA95_413	MW207173.1	1	MW207173.1	666859	Carlavirus	Carlavirus petasitis	YES	1	3371305	1	Plantaginaceae
+Betaflexiviridae	AA95_406	MW207174.1	1	MW207174.1	666859	Carlavirus	Carlavirus petasitis	YES	1	3371305	1	Plantaginaceae
+Betaflexiviridae	AA95_286	MW259059.1	1	MW259059.1	28347	Capillovirus	Capillovirus mali	YES	1	1604314	1	Asteraceae
+Betaflexiviridae	AA95_227	MW269552.1	1	MW269552.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	1604314	1	Asteraceae
+Betaflexiviridae	AA95_276	MW269553.1	1	MW269553.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	1604314	1	Asteraceae
+Betaflexiviridae	AA95_411	MW291511.1	1	MW291511.1	666859	Carlavirus	Carlavirus petasitis	YES	1	186965	1	Asteraceae
+Betaflexiviridae	AA95_412	MW291512.1	1	MW291512.1	666859	Carlavirus	Carlavirus petasitis	YES	1	186965	1	Asteraceae
+Betaflexiviridae	AA95_522	MW307264.1	1	MW307264.1	12167	Carlavirus	Carlavirus misolani	YES	1	205567	1	Solanaceae
+Betaflexiviridae	AA95_937	MW309530.1	1	MW309530.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_938	MW309535.1	1	MW309535.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_992	MW309538.1	1	MW309538.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_993	MW309539.1	1	MW309539.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_994	MW309540.1	2	MK404721.1;MW309540.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_995	MW309542.1	1	MW309542.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_939	MW309544.1	1	MW309544.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_951	MW309545.1	1	MW309545.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_952	MW309548.1	1	MW309548.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_996	MW309549.1	1	MW309549.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_997	MW309550.1	1	MW309550.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_924	MW309553.1	1	MW309553.1	35289	Vitivirus	Vitivirus betavitis	YES	1	246827	1	Vitaceae
+Betaflexiviridae	AA95_959	MW309556.1	15	MW309556.1;MW309558.1;MW309560.1;MW309571.1;MW309574.1;MW309582.1;MW309584.1;MW309598.1;MW309603.1;MW309611.1;MW309628.1;MW309635.1;MW309636.1;OQ999890.1;OQ999891.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_966	MW309566.1	6	KY426923.1;MW309566.1;MW309632.1;MZ344593.1;NC_003602.1;X75448.1	35289	Vitivirus	Vitivirus betavitis	YES	2	200313;29760	2	Solanaceae;Vitaceae
+Betaflexiviridae	AA95_925	MW309567.1	7	JX513897.1;MF991949.1;MW309567.1;MZ440724.1;MZ440725.1;ON567251.1;PQ327824.1	35289	Vitivirus	Vitivirus betavitis	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_967	MW309581.1	3	MW309580.1;MW309581.1;MW309583.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_926	MW309605.1	2	MW309586.1;MW309605.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_912	MW309610.1	1	MW309610.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_968	MW309618.1	1	MW309618.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_872	MW309668.1	3	MW309668.1;MW309669.1;MW309670.1	1221437	Vitivirus	Vitivirus phivitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_878	MW309698.1	11	MH802036.1;MW309675.1;MW309684.1;MW309685.1;MW309686.1;MW309698.1;OQ923232.1;OQ923233.1;OQ923234.1;OQ923235.1;OQ923236.1	2571274	Vitivirus	Grapevine virus M	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_1009	MW309725.1	19	MW309724.1;MW309725.1;MW309730.1;MW309734.1;MW309740.1;MW309742.1;MW309744.1;MW309745.1;MW309746.1;MW309747.1;MW309750.1;MW309752.1;MW309755.1;MW309757.1;MW309760.1;MW309772.1;MW309776.1;MW309789.1;MW309791.1	2283237	Vitivirus	Vitivirus lambdavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_491	MW328722.1	1	MW328722.1	2794422	Carlavirus	Tagetes carlavirus 1	YES	1	13708	1	Asteraceae
+Betaflexiviridae	AA95_524	MW328723.1	1	MW328723.1	2794421	Carlavirus	Carlavirus unisteviae	YES	1	55670	1	Asteraceae
+Betaflexiviridae	AA95_29	MW328728.1	1	MW328728.1	2794409		Silene betaflexivirus 1	YES	1	39879	1	Caryophyllaceae
+Betaflexiviridae	AA95_280	MW328729.1	1	MW328729.1	2794427	Capillovirus	Avellana capillovirus 1	YES	1	13451	1	Betulaceae
+Betaflexiviridae	AA95_311	MW328730.1	1	MW328730.1	2794410		Rhodiola betaflexivirus 1	YES	1	203015	1	Crassulaceae
+Betaflexiviridae	AA95_23	MW328731.1	1	MW328731.1	2794402		Castanea betaflexivirus 1	YES	1	103480	1	Fagaceae
+Betaflexiviridae	AA95_30	MW328732.1	1	MW328732.1	2794403		Gymnadenia betaflexivirus 1	YES	1	1126420	1	Orchidaceae
+Betaflexiviridae	AA95_1029	MW328734.1	1	MW328734.1	2794435	Trichovirus	Daiswa trichovirus 1	YES	1	221260	1	Melanthiaceae
+Betaflexiviridae	AA95_628	MW328735.1	1	MW328735.1	2794406		Rhododendron betaflexivirus 1	YES	1	321363	1	Ericaceae
+Betaflexiviridae	AA95_381	MW328736.1	1	MW328736.1	2794431	Citrivirus	Avocado citrivirus 1	YES	1	3435	1	Lauraceae
+Betaflexiviridae	AA95_25	MW328737.1	1	MW328737.1	2794408		Oak betaflexivirus 1	YES	1	1266317	1	Fagaceae
+Betaflexiviridae	AA95_249	MW328738.1	1	MW328738.1	2794428	Capillovirus	Breadfruit capillovirus 1	YES	1	194251	1	Moraceae
+Betaflexiviridae	AA95_820	MW328739.1	1	MW328739.1	2794401		Avocado betaflexivirus 1	YES	1	3435	1	Lauraceae
+Betaflexiviridae	AA95_52	MW328748.1	1	MW328748.1	2794407		Suaeda fruticosa betaflexivirus 1	YES	1	224168	1	Amaranthaceae
+Betaflexiviridae	AA95_1055	MW328756.1	1	MW328756.1	2794429	Vitivirus	Agave tequilana vitivirus 1	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_1037	MW328758.1	1	MW328758.1	2794404		Iris domestica betaflexivirus 1	YES	1	58944	1	Iridaceae
+Betaflexiviridae	AA95_314	MW328759.1	2	MW328759.1;TS_nucl_0622	2794420	Carlavirus	Carya illinoinensis carlavirus 1	YES	1	32201	1	Juglandaceae
+Betaflexiviridae	AA95_428	MW328762.1	1	MW328762.1	2794419	Carlavirus	Caper carlavirus 1	YES	1	65558	1	Capparaceae
+Betaflexiviridae	AA95_840	MW331539.1	2	MW331539.1;MW331540.1	1472425	Tepovirus	Tepovirus tafpruni	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_320	MW331541.1	1	MW331541.1	2884900	Robigovirus	Pomes virus Greece	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_353	MW334940.1	2	KC218927.1;MW334940.1	1312929	Robigovirus	Robigovirus robigomaculae	YES	2	3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_391	MW349428.1	1	MW349428.1	2796532	Carlavirus	Carlavirus uniglycinis	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_558	MW358933.1	1	MW358933.1	478550	Carlavirus	Carlavirus necroligustri	YES	1	48106	1	Apiaceae
+Betaflexiviridae	AA95_789	MW371117.1	1	MW371117.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_790	MW371118.1	1	MW371118.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_364	MW427274.1	1	MW427274.1	351427	Foveavirus	Foveavirus unasiaticum	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_941	MW582898.1	2	MN172165.1;MW582898.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_776	MW620830.1	2	MW620830.1;MW620834.1	67761	Carlavirus	Carlavirus vignae	YES	2	35936;3917	1	Fabaceae
+Betaflexiviridae	AA95_777	MW620831.1	2	MW620831.1;MW620832.1	67761	Carlavirus	Carlavirus vignae	YES	1	35936	1	Fabaceae
+Betaflexiviridae	AA95_786	MW620833.1	1	MW620833.1	67761	Carlavirus	Carlavirus vignae	YES	1	35936	1	Fabaceae
+Betaflexiviridae	AA95_749	MW657011.1	1	MW657011.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_750	MW657017.1	1	MW657017.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_751	MW657019.1	1	MW657019.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_752	MW657038.1	1	MW657038.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_753	MW657042.1	1	MW657042.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_754	MW657048.1	8	MW657048.1;MW657051.1;MW657054.1;MW657056.1;MW657057.1;MW657069.1;MW657070.1;MW657071.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_755	MW657049.1	15	MW657049.1;MW657050.1;MW657052.1;MW657053.1;MW657055.1;MW657059.1;MW657063.1;MW657064.1;MW657067.1;MW657068.1;MW657072.1;MW657074.1;MW657075.1;MW657076.1;MW657077.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_756	MW657058.1	1	MW657058.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_757	MW657060.1	1	MW657060.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_758	MW657061.1	2	MW657061.1;MW657065.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_759	MW657062.1	2	MW657062.1;MW657066.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_760	MW657073.1	1	MW657073.1	67761	Carlavirus	Carlavirus vignae	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_226	MW691876.1	2	MW691876.1;MW691877.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_473	MW713062.1	1	MW713062.1	129141	Citrivirus	Citrivirus citri	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_479	MW713063.1	1	MW713063.1	129141	Citrivirus	Citrivirus citri	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_588	MW854274.1	2	MN059224.1;MW854274.1	12172	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_548	MW854276.1	2	MN059122.1;MW854276.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_671	MZ126480.1	1	MZ126480.1	12175	Trichovirus	Trichovirus mali	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_685	MZ126484.1	1	MZ126484.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_672	MZ126485.1	1	MZ126485.1	12175	Trichovirus	Trichovirus mali	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_686	MZ126486.1	1	MZ126486.1	12175	Trichovirus	Trichovirus mali	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_687	MZ126489.1	1	MZ126489.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_688	MZ126490.1	1	MZ126490.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_733	MZ126492.1	1	MZ126492.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_689	MZ126493.1	1	MZ126493.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_690	MZ126494.1	1	MZ126494.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_691	MZ126495.1	1	MZ126495.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_704	MZ126496.1	1	MZ126496.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_673	MZ126497.1	1	MZ126497.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_692	MZ126498.1	1	MZ126498.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_693	MZ126499.1	2	MZ126499.1;MZ126525.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_694	MZ126500.1	1	MZ126500.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_633	MZ126501.1	1	MZ126501.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_695	MZ126503.1	3	KX506849.1;MZ126503.1;MZ126505.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_638	MZ126504.1	1	MZ126504.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_663	MZ126506.1	4	MN872427.1;MZ126506.1;MZ126510.1;MZ126513.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_696	MZ126507.1	1	MZ126507.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_674	MZ126509.1	1	MZ126509.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_675	MZ126511.1	1	MZ126511.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_717	MZ126512.1	1	MZ126512.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_716	MZ126514.1	2	MZ126514.1;MZ126515.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_697	MZ126516.1	1	MZ126516.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_698	MZ126521.1	2	MZ126521.1;OR889833.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_699	MZ126523.1	5	LC533838.1;MZ126502.1;MZ126519.1;MZ126523.1;OR640150.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_700	MZ126526.1	1	MZ126526.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_248	MZ126542.1	1	MZ126542.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_96	MZ147978.1	1	MZ147978.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_97	MZ147980.1	1	MZ147980.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_56	MZ147981.1	2	MZ147981.1;MZ148012.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_72	MZ147982.1	2	MZ147982.1;MZ148055.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_127	MZ147983.1	1	MZ147983.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_73	MZ147985.1	5	MZ147985.1;MZ147999.1;MZ148039.1;MZ148061.1;MZ148068.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_74	MZ147986.1	1	MZ147986.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_98	MZ147987.1	1	MZ147987.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_128	MZ147989.1	1	MZ147989.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_99	MZ147993.1	1	MZ147993.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_129	MZ147997.1	2	MK836301.1;MZ147997.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_100	MZ147998.1	1	MZ147998.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_86	MZ148000.1	2	MZ148000.1;MZ148035.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_101	MZ148001.1	5	MZ148001.1;MZ148002.1;MZ148019.1;MZ148059.1;MZ148076.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_130	MZ148003.1	1	MZ148003.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_67	MZ148004.1	3	MK923755.1;MN131073.1;MZ148004.1	35350	Foveavirus	Foveavirus mali	YES	2	23211;3750	1	Rosaceae
+Betaflexiviridae	AA95_131	MZ148008.1	1	MZ148008.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_132	MZ148009.1	4	MW322836.1;MZ148009.1;MZ148032.1;MZ148043.1	35350	Foveavirus	Foveavirus mali	YES	2	3750;3751	1	Rosaceae
+Betaflexiviridae	AA95_102	MZ148011.1	2	MZ148011.1;MZ148037.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_103	MZ148013.1	1	MZ148013.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_104	MZ148015.1	1	MZ148015.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_75	MZ148016.1	1	MZ148016.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_105	MZ148017.1	5	MZ148017.1;MZ148040.1;MZ148072.1;MZ148082.1;MZ148089.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_133	MZ148018.1	2	MZ148018.1;MZ148077.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_134	MZ148024.1	1	MZ148024.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_137	MZ148025.1	1	MZ148025.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_76	MZ148026.1	3	MW322835.1;MZ148026.1;MZ148060.1	35350	Foveavirus	Foveavirus mali	YES	2	3750;3751	1	Rosaceae
+Betaflexiviridae	AA95_106	MZ148027.1	1	MZ148027.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_107	MZ148028.1	1	MZ148028.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_108	MZ148029.1	1	MZ148029.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_135	MZ148030.1	1	MZ148030.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_109	MZ148031.1	2	MZ148031.1;MZ148092.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_110	MZ148038.1	1	MZ148038.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_111	MZ148046.1	2	MZ148046.1;MZ148071.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_77	MZ148047.1	1	MZ148047.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_78	MZ148048.1	2	MZ148048.1;MZ148053.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_112	MZ148049.1	1	MZ148049.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_79	MZ148051.1	1	MZ148051.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_80	MZ148067.1	16	MZ147976.1;MZ147977.1;MZ147988.1;MZ147990.1;MZ147991.1;MZ148007.1;MZ148010.1;MZ148020.1;MZ148033.1;MZ148041.1;MZ148044.1;MZ148057.1;MZ148058.1;MZ148063.1;MZ148067.1;MZ148095.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_136	MZ148085.1	1	MZ148085.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_81	MZ148087.1	2	MZ148087.1;MZ148096.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_68	MZ148094.1	1	MZ148094.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_366	MZ148100.1	2	LC522995.1;MZ148100.1	65467	Robigovirus	Robigovirus viridiavii	YES	2	3754;3760	1	Rosaceae
+Betaflexiviridae	AA95_360	MZ148117.1	3	JX501670.1;KR820548.1;MZ148117.1	65467	Robigovirus	Robigovirus viridiavii	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_361	MZ148119.1	1	MZ148119.1	65467	Robigovirus	Robigovirus viridiavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_779	MZ173553.1	1	MZ173553.1	2978146	Carlavirus	Papaya chlorotic spot associated virus	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_441	MZ189739.1	3	MK684348.1;MZ189738.1;MZ189739.1	1853762	Carlavirus	Carlavirus jasmini	YES	2	3712;3713	1	Brassicaceae
+Betaflexiviridae	AA95_727	MZ202343.1	1	MZ202343.1	67761	Carlavirus	Carlavirus vignae	YES	1	3885	1	Fabaceae
+Betaflexiviridae	AA95_624	MZ220926.1	1	MZ220926.1	131226	Trichovirus	Trichovirus maculavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_650	MZ220927.1	3	MZ220927.1;MZ220934.1;MZ220935.1	131226	Trichovirus	Trichovirus maculavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_664	MZ220928.1	2	KX443699.1;MZ220928.1	131226	Trichovirus	Trichovirus maculavii	YES	2	3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_642	MZ220930.1	1	MZ220930.1	131226	Trichovirus	Trichovirus maculavii	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_643	MZ220931.1	3	KC207480.1;MZ220931.1;MZ220932.1	131226	Trichovirus	Trichovirus maculavii	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_334	MZ220938.1	2	MZ220938.1;MZ220942.1	129143	Robigovirus	Robigovirus necroavii	YES	2	3754;3760	1	Rosaceae
+Betaflexiviridae	AA95_318	MZ220945.1	1	MZ220945.1	129143	Robigovirus	Robigovirus necroavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_333	MZ220947.1	1	MZ220947.1	129143	Robigovirus	Robigovirus necroavii	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_319	MZ220948.1	8	EU188438.1;EU188439.1;KY310583.1;LC064751.1;LC522996.1;LC522997.1;LC522998.1;MZ220948.1	129143	Robigovirus	Robigovirus necroavii	YES	4	3754;3760;42229;97321	1	Rosaceae
+Betaflexiviridae	AA95_323	MZ220952.1	1	MZ220952.1	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_343	MZ220953.1	2	MZ220953.1;MZ220955.1	1424279	Robigovirus	Robigovirus tortifoliae	YES	2	36596;3754	1	Rosaceae
+Betaflexiviridae	AA95_325	MZ220956.1	2	KF030848.2;MZ220956.1	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_326	MZ220957.1	1	MZ220957.1	1424279	Robigovirus	Robigovirus tortifoliae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_217	MZ220961.1	1	MZ220961.1	471498	Foveavirus	Foveavirus persicae	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_344	MZ221016.1	5	MZ221016.1;MZ221017.1;MZ221021.1;MZ221022.1;MZ221023.1	1312929	Robigovirus	Robigovirus robigomaculae	YES	1	3754	1	Rosaceae
+Betaflexiviridae	AA95_648	MZ221028.1	4	KY774447.1;KY795997.1;MK012335.1;MZ221028.1	183585	Trichovirus	Trichovirus persicae	YES	3	3754;3758;3760	1	Rosaceae
+Betaflexiviridae	AA95_662	MZ221031.1	1	MZ221031.1	183585	Trichovirus	Trichovirus persicae	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_660	MZ221032.1	1	MZ221032.1	183585	Trichovirus	Trichovirus persicae	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_1016	MZ291906.1	1	MZ291906.1	51617	Vitivirus	Vitivirus deltavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_455	MZ296928.1	5	JX419379.1;KR152654.1;MF418035.1;MW051783.1;MZ296928.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	172790	1	Solanaceae
+Betaflexiviridae	AA95_740	MZ329767.1	1	MZ329767.1	67761	Carlavirus	Carlavirus vignae	YES	1	1824557	1	Asparagaceae
+Betaflexiviridae	AA95_556	MZ401502.1	1	MZ401502.1	129141	Citrivirus	Citrivirus citri	YES	1	3497	1	Moraceae
+Betaflexiviridae	AA95_1045	MZ405665.1	1	MZ405665.1	36403	Tepovirus	Tepovirus tafsolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_940	MZ440717.1	1	MZ440717.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_998	MZ440719.1	1	MZ440719.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_913	MZ440720.1	1	MZ440720.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_914	MZ440721.1	1	MZ440721.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_194	MZ440730.1	5	MH674171.1;MZ440730.1;MZ440731.1;MZ440734.1;PQ736748.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_206	MZ440733.1	1	MZ440733.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_144	MZ484762.1	10	KX274277.1;MZ484762.1;MZ484811.1;MZ484833.1;MZ484861.1;MZ484875.1;MZ484936.1;OR892396.1;PQ521117.1;PQ671840.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_145	MZ484773.1	5	MZ484773.1;MZ484862.1;MZ484865.1;MZ484918.1;MZ484928.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_172	MZ484778.1	1	MZ484778.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_146	MZ484792.1	2	MZ484792.1;MZ484805.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_165	MZ484823.1	1	MZ484823.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_147	MZ484846.1	6	MG938298.1;MZ484754.1;MZ484828.1;MZ484830.1;MZ484846.1;OP079935.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_148	MZ484848.1	1	MZ484848.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_149	MZ484911.1	7	KR054735.1;MG925335.1;MK804767.1;MZ484767.1;MZ484911.1;MZ484940.1;OR892419.1	196400	Foveavirus	Foveavirus rupestris	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_57	MZ501358.1	16	KU308398.1;LC475150.1;MZ501357.1;MZ501358.1;MZ501359.1;MZ501360.1;MZ501361.1;MZ501362.1;MZ501363.1;MZ501364.1;MZ501365.1;MZ501366.1;MZ501368.1;MZ501370.1;MZ501371.1;MZ501372.1	35350	Foveavirus	Foveavirus mali	YES	3	23211;3750;3767	1	Rosaceae
+Betaflexiviridae	AA95_291	MZ514905.1	1	MZ514905.1	2116736	Carlavirus	Carlavirus rhochrysanthemi	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_292	MZ514906.1	2	MZ514906.1;MZ514907.1	2116736	Carlavirus	Carlavirus rhochrysanthemi	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_246	MZ514908.1	1	MZ514908.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_247	MZ514909.1	1	MZ514909.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_1012	MZ682351.1	5	MZ682351.1;MZ682352.1;MZ682353.1;MZ682354.1;MZ682355.1	2917347	Vitivirus	Vitivirus nuvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_1021	MZ682356.1	2	MZ682356.1;MZ682357.1	2917348	Vitivirus	Grapevine virus O	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_486	MZ962346.1	1	MZ962346.1	1853762	Carlavirus	Carlavirus jasmini	YES	1	4147	1	Oleaceae
+Betaflexiviridae	AA95_502	NC_001361.2	6	NC_001361.2;OL472242.1;OL472243.1;OL472245.1;OL472246.1;OP947581.1	12167	Carlavirus	Carlavirus misolani	YES	2	4081;4113	1	Solanaceae
+Betaflexiviridae	AA95_665	NC_001409.1	3	MZ126481.1;MZ126482.1;NC_001409.1	12175	Trichovirus	Trichovirus mali	YES	8	114937;23159;23211;36596;36610;3752;3758;3760	1	Rosaceae
+Betaflexiviridae	AA95_232	NC_001749.2	14	KF434636.1;KU500890.1;KX686111.1;MK481966.1;MK481983.1;MK481986.1;MK929792.1;MZ126529.1;MZ126535.1;MZ126537.1;NC_001749.2;OP535347.1;OR763046.1;OR801696.1	28347	Capillovirus	Capillovirus mali	YES	3	3749;3750;3752	1	Rosaceae
+Betaflexiviridae	AA95_369	NC_001946.1	2	MZ148102.1;NC_001946.1	65467	Robigovirus	Robigovirus viridiavii	YES	6	140311;151421;36596;3754;3760;42229	1	Rosaceae
+Betaflexiviridae	AA95_316	NC_002468.1	9	KR820549.1;KY178274.1;MK834273.1;MZ220937.1;MZ220939.1;MZ220943.1;MZ220946.1;NC_002468.1;TS_nucl_0681	129143	Robigovirus	Robigovirus necroavii	YES	5	140311;36596;3754;3760;42229	1	Rosaceae
+Betaflexiviridae	AA95_623	NC_002500.1	4	AF170028.1;MZ220929.1;MZ220933.1;NC_002500.1	131226	Trichovirus	Trichovirus maculavii	YES	2	3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_408	NC_002552.1	7	HG793797.1;KP861891.1;NC_002552.1;PP597118.1;PV364036.1;PV364037.1;PV364038.1	104263	Carlavirus	Carlavirus latenshumuli	YES	1	3486	1	Cannabaceae
+Betaflexiviridae	AA95_845	NC_002729.1	4	NC_002729.1;OL826748.1;OL874425.1;OL874429.1	148879	Banmivirus	Banmivirus musae	YES	3	214693;4640;46838	1	Musaceae
+Betaflexiviridae	AA95_432	NC_002795.1	2	AB051848.1;NC_002795.1	101764	Carlavirus	Carlavirus latensaconiti	YES	1	46246	1	Ranunculaceae
+Betaflexiviridae	AA95_90	NC_003462.2	1	NC_003462.2	35350	Foveavirus	Foveavirus mali	YES	4	106566;23159;23211;3752	1	Rosaceae
+Betaflexiviridae	AA95_469	NC_003499.1	1	NC_003499.1	31722	Carlavirus	Carlavirus vaccinii	YES	4	13750;63459;66262;69266	2	Amaranthaceae;Ericaceae
+Betaflexiviridae	AA95_979	NC_003604.2	2	NC_003604.2;X75433.2	35288	Vitivirus	Vitivirus alphavitis	YES	2	29760;4100	2	Solanaceae;Vitaceae
+Betaflexiviridae	AA95_602	NC_003870.1	1	NC_003870.1	167927	Sustrivirus	Sustrivirus sacchari	YES	2	128810;4547	1	Poaceae
+Betaflexiviridae	AA95_533	NC_003877.1	16	EU857539.1;EU857540.1;FJ009367.1;LC717799.1;LC758583.1;LC758584.1;MF784853.1;MF784854.1;MF784855.1;MF784856.1;MG572236.1;MN495980.1;MT038390.1;MT863785.1;NC_003877.1;OR838782.1	129141	Citrivirus	Citrivirus citri	YES	9	105581;1084239;1869361;200541;2706;2708;2711;481549;55188	1	Rutaceae
+Betaflexiviridae	AA95_567	NC_005138.1	19	AJ564638.1;AM263208.1;AM422452.2;GU440579.1;HM222522.1;LC720794.1;MK649770.1;MT882679.1;MT882680.1;MT882681.1;MT882682.1;NC_005138.1;OM311154.1;OM311155.1;OM311156.1;OM311157.1;OM311158.1;OM311159.1;OM311167.1	12173	Carlavirus	Carlavirus lilii	YES	3	4688;4690;56741	2	Alstroemeriaceae;Liliaceae
+Betaflexiviridae	AA95_418	NC_005343.1	3	NC_005343.1;ON924213.1;X65102.2	12166	Carlavirus	Carlavirus populi	YES	4	118703;3689;3690;3697	2	Salicaceae;Solanaceae
+Betaflexiviridae	AA95_632	NC_006946.1	2	AY713379.1;NC_006946.1	307677	Trichovirus	Trichovirus armeniacae	YES	1	88123	1	Rosaceae
+Betaflexiviridae	AA95_470	NC_007289.1	3	AJ863509.1;AJ863510.1;NC_007289.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_415	NC_008020.1	2	AJ620300.1;NC_008020.1	216614	Carlavirus	Carlavirus sigmadaphnis	YES	1	329675	1	Thymelaeaceae
+Betaflexiviridae	AA95_435	NC_008266.1	2	AM158439.1;NC_008266.1	160844	Carlavirus	Carlavirus latensnarcissi	YES	1	391288	1	Amaryllidaceae
+Betaflexiviridae	AA95_534	NC_008292.1	1	NC_008292.1	379892	Carlavirus	Carlavirus latenspassiflorae	YES	3	46091;63459;78168	2	Amaranthaceae;Passifloraceae
+Betaflexiviridae	AA95_737	NC_008552.1	16	AM182569.2;JQ395044.1;LC810167.1;MT536155.1;MT536156.1;MT536157.1;MT536158.1;MT536160.1;MZ643994.1;NC_008552.1;ON228217.1;OP122922.1;OP122923.1;OP122924.1;OP122925.1;OQ731911.1	367682	Carlavirus	Carlavirus latensnerinis	YES	8	16049;39639;45423;4695;4697;51426;51431;59042	2	Amaryllidaceae;Liliaceae
+Betaflexiviridae	AA95_294	NC_009087.2	5	AM282556.1;AM282558.1;AM285298.1;AM493895.2;NC_009087.2	12165	Carlavirus	Carlavirus betachrysanthemi	YES	3	109564;13422;41568	1	Asteraceae
+Betaflexiviridae	AA95_401	NC_009383.1	2	EF492068.1;NC_009383.1	436066	Carlavirus	Carlavirus sigmaphlocis	YES	1	103543	1	Polemoniaceae
+Betaflexiviridae	AA95_448	NC_009764.1	2	EF527260.1;NC_009764.1	404404	Carlavirus	Carlavirus colei	YES	1	22002	1	Verbenaceae
+Betaflexiviridae	AA95_186	NC_009892.1	3	EF693898.1;MZ220962.1;NC_009892.1	471498	Foveavirus	Foveavirus persicae	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_303	NC_009991.1	2	EU162589.1;NC_009991.1	475777	Carlavirus	Carlavirus betaphlocis	YES	1	103528	1	Polemoniaceae
+Betaflexiviridae	AA95_557	NC_010305.1	1	NC_010305.1	478550	Carlavirus	Carlavirus necroligustri	YES	2	46072;66262	2	Amaranthaceae;Oleaceae
+Betaflexiviridae	AA95_462	NC_010538.1	7	EU527979.1;NC_010538.1;ON409685.1;PP597117.1;PV364039.1;PV364040.1;PV364041.1	142843	Carlavirus	Carlavirus humuli	YES	2	3486;76957	2	Cannabaceae;Rutaceae
+Betaflexiviridae	AA95_1047	NC_011062.1	5	EU835937.1;JF297562.1;JQ316469.1;JQ394882.1;NC_011062.1	36403	Tepovirus	Tepovirus tafsolani	YES	8	108055;147035;4113;50475;50514;66262;80418;875673	5	Amaranthaceae;Basellaceae;Oxalidaceae;Solanaceae;Tropaeolaceae
+Betaflexiviridae	AA95_1018	NC_011106.1	8	AB432910.1;KF588015.1;MF991950.1;MK490829.1;MW309637.1;NC_011106.1;OL690333.1;TS_nucl_0713	516956	Vitivirus	Vitivirus epsilonvitis	YES	5	105599;153474;2599121;2611277;29760	1	Vitaceae
+Betaflexiviridae	AA95_817	NC_011525.1	7	EU433397.2;MF990287.1;MN694920.1;MN950790.1;NC_011525.1;OQ335845.1;PV553240.1	138982	Carlavirus	Carlavirus latensolani	YES	2	126910;4113	1	Solanaceae
+Betaflexiviridae	AA95_496	NC_011540.1	2	DQ098905.1;NC_011540.1	335963	Carlavirus	Carlavirus latenshippeastri	YES	1	4695	1	Amaryllidaceae
+Betaflexiviridae	AA95_658	NC_011552.1	5	DQ117579.1;MZ221027.1;MZ221029.1;MZ221030.1;NC_011552.1	183585	Trichovirus	Trichovirus persicae	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_513	NC_012038.1	3	AB623047.1;FJ196835.1;NC_012038.1	592206	Carlavirus	Carlavirus necroretis	YES	2	1406308;46995	1	Ranunculaceae
+Betaflexiviridae	AA95_608	NC_012210.1	3	FJ685618.1;KR108251.1;NC_012210.1	590403	Carlavirus	Carlavirus trifolii	YES	2	3827;3899	1	Fabaceae
+Betaflexiviridae	AA95_739	NC_012519.1	1	NC_012519.1	185218	Robigovirus	Robigovirus elaeis	YES	1	51953	1	Arecaceae
+Betaflexiviridae	AA95_565	NC_012869.1	4	EU754720.2;NC_012869.1;OL999298.1;PX718916.1	375546	Carlavirus	Carlavirus hydrangeae	YES	1	23110	1	Hydrangeaceae
+Betaflexiviridae	AA95_409	NC_013527.1	1	NC_013527.1	666859	Carlavirus	Carlavirus petasitis	YES	1	186965	1	Asteraceae
+Betaflexiviridae	AA95_770	NC_014730.1	3	HQ184471.1;MW961149.1;NC_014730.1	67761	Carlavirus	Carlavirus vignae	YES	2	3917;81866	2	Fabaceae;Solanaceae
+Betaflexiviridae	AA95_84	NC_014821.1	3	HQ339956.1;LC522982.1;NC_014821.1	75387	Foveavirus	Foveavirus latensarmeniacae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_734	NC_015220.1	1	NC_015220.1	81877	Trichovirus	Trichovirus necroacini	YES	1	105599	1	Vitaceae
+Betaflexiviridae	AA95_35	NC_015395.1	2	HQ241409.1;NC_015395.1	1003891	Divavirus	Divavirus alphahardenbergiae	YES	1	459863	1	Fabaceae
+Betaflexiviridae	AA95_612	NC_016080.1	2	JN039374.1;NC_016080.1	1093773	Carlavirus	Carlavirus mirabilis	YES	1	3538	1	Nyctaginaceae
+Betaflexiviridae	AA95_956	NC_016404.1	2	JN427015.1;NC_016404.1	3240218	Vitivirus	Vitivirus betactinidiae	YES	2	200313;3625	2	Actinidiaceae;Solanaceae
+Betaflexiviridae	AA95_547	NC_016440.1	13	JF320810.1;JQ899445.1;MN059125.1;MN059132.1;MN059133.1;MN059134.1;MN059135.1;MN059136.1;MN059137.1;MN059138.1;MN059139.1;NC_016440.1;PP230075.1	47900	Carlavirus	Carlavirus latensallii	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_476	NC_017859.1	4	JQ245696.1;JQ728538.1;KR185345.1;NC_017859.1	3158378	Carlavirus	Carlavirus americanense	YES	1	3486	1	Cannabaceae
+Betaflexiviridae	AA95_560	NC_018175.1	7	HM584819.1;JQ904630.1;MH706739.1;MT676865.1;NC_018175.1;OR397130.1;PV388435.1	1046402	Carlavirus	Carlavirus chisolani	YES	2	4081;4113	1	Solanaceae
+Betaflexiviridae	AA95_400	NC_018448.1	2	JX212747.1;NC_018448.1	1307958	Carlavirus	Carlavirus ipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_91	NC_018714.1	4	HE963831.1;MZ148065.1;NC_018714.1;OR817723.1	1211388	Foveavirus	Apple green crinkle associated virus	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_355	NC_019025.1	2	JX277553.1;NC_019025.1	1243178	Foveavirus	Foveavirus unicanadense	YES	1	75066	1	Rosaceae
+Betaflexiviridae	AA95_47	NC_019029.1	2	JX173276.1;NC_019029.1	1247115	Divavirus	Divavirus alphadiuris	YES	1	1198148	1	Orchidaceae
+Betaflexiviridae	AA95_32	NC_019030.1	2	JX173277.1;NC_019030.1	1247116	Divavirus	Divavirus betadiuris	YES	1	1198148	1	Orchidaceae
+Betaflexiviridae	AA95_352	NC_020996.1	6	KC218926.1;MZ221015.1;MZ221018.1;MZ221019.1;MZ221020.1;NC_020996.1	1312929	Robigovirus	Robigovirus robigomaculae	YES	3	3754;3760;42229	1	Rosaceae
+Betaflexiviridae	AA95_403	NC_023892.1	2	KJ415259.1;NC_023892.1	1468172	Carlavirus	Carlavirus latensgaillardiae	YES	1	4100	1	Solanaceae
+Betaflexiviridae	AA95_341	NC_024449.1	5	KF030859.2;KF030865.2;KF958838.1;MZ220954.1;NC_024449.1	1424279	Robigovirus	Robigovirus tortifoliae	YES	3	200313;36596;42229	2	Rosaceae;Solanaceae
+Betaflexiviridae	AA95_849	NC_024686.1	2	KF700263.1;NC_024686.1	1472425	Tepovirus	Tepovirus tafpruni	YES	1	3758	1	Rosaceae
+Betaflexiviridae	AA95_385	NC_025388.1	2	FJ824737.1;NC_025388.1	351427	Foveavirus	Foveavirus unasiaticum	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_761	NC_025468.1	2	KF533710.1;NC_025468.1	1425362	Chordovirus	Chordovirus duocarotae	YES	1	4039	1	Apiaceae
+Betaflexiviridae	AA95_667	NC_025469.1	2	KF533711.1;NC_025469.1	1425363	Chordovirus	Chordovirus unicarotae	YES	1	4039	1	Apiaceae
+Betaflexiviridae	AA95_482	NC_026248.1	2	KJ789130.1;NC_026248.1	1592930	Carlavirus	Carlavirus latensdioscoreae	YES	2	55575;569628	1	Dioscoreaceae
+Betaflexiviridae	AA95_629	NC_026616.2	2	KP784454.2;NC_026616.2	165250	Carlavirus	Carlavirus pisi	YES	1	3879	1	Fabaceae
+Betaflexiviridae	AA95_626	NC_027527.1	5	NC_027527.1;OK188829.1;OK188830.1;OK188831.1;PX634621.1	157777	Carlavirus	Carlavirus pisi	YES	4	3879;3888;3906;57577	1	Fabaceae
+Betaflexiviridae	AA95_730	NC_028111.1	4	JQ395043.1;KY769699.1;MT536159.1;NC_028111.1	797075	Carlavirus	Carlavirus latensnerinis	YES	3	4696;51431;51466	2	Amaryllidaceae;Asparagaceae
+Betaflexiviridae	AA95_363	NC_028975.1	3	KR998050.1;KT893296.1;NC_028975.1	351428	Foveavirus	Asian prunus virus 3	YES	2	102107;3760	1	Rosaceae
+Betaflexiviridae	AA95_429	NC_029085.1	2	KJ572560.2;NC_029085.1	1569052	Carlavirus	Elderberry carlavirus A	YES	2	4201;57008	1	Adoxaceae
+Betaflexiviridae	AA95_434	NC_029086.1	2	KJ572561.2;NC_029086.1	1569053	Carlavirus	Elderberry carlavirus B	YES	2	4201;57008	1	Adoxaceae
+Betaflexiviridae	AA95_398	NC_029087.1	2	KJ572562.2;NC_029087.1	1569054	Carlavirus	Carlavirus gammasambuci	YES	3	4201;4203;57008	1	Adoxaceae
+Betaflexiviridae	AA95_419	NC_029088.1	2	KJ572563.2;NC_029088.1	1569055	Carlavirus	Carlavirus deltasambuci	YES	3	4201;4203;57008	1	Adoxaceae
+Betaflexiviridae	AA95_484	NC_029089.1	2	KJ572564.2;NC_029089.1	1569056	Carlavirus	Carlavirus epsilonsambuci	YES	2	4201;4203	1	Adoxaceae
+Betaflexiviridae	AA95_1	NC_029301.1	2	KT763043.1;NC_029301.1	1770618	Capillovirus	Capillovirus alpharibis	YES	1	175228	1	Grossulariaceae
+Betaflexiviridae	AA95_288	NC_030657.1	2	KU375548.1;NC_030657.1	1868472	Capillovirus	Yacon virus A	YES	1	185202	1	Asteraceae
+Betaflexiviridae	AA95_483	NC_030926.1	3	KX272967.1;KX364696.1;NC_030926.1	1853762	Carlavirus	Carlavirus jasmini	YES	1	660624	1	Oleaceae
+Betaflexiviridae	AA95_503	NC_031089.1	3	KX000914.1;MT478994.1;NC_031089.1	1899566	Carlavirus	Carlavirus alphaligustri	YES	2	178760;178762	1	Oleaceae
+Betaflexiviridae	AA95_954	NC_034264.1	2	KY392781.1;NC_034264.1	1972716	Vitivirus	Vitivirus viarracaciae	YES	1	264540	1	Apiaceae
+Betaflexiviridae	AA95_767	NC_034377.1	3	KY363796.1;MK292710.1;NC_034377.1	1978413	Wamavirus	Wamavirus alphacitrulli	YES	2	3654;3668	1	Cucurbitaceae
+Betaflexiviridae	AA95_1054	NC_034833.1	2	KY190215.1;NC_034833.1	387423	Vitivirus	Agave tequilana leaf virus	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_918	NC_035202.1	2	MF072319.1;NC_035202.1	2016034	Vitivirus	Grapevine virus K	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_46	NC_035462.1	2	MF196913.1;NC_035462.1	2020286	Divavirus	Ocimum basilicum RNA virus 1	YES	1	39350	1	Lamiaceae
+Betaflexiviridae	AA95_973	NC_037058.1	2	MF927925.1;NC_037058.1	2052157	Vitivirus	Vitivirus iotavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_283	NC_038324.1	2	LC224308.1;NC_038324.1	255255	Carlavirus	Carlavirus melonis	YES	1	3656	1	Cucurbitaceae
+Betaflexiviridae	AA95_425	NC_038325.1	2	KM507061.1;NC_038325.1	1667230	Prunevirus	Prunevirus caucasicum	YES	1	3755	1	Rosaceae
+Betaflexiviridae	AA95_354	NC_038966.1	2	KR349343.1;NC_038966.1	1702121	Carlavirus	Carlavirus atractylodis	YES	1	265785	1	Asteraceae
+Betaflexiviridae	AA95_891	NC_040545.1	102	MF521889.1;MN716768.1;MW309672.1;MW309673.1;MW309674.1;MW309676.1;MW309677.1;MW309678.1;MW309679.1;MW309680.1;MW309681.1;MW309682.1;MW309683.1;MW309687.1;MW309688.1;MW309689.1;MW309690.1;MW309691.1;MW309692.1;MW309693.1;MW309694.1;MW309695.1;MW309696.1;MW309697.1;MW309699.1;MW309700.1;MW309701.1;MW309702.1;MW309703.1;MW309704.1;MW309705.1;MW309706.1;MW309707.1;MW309708.1;MW309709.1;NC_040545.1;OQ079123.1;OQ079124.1;OR031855.1;OR031856.1;OR031857.1;OR031858.1;OR031859.1;OR031860.1;OR031861.1;OR031862.1;OR031863.1;OR031864.1;OR031865.1;OR031866.1;OR031867.1;OR031868.1;OR031869.1;OR031870.1;OR031871.1;OR031872.1;OR031873.1;OR031874.1;OR031875.1;OR031876.1;OR031877.1;OR031878.1;OR031879.1;OR031880.1;OR031881.1;OR031882.1;OR031883.1;OR031884.1;OR031885.1;OR031886.1;OR031887.1;OR031888.1;OR031889.1;OR031890.1;OR031891.1;OR031892.1;OR031893.1;OR031894.1;OR031895.1;OR031896.1;OR031897.1;OR031898.1;OR031899.1;OR031900.1;OR031901.1;OR031902.1;OR031903.1;OR031904.1;OR031905.1;OR031906.1;OR031907.1;OR031908.1;OR031909.1;OR031910.1;OR031911.1;OR031912.1;OR031913.1;OR031914.1;OR031915.1;OR031916.1;OR031917.1;PX501548.1	2045345	Vitivirus	Vitivirus etavitis	YES	4	103355;246827;29760;96939	1	Vitaceae
+Betaflexiviridae	AA95_955	NC_040554.1	5	MF781081.1;MF993573.1;MF993574.1;MF993575.1;NC_040554.1	2022475	Vitivirus	Vitivirus gammavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_977	NC_040564.1	2	MG637048.1;NC_040564.1	2093496	Vitivirus	Vitivirus jeivitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_24	NC_040568.1	2	MG783575.1;NC_040568.1	2137858	Capillovirus	Capillovirus alphamume	YES	1	102107	1	Rosaceae
+Betaflexiviridae	AA95_978	NC_040616.1	4	MF405923.1;MF405924.1;MF405925.1;NC_040616.1	2022475	Vitivirus	Vitivirus gammavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_410	NC_040627.1	2	MG208123.1;NC_040627.1	2200955	Chordovirus	Chordovirus unilactucae	YES	1	4236	1	Asteraceae
+Betaflexiviridae	AA95_1027	NC_040630.1	2	MG254193.1;NC_040630.1	2185086	Vitivirus	Vitivirus alpharubi	YES	1	23216	1	Rosaceae
+Betaflexiviridae	AA95_181	NC_040643.1	2	MH036372.1;NC_040643.1	2303411		Panax ginseng flexivirus 1	YES	1	4054	1	Araliaceae
+Betaflexiviridae	AA95_351	NC_040689.1	2	MH899178.1;NC_040689.1	2419804		Salvia divinorum RNA virus 1	YES	1	28513	1	Lamiaceae
+Betaflexiviridae	AA95_289	NC_040703.1	2	MG432107.1;NC_040703.1	2116736	Carlavirus	Carlavirus rhochrysanthemi	YES	1	13422	1	Asteraceae
+Betaflexiviridae	AA95_791	NC_040797.1	2	MF166685.1;NC_040797.1	1569057	Ravavirus	Ravavirus alpharibis	YES	1	3802	1	Grossulariaceae
+Betaflexiviridae	AA95_387	NC_040800.1	3	LC438404.1;NC_040800.1;OL546223.1	2560282	Prunevirus	Prunevirus actinidiae	YES	1	3625	1	Actinidiaceae
+Betaflexiviridae	AA95_383	NC_076603.1	2	LC373513.1;NC_076603.1	2108357	Foveavirus	Foveavirus betavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_666	NC_076631.1	2	MH084695.1;NC_076631.1	2358294	Trichovirus	Trichovirus chloropersicae	YES	1	323853	1	Rosaceae
+Betaflexiviridae	AA95_618	NC_076633.1	2	MH292861.1;NC_076633.1	2586033	Carlavirus	Carlavirus sigmascalonici	YES	1	28911	1	Amaryllidaceae
+Betaflexiviridae	AA95_388	NC_076638.1	2	MH536506.1;NC_076638.1	2248769	Carlavirus	Carlavirus betulae	YES	1	3505	1	Betulaceae
+Betaflexiviridae	AA95_631	NC_076653.1	2	MK012336.1;NC_076653.1	2597809	Trichovirus	Mexico trichovirus	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_495	NC_076655.1	3	MK050792.1;MN532565.1;NC_076655.1	2606569	Prunevirus	Prunevirus unicamelliae	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_953	NC_076683.1	2	MK460433.1;NC_076683.1	2605718	Vitivirus	Vitivirus vaccinii	YES	1	13749	1	Ericaceae
+Betaflexiviridae	AA95_803	NC_076687.1	3	MK514426.1;MK514427.1;NC_076687.1	2562808	Tepovirus	Tepovirus tafzosterae	YES	1	187284	1	Zosteraceae
+Betaflexiviridae	AA95_729	NC_076710.1	2	MK770441.1;NC_076710.1	2705123	Trichovirus	Cherry symptomless virus	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_160	NC_076711.1	2	MK984598.1;NC_076711.1	2716617	Carlavirus	Carlavirus mitipapayae	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_38	NC_076715.1	2	MN047299.1;NC_076715.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_447	NC_076716.1	2	MN053272.1;NC_076716.1	2650000	Carlavirus	Carlavirus alpharosae	YES	1	74648	1	Rosaceae
+Betaflexiviridae	AA95_184	NC_076865.1	2	MN944023.1;NC_076865.1	2754817	Foveavirus	Foveavirus unirubi	YES	1	32247	1	Rosaceae
+Betaflexiviridae	AA95_848	NC_076873.1	2	MT090966.1;NC_076873.1	2763129	Tepovirus	Tepovirus tafavii	YES	1	140311	1	Rosaceae
+Betaflexiviridae	AA95_1006	NC_076884.1	3	MT269788.1;MT269789.1;NC_076884.1	2283237	Vitivirus	Vitivirus lambdavitis	YES	2	3603;3604	1	Vitaceae
+Betaflexiviridae	AA95_357	NC_076917.1	3	MW176107.1;MW349427.1;NC_076917.1	2796532	Carlavirus	Carlavirus uniglycinis	YES	1	3847	1	Fabaceae
+Betaflexiviridae	AA95_1044	NC_076928.1	3	MW323519.1;MW328727.1;NC_076928.1	2805380	Tepovirus	Tepovirus tafagavis	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_561	NC_077021.1	4	KU854930.4;NC_077021.1;PP579654.1;PP579657.1	2600160	Carlavirus	Carlavirus unicacti	YES	3	371859;393609;983927	1	Cactaceae
+Betaflexiviridae	AA95_541	NC_077022.1	1	NC_077022.1	2600161	Carlavirus	Carlavirus duocacti	YES	1	983927	1	Cactaceae
+Betaflexiviridae	AA95_219	NC_077027.1	2	MK936045.1;NC_077027.1	2683823	Capillovirus	Capillovirus alphaeriobotryae	YES	1	32224	1	Rosaceae
+Betaflexiviridae	AA95_193	NC_077040.1	3	MN553040.1;NC_077040.1;PP812274.1	2763538	Foveavirus	Foveavirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_322	NC_077052.1	2	MN944106.1;NC_077052.1	2764701	Carlavirus	Carlavirus alphaconiti	YES	1	85363	1	Ranunculaceae
+Betaflexiviridae	AA95_301	NC_077056.1	2	MT028514.1;NC_077056.1	2791164	Foveavirus	Foveavirus tetracamelliae	YES	1	4443	1	Theaceae
+Betaflexiviridae	AA95_439	NC_077068.1	2	MT473961.1;NC_077068.1	2777710	Carlavirus	Carlavirus betarosae	YES	1	36598	1	Rosaceae
+Betaflexiviridae	AA95_568	NC_077071.1	2	MT533598.1;NC_077071.1	2838077	Carlavirus	Carlavirus alphacliviae	YES	1	16049	1	Amaryllidaceae
+Betaflexiviridae	AA95_703	NC_077152.1	2	NC_077152.1;OK032418.1	2913660	Chordovirus	Chordovirus tetraheraclei	YES	1	63459	1	Amaranthaceae
+Betaflexiviridae	AA95_882	NC_077162.1	1	NC_077162.1	3071210	Banmivirus	Banmivirus musornatae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_1052	OK018178.1	1	OK018178.1	2916411		Teosinte-associated betaflexivirus	YES	1	4576	1	Poaceae
+Betaflexiviridae	AA95_1053	OK018179.1	2	MN714158.1;OK018179.1	2916411		Teosinte-associated betaflexivirus	YES	2	4576;4577	1	Poaceae
+Betaflexiviridae	AA95_635	OK272502.1	1	OK272502.1	12175	Trichovirus	Trichovirus mali	YES	1	32224	1	Rosaceae
+Betaflexiviridae	AA95_684	OK340219.1	2	MZ126491.1;OK340219.1	12175	Trichovirus	Trichovirus mali	YES	2	3750;3752	1	Rosaceae
+Betaflexiviridae	AA95_405	OK432518.1	1	OK432518.1	666859	Carlavirus	Carlavirus petasitis	YES	1	329675	1	Thymelaeaceae
+Betaflexiviridae	AA95_465	OK513320.1	25	MG604237.1;MH427033.1;OK513320.1;OK513321.1;OK513322.1;OK513324.1;OK513325.1;OK513326.1;OK513327.1;OK513328.1;OK513329.1;OK513330.1;OK513331.1;OK513332.1;OK513334.1;OK513335.1;OK513336.1;OK513337.1;OK513338.1;OK513340.1;OK513341.1;OK513342.1;OK513345.1;OK513348.1;OK513349.1	129141	Citrivirus	Citrivirus citri	YES	2	3624;3625	1	Actinidiaceae
+Betaflexiviridae	AA95_466	OK513323.1	7	MH427034.1;OK513323.1;OK513333.1;OK513339.1;OK513343.1;OK513344.1;OK513347.1	129141	Citrivirus	Citrivirus citri	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_894	OK513350.1	2	MN022295.1;OK513350.1	3240217	Vitivirus	Vitivirus alphactinidiae	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_895	OK513351.1	1	OK513351.1	3240217	Vitivirus	Vitivirus alphactinidiae	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_957	OK513352.1	3	MN022296.1;MN612755.1;OK513352.1	3240218	Vitivirus	Vitivirus betactinidiae	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_958	OK513353.1	1	OK513353.1	3240218	Vitivirus	Vitivirus betactinidiae	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_884	OK513354.1	4	MN022352.1;MN233791.1;OK513354.1;OK513355.1	2715793		Actinidia virus C	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_399	OK513356.1	3	OK513356.1;OK513358.1;OK513359.1	2560282	Prunevirus	Prunevirus actinidiae	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_433	OK513357.1	1	OK513357.1	2560282	Prunevirus	Prunevirus actinidiae	YES	1	3624	1	Actinidiaceae
+Betaflexiviridae	AA95_815	OK546127.1	1	OK546127.1	148879	Banmivirus	Banmivirus musae	YES	1	491892	1	Musaceae
+Betaflexiviridae	AA95_785	OK546128.1	1	OK546128.1	148879	Banmivirus	Banmivirus musae	YES	1	491892	1	Musaceae
+Betaflexiviridae	AA95_819	OK546129.1	1	OK546129.1	148879	Banmivirus	Banmivirus musae	YES	1	491892	1	Musaceae
+Betaflexiviridae	AA95_1041	OK546130.1	1	OK546130.1	148879	Banmivirus	Banmivirus musae	YES	1	491892	1	Musaceae
+Betaflexiviridae	AA95_480	OK558637.1	1	OK558637.1	31722	Carlavirus	Carlavirus vaccinii	YES	1	13749	1	Ericaceae
+Betaflexiviridae	AA95_481	OK558638.1	2	OK558638.1;OK558640.1	31722	Carlavirus	Carlavirus vaccinii	YES	1	13749	1	Ericaceae
+Betaflexiviridae	AA95_392	OK558717.1	4	MW207172.1;OK558717.1;OM867851.1;OM867852.1	12171	Carlavirus	Carlavirus sigmahelenii	YES	2	3371305;53720	2	Asteraceae;Plantaginaceae
+Betaflexiviridae	AA95_453	OK558748.1	2	MW051777.1;OK558748.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	205567	1	Solanaceae
+Betaflexiviridae	AA95_454	OK558749.1	2	OK558749.1;OM867860.1	12169	Carlavirus	Carlavirus sigmasolani	YES	1	205567	1	Solanaceae
+Betaflexiviridae	AA95_936	OL472239.1	1	OL472239.1	2950891	Vitivirus	Tomato vitivirus 1	YES	1	4081	1	Solanaceae
+Betaflexiviridae	AA95_898	OL472240.1	2	OL472240.1;OL472241.1	2950891	Vitivirus	Tomato vitivirus 1	YES	1	4081	1	Solanaceae
+Betaflexiviridae	AA95_873	OL690318.1	2	MK490830.1;OL690318.1	1221437	Vitivirus	Vitivirus phivitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_876	OL690319.1	1	OL690319.1	1221437	Vitivirus	Vitivirus phivitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_827	OL826747.1	1	OL826747.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_488	OL828237.1	1	OL828237.1	1853762	Carlavirus	Carlavirus jasmini	YES	1	126433	1	Oleaceae
+Betaflexiviridae	AA95_846	OL874389.1	1	OL874389.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_860	OL874390.1	1	OL874390.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_824	OL874391.1	1	OL874391.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_828	OL874392.1	4	OL826746.1;OL874392.1;OL874395.1;OL874423.1	148879	Banmivirus	Banmivirus musae	YES	2	4640;46838	1	Musaceae
+Betaflexiviridae	AA95_858	OL874393.1	2	OL874393.1;OL874396.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_834	OL874394.1	1	OL874394.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_825	OL874397.1	1	OL874397.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_844	OL874398.1	1	OL874398.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_835	OL874400.1	3	OL874399.1;OL874400.1;OL874404.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_847	OL874402.1	1	OL874402.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_832	OL874403.1	1	OL874403.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_851	OL874405.1	1	OL874405.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_861	OL874406.1	2	OL874406.1;OL874408.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_869	OL874407.1	1	OL874407.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_854	OL874409.1	1	OL874409.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_836	OL874411.1	2	OL874410.1;OL874411.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_837	OL874412.1	2	OL874412.1;OL874413.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_821	OL874414.1	1	OL874414.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_829	OL874415.1	1	OL874415.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_833	OL874416.1	1	OL874416.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_855	OL874417.1	1	OL874417.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_838	OL874418.1	1	OL874418.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_839	OL874419.1	1	OL874419.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_818	OL874420.1	1	OL874420.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_856	OL874421.1	1	OL874421.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_862	OL874422.1	1	OL874422.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_830	OL874424.1	1	OL874424.1	148879	Banmivirus	Banmivirus musae	YES	1	46838	1	Musaceae
+Betaflexiviridae	AA95_811	OL874426.1	2	OL826745.1;OL874426.1	148879	Banmivirus	Banmivirus musae	YES	2	4640;46838	1	Musaceae
+Betaflexiviridae	AA95_812	OL874427.1	2	OL826744.1;OL874427.1	148879	Banmivirus	Banmivirus musae	YES	2	4640;46838	1	Musaceae
+Betaflexiviridae	AA95_826	OL874428.1	1	OL874428.1	148879	Banmivirus	Banmivirus musae	YES	1	46838	1	Musaceae
+Betaflexiviridae	AA95_831	OL874430.1	1	OL874430.1	148879	Banmivirus	Banmivirus musae	YES	1	4640	1	Musaceae
+Betaflexiviridae	AA95_923	OM103705.1	9	LC617945.1;LC815122.1;MW309565.1;MZ440726.1;MZ440728.1;OM103705.1;OM103706.1;ON221459.1;OR892380.1	35289	Vitivirus	Vitivirus betavitis	YES	3	29760;3603;3604	1	Vitaceae
+Betaflexiviridae	AA95_802	OM108484.1	1	OM108484.1	797075	Carlavirus	Carlavirus latensnerinis	YES	1	205937	1	Amaryllidaceae
+Betaflexiviridae	AA95_497	OM108485.1	1	OM108485.1	335963	Carlavirus	Carlavirus latenshippeastri	YES	1	205937	1	Amaryllidaceae
+Betaflexiviridae	AA95_1063	OM141115.1	1	OM141115.1	2967992	Vitivirus	Vitivirus ananasae	YES	1	4615	1	Bromeliaceae
+Betaflexiviridae	AA95_85	OM313385.1	2	MG763895.1;OM313385.1	35350	Foveavirus	Foveavirus mali	YES	2	23211;436086	1	Rosaceae
+Betaflexiviridae	AA95_180	OM525829.1	1	OM525829.1	2951958	Capillovirus	Capillovirus alphagerberae	YES	1	13547	1	Asteraceae
+Betaflexiviridae	AA95_505	OM561079.1	4	MN786957.1;OM561079.1;PQ015115.1;TS_nucl_0643	1899566	Carlavirus	Carlavirus alphaligustri	YES	4	1133299;178762;219868;329231	2	Myrtaceae;Oleaceae
+Betaflexiviridae	AA95_506	OM671312.1	1	OM671312.1	1899566	Carlavirus	Carlavirus alphaligustri	YES	1	219868	1	Myrtaceae
+Betaflexiviridae	AA95_710	OM867866.1	1	OM867866.1	67761	Carlavirus	Carlavirus vignae	YES	1	3818	1	Fabaceae
+Betaflexiviridae	AA95_223	OM908370.1	6	MZ514910.1;OM908369.1;OM908370.1;OM908371.1;OM908372.1;PX505947.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	2	200313;41568	2	Asteraceae;Solanaceae
+Betaflexiviridae	AA95_670	ON024143.1	11	JN634760.1;JN634761.1;KY310574.1;KY310575.1;KY310576.1;KY310577.1;ON024143.1;ON024144.1;ON024145.1;ON024146.1;OR513892.1	12175	Trichovirus	Trichovirus mali	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_290	ON137989.1	2	ON137989.1;ON137990.1	2116736	Carlavirus	Carlavirus rhochrysanthemi	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_440	ON165234.1	1	ON165234.1	2777710	Carlavirus	Carlavirus betarosae	YES	1	36598	1	Rosaceae
+Betaflexiviridae	AA95_1028	ON169997.1	1	ON169997.1	3241188	Prunevirus	Prunevirus armeniacae	YES	1	3755	1	Rosaceae
+Betaflexiviridae	AA95_386	ON216317.1	1	ON216317.1	2985712	Citrivirus	Rudbeckia citrivirus A	YES	1	48209	1	Asteraceae
+Betaflexiviridae	AA95_177	ON221453.1	1	ON221453.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_178	ON221456.1	1	ON221456.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_205	ON221461.1	4	MH674180.1;MH802011.1;MZ440735.1;ON221461.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_814	ON227268.1	1	ON227268.1	148879	Banmivirus	Banmivirus musae	YES	1	4641	1	Musaceae
+Betaflexiviridae	AA95_278	ON240063.1	1	ON240063.1	2945985	Capillovirus	Capillovirus unipolysciasii	YES	1	52504	1	Araliaceae
+Betaflexiviridae	AA95_607	ON240064.1	1	ON240064.1	2945986	Citrivirus	Citrivirus unipolysciasii	YES	1	52504	1	Araliaceae
+Betaflexiviridae	AA95_493	ON241320.1	1	ON241320.1	2982811	Carlavirus	Carlavirus duopseudostellariae	YES	1	418402	1	Caryophyllaceae
+Betaflexiviridae	AA95_507	ON241321.1	1	ON241321.1	2982812	Carlavirus	Carlavirus tripseudostellariae	YES	1	418402	1	Caryophyllaceae
+Betaflexiviridae	AA95_487	ON241322.1	1	ON241322.1	1853762	Carlavirus	Carlavirus jasmini	YES	1	418402	1	Caryophyllaceae
+Betaflexiviridae	AA95_521	ON241323.1	1	ON241323.1	2794421	Carlavirus	Carlavirus unisteviae	YES	1	418402	1	Caryophyllaceae
+Betaflexiviridae	AA95_365	ON304059.1	2	MZ148116.1;ON304059.1	65467	Robigovirus	Robigovirus viridiavii	YES	2	3754;3760	1	Rosaceae
+Betaflexiviridae	AA95_715	ON304060.1	1	ON304060.1	12175	Trichovirus	Trichovirus mali	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_989	ON567247.1	2	ON567247.1;ON567250.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_990	ON567248.1	1	ON567248.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_991	ON567249.1	1	ON567249.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_436	ON595755.1	1	ON595755.1	2967988	Carlavirus	Carlavirus sigmavaccinii	YES	1	13749	1	Ericaceae
+Betaflexiviridae	AA95_748	ON620250.1	1	ON620250.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_204	ON620251.1	1	ON620251.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_166	ON669140.1	1	ON669140.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_159	ON669144.1	1	ON669144.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_167	ON669147.1	1	ON669147.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_168	ON669160.1	1	ON669160.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_169	ON669162.1	1	ON669162.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_234	ON820668.1	7	FJ355920.1;LC084659.1;MH108982.1;ON820668.1;ON820673.1;ON820675.1;OQ718412.1	33759	Capillovirus	Capillovirus mali	YES	6	171251;2706;2708;2711;488172;85571	1	Rutaceae
+Betaflexiviridae	AA95_726	ON868719.1	49	BK011110.1;BK011112.1;BK011113.1;BK011114.1;BK011117.1;BK011118.1;BK011121.1;BK011123.1;BK011126.1;BK011129.1;BK011132.1;BK011135.1;BK011137.1;BK011140.1;BK011143.1;BK011144.1;BK011145.1;BK011147.1;BK011149.1;BK011151.1;BK011152.1;BK011154.1;BK011156.1;BK011158.1;BK011162.1;BK011163.1;BK011165.1;BK011166.1;BK011168.1;BK011169.1;BK011170.1;BK011171.1;BK011172.1;BK011173.1;BK011174.1;BK011175.1;BK011176.1;BK011177.1;BK011178.1;KU234316.1;KU234317.1;ON868719.1;ON868722.1;ON868723.1;ON868724.1;ON868725.1;ON868729.1;ON868730.1;ON868734.1	81877	Trichovirus	Trichovirus necroacini	YES	2	239086;29760	1	Vitaceae
+Betaflexiviridae	AA95_744	ON868726.1	34	BK011111.1;BK011115.1;BK011116.1;BK011119.1;BK011120.1;BK011122.1;BK011124.1;BK011125.1;BK011127.1;BK011128.1;BK011130.1;BK011131.1;BK011133.1;BK011134.1;BK011136.1;BK011138.1;BK011139.1;BK011141.1;BK011142.1;BK011146.1;BK011148.1;BK011150.1;BK011161.1;BK011164.1;BK011167.1;KU971246.1;ON868726.1;ON868727.1;ON868728.1;ON868732.1;ON868733.1;ON868735.1;ON868736.1;ON868737.1	81877	Trichovirus	Trichovirus necroacini	YES	2	239086;29760	1	Vitaceae
+Betaflexiviridae	AA95_741	ON868731.1	1	ON868731.1	81877	Trichovirus	Trichovirus necroacini	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_58	ON868740.1	98	KT948710.1;KX274274.1;LC746721.1;MG925336.1;MG938300.1;MG938305.1;MG938309.1;MG938313.1;MG938314.1;MG938315.1;MG938319.1;MG938323.1;MG938325.1;MG938327.1;MG938333.1;MG938334.1;MG938336.1;MG938338.1;MN228487.1;MN548395.1;MN716776.1;MW246589.1;MZ484747.1;MZ484760.1;MZ484764.1;MZ484770.1;MZ484774.1;MZ484781.1;MZ484785.1;MZ484787.1;MZ484793.1;MZ484796.1;MZ484802.1;MZ484816.1;MZ484829.1;MZ484831.1;MZ484834.1;MZ484837.1;MZ484843.1;MZ484845.1;MZ484857.1;MZ484869.1;MZ484871.1;MZ484874.1;MZ484878.1;MZ484882.1;MZ484888.1;MZ484891.1;MZ484899.1;MZ484900.1;MZ484903.1;MZ484906.1;MZ484908.1;MZ484910.1;MZ484914.1;MZ484916.1;MZ484917.1;MZ484924.1;MZ484929.1;MZ484930.1;MZ484933.1;MZ484938.1;MZ484941.1;ON221455.1;ON221458.1;ON669165.1;ON868740.1;OP079931.1;OR834494.1;OR834502.1;OR834505.1;OR834506.1;OR892388.1;OR892390.1;OR892392.1;OR892394.1;PP236431.1;PP236438.1;PP812278.1;PP812279.1;PP812280.1;PP976048.1;PQ521109.1;PQ521110.1;PQ521112.1;PQ671824.1;PQ671827.1;PQ671828.1;PQ671831.1;PQ671832.1;PQ671833.1;PQ671836.1;PQ671839.1;PQ671844.1;PQ671846.1;PQ671848.1;PQ671849.1;TS_nucl_0704	196400	Foveavirus	Foveavirus rupestris	YES	3	153474;29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_778	ON868748.1	1	ON868748.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_774	ON993892.1	1	ON993892.1	67761	Carlavirus	Carlavirus vignae	YES	1	3917	1	Fabaceae
+Betaflexiviridae	AA95_342	OP021693.1	1	OP021693.1	1955154		Betaflexiviridae sp.	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_935	OP046363.1	3	MK404722.1;OP046363.1;OP752632.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_338	OP066307.1	1	OP066307.1	3035954	Foveavirus	Foveavirus mumeae	YES	1	102107	1	Rosaceae
+Betaflexiviridae	AA95_164	OP079936.1	1	OP079936.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_982	OP079937.1	4	MW309534.1;MW309536.1;MZ440722.1;OP079937.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_331	OP204215.1	1	OP204215.1	2497940		Garlic yellow mosaic-associated virus	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_138	OP535342.1	6	MK923756.1;MZ148021.1;MZ148056.1;MZ148078.1;MZ148084.1;OP535342.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_714	OP547330.1	2	MK929794.1;OP547330.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_732	OP750481.1	8	OP750481.1;OP750482.1;OP750483.1;OP750484.1;OP750485.1;OP750486.1;OP750487.1;TS_nucl_0682	3050482	Trichovirus	Trichovirus latensavii	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_404	OP751940.1	2	OP751940.1;OR766026.1	129141	Citrivirus	Citrivirus citri	YES	2	205691;61590	2	Adoxaceae;Oleaceae
+Betaflexiviridae	AA95_514	OP783969.1	1	OP783969.1	3090867	Carlavirus	Ligularia sibirica carlavirus	YES	1	118776	1	Asteraceae
+Betaflexiviridae	AA95_1050	OP886239.1	1	OP886239.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_572	OP886243.1	1	OP886243.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_795	OP886279.1	1	OP886279.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_647	OP886458.1	1	OP886458.1	3051689	Chordovirus	Carrot chordovirus 4	YES	1	4039	1	Apiaceae
+Betaflexiviridae	AA95_1031	OP886459.1	1	OP886459.1	3051702	Vitivirus	Carrot vitivirus 1	YES	1	4039	1	Apiaceae
+Betaflexiviridae	AA95_669	OP923917.1	1	OP923917.1	2358294	Trichovirus	Trichovirus chloropersicae	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_1046	OP947582.1	4	MH069211.1;MZ202326.1;OP947582.1;OP947583.1	36403	Tepovirus	Tepovirus tafsolani	YES	3	4113;4115;63459	2	Amaranthaceae;Solanaceae
+Betaflexiviridae	AA95_472	OP971103.1	1	OP971103.1	129141	Citrivirus	Citrivirus citri	YES	1	3497	1	Moraceae
+Betaflexiviridae	AA95_948	OQ079115.1	2	LC746738.1;OQ079115.1	35288	Vitivirus	Vitivirus alphavitis	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_906	OQ079116.1	2	OQ079116.1;OQ079117.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_962	OQ079118.1	5	MT454065.1;MW309624.1;OQ079118.1;OQ079119.1;PP187354.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_1014	OQ079120.1	1	OQ079120.1	51617	Vitivirus	Vitivirus deltavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_985	OQ079121.1	1	OQ079121.1	516956	Vitivirus	Vitivirus epsilonvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_154	OQ079130.1	2	MT454064.1;OQ079130.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_265	OQ139537.1	1	OQ139537.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_287	OQ139538.1	1	OQ139538.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_426	OQ363854.1	1	OQ363854.1	3051320	Carlavirus	Grapevine carlavirus 1	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_324	OQ410649.1	1	OQ410649.1	2794420	Carlavirus	Carya illinoinensis carlavirus 1	YES	1	41568	1	Asteraceae
+Betaflexiviridae	AA95_235	OQ420749.1	1	OQ420749.1	28347	Capillovirus	Capillovirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_124	OQ420750.1	2	MN617853.1;OQ420750.1	35350	Foveavirus	Foveavirus mali	YES	2	23159;23211	1	Rosaceae
+Betaflexiviridae	AA95_682	OQ420751.1	1	OQ420751.1	12175	Trichovirus	Trichovirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_66	OQ420754.1	1	OQ420754.1	35350	Foveavirus	Foveavirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_587	OQ446800.1	2	OK558769.1;OQ446800.1	12172	Carlavirus	Carlavirus latensascalonici	YES	1	35875	1	Amaryllidaceae
+Betaflexiviridae	AA95_225	OQ446810.1	1	OQ446810.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	1	13422	1	Asteraceae
+Betaflexiviridae	AA95_654	OQ513271.1	2	OQ513271.1;OQ513273.1	12175	Trichovirus	Trichovirus mali	YES	1	3758	1	Rosaceae
+Betaflexiviridae	AA95_743	OQ626372.1	8	BK011153.1;BK011155.1;BK011157.1;BK011159.1;BK011160.1;ON868720.1;ON868721.1;OQ626372.1	81877	Trichovirus	Trichovirus necroacini	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_393	OQ718816.1	5	FJ531634.1;KY385303.1;NC_013006.1;OP525283.1;OQ718816.1	132477	Carlavirus	Carlavirus latenskalanchoe	YES	5	23012;264171;3885;45339;63459	3	Amaranthaceae;Crassulaceae;Fabaceae
+Betaflexiviridae	AA95_683	OQ731902.1	2	MZ126520.1;OQ731902.1	12175	Trichovirus	Trichovirus mali	YES	2	3750;3752	1	Rosaceae
+Betaflexiviridae	AA95_963	OQ999887.1	47	GU733707.1;MW309552.1;MW309554.1;MW309557.1;MW309562.1;MW309564.1;MW309569.1;MW309570.1;MW309572.1;MW309573.1;MW309575.1;MW309576.1;MW309577.1;MW309579.1;MW309589.1;MW309592.1;MW309594.1;MW309595.1;MW309596.1;MW309599.1;MW309600.1;MW309601.1;MW309602.1;MW309604.1;MW309606.1;MW309607.1;MW309608.1;MW309609.1;MW309613.1;MW309615.1;MW309616.1;MW309617.1;MW309620.1;MW309622.1;MW309625.1;MW309626.1;MW309627.1;MW309629.1;MW309630.1;MW309631.1;MW309633.1;MW309634.1;MZ440723.1;MZ440727.1;OQ999887.1;OQ999888.1;OQ999889.1	35289	Vitivirus	Vitivirus betavitis	YES	3	153474;29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_907	OQ999893.1	21	KF700375.1;LC746748.1;LC815123.1;MW309555.1;MW309559.1;MW309561.1;MW309563.1;MW309568.1;MW309578.1;MW309585.1;MW309588.1;MW309590.1;MW309591.1;MW309593.1;MW309597.1;MW309623.1;ON221460.1;OQ999892.1;OQ999893.1;OR892376.1;PX501538.1	35289	Vitivirus	Vitivirus betavitis	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_972	OQ999894.1	11	MT241505.1;MW309710.1;MW309711.1;MW309712.1;OL770199.1;OQ999894.1;OQ999895.1;OQ999896.1;OQ999897.1;OQ999898.1;OQ999899.1	2052157	Vitivirus	Vitivirus iotavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_987	OR031918.1	2	MW309547.1;OR031918.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_933	OR031919.1	1	OR031919.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_934	OR031920.1	1	OR031920.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_897	OR031921.1	3	MW309531.1;OR031921.1;OR031922.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_908	OR031923.1	1	OR031923.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_909	OR031924.1	9	DQ787959.1;DQ855088.1;MW309537.1;MW309543.1;MW309546.1;OR031924.1;OR031925.1;OR031926.1;OR031927.1	35288	Vitivirus	Vitivirus alphavitis	YES	2	29760;4100	2	Solanaceae;Vitaceae
+Betaflexiviridae	AA95_949	OR031928.1	1	OR031928.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_950	OR031929.1	1	OR031929.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_919	OR031930.1	2	MW309541.1;OR031930.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_920	OR031931.1	1	OR031931.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_964	OR032416.1	6	MW309587.1;MW309612.1;MW309614.1;MW309619.1;MW309621.1;OR032416.1	35289	Vitivirus	Vitivirus betavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_965	OR032570.1	1	OR032570.1	2571274	Vitivirus	Grapevine virus M	YES	1	884146	1	Vitaceae
+Betaflexiviridae	AA95_330	OR096296.1	1	OR096296.1	2764701	Carlavirus	Carlavirus alphaconiti	YES	1	85363	1	Ranunculaceae
+Betaflexiviridae	AA95_773	OR233187.1	1	OR233187.1	67761	Carlavirus	Carlavirus vignae	YES	1	3885	1	Fabaceae
+Betaflexiviridae	AA95_222	OR233191.1	2	OQ335844.1;OR233191.1	12165	Carlavirus	Carlavirus betachrysanthemi	YES	2	200306;99031	2	Asteraceae;Solanaceae
+Betaflexiviridae	AA95_709	OR253703.1	2	LC877455.1;OR253703.1	3229312	Carlavirus	Papaya defective virus 1	YES	2	3649;3656	2	Caricaceae;Cucurbitaceae
+Betaflexiviridae	AA95_262	OR333993.1	5	MH264534.1;NC_006550.1;OR333992.1;OR333993.1;OR333994.1	263004	Carlavirus	Carlavirus chloroipomoeae	YES	1	4120	1	Convolvulaceae
+Betaflexiviridae	AA95_864	OR346818.1	2	OR346818.1;TS_nucl_0674	3064295		Hemp virus T	YES	1	3483	1	Cannabaceae
+Betaflexiviridae	AA95_380	OR354819.1	1	OR354819.1	3075962		Garlic yellow curl virus	YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_801	OR397129.1	1	OR397129.1	3077297	Robigovirus	Mentha arvensis robigovirus 1	YES	1	292239	1	Lamiaceae
+Betaflexiviridae	AA95_986	OR400565.1	2	OR400565.1;OR400566.1	35288	Vitivirus	Vitivirus alphavitis	YES	2	103355;3604	1	Vitaceae
+Betaflexiviridae	AA95_1020	OR400568.1	2	MK331711.1;OR400568.1	516956	Vitivirus	Vitivirus epsilonvitis	YES	2	103355;29760	1	Vitaceae
+Betaflexiviridae	AA95_1036	OR496519.1	9	OP716689.1;OR496519.1;OR496520.1;OR496521.1;OR496522.1;OR496523.1;OR496524.1;OR496525.1;OR496526.1	2794404		Iris domestica betaflexivirus 1	YES	1	54711	1	Apiaceae
+Betaflexiviridae	AA95_1049	OR496527.1	1	OR496527.1	2794404		Iris domestica betaflexivirus 1	YES	1	54711	1	Apiaceae
+Betaflexiviridae	AA95_93	OR513893.1	1	OR513893.1	35350	Foveavirus	Foveavirus mali	YES	1	3760	1	Rosaceae
+Betaflexiviridae	AA95_358	OR515751.1	29	JX501671.1;KC218931.2;KY178277.1;LC064752.1;LC522989.1;LC522991.1;LC522992.1;LC522993.1;LC522994.1;MZ148101.1;MZ148103.1;MZ148104.1;MZ148105.1;MZ148106.1;MZ148107.1;MZ148108.1;MZ148109.1;MZ148110.1;MZ148111.1;MZ148112.1;MZ148113.1;MZ148114.1;MZ148115.1;MZ148118.1;MZ148120.1;MZ148121.1;MZ148122.1;MZ148123.1;OR515751.1	65467	Robigovirus	Robigovirus viridiavii	YES	4	36596;3754;3760;42229	1	Rosaceae
+Betaflexiviridae	AA95_317	OR533327.1	7	KF030832.2;MZ220936.1;MZ220940.1;MZ220941.1;MZ220944.1;MZ220949.1;OR533327.1	129143	Robigovirus	Robigovirus necroavii	YES	3	3754;3760;42229	1	Rosaceae
+Betaflexiviridae	AA95_681	OR533328.1	13	LC522976.1;LC522977.1;LC522978.1;LC522979.1;LC522980.1;MF069041.1;MZ126477.1;MZ126478.1;MZ126479.1;MZ126483.1;MZ126487.1;MZ126488.1;OR533328.1	12175	Trichovirus	Trichovirus mali	YES	3	3750;3754;42229	1	Rosaceae
+Betaflexiviridae	AA95_657	OR537850.1	1	OR537850.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_92	OR537851.1	1	OR537851.1	1211388	Foveavirus	Apple green crinkle associated virus	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_55	OR537853.1	1	OR537853.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_378	OR538729.1	9	KM507062.1;KM507063.1;KY132099.1;LC522986.1;MK170158.1;MK170159.1;MN167471.1;OR537852.1;OR538729.1	3241188	Prunevirus	Prunevirus armeniacae	YES	6	102107;36595;3750;3758;3760;88123	1	Rosaceae
+Betaflexiviridae	AA95_1058	OR574033.1	2	OR574033.1;OR574034.1	3142688	Vitivirus	Agave yellow streak virus Jalisco 2	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_545	OR607758.1	1	OR607758.1	12164	Carlavirus	Carlavirus latensdianthi	YES	1	278075	1	Caryophyllaceae
+Betaflexiviridae	AA95_176	OR607768.1	1	OR607768.1	1092564	Carlavirus	Carlavirus cucumis	YES	1	3654	1	Cucurbitaceae
+Betaflexiviridae	AA95_530	OR607772.1	1	OR607772.1	3084989	Carlavirus	Carrot virus S	YES	1	40916	1	Apiaceae
+Betaflexiviridae	AA95_309	OR608918.1	1	OR608918.1	3134921	Capillovirus	Paris capillovirus 1	YES	1	221260	1	Melanthiaceae
+Betaflexiviridae	AA95_310	OR608919.1	2	OR608919.1;OR608920.1	3134921	Capillovirus	Paris capillovirus 1	YES	1	221260	1	Melanthiaceae
+Betaflexiviridae	AA95_94	OR640151.1	13	KF321966.1;KY702580.1;MZ147984.1;MZ147995.1;MZ148023.1;MZ148066.1;MZ148070.1;MZ148083.1;MZ148088.1;MZ148090.1;MZ148093.1;OP535343.1;OR640151.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_627	OR656535.1	1	OR656535.1	3396992	Chordovirus	Angelica chordovirus	YES	1	223574	1	Apiaceae
+Betaflexiviridae	AA95_63	OR734962.1	2	OR734962.1;OR889804.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_641	OR734963.1	2	OR734963.1;PV056522.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_220	OR734970.1	25	JX080201.1;LC783378.1;MK481977.1;MK481981.1;MK929791.1;MW582790.1;MW592375.1;MZ126527.1;MZ126531.1;MZ126532.1;MZ126536.1;MZ126540.1;MZ126541.1;MZ126543.1;OP535346.1;OQ263371.1;OR537854.1;OR640152.1;OR734964.1;OR734970.1;OR832279.1;OR832288.1;OR889798.1;OR889826.1;PV056519.1	28347	Capillovirus	Capillovirus mali	YES	2	3750;63459	2	Amaranthaceae;Rosaceae
+Betaflexiviridae	AA95_679	OR734971.1	1	OR734971.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_61	OR763045.1	2	KF321967.1;OR763045.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_677	OR763047.1	1	OR763047.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_634	OR801697.1	1	OR801697.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_69	OR817716.1	5	MZ147996.1;MZ148006.1;MZ148054.1;MZ148064.1;OR817716.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_653	OR817717.1	1	OR817717.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_126	OR832278.1	5	MW561491.1;MZ147992.1;MZ148081.1;OR734969.1;OR832278.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_678	OR832280.1	5	MZ126517.1;MZ126524.1;OK340218.1;OR832280.1;OR832290.1	12175	Trichovirus	Trichovirus mali	YES	2	3750;3752	1	Rosaceae
+Betaflexiviridae	AA95_233	OR832289.1	1	OR832289.1	28347	Capillovirus	Capillovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_62	OR832291.1	1	OR832291.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_140	OR834508.1	4	OR834508.1;OR892378.1;OR892379.1;OR892382.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_158	OR834509.1	1	OR834509.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_471	OR855671.1	1	OR855671.1	129141	Citrivirus	Citrivirus citri	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_395	OR879089.1	1	OR879089.1	592207	Carlavirus	Carlavirus hellebori	YES	1	46995	1	Ranunculaceae
+Betaflexiviridae	AA95_680	OR889799.1	3	MK929795.1;MZ126508.1;OR889799.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_70	OR889813.1	8	MK923754.1;MZ148036.1;MZ148042.1;MZ148062.1;MZ148069.1;MZ148075.1;MZ148097.1;OR889813.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_71	OR889817.1	3	MZ148074.1;MZ148080.1;OR889817.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_668	OR889821.1	1	OR889821.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_64	OR889834.1	2	MZ148052.1;OR889834.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_65	OR889836.1	12	LC533839.1;MZ147994.1;MZ148005.1;MZ148014.1;MZ148022.1;MZ148034.1;MZ148073.1;MZ148079.1;MZ148086.1;MZ148091.1;OR889800.1;OR889836.1	35350	Foveavirus	Foveavirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_905	OR892383.1	1	OR892383.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_983	OR892386.1	1	OR892386.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_984	OR892387.1	4	MF979533.1;MW309532.1;MZ440718.1;OR892387.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_932	OR892389.1	1	OR892389.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_188	OR892413.1	1	OR892413.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_182	OR892414.1	2	OR892414.1;PQ521085.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_747	OR892455.1	1	OR892455.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_794	OR892523.1	1	OR892523.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_28	OX380398.1	1	OX380398.1	2933104		Iranian poppy betaflexivirus	YES	1	215227	1	Papaveraceae
+Betaflexiviridae	AA95_306	OX380496.1	1	OX380496.1	2933101		Linum macraei betaflexivirus	YES	1	586384	1	Linaceae
+Betaflexiviridae	AA95_224	PP003242.1	1	PP003242.1	28347	Capillovirus	Capillovirus mali	YES	1	23211	1	Rosaceae
+Betaflexiviridae	AA95_452	PP115947.1	1	PP115947.1	3119435	Carlavirus	Hibiscus carlavirus A	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_463	PP115948.1	1	PP115948.1	3119436	Carlavirus	Hibiscus carlavirus B	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_536	PP115949.1	1	PP115949.1	3119437	Carlavirus	Hibiscus carlavirus C	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_464	PP115960.1	1	PP115960.1	3119436	Carlavirus	Hibiscus carlavirus B	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_1057	PP216715.1	1	PP216715.1	3142681	Vitivirus	Agave yellow streak virus Jalisco 1	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_375	PP236845.1	1	PP236845.1	2982810	Carlavirus	Carlavirus unipseudostellariae	YES	1	418402	1	Caryophyllaceae
+Betaflexiviridae	AA95_376	PP236846.1	2	ON241319.1;PP236846.1	2982810	Carlavirus	Carlavirus unipseudostellariae	YES	1	418402	1	Caryophyllaceae
+Betaflexiviridae	AA95_771	PP255808.1	1	PP255808.1	3119434		Saffron betaflexivirus 1	YES	1	82528	1	Iridaceae
+Betaflexiviridae	AA95_1010	PP476177.1	32	DQ855082.2;DQ855083.2;MK982553.1;MT070962.1;MT070963.1;OP752610.1;OP752611.1;OP752613.1;OP752614.1;OP752615.1;OP752616.1;OP752617.1;OP752618.1;OP752620.1;OP752621.1;OP752623.1;OP752625.1;OP752626.1;OP752627.1;OP752628.1;OP752629.1;OP752631.1;OP752633.1;OP752636.1;OP752637.1;OP752639.1;OP752640.1;OP752642.1;PP476177.1;PP476178.1;PP476180.1;PP476182.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_191	PP531520.1	1	PP531520.1	3143944		Hibiscus chlorotic speck associated virus 3	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_33	PP531521.1	1	PP531521.1	3143943		Hibiscus chlorotic speck associated virus 2	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_48	PP531522.1	1	PP531522.1	3143942		Hibiscus chlorotic speck associated virus 1	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_36	PP531523.1	1	PP531523.1	3143942		Hibiscus chlorotic speck associated virus 1	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_37	PP531524.1	1	PP531524.1	3143942		Hibiscus chlorotic speck associated virus 1	YES	1	183298	1	Malvaceae
+Betaflexiviridae	AA95_843	PP736770.1	2	PP620726.1;PP736770.1	1472425	Tepovirus	Tepovirus tafpruni	YES	1	42229	1	Rosaceae
+Betaflexiviridae	AA95_519	PP763440.1	2	LC848950.1;PP763440.1	2169805	Carlavirus	Carlavirus fragariae	YES	1	3747	1	Rosaceae
+Betaflexiviridae	AA95_203	PP812273.1	1	PP812273.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_724	PP856203.1	1	PP856203.1	67761	Carlavirus	Carlavirus vignae	YES	1	47605	1	Malvaceae
+Betaflexiviridae	AA95_725	PP856204.1	1	PP856204.1	67761	Carlavirus	Carlavirus vignae	YES	1	47605	1	Malvaceae
+Betaflexiviridae	AA95_782	PP889574.1	1	PP889574.1	3161050	Carlavirus	Okra mild mottle virus	YES	1	455045	1	Malvaceae
+Betaflexiviridae	AA95_39	PP955903.1	26	PP955903.1;PP955906.1;PP955907.1;PP955909.1;PP955910.1;PP955911.1;PP955912.1;PP955913.1;PP955914.1;PP955915.1;PP955916.1;PP955917.1;PP955918.1;PP955920.1;PP955921.1;PP955923.1;PP955924.1;PP955925.1;PP955926.1;PP955927.1;PP955929.1;PP955931.1;PP955938.1;PP955939.1;PP955941.1;PP955942.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_51	PP955904.1	2	PP955904.1;PP955932.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_40	PP955905.1	1	PP955905.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_41	PP955922.1	4	PP955919.1;PP955922.1;PP955928.1;PP955935.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_42	PP955930.1	2	PP955930.1;PP955937.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_43	PP955933.1	3	PP955908.1;PP955933.1;PP955934.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_44	PP955936.1	1	PP955936.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_45	PP955940.1	1	PP955940.1	3071279	Capillovirus	Capillovirus uniheveae	YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_275	PQ073131.1	1	PQ073131.1	3238965		Ferraria betaflexivirus 1	YES	1	148469	1	Iridaceae
+Betaflexiviridae	AA95_885	PQ153988.1	1	PQ153988.1	2571274	Vitivirus	Grapevine virus M	YES	1	884146	1	Vitaceae
+Betaflexiviridae	AA95_175	PQ154596.1	1	PQ154596.1	3341774	Carlavirus	papaya virus B	YES	1	3649	1	Caricaceae
+Betaflexiviridae	AA95_430	PQ156479.1	1	PQ156479.1	104263	Carlavirus	Carlavirus latenshumuli	YES	1	3481	1	Cannabaceae
+Betaflexiviridae	AA95_1060	PQ156977.1	3	MH898468.1;PQ156977.1;TS_nucl_0550	3142688	Vitivirus	Agave yellow streak virus Jalisco 2	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_337	PQ177490.1	1	PQ177490.1	3259765	Carlavirus	Atractylodes virus A	YES	1	41486	1	Asteraceae
+Betaflexiviridae	AA95_1043	PQ184855.1	2	OR574037.1;PQ184855.1	2805380	Tepovirus	Tepovirus tafagavis	YES	1	386106	1	Asparagaceae
+Betaflexiviridae	AA95_450	PQ317368.1	1	PQ317368.1	2650000	Carlavirus	Carlavirus alpharosae	YES	1	23216	1	Rosaceae
+Betaflexiviridae	AA95_451	PQ317369.1	1	PQ317369.1	2650000	Carlavirus	Carlavirus alpharosae	YES	1	23216	1	Rosaceae
+Betaflexiviridae	AA95_340	PQ360725.1	2	MH725809.1;PQ360725.1	1803898	Carlavirus	Carlavirus alphacapsici	YES	1	4111	1	Solanaceae
+Betaflexiviridae	AA95_616	PQ423869.1	1	PQ423869.1	3259765	Carlavirus	Atractylodes virus A	YES	1	41486	1	Asteraceae
+Betaflexiviridae	AA95_384	PQ423870.1	1	PQ423870.1	3259765	Carlavirus	Atractylodes virus A	YES	1	41486	1	Asteraceae
+Betaflexiviridae	AA95_931	PQ521013.1	1	PQ521013.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_187	PQ521076.1	1	PQ521076.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_199	PQ521081.1	1	PQ521081.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_200	PQ521082.1	1	PQ521082.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_201	PQ521086.1	5	MH674179.1;MH802012.1;PQ521086.1;PQ521089.1;PQ521090.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_202	PQ521088.1	1	PQ521088.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_708	PQ521091.1	292	BK011060.1;BK011061.1;BK011062.1;BK011063.1;BK011064.1;BK011065.1;BK011066.1;BK011067.1;BK011068.1;BK011069.1;BK011070.1;BK011071.1;BK011072.1;BK011073.1;BK011074.1;BK011075.1;BK011076.1;BK011077.1;BK011078.1;BK011079.1;BK011080.1;BK011081.1;BK011082.1;BK011083.1;BK011084.1;BK011085.1;BK011086.1;BK011087.1;BK011088.1;BK011089.1;BK011090.1;BK011091.1;BK011092.1;BK011093.1;BK011094.1;BK011095.1;BK011096.1;BK011097.1;BK011098.1;BK011099.1;BK011100.1;BK011101.1;BK011102.1;BK011103.1;BK011104.1;BK011105.1;BK011106.1;BK011107.1;BK011108.1;BK011109.1;FR877530.2;KF134123.1;KF134124.1;KF134125.1;KF686810.1;KM491305.1;KT894101.1;KU194413.1;KU949328.1;KX522755.1;KY404083.1;KY706085.1;KY747493.1;KY747494.1;LC897299.1;MH087439.1;MH087440.1;MH087441.1;MH087442.1;MH087443.1;MH087444.1;MH087445.1;MH087446.1;MH087447.1;MH802023.1;MK514520.1;MK514521.1;MK514522.1;MK514523.1;MK514524.1;MK514525.1;MK514526.1;MK514527.1;MK514528.1;MK514529.1;MK514530.1;MK514531.1;MK514532.1;MK514533.1;MK514534.1;MN228488.1;MN458411.1;MN458412.1;MN458413.1;MN458414.1;MN458415.1;MN458416.1;MN458417.1;MN458418.1;MN458419.1;MN458420.1;MN458421.1;MN458422.1;MN458423.1;MN458424.1;MN458425.1;MN458426.1;MN458427.1;MN458428.1;MN458429.1;MN458430.1;MN458431.1;MN458432.1;MN458433.1;MN458434.1;MN458435.1;MN458436.1;MN458437.1;MN458438.1;MN458439.1;MN458440.1;MN458441.1;MN458442.1;MN458443.1;MN458444.1;MN458445.1;MN458446.1;MN458447.1;MN458448.1;MN458449.1;MN458450.1;MN458451.1;MN458452.1;MN458453.1;MN458454.1;MN458455.1;MN458456.1;MN458457.1;MN458458.1;MN458459.1;MN458460.1;MT414711.1;MZ220969.1;MZ220970.1;MZ220971.1;MZ344578.1;MZ344580.1;NC_015782.2;OK117409.1;OK117410.1;OK117411.1;OK117412.1;OK117413.1;OK117414.1;OK558797.1;OK558798.1;OK558799.1;OK558800.1;OK558801.1;OK558802.1;OK558803.1;OK558804.1;OK558805.1;OK558806.1;OK558807.1;OK558808.1;OK558809.1;OK558810.1;OK558811.1;OK558812.1;OK558813.1;OK558814.1;OK558815.1;OK558816.1;OK558817.1;OL961512.1;ON237610.1;ON548149.1;ON548153.1;ON567239.1;ON620249.1;ON868749.1;ON868750.1;ON868751.1;ON868752.1;ON868753.1;ON868754.1;OP886277.1;OQ198990.1;OQ198991.1;OQ198992.1;OQ198993.1;OQ198994.1;OQ198995.1;OQ198996.1;OQ198997.1;OQ198998.1;OQ198999.1;OQ199000.1;OQ199001.1;OQ199002.1;OQ199003.1;OQ199004.1;OQ199005.1;OQ199006.1;OQ199007.1;OQ199008.1;OQ199009.1;OQ199010.1;OQ199011.1;OQ199012.1;OQ199013.1;OQ199014.1;OQ199015.1;OQ199016.1;OQ199017.1;OQ199018.1;OQ199019.1;OQ199020.1;OQ199021.1;OQ533276.1;OQ533277.1;OQ533278.1;OQ533279.1;OQ533280.1;OQ533281.1;OQ533282.1;OQ945219.1;OQ945221.1;OQ945222.1;OQ945223.1;OQ945224.1;OQ945225.1;OR892449.1;OR892451.1;OR892452.1;OR892454.1;OR892457.1;OR892458.1;OR892459.1;OR892460.1;OR892481.1;OR892483.1;OR892489.1;OR892494.1;OR892502.1;OR892511.1;OR892515.1;OR892516.1;OR892517.1;OR892518.1;OR892519.1;OR892520.1;OR892521.1;OR892522.1;OR892524.1;OR892525.1;OR935780.1;OR935781.1;PP350831.1;PP623117.1;PQ059410.1;PQ204588.1;PQ521091.1;PQ521092.1;PQ521093.1;PQ521094.1;PQ521096.1;PQ521098.1;PQ521099.1;PQ521100.1;PQ521101.1;PQ521102.1;PQ521103.1;PQ521104.1;PQ521105.1;PQ521106.1;PQ521107.1;PQ521108.1;PQ736709.1;PQ736710.1;PQ736711.1;PQ736712.1;PQ736713.1;PX501539.1;PX501540.1;PX501541.1;PX501542.1;PX501543.1;PX501544.1;PX501545.1;TS_nucl_0706	1051792	Trichovirus	Trichovirus pinovitis	YES	3	29760;3554;3603	2	Amaranthaceae;Vitaceae
+Betaflexiviridae	AA95_746	PQ521097.1	1	PQ521097.1	1051792	Trichovirus	Trichovirus pinovitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_60	PQ521111.1	171	KX034981.1;KX034982.1;KX034983.1;KX034984.1;KX034985.1;KX034986.1;KX034987.1;KX034988.1;KX034989.1;KX034990.1;KX034991.1;KX034992.1;KX034993.1;KX034994.1;KX034995.1;KX034996.1;KX034997.1;KX034998.1;KX034999.1;KX035000.1;KX035002.1;KX035004.1;KX274275.1;LC746723.1;MF979534.1;MG925337.1;MG938295.1;MG938297.1;MG938303.1;MG938307.1;MG938311.1;MG938312.1;MG938316.1;MG938321.1;MG938322.1;MG938324.1;MG938326.1;MG938330.1;MG938331.1;MG938337.1;MG938339.1;MG938342.1;MG938343.1;MG938344.1;MG938345.1;MG938346.1;MG938348.1;MK804768.1;MN716766.1;MW246584.1;MW246585.1;MZ484749.1;MZ484750.1;MZ484753.1;MZ484756.1;MZ484757.1;MZ484759.1;MZ484763.1;MZ484765.1;MZ484766.1;MZ484768.1;MZ484771.1;MZ484776.1;MZ484777.1;MZ484779.1;MZ484782.1;MZ484784.1;MZ484786.1;MZ484788.1;MZ484790.1;MZ484791.1;MZ484795.1;MZ484800.1;MZ484803.1;MZ484804.1;MZ484806.1;MZ484808.1;MZ484812.1;MZ484814.1;MZ484817.1;MZ484832.1;MZ484835.1;MZ484836.1;MZ484838.1;MZ484840.1;MZ484849.1;MZ484850.1;MZ484851.1;MZ484852.1;MZ484853.1;MZ484855.1;MZ484858.1;MZ484867.1;MZ484870.1;MZ484873.1;MZ484876.1;MZ484877.1;MZ484881.1;MZ484885.1;MZ484889.1;MZ484892.1;MZ484894.1;MZ484898.1;MZ484901.1;MZ484905.1;MZ484907.1;MZ484915.1;MZ484919.1;MZ484920.1;MZ484923.1;MZ484925.1;MZ484931.1;MZ484935.1;MZ484937.1;MZ484943.1;MZ484944.1;MZ484945.1;ON221452.1;ON221454.1;ON221457.1;ON669145.1;ON669149.1;ON669150.1;ON669166.1;ON669168.1;ON868745.1;ON868747.1;OP079933.1;OP079934.1;OQ079129.1;OQ134941.1;OQ134942.1;OR614448.1;OR614449.1;OR834486.1;OR834487.1;OR834490.1;OR834500.1;OR834501.1;OR834503.1;OR834504.1;OR834507.1;OR834510.1;OR892371.1;OR892395.1;OR892402.1;OR892407.1;OR892409.1;OR892412.1;OR892415.1;OR892417.1;PP812275.1;PP812276.1;PP812277.1;PQ521111.1;PQ521114.1;PQ521125.1;PQ521126.1;PQ521128.1;PQ671822.1;PQ671823.1;PQ671825.1;PQ671830.1;PQ671834.1;PQ671835.1;PQ671838.1;PQ671841.1;PQ671842.1;PQ671847.1;PQ671851.1;PX501546.1	196400	Foveavirus	Foveavirus rupestris	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_162	PQ521116.1	1	PQ521116.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_156	PQ521118.1	1	PQ521118.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_157	PQ521120.1	1	PQ521120.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_139	PQ521122.1	59	FR691076.1;JX559646.1;KC427107.1;KX035001.1;KX035003.1;KX035005.1;KX035006.1;KX274276.1;KX925556.1;KY992924.1;LC746726.1;MG938318.1;MG938320.1;MG938329.1;MG938341.1;MG938347.1;MZ484746.1;MZ484748.1;MZ484752.1;MZ484755.1;MZ484761.1;MZ484772.1;MZ484780.1;MZ484799.1;MZ484810.1;MZ484815.1;MZ484818.1;MZ484820.1;MZ484824.1;MZ484825.1;MZ484826.1;MZ484827.1;MZ484842.1;MZ484844.1;MZ484856.1;MZ484860.1;MZ484864.1;MZ484868.1;MZ484872.1;MZ484880.1;MZ484884.1;MZ484887.1;MZ484909.1;MZ484921.1;MZ484927.1;ON221450.1;ON868743.1;OP079932.1;OP886269.1;OR892405.1;PQ521113.1;PQ521115.1;PQ521119.1;PQ521121.1;PQ521122.1;PQ521124.1;PQ521127.1;PQ671837.1;PQ671852.1	196400	Foveavirus	Foveavirus rupestris	YES	2	29760;3603	1	Vitaceae
+Betaflexiviridae	AA95_163	PQ521123.1	1	PQ521123.1	196400	Foveavirus	Foveavirus rupestris	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_478	PQ562895.1	1	PQ562895.1	3382963	Carlavirus	Mint virus C	YES	1	3133031	1	Lamiaceae
+Betaflexiviridae	AA95_143	PQ671829.1	22	KR054734.1;MG938317.1;MG938328.1;MG938332.1;MG938335.1;MG938340.1;MZ484798.1;MZ484847.1;MZ484859.1;MZ484886.1;MZ484895.1;MZ484913.1;MZ484926.1;ON221451.1;ON669155.1;ON868741.1;ON868742.1;ON868744.1;ON868746.1;PQ671829.1;TS_nucl_0703;TS_nucl_0717	196400	Foveavirus	Foveavirus rupestris	YES	2	2611277;29760	1	Vitaceae
+Betaflexiviridae	AA95_879	PQ671853.1	2	PQ671853.1;PQ671854.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_946	PQ736721.1	1	PQ736721.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_971	PQ736722.1	1	PQ736722.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_974	PQ736723.1	1	PQ736723.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_980	PQ736724.1	1	PQ736724.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_928	PQ736725.1	1	PQ736725.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_901	PQ736726.1	1	PQ736726.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_981	PQ736727.1	2	PQ736727.1;PQ736728.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_929	PQ736729.1	1	PQ736729.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_922	PQ736730.1	1	PQ736730.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_930	PQ736731.1	1	PQ736731.1	35288	Vitivirus	Vitivirus alphavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_961	PQ736732.1	1	PQ736732.1	51617	Vitivirus	Vitivirus deltavitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_875	PQ736740.1	12	JX105428.1;NC_018458.1;OL690320.1;ON567252.1;OR892374.1;PQ736733.1;PQ736734.1;PQ736735.1;PQ736737.1;PQ736738.1;PQ736740.1;PQ736743.1	1221437	Vitivirus	Vitivirus phivitis	YES	2	29760;3604	1	Vitaceae
+Betaflexiviridae	AA95_198	PQ736746.1	1	PQ736746.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_637	PQ792358.1	1	PQ792358.1	1955154		Betaflexiviridae sp.	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_1033	PQ792359.1	1	PQ792359.1	1955154		Betaflexiviridae sp.	YES	1	36596	1	Rosaceae
+Betaflexiviridae	AA95_611	PQ890282.1	1	PQ890282.1	3400321	Carlavirus	Carlavirus sp. 'passiflorae'	YES	1	78168	1	Passifloraceae
+Betaflexiviridae	AA95_676	PV056521.1	1	PV056521.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_707	PV056523.1	1	PV056523.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_659	PV056524.1	1	PV056524.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_636	PV056525.1	2	MZ126522.1;PV056525.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_656	PV056526.1	1	PV056526.1	12175	Trichovirus	Trichovirus mali	YES	1	3750	1	Rosaceae
+Betaflexiviridae	AA95_927	PV173705.1	2	MN172167.1;PV173705.1	2650001		Grapevine Kizil Sapak virus	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_609	PV255556.1	2	ON624129.1;PV255556.1	12172	Carlavirus	Carlavirus latensascalonici	YES	2	28911;4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_485	PV388434.1	1	PV388434.1	1853762	Carlavirus	Carlavirus jasmini	YES	1	119949	1	Myrtaceae
+Betaflexiviridae	AA95_712	PV448278.1	3	LC877457.1;PV448278.1;PV460962.1	67761	Carlavirus	Carlavirus vignae	YES	3	3656;3684;3885	3	Cucurbitaceae;Fabaceae;Passifloraceae
+Betaflexiviridae	AA95_295	PV753718.1	5	LC632067.1;LC807814.1;LC807815.1;MW771279.1;PV753718.1	2862825		wheat yellow stunt associated betaflexivirus	YES	1	4565	1	Poaceae
+Betaflexiviridae	AA95_394	PV773949.1	1	PV773949.1	3438238	Carlavirus	Viburnum carlavirus 1	YES	1	85293	1	Adoxaceae
+Betaflexiviridae	AA95_420	PV805050.1	2	PP502869.1;PV805050.1	134374	Carlavirus	Carlavirus latensverbenae	YES	2	3122766;330183	1	Asteraceae
+Betaflexiviridae	AA95_1042	PV870368.1	6	BK065166.1;PP274695.1;PP274696.1;PP274697.1;PP274698.1;PV870368.1	2794404		Iris domestica betaflexivirus 1	YES	2	2708;82528	2	Iridaceae;Rutaceae
+Betaflexiviridae	AA95_197	PV931575.1	8	MH158659.1;MH674173.1;MN613585.1;ON620253.1;PQ521077.1;PQ736744.1;PV931575.1;PV931576.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_195	PV931577.1	5	LC617948.1;PQ521078.1;PQ521080.1;PQ736745.1;PV931577.1	2016035	Foveavirus	Foveavirus tafvitis	YES	2	29760;3604	1	Vitaceae
+Betaflexiviridae	AA95_190	PV931578.1	10	MH388490.1;MH388491.1;MH674172.1;MH674178.1;MH674184.1;MH674187.1;MZ440729.1;MZ440732.1;MZ440736.1;PV931578.1	2016035	Foveavirus	Foveavirus tafvitis	YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_449	PV936562.1	52	FJ813512.1;FJ813513.1;KP089978.1;KU058656.1;KU586451.1;KU896945.1;LC375227.1;LC375228.1;LN851190.1;LN851191.1;MF346599.1;MF375506.1;MF418022.1;MF418026.1;MF503887.1;MF503888.1;MF503889.1;MF503892.1;MF503893.1;MG356511.1;MH937416.1;MK125516.1;MK423959.1;MK442089.2;MN689443.1;MN689445.1;MN689459.1;MN689461.1;MN689462.1;MN689484.1;MN689485.1;MN950792.1;MN950793.1;MN950794.1;MN966671.1;MN966672.1;MT107560.1;MW331321.1;OL472247.1;OL472248.1;OL472249.1;OM471986.1;ON583978.1;ON924227.1;OQ473813.1;PP408647.1;PP408648.1;PP408650.1;PP856220.1;PV764920.1;PV936562.1;PX104985.1	3427796	Carlavirus	Carlavirus sigmasolani	YES	2	4081;4113	1	Solanaceae
+Betaflexiviridae	AA95_520	PX317652.1	1	PX317652.1	12167	Carlavirus	Carlavirus misolani	YES	1	4113	1	Solanaceae
+Betaflexiviridae	AA95_1007	PX438517.1	26	MH248020.1;MH643739.1;MW309718.1;MW309720.1;MW309721.1;MW309729.1;MW309739.1;MW309794.1;MW309802.1;MW309807.1;MW309808.1;MZ291907.1;OK042110.1;OK042111.1;ON868715.1;PX438517.1;PX438518.1;PX438519.1;PX438520.1;PX438523.1;PX438524.1;PX438525.1;PX438526.1;PX438527.1;PX438528.1;TS_nucl_0721	2283237	Vitivirus	Vitivirus lambdavitis	YES	2	2611277;29760	1	Vitaceae
+Betaflexiviridae	AA95_1008	PX438521.1	80	MH681991.1;MT319081.1;MT319082.1;MT319083.1;MW309713.1;MW309714.1;MW309715.1;MW309716.1;MW309717.1;MW309719.1;MW309722.1;MW309723.1;MW309726.1;MW309727.1;MW309728.1;MW309731.1;MW309732.1;MW309733.1;MW309735.1;MW309737.1;MW309738.1;MW309741.1;MW309743.1;MW309748.1;MW309749.1;MW309751.1;MW309753.1;MW309754.1;MW309756.1;MW309758.1;MW309759.1;MW309762.1;MW309763.1;MW309764.1;MW309765.1;MW309766.1;MW309767.1;MW309768.1;MW309769.1;MW309770.1;MW309771.1;MW309773.1;MW309774.1;MW309775.1;MW309777.1;MW309778.1;MW309779.1;MW309780.1;MW309781.1;MW309782.1;MW309783.1;MW309784.1;MW309785.1;MW309786.1;MW309787.1;MW309788.1;MW309790.1;MW309792.1;MW309793.1;MW309795.1;MW309796.1;MW309797.1;MW309798.1;MW309799.1;MW309800.1;MW309801.1;MW309803.1;MW309804.1;MW309805.1;MW309806.1;MW309809.1;OP893976.1;OP893977.1;OP893978.1;OQ079125.1;OQ079126.1;OQ079127.1;OQ079128.1;PX438521.1;PX438522.1	2283237	Vitivirus	Vitivirus lambdavitis	YES	2	246827;29760	1	Vitaceae
+Betaflexiviridae	AA95_1017	PX501547.1	41	GU903011.1;GU903012.1;JX402759.1;LC746749.1;LC746750.1;LC746751.1;MN716767.1;MW309638.1;MW309639.1;MW309640.1;MW309641.1;MW309642.1;MW309643.1;MW309644.1;MW309645.1;MW309648.1;MW309649.1;MW309650.1;MW309651.1;MW309652.1;MW309653.1;MW309654.1;MW309655.1;MW309656.1;MW309657.1;MW309658.1;MW309659.1;MW309660.1;MW309661.1;MW309662.1;MW309663.1;MW309664.1;MW309665.1;MW309666.1;MW309736.1;OR400567.1;PX501547.1;TS_nucl_0708;TS_nucl_0709;TS_nucl_0714;TS_nucl_0720	516956	Vitivirus	Vitivirus epsilonvitis	YES	5	103355;2611277;29760;3603;3604	1	Vitaceae
+Betaflexiviridae	AA95_389	PX505953.1	3	MW303999.1;NC_077096.1;PX505953.1	2838076	Carlavirus	Carlavirus betagapanthi	YES	1	51426	1	Amaryllidaceae
+Betaflexiviridae	AA95_477	PX511708.1	1	PX511708.1	129141	Citrivirus	Citrivirus citri	YES	1	354523	1	Rutaceae
+Betaflexiviridae	AA95_544	PX512721.1	3	OQ674100.1;PX512721.1;PX512722.1	3427780	Carlavirus	Carlavirus miphlocis	YES	2	1196215;39329	1	Lamiaceae
+Betaflexiviridae	AA95_805	TS_nucl_0420	1	TS_nucl_0420				YES	1	4679	1	Amaryllidaceae
+Betaflexiviridae	AA95_783	TS_nucl_0547	1	TS_nucl_0547				YES	1	42345	1	Arecaceae
+Betaflexiviridae	AA95_1056	TS_nucl_0548	3	PQ177852.1;PQ184858.1;TS_nucl_0548				YES	2	386106;40552	1	Asparagaceae
+Betaflexiviridae	AA95_1059	TS_nucl_0549	1	TS_nucl_0549				YES	1	40552	1	Asparagaceae
+Betaflexiviridae	AA95_615	TS_nucl_0552	1	TS_nucl_0552				YES	1	4681	1	Amaryllidaceae
+Betaflexiviridae	AA95_597	TS_nucl_0554	1	TS_nucl_0554				YES	1	4681	1	Amaryllidaceae
+Betaflexiviridae	AA95_576	TS_nucl_0557	1	TS_nucl_0557				YES	1	4679	1	Amaryllidaceae
+Betaflexiviridae	AA95_591	TS_nucl_0561	1	TS_nucl_0561				YES	1	130426	1	Amaryllidaceae
+Betaflexiviridae	AA95_621	TS_nucl_0562	1	TS_nucl_0562				YES	1	130426	1	Amaryllidaceae
+Betaflexiviridae	AA95_736	TS_nucl_0564	1	TS_nucl_0564				YES	1	130426	1	Amaryllidaceae
+Betaflexiviridae	AA95_586	TS_nucl_0566	1	TS_nucl_0566				YES	1	35875	1	Amaryllidaceae
+Betaflexiviridae	AA95_54	TS_nucl_0569	1	TS_nucl_0569				YES	1	4682	1	Amaryllidaceae
+Betaflexiviridae	AA95_305	TS_nucl_0570	1	TS_nucl_0570				YES	1	182176	1	Asparagaceae
+Betaflexiviridae	AA95_49	TS_nucl_0571	1	TS_nucl_0571				YES	1	230571	1	Orchidaceae
+Betaflexiviridae	AA95_423	TS_nucl_0576	1	TS_nucl_0576				YES	1	272140	1	Amaryllidaceae
+Betaflexiviridae	AA95_329	TS_nucl_0579	1	TS_nucl_0579				YES	1	53078	1	Orchidaceae
+Betaflexiviridae	AA95_302	TS_nucl_0580	1	TS_nucl_0580				YES	1	53078	1	Orchidaceae
+Betaflexiviridae	AA95_417	TS_nucl_0584	1	TS_nucl_0584				YES	1	4210	1	Asteraceae
+Betaflexiviridae	AA95_304	TS_nucl_0586	1	TS_nucl_0586				YES	1	219718	1	Boraginaceae
+Betaflexiviridae	AA95_407	TS_nucl_0589	1	TS_nucl_0589				YES	1	3465	1	Papaveraceae
+Betaflexiviridae	AA95_1039	TS_nucl_0590	1	TS_nucl_0590				YES	1	2067805	1	Nyctaginaceae
+Betaflexiviridae	AA95_553	TS_nucl_0595	1	TS_nucl_0595				YES	1	1503182	1	Commelinaceae
+Betaflexiviridae	AA95_563	TS_nucl_0597	1	TS_nucl_0597				YES	1	4283	1	Cornaceae
+Betaflexiviridae	AA95_571	TS_nucl_0598	1	TS_nucl_0598				YES	1	4283	1	Cornaceae
+Betaflexiviridae	AA95_564	TS_nucl_0599	1	TS_nucl_0599				YES	1	4283	1	Cornaceae
+Betaflexiviridae	AA95_0	TS_nucl_0600	1	TS_nucl_0600				YES	1	4283	1	Cornaceae
+Betaflexiviridae	AA95_174	TS_nucl_0601	1	TS_nucl_0601				YES	1	105884	1	Caprifoliaceae
+Betaflexiviridae	AA95_498	TS_nucl_0603	1	TS_nucl_0603				YES	1	450940	1	Theaceae
+Betaflexiviridae	AA95_494	TS_nucl_0604	1	TS_nucl_0604				YES	1	450940	1	Theaceae
+Betaflexiviridae	AA95_293	TS_nucl_0607	1	TS_nucl_0607				YES	1	385388	1	Theaceae
+Betaflexiviridae	AA95_27	TS_nucl_0608	2	MK050796.1;TS_nucl_0608				YES	2	182300;4443	1	Theaceae
+Betaflexiviridae	AA95_446	TS_nucl_0609	1	TS_nucl_0609				YES	1	184575	1	Ericaceae
+Betaflexiviridae	AA95_183	TS_nucl_0611	1	TS_nucl_0611				YES	1	118357	1	Ericaceae
+Betaflexiviridae	AA95_231	TS_nucl_0613	1	TS_nucl_0613				YES	1	714486	1	Fabaceae
+Betaflexiviridae	AA95_297	TS_nucl_0615	1	TS_nucl_0615				YES	1	384421	1	Fabaceae
+Betaflexiviridae	AA95_622	TS_nucl_0616	1	TS_nucl_0616				YES	1	3879	1	Fabaceae
+Betaflexiviridae	AA95_769	TS_nucl_0617	1	TS_nucl_0617				YES	1	3879	1	Fabaceae
+Betaflexiviridae	AA95_768	TS_nucl_0618	1	TS_nucl_0618				YES	1	861244	1	Fabaceae
+Betaflexiviridae	AA95_792	TS_nucl_0619	1	TS_nucl_0619				YES	1	861244	1	Fabaceae
+Betaflexiviridae	AA95_809	TS_nucl_0620	1	TS_nucl_0620				YES	1	132459	1	Fabaceae
+Betaflexiviridae	AA95_500	TS_nucl_0623	1	TS_nucl_0623				YES	1	13451	1	Betulaceae
+Betaflexiviridae	AA95_868	TS_nucl_0626	1	TS_nucl_0626				YES	1	58331	1	Fagaceae
+Betaflexiviridae	AA95_1040	TS_nucl_0630	1	TS_nucl_0630				YES	1	58331	1	Fagaceae
+Betaflexiviridae	AA95_619	TS_nucl_0631	1	TS_nucl_0631				YES	1	4286	1	Garryaceae
+Betaflexiviridae	AA95_798	TS_nucl_0634	1	TS_nucl_0634				YES	1	38873	1	Oleaceae
+Betaflexiviridae	AA95_859	TS_nucl_0638	1	TS_nucl_0638				YES	1	38873	1	Oleaceae
+Betaflexiviridae	AA95_807	TS_nucl_0639	1	TS_nucl_0639				YES	1	56029	1	Oleaceae
+Betaflexiviridae	AA95_510	TS_nucl_0644	1	TS_nucl_0644				YES	1	1133299	1	Oleaceae
+Betaflexiviridae	AA95_501	TS_nucl_0645	1	TS_nucl_0645				YES	1	4146	1	Oleaceae
+Betaflexiviridae	AA95_853	TS_nucl_0647	1	TS_nucl_0647				YES	1	192262	1	Lentibulariaceae
+Betaflexiviridae	AA95_543	TS_nucl_0650	1	TS_nucl_0650				YES	1	226208	1	Lamiaceae
+Betaflexiviridae	AA95_490	TS_nucl_0652	1	TS_nucl_0652				YES	1	226208	1	Lamiaceae
+Betaflexiviridae	AA95_531	TS_nucl_0653	1	TS_nucl_0653				YES	1	226208	1	Lamiaceae
+Betaflexiviridae	AA95_745	TS_nucl_0655	1	TS_nucl_0655				YES	1	89493	1	Liliaceae
+Betaflexiviridae	AA95_279	TS_nucl_0657	1	TS_nucl_0657				YES	1	152089	1	Liliaceae
+Betaflexiviridae	AA95_414	TS_nucl_0659	1	TS_nucl_0659				YES	1	239687	1	Euphorbiaceae
+Betaflexiviridae	AA95_336	TS_nucl_0660	1	TS_nucl_0660				YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_50	TS_nucl_0662	1	TS_nucl_0662				YES	1	3981	1	Euphorbiaceae
+Betaflexiviridae	AA95_1032	TS_nucl_0664	1	TS_nucl_0664				YES	1	28974	1	Oxalidaceae
+Betaflexiviridae	AA95_577	TS_nucl_0665	1	TS_nucl_0665				YES	1	28974	1	Oxalidaceae
+Betaflexiviridae	AA95_772	TS_nucl_0666	1	TS_nucl_0666				YES	1	435756	1	Poaceae
+Betaflexiviridae	AA95_762	TS_nucl_0667	1	TS_nucl_0667				YES	1	2666209	1	Cyperaceae
+Betaflexiviridae	AA95_34	TS_nucl_0670	1	TS_nucl_0670				YES	1	4479	1	Poaceae
+Betaflexiviridae	AA95_799	TS_nucl_0672	1	TS_nucl_0672				YES	1	4565	1	Poaceae
+Betaflexiviridae	AA95_867	TS_nucl_0677	1	TS_nucl_0677				YES	1	510735	1	Rosaceae
+Betaflexiviridae	AA95_1061	TS_nucl_0678	1	TS_nucl_0678				YES	1	3494	1	Moraceae
+Betaflexiviridae	AA95_374	TS_nucl_0684	1	TS_nucl_0684				YES	1	88123	1	Rosaceae
+Betaflexiviridae	AA95_377	TS_nucl_0685	1	TS_nucl_0685				YES	1	88123	1	Rosaceae
+Betaflexiviridae	AA95_264	TS_nucl_0690	1	TS_nucl_0690				YES	1	23013	1	Crassulaceae
+Betaflexiviridae	AA95_535	TS_nucl_0691	1	TS_nucl_0691				YES	1	45171	1	Paeoniaceae
+Betaflexiviridae	AA95_298	TS_nucl_0694	1	TS_nucl_0694				YES	1	35884	1	Convolvulaceae
+Betaflexiviridae	AA95_274	TS_nucl_0696	1	TS_nucl_0696				YES	1	35884	1	Convolvulaceae
+Betaflexiviridae	AA95_335	TS_nucl_0698	1	TS_nucl_0698				YES	1	329779	1	Solanaceae
+Betaflexiviridae	AA95_315	TS_nucl_0699	1	TS_nucl_0699				YES	1	329779	1	Solanaceae
+Betaflexiviridae	AA95_313	TS_nucl_0700	5	KU726694.1;KU923763.1;NC_034376.1;TS_nucl_0693;TS_nucl_0700				YES	2	4072;4111	1	Solanaceae
+Betaflexiviridae	AA95_141	TS_nucl_0705	2	MG938296.1;TS_nucl_0705				YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_916	TS_nucl_0712	1	TS_nucl_0712				YES	1	29760	1	Vitaceae
+Betaflexiviridae	AA95_890	TS_nucl_0715	1	TS_nucl_0715				YES	1	2611277	1	Vitaceae
+Betaflexiviridae	AA95_1013	TS_nucl_0716	2	TS_nucl_0716;TS_nucl_0719				YES	1	2611277	1	Vitaceae
+Betaflexiviridae	AA95_917	TS_nucl_0718	1	TS_nucl_0718				YES	1	2611277	1	Vitaceae
+Betaflexiviridae	AA95_976	TS_nucl_1144	1	TS_nucl_1144				YES	1	1678845	1	Araceae
+Betaflexiviridae	AA95_585	Z68502.1	1	Z68502.1	12458	Carlavirus	Carlavirus latensascalonici	YES	1	4682	1	Amaryllidaceae

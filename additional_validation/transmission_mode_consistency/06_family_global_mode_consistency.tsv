@@ -1,0 +1,19 @@
+virus_family	virus_n	mode_n	dominant_mode	consistency	mode_counts
+Geminiviridae	246	1	persistent non-propagative	1	persistent non-propagative=246
+Tospoviridae	35	1	persistent propagative	1	persistent propagative=35
+Solemoviridae	22	1	persistent non-propagative	1	persistent non-propagative=22
+Potyviridae	22	2	non-persistent	0.954545454545455	non-persistent=21;semi-persistent=1
+Closteroviridae	18	1	semi-persistent	1	semi-persistent=18
+Rhabdoviridae	15	1	persistent propagative	1	persistent propagative=15
+Secoviridae	12	2	semi-persistent	0.666666666666667	persistent non-propagative=4;semi-persistent=8
+Tombusviridae	10	2	persistent non-propagative	0.9	non-persistent=1;persistent non-propagative=9
+Spinareoviridae	6	1	persistent propagative	1	persistent propagative=6
+Phenuiviridae	5	1	persistent propagative	1	persistent propagative=5
+Caulimoviridae	4	1	semi-persistent	1	semi-persistent=4
+Sedoreoviridae	4	1	persistent propagative	1	persistent propagative=4
+Bromoviridae	4	1	non-persistent	1	non-persistent=4
+Nanoviridae	4	1	persistent non-propagative	1	persistent non-propagative=4
+Tymoviridae	3	2	persistent propagative	0.666666666666667	persistent non-propagative=1;persistent propagative=2
+Betaflexiviridae	2	1	non-persistent	1	non-persistent=2
+Alphaflexiviridae	1	1	non-persistent	1	non-persistent=1
+Unclassified	1	1	semi-persistent	1	semi-persistent=1

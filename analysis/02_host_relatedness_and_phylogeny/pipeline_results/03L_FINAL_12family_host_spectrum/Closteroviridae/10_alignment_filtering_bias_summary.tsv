@@ -1,0 +1,3 @@
+virus_family	action	drop_reason	representative_n	host_annotated_n	host_annotated_fraction	cluster_member_median	host_family_n_median	effective_aa_median	gap_fraction_median
+Closteroviridae	keep	keep	255	255	1	2	1	338	0.0145772594752187
+Closteroviridae	drop	gap	1	1	1	1	1	158	0.53935860058309

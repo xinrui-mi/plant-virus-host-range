@@ -1,0 +1,6 @@
+gene	haplotype_n	protein_alignment_length	trimmed_codon_length	treefile
+RdRp	169	2878	8634	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/03_alignment_and_phylogeny/RdRp/RdRp.codon_partitioned.treefile
+GnGc	256	1061	3183	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/03_alignment_and_phylogeny/GnGc/GnGc.codon_partitioned.treefile
+NSm	239	302	906	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/03_alignment_and_phylogeny/NSm/NSm.codon_partitioned.treefile
+N	215	258	774	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/03_alignment_and_phylogeny/N/N.codon_partitioned.treefile
+NSs	548	464	1392	/share/home/bgi_mixr/project/biye/0_newstart/0_rawseq/final_three_source/three_source_manuscript_analysis_v1_1/Fig7_TSWV_case_study/pipeline_results/03_alignment_and_phylogeny/NSs/NSs.codon_partitioned.treefile

@@ -1,0 +1,70 @@
+lineage_level	target_transmission_group	removed_lineage	removed_target_mode_n	full_target_mode_n	remaining_target_mode_n	remaining_n	all_five_groups_retained	eligible	exclusion_reason
+virus_family	Non-persistent	Alphaflexiviridae	1	29	28	5460	TRUE	TRUE	
+virus_family	Non-persistent	Betaflexiviridae	2	29	27	5459	TRUE	TRUE	
+virus_family	Non-persistent	Bromoviridae	4	29	25	5457	TRUE	TRUE	
+virus_family	Non-persistent	Potyviridae	21	29	8	5440	TRUE	TRUE	
+virus_family	Non-persistent	Tombusviridae	1	29	28	5460	TRUE	TRUE	
+virus_family	Semi-persistent	Caulimoviridae	4	31	27	5457	TRUE	TRUE	
+virus_family	Semi-persistent	Closteroviridae	18	31	13	5443	TRUE	TRUE	
+virus_family	Semi-persistent	Potyviridae	1	31	30	5460	TRUE	TRUE	
+virus_family	Semi-persistent	Secoviridae	8	31	23	5453	TRUE	TRUE	
+virus_family	Persistent non-propagative	Geminiviridae	235	274	39	5226	TRUE	TRUE	
+virus_family	Persistent non-propagative	Nanoviridae	4	274	270	5457	TRUE	TRUE	
+virus_family	Persistent non-propagative	Secoviridae	4	274	270	5457	TRUE	TRUE	
+virus_family	Persistent non-propagative	Solemoviridae	21	274	253	5440	TRUE	TRUE	
+virus_family	Persistent non-propagative	Tombusviridae	9	274	265	5452	TRUE	TRUE	
+virus_family	Persistent non-propagative	Tymoviridae	1	274	273	5460	TRUE	TRUE	
+virus_family	Persistent propagative	Phenuiviridae	5	57	52	5456	TRUE	TRUE	
+virus_family	Persistent propagative	Rhabdoviridae	14	57	43	5447	TRUE	TRUE	
+virus_family	Persistent propagative	Sedoreoviridae	2	57	55	5459	TRUE	TRUE	
+virus_family	Persistent propagative	Spinareoviridae	5	57	52	5456	TRUE	TRUE	
+virus_family	Persistent propagative	Tospoviridae	29	57	28	5432	TRUE	TRUE	
+virus_family	Persistent propagative	Tymoviridae	2	57	55	5459	TRUE	TRUE	
+virus_genus	Non-persistent	Alfamovirus	1	29	28	5460	TRUE	TRUE	
+virus_genus	Non-persistent	Carlavirus	2	29	27	5459	TRUE	TRUE	
+virus_genus	Non-persistent	Cucumovirus	2	29	27	5459	TRUE	TRUE	
+virus_genus	Non-persistent	Ilarvirus	1	29	28	5460	TRUE	TRUE	
+virus_genus	Non-persistent	Ipomovirus	3	29	26	5458	TRUE	TRUE	
+virus_genus	Non-persistent	Machlomovirus	1	29	28	5460	TRUE	TRUE	
+virus_genus	Non-persistent	Potexvirus	1	29	28	5460	TRUE	TRUE	
+virus_genus	Non-persistent	Potyvirus	17	29	12	5444	TRUE	TRUE	
+virus_genus	Non-persistent	Tritimovirus	1	29	28	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Ampelovirus	3	31	28	5458	TRUE	TRUE	
+virus_genus	Semi-persistent	Badnavirus	2	31	29	5459	TRUE	TRUE	
+virus_genus	Semi-persistent	Caulimovirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Closterovirus	4	31	27	5457	TRUE	TRUE	
+virus_genus	Semi-persistent	Crinivirus	10	31	21	5451	TRUE	TRUE	
+virus_genus	Semi-persistent	Ipomovirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Nepovirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Sadwavirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Sequivirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Torradovirus	3	31	28	5458	TRUE	TRUE	
+virus_genus	Semi-persistent	Tungrovirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Velarivirus	1	31	30	5460	TRUE	TRUE	
+virus_genus	Semi-persistent	Waikavirus	2	31	29	5459	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Babuvirus	1	274	273	5460	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Begomovirus	223	274	51	5238	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Citlodavirus	2	274	272	5459	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Comovirus	4	274	270	5457	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Curtovirus	1	274	273	5460	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Enamovirus	2	274	272	5459	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Eragrovirus	1	274	273	5460	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Luteovirus	7	274	267	5454	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Mastrevirus	7	274	267	5454	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Mulcrilevirus	1	274	273	5460	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Nanovirus	3	274	271	5458	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Polerovirus	18	274	256	5443	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Sobemovirus	1	274	273	5460	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Tymovirus	1	274	273	5460	TRUE	TRUE	
+virus_genus	Persistent non-propagative	Umbravirus	2	274	272	5459	TRUE	TRUE	
+virus_genus	Persistent propagative	Alphacytorhabdovirus	3	57	54	5458	TRUE	TRUE	
+virus_genus	Persistent propagative	Alphanucleorhabdovirus	6	57	51	5455	TRUE	TRUE	
+virus_genus	Persistent propagative	Betacytorhabdovirus	2	57	55	5459	TRUE	TRUE	
+virus_genus	Persistent propagative	Betanucleorhabdovirus	2	57	55	5459	TRUE	TRUE	
+virus_genus	Persistent propagative	Fijivirus	4	57	53	5457	TRUE	TRUE	
+virus_genus	Persistent propagative	Gammanucleorhabdovirus	1	57	56	5460	TRUE	TRUE	
+virus_genus	Persistent propagative	Marafivirus	2	57	55	5459	TRUE	TRUE	
+virus_genus	Persistent propagative	Orthotospovirus	29	57	28	5432	TRUE	TRUE	
+virus_genus	Persistent propagative	Oryzavirus	1	57	56	5460	TRUE	TRUE	
+virus_genus	Persistent propagative	Phytoreovirus	2	57	55	5459	TRUE	TRUE	
+virus_genus	Persistent propagative	Tenuivirus	5	57	52	5456	TRUE	TRUE	
